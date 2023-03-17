@@ -1,0 +1,55 @@
+bool_data:
+  add:
+    IsGet_Weapon_Bow_Lylah:
+      DataName: IsGet_Weapon_Bow_Lylah
+      DeleteRev: -1
+      HashValue: 2008738167
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: true
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+    IsGet_Weapon_Shield_Lylah:
+      DataName: IsGet_Weapon_Shield_Lylah
+      DeleteRev: -1
+      HashValue: -466728356
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: true
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+    IsGet_Weapon_Sword_Lylah:
+      DataName: IsGet_Weapon_Sword_Lylah
+      DeleteRev: -1
+      HashValue: -1755953243
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: true
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+    MainField_Enemy_Lynel_Lylah_4294789320:
+      DataName: MainField_Enemy_Lynel_Lylah_4294789320
+      DeleteRev: -1
+      HashValue: -1161472532
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: false
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+  del: []

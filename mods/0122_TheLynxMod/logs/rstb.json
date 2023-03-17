@@ -1,0 +1,14 @@
+{
+  "Actor/AS/Npc_Face_EyeClose.bas": 2730,
+  "Actor/AS/Npc_SmallOasis008_Face_C_Guard_Wait.bas": 8304,
+  "Actor/AS/Npc_SmallOasis008_Face_Default.bas": 12105,
+  "Actor/AS/Npc_SmallOasis008_Face_Talk.bas": 9845,
+  "Actor/ActorLink/Npc_SmallOasis008.bxml": 2079,
+  "Actor/UMii/Npc_SmallOasis008.bumii": 1768,
+  "Event/Demo378_1.beventpack": 594560,
+  "Message/Msg_USen.product.sarc": 6479780,
+  "Model/Demo378_1.bfres": 867507,
+  "Model/Npc_Hylia_Drag.Tex1.bfres": 1796555,
+  "Model/Npc_Hylia_Drag.Tex2.bfres": 799942,
+  "Model/Npc_Hylia_Drag.bfres": 2672661
+}

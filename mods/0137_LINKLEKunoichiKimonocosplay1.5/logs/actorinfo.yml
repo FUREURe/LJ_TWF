@@ -1,0 +1,586 @@
+'1076504830':
+  aabbMax: {X: 0.152831003, Y: 1.79688001, Z: 0.183694005}
+  aabbMin: {X: -0.149532005, Y: 1.45313001, Z: -0.463867009}
+  armorDefenceAddLevel: 11
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 1
+  armorEffectEffectType: Quietness
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: Armor_304_Head
+  armorStarNum: 3
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_301
+  boundingForTraverse: 0.34375
+  bugMask: 1
+  instSize: 55836
+  itemBuyingPrice: 20
+  itemCreatingPrice: 20
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 535
+  itemStainColor: -1
+  itemUseIconActorName: Armor_301_Head
+  mainModel: Armor_301_Head
+  name: Armor_303_Head
+  normal0ItemName01: Armor_302_Head
+  normal0ItemName02: Item_Enemy_28
+  normal0ItemName03: Item_PlantGet_J
+  normal0ItemNum01: 1
+  normal0ItemNum02: 1
+  normal0ItemNum03: 1
+  normal0StuffNum: 1
+  profile: ArmorHead
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: AmiiboWindWaker
+  sortKey: 4521719
+  tags: {tag1c0c8d23: 470584611, tag289f28b5: 681519285, tag84f40ec6: !u 0x84f40ec6, tagd1e9663c: !u 0xd1e9663c, tage0194f30: !u 0xe0194f30}
+  yLimitAlgorithm: NoLimit
+'1371179506':
+  aabbMax: {X: 0.194335997, Y: 0.942870975, Z: 0.210171998}
+  aabbMin: {X: -0.194335997, Y: 0.000449999992, Z: -0.105642997}
+  armorDefenceAddLevel: 6
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 1
+  armorEffectEffectType: Quietness
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: Armor_298_Lower
+  armorStarNum: 2
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_296
+  boundingForTraverse: 0.942421019
+  bugMask: 1
+  instSize: 35948
+  itemBuyingPrice: 20
+  itemCreatingPrice: 20
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 155
+  itemStainColor: -1
+  itemUseIconActorName: Armor_296_Lower
+  mainModel: Armor_296_Lower
+  name: Armor_297_Lower
+  normal0ItemName01: Armor_296_Lower
+  normal0ItemName02: Item_Enemy_28
+  normal0ItemName03: Item_PlantGet_J
+  normal0ItemNum01: 1
+  normal0ItemNum02: 1
+  normal0ItemNum03: 1
+  normal0StuffNum: 1
+  profile: ArmorLower
+  seriesArmorEnableCompBonus: false
+  seriesArmorSeriesType: Sheikah
+  sortKey: 2623084
+  tags: {tag1c0c8d23: 470584611, tag216a3a63: 560609891, tag289f28b5: 681519285, tag84f40ec6: !u 0x84f40ec6, tage0194f30: !u 0xe0194f30}
+  yLimitAlgorithm: NoLimit
+'1563367494':
+  aabbMax: {X: 0.152831003, Y: 1.79688001, Z: 0.183694005}
+  aabbMin: {X: -0.149532005, Y: 1.45313001, Z: -0.463867009}
+  armorDefenceAddLevel: 16
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 1
+  armorEffectEffectType: Quietness
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: Armor_305_Head
+  armorStarNum: 4
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_301
+  boundingForTraverse: 0.34375
+  bugMask: 1
+  instSize: 55836
+  itemBuyingPrice: 20
+  itemCreatingPrice: 20
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 935
+  itemStainColor: -1
+  itemUseIconActorName: Armor_301_Head
+  mainModel: Armor_301_Head
+  name: Armor_304_Head
+  normal0ItemName01: Armor_303_Head
+  normal0ItemName02: Item_Enemy_28
+  normal0ItemName03: Item_PlantGet_J
+  normal0ItemNum01: 1
+  normal0ItemNum02: 1
+  normal0ItemNum03: 1
+  normal0StuffNum: 1
+  profile: ArmorHead
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: AmiiboWindWaker
+  sortKey: 4521718
+  tags: {tag1c0c8d23: 470584611, tag289f28b5: 681519285, tag84f40ec6: !u 0x84f40ec6, tagd1e9663c: !u 0xd1e9663c, tage0194f30: !u 0xe0194f30}
+  yLimitAlgorithm: NoLimit
+'1631606288':
+  aabbMax: {X: 0.917968988, Y: 1.49512005, Z: 0.163207993}
+  aabbMin: {X: -0.917968988, Y: 0.81982398, Z: -0.129517004}
+  armorDefenceAddLevel: 16
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 1
+  armorEffectEffectType: Quietness
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: Armor_300_Upper
+  armorStarNum: 4
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 1
+  bfres: Armor_296
+  boundingForTraverse: 0.675296009
+  bugMask: 1
+  instSize: 126740
+  itemBuyingPrice: 20
+  itemCreatingPrice: 20
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 200
+  itemStainColor: -1
+  itemUseIconActorName: Armor_296_Upper
+  mainModel: Armor_296_Upper
+  name: Armor_299_Upper
+  normal0ItemName01: Armor_298_Upper
+  normal0ItemName02: Item_Enemy_28
+  normal0ItemName03: Item_PlantGet_J
+  normal0ItemNum01: 1
+  normal0ItemNum02: 1
+  normal0ItemNum03: 1
+  normal0StuffNum: 1
+  profile: ArmorUpper
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: Sheikah
+  sortKey: 2622082
+  tags: {tag1c0c8d23: 470584611, tag216a3a63: 560609891, tag289f28b5: 681519285, tag84f40ec6: !u 0x84f40ec6, tage0194f30: !u 0xe0194f30}
+  yLimitAlgorithm: NoLimit
+'232950261':
+  aabbMax: {X: 0.152831003, Y: 1.79688001, Z: 0.183694005}
+  aabbMin: {X: -0.149532005, Y: 1.45313001, Z: -0.463867009}
+  armorDefenceAddLevel: 1
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 1
+  armorEffectEffectType: Quietness
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: Armor_302_Head
+  armorStarNum: 1
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_301
+  boundingForTraverse: 0.34375
+  bugMask: 1
+  instSize: 55836
+  itemBuyingPrice: 20
+  itemCreatingPrice: 20
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 125
+  itemStainColor: -1
+  itemUseIconActorName: ''
+  mainModel: Armor_301_Head
+  name: Armor_301_Head
+  normal0ItemName01: Item_Enemy_27
+  normal0ItemName02: Item_Enemy_28
+  normal0ItemName03: Item_PlantGet_J
+  normal0ItemNum01: 1
+  normal0ItemNum02: 1
+  normal0ItemNum03: 1
+  normal0StuffNum: 1
+  profile: ArmorHead
+  seriesArmorEnableCompBonus: false
+  seriesArmorSeriesType: AmiiboWindWaker
+  sortKey: 4521721
+  tags: {tag1c0c8d23: 470584611, tag289f28b5: 681519285, tag84f40ec6: !u 0x84f40ec6, taga21d5dbb: !u 0xa21d5dbb, tagd1e9663c: !u 0xd1e9663c,
+    tage0194f30: !u 0xe0194f30}
+  yLimitAlgorithm: NoLimit
+'2339830619':
+  aabbMax: {X: 0.152831003, Y: 1.79688001, Z: 0.183694005}
+  aabbMin: {X: -0.149532005, Y: 1.45313001, Z: -0.463867009}
+  armorDefenceAddLevel: 6
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 1
+  armorEffectEffectType: Quietness
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: Armor_303_Head
+  armorStarNum: 2
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_301
+  boundingForTraverse: 0.34375
+  bugMask: 1
+  instSize: 55836
+  itemBuyingPrice: 20
+  itemCreatingPrice: 20
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 265
+  itemStainColor: -1
+  itemUseIconActorName: Armor_301_Head
+  mainModel: Armor_301_Head
+  name: Armor_302_Head
+  normal0ItemName01: Armor_301_Head
+  normal0ItemName02: Item_Enemy_28
+  normal0ItemName03: Item_PlantGet_J
+  normal0ItemNum01: 1
+  normal0ItemNum02: 1
+  normal0ItemNum03: 1
+  normal0StuffNum: 1
+  profile: ArmorHead
+  seriesArmorEnableCompBonus: false
+  seriesArmorSeriesType: AmiiboWindWaker
+  sortKey: 4521720
+  tags: {tag1c0c8d23: 470584611, tag289f28b5: 681519285, tag84f40ec6: !u 0x84f40ec6, tagd1e9663c: !u 0xd1e9663c, tage0194f30: !u 0xe0194f30}
+  yLimitAlgorithm: NoLimit
+'2524171235':
+  aabbMax: {X: 0.152831003, Y: 1.79688001, Z: 0.183694005}
+  aabbMin: {X: -0.149532005, Y: 1.45313001, Z: -0.463867009}
+  armorDefenceAddLevel: 21
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 1
+  armorEffectEffectType: Quietness
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: ''
+  armorStarNum: 5
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_301
+  boundingForTraverse: 0.34375
+  bugMask: 1
+  instSize: 55836
+  itemBuyingPrice: 20
+  itemCreatingPrice: 20
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 1660
+  itemStainColor: -1
+  itemUseIconActorName: Armor_301_Head
+  mainModel: Armor_301_Head
+  name: Armor_305_Head
+  normal0ItemName01: Armor_304_Head
+  normal0ItemName02: Item_Enemy_28
+  normal0ItemName03: Item_PlantGet_J
+  normal0ItemNum01: 1
+  normal0ItemNum02: 1
+  normal0ItemNum03: 1
+  normal0StuffNum: 1
+  profile: ArmorHead
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: AmiiboWindWaker
+  sortKey: 4521717
+  tags: {tag1c0c8d23: 470584611, tag289f28b5: 681519285, tag84f40ec6: !u 0x84f40ec6, tagd1e9663c: !u 0xd1e9663c, tage0194f30: !u 0xe0194f30}
+  yLimitAlgorithm: NoLimit
+'2533893881':
+  aabbMax: {X: 0.917968988, Y: 1.49512005, Z: 0.163207993}
+  aabbMin: {X: -0.917968988, Y: 0.81982398, Z: -0.129517004}
+  armorDefenceAddLevel: 1
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 1
+  armorEffectEffectType: Quietness
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: Armor_297_Upper
+  armorStarNum: 1
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 1
+  bfres: Armor_296
+  boundingForTraverse: 0.675296009
+  bugMask: 1
+  instSize: 126740
+  itemBuyingPrice: 20
+  itemCreatingPrice: 20
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 175
+  itemStainColor: -1
+  itemUseIconActorName: ''
+  mainModel: Armor_296_Upper
+  name: Armor_296_Upper
+  normal0ItemName01: Item_Enemy_27
+  normal0ItemName02: Item_Enemy_28
+  normal0ItemName03: Item_PlantGet_J
+  normal0ItemNum01: 1
+  normal0ItemNum02: 1
+  normal0ItemNum03: 1
+  normal0StuffNum: 1
+  profile: ArmorUpper
+  seriesArmorEnableCompBonus: false
+  seriesArmorSeriesType: Sheikah
+  sortKey: 2622085
+  tags: {tag216a3a63: 560609891, tag289f28b5: 681519285, tag84f40ec6: !u 0x84f40ec6, tage0194f30: !u 0xe0194f30}
+  yLimitAlgorithm: NoLimit
+'25555631':
+  aabbMax: {X: 0.194335997, Y: 0.942870975, Z: 0.210171998}
+  aabbMin: {X: -0.194335997, Y: 0.000449999992, Z: -0.105642997}
+  armorDefenceAddLevel: 16
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 1
+  armorEffectEffectType: Quietness
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: Armor_300_Lower
+  armorStarNum: 4
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_296
+  boundingForTraverse: 0.942421019
+  bugMask: 1
+  instSize: 35948
+  itemBuyingPrice: 20
+  itemCreatingPrice: 20
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 175
+  itemStainColor: -1
+  itemUseIconActorName: Armor_296_Lower
+  mainModel: Armor_296_Lower
+  name: Armor_299_Lower
+  normal0ItemName01: Armor_298_Lower
+  normal0ItemName02: Item_Enemy_28
+  normal0ItemName03: Item_PlantGet_J
+  normal0ItemNum01: 1
+  normal0ItemNum02: 1
+  normal0ItemNum03: 1
+  normal0StuffNum: 1
+  profile: ArmorLower
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: Sheikah
+  sortKey: 2623082
+  tags: {tag1c0c8d23: 470584611, tag216a3a63: 560609891, tag289f28b5: 681519285, tag84f40ec6: !u 0x84f40ec6, tage0194f30: !u 0xe0194f30}
+  yLimitAlgorithm: NoLimit
+'2619979796':
+  aabbMax: {X: 0.194335997, Y: 0.942870975, Z: 0.210171998}
+  aabbMin: {X: -0.194335997, Y: 0.000449999992, Z: -0.105642997}
+  armorDefenceAddLevel: 21
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 1
+  armorEffectEffectType: Quietness
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: ''
+  armorStarNum: 5
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_296
+  boundingForTraverse: 0.942421019
+  bugMask: 1
+  instSize: 35948
+  itemBuyingPrice: 20
+  itemCreatingPrice: 20
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 250
+  itemStainColor: -1
+  itemUseIconActorName: Armor_296_Lower
+  mainModel: Armor_296_Lower
+  name: Armor_300_Lower
+  normal0ItemName01: Armor_299_Lower
+  normal0ItemName02: Item_Enemy_28
+  normal0ItemName03: Item_PlantGet_J
+  normal0ItemNum01: 1
+  normal0ItemNum02: 1
+  normal0ItemNum03: 1
+  normal0StuffNum: 1
+  profile: ArmorLower
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: Sheikah
+  sortKey: 2623081
+  tags: {tag1c0c8d23: 470584611, tag216a3a63: 560609891, tag289f28b5: 681519285, tag84f40ec6: !u 0x84f40ec6, tage0194f30: !u 0xe0194f30}
+  yLimitAlgorithm: NoLimit
+'2817718555':
+  aabbMax: {X: 0.194335997, Y: 0.942870975, Z: 0.210171998}
+  aabbMin: {X: -0.194335997, Y: 0.000449999992, Z: -0.105642997}
+  armorDefenceAddLevel: 11
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 1
+  armorEffectEffectType: Quietness
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: Armor_299_Lower
+  armorStarNum: 3
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_296
+  boundingForTraverse: 0.942421019
+  bugMask: 1
+  instSize: 35948
+  itemBuyingPrice: 20
+  itemCreatingPrice: 20
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 160
+  itemStainColor: -1
+  itemUseIconActorName: Armor_296_Lower
+  mainModel: Armor_296_Lower
+  name: Armor_298_Lower
+  normal0ItemName01: Armor_297_Lower
+  normal0ItemName02: Item_Enemy_28
+  normal0ItemName03: Item_PlantGet_J
+  normal0ItemNum01: 1
+  normal0ItemNum02: 1
+  normal0ItemNum03: 1
+  normal0StuffNum: 1
+  profile: ArmorLower
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: Sheikah
+  sortKey: 2623083
+  tags: {tag1c0c8d23: 470584611, tag216a3a63: 560609891, tag289f28b5: 681519285, tag84f40ec6: !u 0x84f40ec6, tage0194f30: !u 0xe0194f30}
+  yLimitAlgorithm: NoLimit
+'3342294436':
+  aabbMax: {X: 0.917968988, Y: 1.49512005, Z: 0.163207993}
+  aabbMin: {X: -0.917968988, Y: 0.81982398, Z: -0.129517004}
+  armorDefenceAddLevel: 11
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 1
+  armorEffectEffectType: Quietness
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: Armor_299_Upper
+  armorStarNum: 3
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 1
+  bfres: Armor_296
+  boundingForTraverse: 0.675296009
+  bugMask: 1
+  instSize: 126740
+  itemBuyingPrice: 20
+  itemCreatingPrice: 20
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 185
+  itemStainColor: -1
+  itemUseIconActorName: Armor_296_Upper
+  mainModel: Armor_296_Upper
+  name: Armor_298_Upper
+  normal0ItemName01: Armor_297_Upper
+  normal0ItemName02: Item_Enemy_28
+  normal0ItemName03: Item_PlantGet_J
+  normal0ItemNum01: 1
+  normal0ItemNum02: 1
+  normal0ItemNum03: 1
+  normal0StuffNum: 1
+  profile: ArmorUpper
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: Sheikah
+  sortKey: 2622083
+  tags: {tag1c0c8d23: 470584611, tag216a3a63: 560609891, tag289f28b5: 681519285, tag84f40ec6: !u 0x84f40ec6, tage0194f30: !u 0xe0194f30}
+  yLimitAlgorithm: NoLimit
+'4157440582':
+  aabbMax: {X: 0.194335997, Y: 0.942870975, Z: 0.210171998}
+  aabbMin: {X: -0.194335997, Y: 0.000449999992, Z: -0.105642997}
+  armorDefenceAddLevel: 1
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 1
+  armorEffectEffectType: Quietness
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: Armor_297_Lower
+  armorStarNum: 1
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_296
+  boundingForTraverse: 0.942421019
+  bugMask: 1
+  instSize: 35948
+  itemBuyingPrice: 20
+  itemCreatingPrice: 20
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 150
+  itemStainColor: -1
+  itemUseIconActorName: ''
+  mainModel: Armor_296_Lower
+  name: Armor_296_Lower
+  normal0ItemName01: Item_Enemy_27
+  normal0ItemName02: Item_Enemy_28
+  normal0ItemName03: Item_PlantGet_J
+  normal0ItemNum01: 1
+  normal0ItemNum02: 1
+  normal0ItemNum03: 1
+  normal0StuffNum: 1
+  profile: ArmorLower
+  seriesArmorEnableCompBonus: false
+  seriesArmorSeriesType: Sheikah
+  sortKey: 2623085
+  tags: {tag216a3a63: 560609891, tag289f28b5: 681519285, tag84f40ec6: !u 0x84f40ec6, tage0194f30: !u 0xe0194f30}
+  yLimitAlgorithm: NoLimit
+'4243332267':
+  aabbMax: {X: 0.917968988, Y: 1.49512005, Z: 0.163207993}
+  aabbMin: {X: -0.917968988, Y: 0.81982398, Z: -0.129517004}
+  armorDefenceAddLevel: 21
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 1
+  armorEffectEffectType: Quietness
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: ''
+  armorStarNum: 5
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 1
+  bfres: Armor_296
+  boundingForTraverse: 0.675296009
+  bugMask: 1
+  instSize: 126740
+  itemBuyingPrice: 20
+  itemCreatingPrice: 20
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 275
+  itemStainColor: -1
+  itemUseIconActorName: Armor_296_Upper
+  mainModel: Armor_296_Upper
+  name: Armor_300_Upper
+  normal0ItemName01: Armor_299_Upper
+  normal0ItemName02: Item_Enemy_28
+  normal0ItemName03: Item_PlantGet_J
+  normal0ItemNum01: 1
+  normal0ItemNum02: 1
+  normal0ItemNum03: 1
+  normal0StuffNum: 1
+  profile: ArmorUpper
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: Sheikah
+  sortKey: 2622081
+  tags: {tag1c0c8d23: 470584611, tag216a3a63: 560609891, tag289f28b5: 681519285, tag84f40ec6: !u 0x84f40ec6, tage0194f30: !u 0xe0194f30}
+  yLimitAlgorithm: NoLimit
+'830418253':
+  aabbMax: {X: 0.917968988, Y: 1.49512005, Z: 0.163207993}
+  aabbMin: {X: -0.917968988, Y: 0.81982398, Z: -0.129517004}
+  armorDefenceAddLevel: 6
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 1
+  armorEffectEffectType: Quietness
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: Armor_298_Upper
+  armorStarNum: 2
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 1
+  bfres: Armor_296
+  boundingForTraverse: 0.675296009
+  bugMask: 1
+  instSize: 126740
+  itemBuyingPrice: 20
+  itemCreatingPrice: 20
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 180
+  itemStainColor: -1
+  itemUseIconActorName: Armor_296_Upper
+  mainModel: Armor_296_Upper
+  name: Armor_297_Upper
+  normal0ItemName01: Armor_296_Upper
+  normal0ItemName02: Item_Enemy_28
+  normal0ItemName03: Item_PlantGet_J
+  normal0ItemNum01: 1
+  normal0ItemNum02: 1
+  normal0ItemNum03: 1
+  normal0StuffNum: 1
+  profile: ArmorUpper
+  seriesArmorEnableCompBonus: false
+  seriesArmorSeriesType: Sheikah
+  sortKey: 2622084
+  tags: {tag1c0c8d23: 470584611, tag216a3a63: 560609891, tag289f28b5: 681519285, tag84f40ec6: !u 0x84f40ec6, tage0194f30: !u 0xe0194f30}
+  yLimitAlgorithm: NoLimit

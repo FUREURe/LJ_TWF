@@ -1,0 +1,14 @@
+{
+  "name": "[WEAPONS] Japanese Bamboo Fan (korok-leaf)",
+  "image": "https://i.imgur.com/R9LvEDi.jpg",
+  "url": "https://gamebanana.com/members/1739516",
+  "desc": "[WEAPONS] Japanese Bamboo Fan (korok-leaf) Requires Giant Korok Leaf. A simple mod to replace the giant leaf, with a nice japanese fan <3",
+  "version": "1.0.0",
+  "options": {},
+  "depends": [],
+  "showCompare": false,
+  "showConvert": false,
+  "platform": "wiiu",
+  "priority": 127,
+  "id": "W1dFQVBPTlNdIEphcGFuZXNlIEJhbWJvbyBGYW4gKGtvcm9rLWxlYWYpPT0xLjAuMA=="
+}

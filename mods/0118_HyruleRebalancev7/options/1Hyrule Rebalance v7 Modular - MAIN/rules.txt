@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 00050000101C9300,00050000101C9400,00050000101C9500
+name = Hyrule Rebalance v7 Modular - MAIN
+path = The Legend of Zelda: Breath of the Wild/Mods/Hyrule Rebalance v7 Modular - MAIN
+description = The main component of Hyrule Rebalance.
+version = 4

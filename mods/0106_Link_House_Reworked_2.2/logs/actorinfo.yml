@@ -1,0 +1,62 @@
+'2666215538':
+  aabbMax: {X: 1.14732003, Y: 2.57590008, Z: 0.733887017}
+  aabbMin: {X: -1.14734006, Y: -0.000146000006, Z: -0.666015983}
+  attackPower: 0
+  bfres: TwnObj_AncientOven_B
+  boundingForTraverse: 2.57604599
+  bugMask: 3
+  cursorOffsetY: 1.0
+  generalLife: 100
+  instSize: 68132
+  lookAtOffsetY: 0.300000012
+  mainModel: TwnObj_AncientOven_B_01
+  name: TwnObj_AncientOven_B_01
+  profile: MapConstActive
+  rigidBodyCenterY: 1.11596
+  slink: TwnObj_AncientOven_A_01
+  sortKey: -2
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: ''
+  traverseDist: 200.0
+  xlink: Npc_NoFootstep
+  yLimitAlgorithm: NoLimit
+'2740745835':
+  aabbMax: {X: 9.91366959, Y: 11.184, Z: 9.23336983}
+  aabbMin: {X: -9.9011097, Y: -37.5628014, Z: -13.0727997}
+  attackPower: 0
+  bfres: FairyCanisterRots
+  boundingForTraverse: 48.7468033
+  bugMask: 3
+  cursorOffsetY: 0.5
+  farModelCulling:
+    center: {X: 0.0, Y: 48.7468033, Z: 0.0}
+    height: 97.4936066
+    radius: 48.7468033
+  generalLife: 100
+  instSize: 128468
+  mainModel: FairyCanisterRots
+  name: FldObj_WindmillWheel_B_02
+  profile: MapDynamicActive
+  rigidBodyCenterY: -12.9572001
+  slink: Dummy
+  sortKey: -3
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: ''
+  tags: {tag336bf311: 862712593, tagd4fbe3b2: !u 0xd4fbe3b2}
+  traverseDist: 200.0
+  yLimitAlgorithm: NoLimit
+'4175858537':
+  aabbMax: {X: 14.3949003, Y: 11.3604002, Z: 11.6517}
+  aabbMin: {X: -19.0823994, Y: -0.236122996, Z: -11.6920996}
+  bfres: AOC_customs_0013
+  boundingForTraverse: 11.5965233
+  bugMask: 0
+  cursorOffsetY: 0.5
+  instSize: 2000000
+  mainModel: FldObj_HyliaStoneRuinHouse_A_01
+  name: AOC_customs_0013
+  profile: MapDynamicActive
+  sortKey: -15
+  tags: {tag6bddf03c: 1809707068, tagdeb8e664: !u 0xdeb8e664}
+  traverseDist: 800.0
+  yLimitAlgorithm: NoLimit

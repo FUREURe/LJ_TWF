@@ -1,0 +1,12 @@
+{
+  "name": "Alternative Motion Shrines",
+  "desc": "Modifies the existing motion shrines to give an alternative challenge.",
+  "url": "https://gamebanana.com/maps/205714",
+  "image": "",
+  "version": "1.0.0",
+  "depends": [],
+  "options": {},
+  "platform": "wiiu",
+  "priority": 104,
+  "id": "QWx0ZXJuYXRpdmUgTW90aW9uIFNocmluZXM9PTEuMC4w"
+}

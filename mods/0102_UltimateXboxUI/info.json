@@ -1,0 +1,40 @@
+{
+  "name": "Ultimate Xbox UI",
+  "image": "https://files.gamebanana.com/img/ss/mods/63fdfb15e53ee.jpg",
+  "url": "https://gamebanana.com/mods/373804",
+  "desc": "Ultimate Xbox UI v2.2 BCML Edition: Replaces the WiiU UI with the Xbox UI",
+  "version": "2.2",
+  "options": {
+    "multi": [],
+    "single": [
+      {
+        "name": "Choose layout:",
+        "desc": "",
+        "required": true,
+        "options": [
+          {
+            "name": "Standard Layout",
+            "desc": "The original experience of the game",
+            "folder": "OE"
+          },
+          {
+            "name": "Western Layout",
+            "desc": "Like the standard layout, but buttons A and B are swapped",
+            "folder": "WE"
+          },
+          {
+            "name": "Alternative Layout",
+            "desc": "The main controls are evenly assigned across the gamepad. Similar to the Elden Ring controls",
+            "folder": "ALT"
+          }
+        ]
+      }
+    ]
+  },
+  "depends": [],
+  "showCompare": false,
+  "showConvert": false,
+  "platform": "wiiu",
+  "id": "VWx0aW1hdGUgWGJveCBVST09Mi4y",
+  "priority": 102
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Pink Guardian Sword & Shield",
+  "image": "thumbnail.jpg",
+  "url": "",
+  "desc": "Enhanced version of the Guardian Sword and Shield in cute pink color, both purchasable in the Akkala Ancient Lab Shop.",
+  "version": "1.0.0",
+  "options": {},
+  "depends": [],
+  "showCompare": false,
+  "showConvert": false,
+  "platform": "wiiu",
+  "priority": 125,
+  "id": "UHVyY2hhc2FibGUgR3VhcmRpYW4gV2VhcG9ucyAtIFBpbms9PTEuMC4w"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Crafting Project",
+  "image": "https://i.imgur.com/PZmC7aY.png",
+  "url": "https://gamebanana.com/craftings/103",
+  "desc": "Adds the ability to craft most weapons through anvils which are placed around towns and stables.",
+  "version": "1.1",
+  "options": {},
+  "depends": [],
+  "showCompare": false,
+  "id": "Q3JhZnRpbmcgUHJvamVjdA==",
+  "platform": "wiiu",
+  "priority": 117
+}

@@ -1,0 +1,151 @@
+{
+  "name": "Unofficial Linkle 3.0 Armor Icons",
+  "image": "https://files.gamebanana.com/img/ss/mods/636a943c541e4.jpg",
+  "url": "https://gamebanana.com/mods/408713",
+  "desc": "Replaces all vanilla armor icons with unofficial Linkle 3.0 ones.  \nVanilla-esque HD quality version.",
+  "version": "1.1.2",
+  "options": {
+    "multi": [
+      {
+        "name": "[General] Uniform dye icons",
+        "desc": "Makes all dye variations of an armor piece have similarly cropped icons. See the images on Gamebanana for reference.",
+        "folder": "Uniform",
+        "default": false
+      },
+      {
+        "name": "Aryll Dye Over Hylian Hood",
+        "desc": "Icon for EvanM0816's 'Aryll Dye Over Hylian Hood for Linkle 3.0' mod.",
+        "folder": "AryllHylianHood",
+        "default": false
+      },
+      {
+        "name": "Bayonetta Glasses over Vah Medoh Helm",
+        "desc": "Icon for EvanM0816's 'Bayonetta Glasses over Vah Medoh Helm' mod.",
+        "folder": "VahMedohBayonettaGlasses",
+        "default": false
+      },
+      {
+        "name": "Champion Tunic Cosplay",
+        "desc": "Icon for EvanM0816's '(LINKLE 3.0 REFIT) Champion Tunic Cosplay' mod.",
+        "folder": "Cosplay_ChampionTunic",
+        "default": false
+      },
+      {
+        "name": "Classic Sky Set",
+        "desc": "Icons for EvanM0816's 'Linkle's Classic Sky Set (Linkle 3.0)' mod.",
+        "folder": "ClassicSkySet",
+        "default": false
+      },
+      {
+        "name": "Island Lobster Shirt Cosplay",
+        "desc": "Icon for EvanM0816's '(LINKLE 3.0 REFIT) Island Lobster Shirt Cosplay' mod.",
+        "folder": "Cosplay_IslandLobsterShirt",
+        "default": false
+      }
+    ],
+    "single": [
+      {
+        "name": "Nintendo Switch Shirt replacement",
+        "desc": "Icon for mods that replace Nintendo Switch Shirt. Optional.",
+        "required": false,
+        "options": [
+          {
+            "name": "None",
+            "desc": "",
+            "folder": ""
+          },
+          {
+            "name": "Pride Shirt",
+            "desc": "Improved icon for HGStone's 'Pride Shirt for Link and Linkle 2/3' mod.",
+            "folder": "PrideShirt"
+          },
+          {
+            "name": "Evan's T-Shirt Collection: Wind Waker Linkle",
+            "desc": "Icon for the 'Wind Waker Linkle Merch Style T-Shirt' option of EvanM0816's 'Evan's Linkle 3.0 T-Shirt Collection' mod.",
+            "folder": "EvanTShirts_WindWaker"
+          },
+          {
+            "name": "Evan's T-Shirt Collection: Bayonetta",
+            "desc": "Icon for the 'Bayonetta Minimalist T-Shirt' option of EvanM0816's 'Evan's Linkle 3.0 T-Shirt Collection' mod.",
+            "folder": "EvanTShirts_Bayonetta"
+          },
+          {
+            "name": "Evan's T-Shirt Collection: Rave",
+            "desc": "Icon for the 'Rave T-Shirt' option of EvanM0816's 'Evan's Linkle 3.0 T-Shirt Collection' mod.",
+            "folder": "EvanTShirts_Rave"
+          },
+          {
+            "name": "Evan's T-Shirt Collection: Sora",
+            "desc": "Icon for the 'Sora Dive to the Heart T-Shirt' option of EvanM0816's 'Evan's Linkle 3.0 T-Shirt Collection' mod.",
+            "folder": "EvanTShirts_Sora"
+          },
+          {
+            "name": "Evan's T-Shirt Collection: Yoshi",
+            "desc": "Icon for the 'Yoshi Pixel Art T-Shirt' option of EvanM0816's 'Evan's Linkle 3.0 T-Shirt Collection' mod.",
+            "folder": "EvanTShirts_Yoshi"
+          }
+        ]
+      },
+      {
+        "name": "Old Bandanna",
+        "desc": "Icons for Old Bandanna. Optional.",
+        "required": false,
+        "options": [
+          {
+            "name": "None",
+            "desc": "",
+            "folder": ""
+          },
+          {
+            "name": "Old Bandanna",
+            "desc": "Improved icons for HGStone's 'Old Bandanna for Link, Linkle 2/3 or Zelda' mod.",
+            "folder": "OldBandanna"
+          },
+          {
+            "name": "True Old Bandanna",
+            "desc": "Improved icons for PalioPolio's 'True Old Bandanna for Linkle (and Zelda)' mod.",
+            "folder": "TrueOldBandanna"
+          },
+          {
+            "name": "True Old Bandanna (colour match)",
+            "desc": "Improved icons for the colour match version of PalioPolio's 'True Old Bandanna for Linkle (and Zelda)' mod.",
+            "folder": "TrueOldBandanna_ColourMatch"
+          }
+        ]
+      },
+      {
+        "name": "Wind Set Seifuku Recolor",
+        "desc": "Icon for EvanM0816's 'Wind Set Seifuku Recolors' mod. Optional.",
+        "required": false,
+        "options": [
+          {
+            "name": "None",
+            "desc": "",
+            "folder": ""
+          },
+          {
+            "name": "Blue Skirt",
+            "desc": "",
+            "folder": "SeifukuRecolors_Blue"
+          },
+          {
+            "name": "Black Seifuku with White tie",
+            "desc": "",
+            "folder": "SeifukuRecolors_Black_WhiteTie"
+          },
+          {
+            "name": "Black Seifuku with Red Tie",
+            "desc": "",
+            "folder": "SeifukuRecolors_Black_RedTie"
+          }
+        ]
+      }
+    ]
+  },
+  "depends": [],
+  "showCompare": false,
+  "showConvert": false,
+  "id": "VW5vZmZpY2lhbCBMaW5rbGUgMy4wIEFybW9yIEljb25zPT0xLjEuMg==",
+  "platform": "wiiu",
+  "priority": 114
+}

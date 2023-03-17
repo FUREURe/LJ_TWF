@@ -1,0 +1,20 @@
+{
+  "USen": {
+    "ActorType/WeaponBow.msyt": {
+      "Weapon_Bow_ANG_Desc": {
+        "contents": [
+          {
+            "text": "A gun created with ancient tecnology\nto fire ancient arrows at a extreme fire rate."
+          }
+        ]
+      },
+      "Weapon_Bow_ANG_Name": {
+        "contents": [
+          {
+            "text": "Ancient Gun"
+          }
+        ]
+      }
+    }
+  }
+}

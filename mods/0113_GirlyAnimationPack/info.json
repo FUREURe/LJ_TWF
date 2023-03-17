@@ -1,0 +1,493 @@
+{
+  "name": "Girly Animation Pack",
+  "image": "thumbnail.jpg",
+  "url": "https://gamebanana.com/gamefiles/13593",
+  "desc": "Version 8.1 - Second Anniversary - Replaces idles, walk, run, talk, selfies, smile... with several girly styles and a new and unique cute sit idle. Download the mod, install it using the latest BCML, and select one option on each section when prompted. Do not upgrade; uninstall the old version first. Once installed, in BCML you can press the blue Explore button at any time to see the options you selected.",
+  "version": "1.0.0",
+  "options": {
+    "multi": [],
+    "single": [
+      {
+        "name": "_______________________________________________________________________1",
+        "desc": "[1/18] Standing idle. Must select ONE option (* is suggested):",
+        "required": "",
+        "options": [
+          {
+            "name": "Girly standing *",
+            "desc": "Your hero will wait in a cute girly style as seen in most of the female NPC in the game.",
+            "folder": "IDLE_GAP"
+          },
+          {
+            "name": "Linkle 3 standing",
+            "desc": "Your hero will wait as in Linkle 3 mod",
+            "folder": "IDLE_L3"
+          }
+        ]
+      },
+      {
+        "name": "_______________________________________________________________________2",
+        "desc": "[2/18] Walking style. Must select ONE option (* is suggested):",
+        "required": "",
+        "options": [
+          {
+            "name": "Girly walk *",
+            "desc": "Your hero will walk in a cute girly style as seen in most of the female NPC in the game.",
+            "folder": "Walk_Girly"
+          },
+          {
+            "name": "Positive walk",
+            "desc": "Your hero will walk in a girly, more lively style as seen in some female NPC in the game.",
+            "folder": "Walk_Positive"
+          },
+          {
+            "name": "Confident walk",
+            "desc": "Your hero will walk in a girly, more confident style as seen in certain queen in the game.",
+            "folder": "Walk_Confident"
+          },
+          {
+            "name": "Linkle 3 walk",
+            "desc": "Your hero will walk in a feminine fashion as seen in Linkle 3 mod. Recommended install Linkle 3 running style.",
+            "folder": "Walk_L3"
+          },
+          {
+            "name": "Default Link walk",
+            "desc": "Default BOTW animation will be used. Please note the transition from walking to other running styles may look odd (avoid it by pressing a little more the controller stick).",
+            "folder": "Walk_Default"
+          }
+        ]
+      },
+      {
+        "name": "_______________________________________________________________________3",
+        "desc": "[3/18] Walking stop. Must select ONE option (* is suggested):",
+        "required": "",
+        "options": [
+          {
+            "name": "Cute extra step *",
+            "desc": "Your hero will end walking with an extra short graceful step. Keep it in mind, as will still move a little when you release the controller stick.",
+            "folder": "WalkEd_Long"
+          },
+          {
+            "name": "Just stop",
+            "desc": "Your hero will stop walking as soon as you release the controller stick. Recommended if you need to do precise steps to avoid falling on certain places.",
+            "folder": "WalkEd_Short"
+          },
+          {
+            "name": "Linkle 3 stop",
+            "desc": "Your hero will stop walking as seen on Linkle 3 mod.",
+            "folder": "WalkEd_L3"
+          }
+        ]
+      },
+      {
+        "name": "_______________________________________________________________________4",
+        "desc": "[4/18] Running style. Must select ONE option (* is suggested):",
+        "required": "",
+        "options": [
+          {
+            "name": "Girly running *",
+            "desc": "Your hero will run in a cute girly style as seen in most of the female NPC in the game. Install along with the Slightly slower run option.",
+            "folder": "Run_Girly"
+          },
+          {
+            "name": "Linkle 3 running",
+            "desc": "Your hero will run as in Linkle 3 mod. Install along with the Default run speed option. Recommended install Linkle 3 walk style.",
+            "folder": "Run_L3"
+          },
+          {
+            "name": "Default Link run",
+            "desc": "Default BOTW animation will be used. Install along with the Default run speed option. Please note the transition from running to other walking styles may look odd (avoid it by pressing a little more the controller stick).",
+            "folder": "Run_Default"
+          }
+        ]
+      },
+      {
+        "name": "_______________________________________________________________________5",
+        "desc": "[5/18] Running speed. Must select ONE (* is suggested):",
+        "required": "",
+        "options": [
+          {
+            "name": "Slightly slower run *",
+            "desc": "Running speed is slightly slower than default, matching the girly running animation.",
+            "folder": "RunSp_Slow"
+          },
+          {
+            "name": "Default run speed",
+            "desc": "Running speed is unchanged, matching the default game running animation.",
+            "folder": "RunsSp_Vanilla"
+          }
+        ]
+      },
+      {
+        "name": "_______________________________________________________________________6",
+        "desc": "[6/18] Dash running style. Must select ONE (* is suggested):",
+        "required": "",
+        "options": [
+          {
+            "name": "Cute dash running *",
+            "desc": "Shared animation from Linkle 3 will be used. You can use it with any run style.",
+            "folder": "Dash_L3"
+          },
+          {
+            "name": "Default Link dash running",
+            "desc": "Default BOTW animation for dash running will be used.",
+            "folder": "Dash_Default"
+          }
+        ]
+      },
+      {
+        "name": "_______________________________________________________________________7",
+        "desc": "[7/18] Walk & run on shallow waters. Must select ONE (* is suggested):",
+        "required": "",
+        "options": [
+          {
+            "name": "Careful Girl *",
+            "desc": "Your hero will walk and run carefully, as she doesn't want to fall. Use it with Girly/Positive/Confident walk and Girly running animations.",
+            "folder": "Shallow_Etc_Girly"
+          },
+          {
+            "name": "Linkle 3 Style",
+            "desc": "Your hero will walk and run on shallow waters as seen on Linkle 3. Use it with Linkle 3 walk and run animations.",
+            "folder": "Shallow_Etc_L3"
+          },
+          {
+            "name": "Default Link",
+            "desc": "Default BOTW animations will be used for walk and run on shallow waters. Use it with default walk and run animations.",
+            "folder": "Shallow_Etc_Default"
+          }
+        ]
+      },
+      {
+        "name": "_______________________________________________________________________8",
+        "desc": "[8/18] Sit and crouch. Must select ONE (* is suggested):",
+        "required": "",
+        "options": [
+          {
+            "name": "SIT (with sleep) and then, crouch *",
+            "desc": "Sitting instead of crouching (will fall asleep after a while). Crouch pose instead of sneak walk, and finally crouched walk/run.",
+            "folder": "MainEtc_Sit"
+          },
+          {
+            "name": "SIT (without sleep) and then, crouch",
+            "desc": "Sitting instead of crouching (won't fall asleep after a while). Crouch pose instead of sneak walk, and finally crouched walk/run.",
+            "folder": "MainEtc_Sit_B"
+          },
+          {
+            "name": "Only crouch (default)",
+            "desc": "Default game crouch and sneak system (neither sit nor sleep).",
+            "folder": "MainEtc_Vanilla"
+          }
+        ]
+      },
+      {
+        "name": "_______________________________________________________________________9",
+        "desc": "[9/18] Talking style. Must select ONE option (* is suggested):",
+        "required": "",
+        "options": [
+          {
+            "name": "Girly shy talk *",
+            "desc": "Your hero will look somehow shy while talking to other people, raising a hand over the chest for example (on Linkle 3 and Zelda's Ballad, will be about the face instead due the arms length).",
+            "folder": "Talk_Shy"
+          },
+          {
+            "name": "Happy talk",
+            "desc": "Your hero will look happy while talking to other people.",
+            "folder": "Talk_Happy"
+          },
+          {
+            "name": "Confident talk",
+            "desc": "Your hero will look more confident while talking to other people.",
+            "folder": "Talk_Confident"
+          },
+          {
+            "name": "Linkle 3 talk",
+            "desc": "Your hero will talk as in Linkle 3 mod.",
+            "folder": "Talk_L3"
+          },
+          {
+            "name": "Default Link talk",
+            "desc": "Your hero will talk as default in BOTW.",
+            "folder": "Talk_Default"
+          }
+        ]
+      },
+      {
+        "name": "_______________________________________________________________________10",
+        "desc": "[10/18] Selfies style. Must select ONE option (* is suggested):",
+        "required": "",
+        "options": [
+          {
+            "name": "Girly vanilla like *",
+            "desc": "A set of girly selfies intended to be similar to the default ones.",
+            "folder": "Poses_Vanilla_Like"
+          },
+          {
+            "name": "Calm attitude",
+            "desc": "A set of breezy and somehow childish poses.",
+            "folder": "Poses_Calm"
+          },
+          {
+            "name": "Varied style",
+            "desc": "A set of girly selfies focused on resting and sitting.",
+            "folder": "Poses_Varied_Style"
+          },
+          {
+            "name": "Linkle 3 poses",
+            "desc": "Your hero will pose as in Linkle 3 mod.",
+            "folder": "Poses_L3"
+          },
+          {
+            "name": "Default Link poses",
+            "desc": "Your hero will use the default BOTW poses.",
+            "folder": "Poses_Default"
+          }
+        ]
+      },
+      {
+        "name": "_______________________________________________________________________11",
+        "desc": "[11/18] Selfies with weapons. Must select ONE option (* is suggested):",
+        "required": "",
+        "options": [
+          {
+            "name": "Genshin Pose Pack *",
+            "desc": "Weapon poses styled after the Genshin Impact game. Used with permission of the original ''Genshin Pose Pack'' mod.",
+            "folder": "PosesW_Genshin"
+          },
+          {
+            "name": "Default Link poses (SAFEST)",
+            "desc": "The game default weapon poses will be used. SAFE MODE: Use this option if you get game crashes.",
+            "folder": "PosesW_Default"
+          }
+        ]
+      },
+      {
+        "name": "_______________________________________________________________________12",
+        "desc": "[12/18] Waiting battle or enemy near. Must select ONE (* is suggested):",
+        "required": "",
+        "options": [
+          {
+            "name": "Girly wait *",
+            "desc": "Your hero will look somehow scared while waiting for battle or spotting enemies.",
+            "folder": "Battle_Girly"
+          },
+          {
+            "name": "Default Link wait",
+            "desc": "Default BOTW animations while waiting for battle or spotting enemies will be used.",
+            "folder": "Battle_Default"
+          }
+        ]
+      },
+      {
+        "name": "_______________________________________________________________________13",
+        "desc": "[13/18] Shield & defense idles. Must select ONE (* is suggested):",
+        "required": "",
+        "options": [
+          {
+            "name": "Default idles *",
+            "desc": "The default game animations for holding the shield while waiting to fight, and being hit will be used.",
+            "folder": "Def_Vanilla"
+          },
+          {
+            "name": "Girly idles",
+            "desc": "Please note the shield will not be entirely hold in front of your hero, and reflecting laser beams may look a little odd for example (but the game will considers the shield in front anyway, so it's only a visual issue).",
+            "folder": "Def_Old"
+          }
+        ]
+      },
+      {
+        "name": "_______________________________________________________________________14",
+        "desc": "[14/18] Pause menu equipment idle. Must select ONE (* is suggested):",
+        "required": "",
+        "options": [
+          {
+            "name": "Cute pose *",
+            "desc": "Shared girly pose from Linkle 3 will be used in the pause/menu equipment screen.",
+            "folder": "EQ_PLAYNIM_L3"
+          },
+          {
+            "name": "Default Link pose",
+            "desc": "Default BOTW idle pose will be used in the equipment screen.",
+            "folder": "EQ_PLAYNIM_DEF"
+          }
+        ]
+      },
+      {
+        "name": "_______________________________________________________________________15",
+        "desc": "[15/18] Smile and battle face. Must select ONE option (* is suggested):",
+        "required": "",
+        "options": [
+          {
+            "name": "Cute smile, serious battle face *",
+            "desc": "Will use the nice smile shared from Linkle 3, and the default BOTW serious face.",
+            "folder": "SmileL3_BattleSER"
+          },
+          {
+            "name": "Cute smile, default battle face *",
+            "desc": "Will use the nice smile shared from Linkle 3, and the default BOTW battle face.",
+            "folder": "SmileL3_BattleDEF"
+          },
+          {
+            "name": "Cute smile, Linkle 3 battle face",
+            "desc": "Will use the nice smile and the battle face, both shared from Linkle 3.",
+            "folder": "SmileL3_BattleL3"
+          },
+          {
+            "name": "No smile, serious battle face",
+            "desc": "Will use the default BOTW face instead of smiling, and the default BOTW serious face.",
+            "folder": "SmileNO_BattleSER"
+          },
+          {
+            "name": "No smile, default battle face",
+            "desc": "Will use the default BOTW face instead of smiling, and the default BOTW battle face.",
+            "folder": "SmileNO_BattleDEF"
+          },
+          {
+            "name": "No smile, Linkle 3 battle face",
+            "desc": "Will use the default BOTW face instead of smiling, and the battle face shared from Linkle 3.",
+            "folder": "SmileNO_BattleL3"
+          }
+        ]
+      },
+      {
+        "name": "_______________________________________________________________________16",
+        "desc": "[16/18] Animations used for crouching. Must select ONE (* suggested):",
+        "required": "",
+        "options": [
+          {
+            "name": "Girly edited *",
+            "desc": "Will use edited sneak animations that look more girly. There is a very small pause while walking/running crouched.",
+            "folder": "SneakEdited"
+          },
+          {
+            "name": "Girly edited (SAFER)",
+            "desc": "Will use edited sneak animations in a 'safer' way, but may play choppy. Very small pause walking/running crouched. SAFER MODE: Use this option if you get game crashes but still want the new animations.",
+            "folder": "SneakEdited_S"
+          },
+          {
+            "name": "Default Link animation (SAFEST)",
+            "desc": "The default game sneak animations will be used for crouching. SAFEST MODE: Use this option if you get game crashes.",
+            "folder": "SneakDefault"
+          }
+        ]
+      },
+      {
+        "name": "_______________________________________________________________________17",
+        "desc": "[17/18] Animations for the paraglider. Must select ONE (* suggested):",
+        "required": "",
+        "options": [
+          {
+            "name": "Girly Default Glider *",
+            "desc": "Will use edited animations that look more girly while using the default paraglider, or a replacement without custom animations.",
+            "folder": "Paraglider_Edit"
+          },
+          {
+            "name": "Girly Default Glider (SAFER)",
+            "desc": "Will use edited paraglider animations in a 'safer' way, but may play choppy. SAFER MODE: Use this option if you get game crashes but still want the new animations.",
+            "folder": "Paraglider_Safer"
+          },
+          {
+            "name": "Default Glider (SAFEST)",
+            "desc": "The default Link's paraglider animations will be used. SAFEST MODE: Use this option if you get game crashes.",
+            "folder": "Paraglider_Default"
+          },
+          {
+            "name": "Flower Glider with custom animations",
+            "desc": "A cute flower glider with custom girly animations. It's a work in progress: some scenes may not align with it installed, but nothing game-breaking.",
+            "folder": "Paraglider_Flower"
+          },
+          {
+            "name": "Linkle 3 Umbrella with custom animations",
+            "desc": "Linkle 3 and her umbrella paraglider replacement, now with icon and physics on the cloth. It's a work in progress: some scenes may not align with it installed, but nothing game-breaking.",
+            "folder": "Paraglider_L3"
+          }
+        ]
+      },
+      {
+        "name": "_______________________________________________________________________18",
+        "desc": "[18/18] Other game edited animations. Must select ONE (* is suggested):",
+        "required": "",
+        "options": [
+          {
+            "name": "Girly edited animations *",
+            "desc": "About 40 default animations have been edited to look more girly: draw/hold/hide weapons, end being tired...",
+            "folder": "Misc_Edited"
+          },
+          {
+            "name": "Girly edited animations (SAFER)",
+            "desc": "About 40 default animations edited to look more girly (draw/hold/hide weapons...). May play choppy. SAFER MODE: Use this option if you get game crashes but still want the new animations.",
+            "folder": "Misc_Edited_S"
+          },
+          {
+            "name": "Default Link animations (SAFEST)",
+            "desc": "The default BOTW animations will be used. SAFEST MODE: Use this option if you get game crashes.",
+            "folder": "Misc_Default"
+          }
+        ]
+      },
+      {
+        "name": "_______________________________________________________________________E1",
+        "desc": "[EXTRA 1] Height of your Hero (* will be used if nothing selected):",
+        "required": "",
+        "options": [
+          {
+            "name": "DEFAULT HEIGHT *",
+            "desc": "No changes at all. The height of your character will be the one set by default or by its author.",
+            "folder": "Size100"
+          },
+          {
+            "name": "Tallest: 115%",
+            "desc": "Your hero will be 15% taller than her default height and will walk/run faster too. The new height may affect two handed objects (a misaligned hand on the Slate or the paraglider), some clothes (some clippings, shorter tunics and skirts) and slightly extended weapon range (using swords, mostly).",
+            "folder": "Size115"
+          },
+          {
+            "name": "Taller: 110%",
+            "desc": "Your hero will be 10% taller than her default height and will walk/run a little faster too. The new height may very slightly affect hand placement on some two-handed objects, some clothes length and weapon range.",
+            "folder": "Size110"
+          },
+          {
+            "name": "Tall: 105%",
+            "desc": "Your hero will be 5% taller than her default height and will walk/run slightly faster too. The new height may affect in an almost unnoticeable way the hand placement on some two-handed objects, some clothes length and weapon range.",
+            "folder": "Size110"
+          },
+          {
+            "name": "Short: 95%",
+            "desc": "Your hero will be 5% shorter than her default height and will walk/run slightly slow too. The new height may affect in an almost unnoticeable way the hand placement on some two-handed objects, some clothes length and weapon range.",
+            "folder": "Size095"
+          },
+          {
+            "name": "Shorter: 90%",
+            "desc": "Your hero will be 10% shorter than her default height and will walk/run a little slow too. The new height may very slightly affect hand placement on some two-handed objects, clothes length and weapon range.",
+            "folder": "Size090"
+          },
+          {
+            "name": "Shortest: 85%",
+            "desc": "Your hero will be 15% shorter than her default height and will walk/run slower too. The new height may affect two handed objects (a misaligned hand on the Slate or the paraglider), some clothes (some clippings, longer tunics and skirts) and slightly reduced weapon range (using swords, mostly).",
+            "folder": "Size085"
+          }
+        ]
+      },
+      {
+        "name": "_______________________________________________________________________E2",
+        "desc": "[EXTRA 2] Optional patches (* will be used if nothing selected):",
+        "required": "",
+        "options": [
+          {
+            "name": "Nothing *",
+            "desc": "No fix will be applied at all.",
+            "folder": "zUnL3Patch_DEF"
+          },
+          {
+            "name": "Unofficial Linkle 3 Patch Lite",
+            "desc": "Lite version of my Unofficial Linkle 3 Patch mod. This one is included for convenience, and it just fixes Linkle 3 too long arms and adds a neck for compatibility with Linkle 2 mods. If you want the whole set of options, install the full Unofficial Linkle 3 Patch mod from its Gamebanana page.",
+            "folder": "zUnL3Patch_LITE"
+          }
+        ]
+      }
+    ]
+  },
+  "depends": [],
+  "showCompare": false,
+  "showConvert": false,
+  "platform": "wiiu",
+  "priority": 113,
+  "id": "R2lybHkgQW5pbWF0aW9uIFBhY2s9PTEuMC4w"
+}

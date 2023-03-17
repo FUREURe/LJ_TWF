@@ -1,0 +1,22 @@
+B-6_Dynamic:
+  add:
+  - '!Parameters':
+      ArrowName: ElectricArrow
+      EquipItem1: Weapon_Sword_Lylah
+      EquipItem2: Weapon_Shield_Lylah
+      EquipItem3: Weapon_Bow_Lylah
+      IsNearCreate: false
+      LevelSensorMode: 0
+      SharpWeaponJudgeType: 3
+      TerritoryArea: 0.0
+    HashId: !u 0xfffd48c8
+    Rotate: 0.7199999690055847
+    SRTHash: -456078189
+    Translate:
+    - -3061.889404296875
+    - 687.7530517578125
+    - 1067.7412109375
+    UnitConfigName: Enemy_Lynel_Lylah
+  del:
+  - !u 0x0529b868
+  mod: {}

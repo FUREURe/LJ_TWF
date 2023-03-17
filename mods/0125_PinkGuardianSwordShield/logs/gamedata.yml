@@ -1,0 +1,74 @@
+bool_array_data:
+  add: {}
+  del: []
+bool_data:
+  add:
+    IsGet_Weapon_Shield_323:
+      DataName: IsGet_Weapon_Shield_323
+      DeleteRev: -1
+      HashValue: 952484029
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: true
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+    IsGet_Weapon_Sword_323:
+      DataName: IsGet_Weapon_Sword_323
+      DeleteRev: -1
+      HashValue: -226809125
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: true
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+  del: []
+f32_array_data:
+  add: {}
+  del: []
+f32_data:
+  add: {}
+  del: []
+s32_array_data:
+  add: {}
+  del: []
+s32_data:
+  add: {}
+  del: []
+string256_array_data:
+  add: {}
+  del: []
+string256_data:
+  add: {}
+  del: []
+string64_array_data:
+  add: {}
+  del: []
+string64_data:
+  add: {}
+  del: []
+string_data:
+  add: {}
+  del: []
+vector2f_array_data:
+  add: {}
+  del: []
+vector2f_data:
+  add: {}
+  del: []
+vector3f_array_data:
+  add: {}
+  del: []
+vector3f_data:
+  add: {}
+  del: []
+vector4f_data:
+  add: {}
+  del: []

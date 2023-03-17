@@ -1,0 +1,36 @@
+{
+  "name": "SBCamera v1.6",
+  "image": "https://images.gamebanana.com/img/ss/mods/62d35872821b0.jpg",
+  "url": "https://gamebanana.com/mods/389979",
+  "desc": "Various camera tweaks. Including wider fov, first person aiming and a centered lock-on camera with a fixed vertical angle. All features are optional and can be customized during installation.",
+  "version": "1.6",
+  "options": {
+    "multi": [
+      {
+        "name": "Field Of View",
+        "desc": "Includes wider field of view (90 degrees horizontal) and changes to the camera distance.",
+        "folder": "FieldOfView",
+        "default": true
+      },
+      {
+        "name": "First Person Aiming",
+        "desc": "Throwing weapons, and aiming with runes and bows is in first person.",
+        "folder": "FirstPersonAiming",
+        "default": true
+      },
+      {
+        "name": "Lock-On Camera",
+        "desc": "Includes a centered lock-on camera with a fixed vertical angle and changes to the camera angle.",
+        "folder": "LockOnCamera",
+        "default": true
+      }
+    ],
+    "single": []
+  },
+  "depends": [],
+  "showCompare": false,
+  "showConvert": false,
+  "id": "",
+  "platform": "wiiu",
+  "priority": 101
+}

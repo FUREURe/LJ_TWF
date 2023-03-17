@@ -1,0 +1,8 @@
+{
+  "Aoc/0010/Pack/AocMainField.pack": "aoc/0010/Pack/AocMainField.pack",
+  "Actor/Pack/Enemy_Lynel_Lylah.bactorpack": "content/Actor/Pack/Enemy_Lynel_Lylah.sbactorpack",
+  "Actor/Pack/LylahBeam.bactorpack": "content/Actor/Pack/LylahBeam.sbactorpack",
+  "Actor/Pack/Weapon_Bow_Lylah.bactorpack": "content/Actor/Pack/Weapon_Bow_Lylah.sbactorpack",
+  "Actor/Pack/Weapon_Shield_Lylah.bactorpack": "content/Actor/Pack/Weapon_Shield_Lylah.sbactorpack",
+  "Actor/Pack/Weapon_Sword_Lylah.bactorpack": "content/Actor/Pack/Weapon_Sword_Lylah.sbactorpack"
+}
