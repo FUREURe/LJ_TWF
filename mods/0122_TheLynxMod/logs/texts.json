@@ -5,7 +5,7 @@
         "attributes": "",
         "contents": [
           {
-            "text": "Help me... change?"
+            "text": "Aide moi à... changer ?"
           }
         ]
       },
@@ -22,7 +22,7 @@
             }
           },
           {
-            "text": "Nyaha... I hope I was helpful."
+            "text": "Nyahaha... J'espère que ça t'a aidé."
           }
         ]
       },
@@ -39,7 +39,7 @@
             }
           },
           {
-            "text": "Nyaha, you make some adorable faces\nwhen you're deep in thought."
+            "text": "Nyaha, tu fais une tête très mignonne\nquand tu es plongé dans tes pensées."
           }
         ]
       },
@@ -47,7 +47,7 @@
         "attributes": "",
         "contents": [
           {
-            "text": "Finished already~?\nI'll buy as much as you want."
+            "text": "Déjà fini~ ?\nJe t'achèterais autant que choses que tu voudras."
           }
         ]
       },
@@ -64,7 +64,7 @@
             }
           },
           {
-            "text": "I thought I'd find some troubled\nmerchants around here and help them\nout...\nBut for some reason, I just can't take my\neyes off that "
+            "text": "I thought I'd find some troubled\nmerchants around here and help them\nout...\nMais pour plusieurs raisons, je ne peux\ndétourner mes yeux de cela "
           },
           {
             "control": {
@@ -73,7 +73,7 @@
             }
           },
           {
-            "text": "Divine Beast"
+            "text": "Créature divine"
           },
           {
             "control": {
@@ -98,7 +98,7 @@
             }
           },
           {
-            "text": "Nyaha~?...hold on a second."
+            "text": "Nyaha~... attend une petite seconde."
           }
         ]
       },
