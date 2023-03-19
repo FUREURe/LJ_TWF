@@ -4,7 +4,7 @@
       "Weapon_Bow_Lylah_Desc": {
         "contents": [
           {
-            "text": "A bow said to have caused an eclipse for\nseven nights. Belonging to an old hero,\nit appeared to guide lost souls through the\ndark, as the brightest light in the night sky."
+            "text": "Cet arc aurait causé une éclipse pendant\nsept nuits. Appartenant à un ancien héros,\nil semblait guider les âmes perdues à travers le\nnoir, comme la lumière la plus brillante du ciel nocturne"
           }
         ]
       },
@@ -20,7 +20,7 @@
       "Weapon_Shield_Lylah_Desc": {
         "contents": [
           {
-            "text": "Graced by the spirit of an eagle said to have \nonce guided a hero through the desert. When \nwielded, you feel all paths illuminated even in \nthe darkest of nights."
+            "text": "Honoré par l'esprit d'un aigle qui aurait\nautrefois guidé un héros à travers le\ndésert. Lorsqu'il est utilisé, vous sentez\ntous les chemins illuminés même dans les\nnuits les plus sombres."
           }
         ]
       },
@@ -34,7 +34,7 @@
       "Weapon_Shield_Lylah_PictureBook": {
         "contents": [
           {
-            "text": "A shield to protect the one worthy of wielding\nthe Moon Slayer. It was made to protect an\nancient hero from all calamities, by an eagle\nspirit who once eclipsed the sun for 7 days."
+            "text": "Un bouclier pour protéger celui qui es\ndigne de brandir le Tueur de Lune. Il a été\ncréé pour protéger un ancien héros de\ntoutes les calamités, par un esprit aigle\nqui a autrefois éclipsé le soleil pendant\nsept jours."
           }
         ]
       }
@@ -43,7 +43,7 @@
       "Weapon_Sword_Lylah_Desc": {
         "contents": [
           {
-            "text": "Forged from the ether, this blade was left\nby an ancient hero exiled to the desert.\nBathed in an ethereal light, its edge has not \nforgotten the golden blood it once claimed."
+            "text": "Forgée à partir de l'éther, cette lame a\nété laissée par un ancien héros exilé\ndans le désert. Baigné d'une lumière\néthérée, son bord n'a pas oublié le sang\ndoré qu'il revendiquait autrefois."
           }
         ]
       },
@@ -57,7 +57,7 @@
       "Weapon_Sword_Lylah_PictureBook": {
         "contents": [
           {
-            "text": "As atonement for being denied the sword\nthat seals the darkness, this blad was\nbestowed upon an outcast hero. His eagle\nguides all those who are lost in the desert."
+            "text": "En guise d'expiation pour s'être vu\nrefuser l'épée qui scelle les ténèbres,\ncette lame a été accordé à un héros paria.\nSon aigle guide tous ceux qui sont perdus\ndans le désert."
           }
         ]
       }
