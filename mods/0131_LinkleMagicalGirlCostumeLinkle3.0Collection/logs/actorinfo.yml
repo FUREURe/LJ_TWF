@@ -1,0 +1,193 @@
+'1229726781':
+  aabbMax: {X: 0.305908,Y: 0.994629,Z: 0.259479}
+  aabbMin: {X: -0.305908,Y: 0.000287,Z: -0.145508}
+  armorDefenceAddLevel: 20
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 1
+  armorEffectEffectType: None
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: 
+  armorStarNum: 5
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_VTS1
+  boundingForTraverse: 0.994342
+  bugMask: 2
+  instSize: 38076
+  itemBuyingPrice: 100
+  itemCreatingPrice: -1
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 15
+  itemStainColor: -1
+  itemUseIconActorName: 
+  mainModel: Armor_VTS1_Lower
+  name: Armor_VTS1_Lower
+  profile: ArmorLower
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: 
+  slink: Armor_Lower_MetalHeavy
+  sortKey: 6523876
+  tags: {tag1c0c8d23: 470584611,tag289f28b5: 681519285,tag84f40ec6: !u 0x84F40EC6,tage0194f30: !u 0xE0194F30}
+  yLimitAlgorithm: NoLimit
+'1289054340':
+  attackPower: 1
+  bfres: Item_HeartUtuwa
+  bugMask: 3
+  elink: GuardianMiniBeam
+  instSize: 50068
+  mainModel: Item_HeartUtuwa
+  name: HeartBeam
+  profile: Beam
+  slink: GuardianMiniBeam
+  sortKey: 9999
+  tags: {tag3a61e2a9: 979493545,tag3d2fc55b: 1026540891}
+  xlink: OnlyThruDamageToObj
+  yLimitAlgorithm: NoLimit
+'1922801255':
+  aabbMax: {X: 0.420884,Y: 2.15949,Z: 0.309972}
+  aabbMin: {X: -0.401397,Y: -0.004055,Z: -0.372625}
+  bfres: Npc_LynxVTS1
+  boundingForTraverse: 2.163545
+  bugMask: 2
+  cursorOffsetY: 0.3
+  elink: Npc_DressFairy_01
+  instSize: 315164
+  mainModel: Npc_LynxVTS1
+  name: Npc_LynxVTS1
+  profile: NPC
+  rigidBodyCenterY: 0.0
+  slink: Npc_SmallOasis008
+  sortKey: 6
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: 
+  tags: {tag46dea404: 1188996100}
+  xlink: Npc
+  yLimitAlgorithm: NoLimit
+'2000787173': {instSize: 1599784}
+'3269584459':
+  aabbMax: {X: 0.245013,Y: 0.15484,Z: 0.876322}
+  aabbMin: {X: -0.264073,Y: -0.127545,Z: -0.247644}
+  attackPower: 10
+  bfres: Weapon_Wand_Heart
+  boundingForTraverse: 0.282385
+  bugMask: 3
+  cursorOffsetY: 0.3
+  elink: Npc_DressFairy_00
+  generalLife: 80
+  homeArea:
+    - {name: CentralHyrule}
+    - {name: HyruleHill}
+    - {name: WestHateru}
+  instSize: 79972
+  itemBuyingPrice: 120
+  itemCreatingPrice: -1
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 18
+  itemStainColor: -1
+  itemUseIconActorName: 
+  mainModel: Weapon_Wand_Heart
+  name: Weapon_Wand_Heart
+  pictureBookLiveSpot1: -1
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: WeaponSmallSword
+  slink: Weapon_Sword_Blizzard
+  sortKey: 11581
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: 
+  tags: {tag2755f107: 659943687,tag289f28b5: 681519285,tag2cef9fdc: 753901532,tag7025851a: 1881507098,tagb51794dc: !u 0xB51794DC,tagc43b7064: !u 0xC43B7064,tagdcd7e698: !u 0xDCD7E698,tagdeb2c8bd: !u 0xDEB2C8BD,tage0194f30: !u 0xE0194F30}
+  traverseDist: 80.0
+  weaponCommonGuardPower: 0
+  weaponCommonPoweredSharpAddAtkMax: 16
+  weaponCommonPoweredSharpAddAtkMin: 7
+  weaponCommonPoweredSharpAddLifeMax: 16
+  weaponCommonPoweredSharpAddLifeMin: 8
+  weaponCommonPoweredSharpAddRapidFireMax: 1.0
+  weaponCommonPoweredSharpAddRapidFireMin: 1.0
+  weaponCommonPoweredSharpAddSpreadFire: false
+  weaponCommonPoweredSharpAddSurfMaster: false
+  weaponCommonPoweredSharpAddThrowMax: 1.0
+  weaponCommonPoweredSharpAddThrowMin: 1.0
+  weaponCommonPoweredSharpAddZoomRapid: false
+  weaponCommonPoweredSharpWeaponAddGuardMax: 0
+  weaponCommonPoweredSharpWeaponAddGuardMin: 0
+  weaponCommonRank: 0
+  weaponCommonSharpWeaponAddAtkMax: 6
+  weaponCommonSharpWeaponAddAtkMin: 5
+  weaponCommonSharpWeaponAddCrit: true
+  weaponCommonSharpWeaponAddGuardMax: 0
+  weaponCommonSharpWeaponAddGuardMin: 0
+  weaponCommonSharpWeaponAddLifeMax: 7
+  weaponCommonSharpWeaponAddLifeMin: 4
+  weaponCommonSharpWeaponPer: 10.0
+  weaponCommonStickDamage: 10
+  xlink: Rod
+  yLimitAlgorithm: NoLimit
+'3278083954':
+  aabbMax: {X: 0.177734,Y: 1.78613,Z: 0.19359}
+  aabbMin: {X: -0.177734,Y: 1.16017,Z: -0.418928}
+  armorDefenceAddLevel: 20
+  armorEffectAncientPowUp: true
+  armorEffectEffectLevel: 1
+  armorEffectEffectType: None
+  armorEffectEnableClimbWaterfall: true
+  armorEffectEnableSpinAttack: true
+  armorHeadMantleType: 1
+  armorNextRankName: 
+  armorStarNum: 5
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_VTS1
+  boundingForTraverse: 0.62596
+  bugMask: 2
+  instSize: 80188
+  itemBuyingPrice: 100
+  itemCreatingPrice: -1
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 15
+  itemStainColor: -1
+  itemUseIconActorName: 
+  mainModel: Armor_VTS1_Head
+  name: Armor_VTS1_Head
+  profile: ArmorHead
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: 
+  slink: Armor_Head_MetalHeavy
+  sortKey: 6521876
+  tags: {tag1c0c8d23: 470584611,tag289f28b5: 681519285,tag84f40ec6: !u 0x84F40EC6,tage0194f30: !u 0xE0194F30}
+  yLimitAlgorithm: NoLimit
+'696877186':
+  aabbMax: {X: 0.917969,Y: 1.49316,Z: 0.202515}
+  aabbMin: {X: -0.917969,Y: 0.75,Z: -0.224239}
+  armorDefenceAddLevel: 20
+  armorEffectAncientPowUp: true
+  armorEffectEffectLevel: 1
+  armorEffectEffectType: None
+  armorEffectEnableClimbWaterfall: true
+  armorEffectEnableSpinAttack: true
+  armorHeadMantleType: 0
+  armorNextRankName: 
+  armorStarNum: 5
+  armorUpperDisableSelfMantle: true
+  armorUpperUseMantleType: 1
+  bfres: Armor_VTS1
+  boundingForTraverse: 0.74316
+  bugMask: 2
+  instSize: 78164
+  itemBuyingPrice: 100
+  itemCreatingPrice: -1
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 15
+  itemStainColor: -1
+  itemUseIconActorName: Armor_VTS1_Upper
+  mainModel: Armor_VTS1_Upper
+  name: Armor_VTS1_Upper
+  profile: ArmorUpper
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: 
+  slink: Armor_Upper_MetalHeavy
+  sortKey: 6522876
+  tags: {tag1c0c8d23: 470584611,tag289f28b5: 681519285,tag84f40ec6: !u 0x84F40EC6,tage0194f30: !u 0xE0194F30}
+  yLimitAlgorithm: NoLimit

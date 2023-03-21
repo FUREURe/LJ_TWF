@@ -1,0 +1,17 @@
+{
+  "Actor/AS/Weapon_Bow_ANG_SelfCameraPause.bas": 2240,
+  "Actor/ASList/Weapon_Bow_ANG.baslist": 2394,
+  "Actor/ActorLink/Weapon_Bow_ANG.bxml": 2572,
+  "Actor/GeneralParamList/Weapon_Bow_ANG.bgparamlist": 9042,
+  "Actor/Pack/Weapon_Bow_ANG.bactorpack": 15136,
+  "Actor/Physics/Weapon_Bow_ANG.bphysics": 13256,
+  "Actor/Recipe/Weapon_Bow_ANG.brecipe": 1553,
+  "Actor/ShopData/TwnObj_AncientOven_A_01.bshop": 4135,
+  "GameData/gamedata.sarc": 6513604,
+  "GameData/savedataformat.sarc": 2801508,
+  "Message/Msg_USen.product.sarc": 6478116,
+  "Model/Weapon_Bow_ANG.Tex1.bfres": 20476672,
+  "Model/Weapon_Bow_ANG.Tex2.bfres": 9641781,
+  "Model/Weapon_Bow_ANG.bfres": 69186181,
+  "UI/StockItem/Weapon_Bow_ANG.bitemico": 14748084
+}

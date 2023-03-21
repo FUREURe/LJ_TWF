@@ -1,0 +1,147 @@
+ActorType/Item.msyt:
+  entries:
+    Item_Bow_028_Broken_Desc:
+      contents:
+      - text: 'Revali''s Great Eagle Bow, broken due
+
+          to overuse. You can repair it at an Anvil.'
+    Item_Bow_028_Broken_Name:
+      contents:
+      - text: Broken Great Eagle Bow
+    Item_Feather_Desc:
+      contents:
+      - text: 'A common bird feather.
+
+          Used to craft arrows.'
+    Item_Feather_Name:
+      contents:
+      - text: Feather
+    Item_Lsword_054_Broken_Desc:
+      contents:
+      - text: 'Daruk''s Boulder Breaker, broken due
+
+          to overuse. You can repair it at an Anvil.'
+    Item_Lsword_054_Broken_Name:
+      contents:
+      - text: Broken Boulder Breaker
+    Item_Ore_Ancient_Desc:
+      contents:
+      - text: 'An alloy made by melting ancient materials.
+
+          Used to craft Sheikah weapons.'
+    Item_Ore_Ancient_Name:
+      contents:
+      - text: Ancient Alloy
+    Item_Ore_Coal_Desc:
+      contents:
+      - text: 'A lump of coal. Used to smelt
+
+          Steel for crafting weapons.'
+    Item_Ore_Coal_Name:
+      contents:
+      - text: Coal
+    Item_Ore_Eldin_Desc:
+      contents:
+      - text: 'A rare ore found only in the Eldin region.
+
+          Used to craft Lynel weapons.'
+    Item_Ore_Eldin_Name:
+      contents:
+      - text: Eldin Ore
+    Item_Ore_Gold_Desc:
+      contents:
+      - text: "A lump of pure gold. While it is valuable, \nit can also be used for\
+          \ crafting."
+    Item_Ore_Gold_Name:
+      contents:
+      - text: Gold
+    Item_Ore_Iron_Desc:
+      contents:
+      - text: 'Probably the most important material
+
+          for crafting, iron can be used as is,
+
+          or can be smelted with coal to make
+
+          steel.'
+    Item_Ore_Iron_Name:
+      contents:
+      - text: Iron
+    Item_Ore_Silver_Desc:
+      contents:
+      - text: 'A rather valuable metal, the Zora are
+
+          masters at handling it. Used to craft
+
+          Silver weapons.'
+    Item_Ore_Silver_Name:
+      contents:
+      - text: Silver
+    Item_Ore_Steel_Desc:
+      contents:
+      - text: 'A sturdy metal made from iron and coal.
+
+          Can be used to craft a wide variety of
+
+          different weapons.'
+    Item_Ore_Steel_Name:
+      contents:
+      - text: Steel
+    Item_Shield_037_Broken_Desc:
+      contents:
+      - text: 'Urbosa''s Daybreaker, broken due
+
+          to overuse. You can repair it at an Anvil.'
+    Item_Shield_037_Broken_Name:
+      contents:
+      - text: Broken Daybreaker
+    Item_Spear_050_Broken_Desc:
+      contents:
+      - text: 'Mipha''s Lightscale Trident, broken due
+
+          to overuse. You can repair it at an Anvil.'
+    Item_Spear_050_Broken_Name:
+      contents:
+      - text: Broken Lightscale Trident
+    Item_Sword_052_Broken_Desc:
+      contents:
+      - text: 'Urbosa''s Scimitar of the Seven, broken due
+
+          to overuse. You can repair it at an Anvil.'
+    Item_Sword_052_Broken_Name:
+      contents:
+      - text: Broken Scimitar of the Seven
+ActorType/NPC.msyt:
+  entries:
+    TwnObj_Anvil_Name:
+      contents:
+      - text: Anvil
+LayoutMsg/ShopBtnList5_00.msyt:
+  entries:
+    '0001':
+      contents:
+      - text: Stock
+    '0002':
+      contents:
+      - text: All Items
+    '0003':
+      contents:
+      - text: All Items
+    '0004':
+      contents:
+      - text: All Available Items
+    '0005':
+      contents:
+      - text: All Pictures
+    '0006':
+      contents:
+      - text: All Manes
+    '0007':
+      contents:
+      - text: All Bridles
+    0008:
+      contents:
+      - text: All Saddles
+    Pa_GuideB_00-T_Guide_00:
+      contents:
+      - text: Back

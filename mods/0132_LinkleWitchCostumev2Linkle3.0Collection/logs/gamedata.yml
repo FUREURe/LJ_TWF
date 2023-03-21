@@ -1,0 +1,362 @@
+bool_array_data:
+  add: {}
+  del: []
+bool_data:
+  add:
+    IsGet_Armor_HWS1_Head:
+      DataName: IsGet_Armor_HWS1_Head
+      DeleteRev: -1
+      HashValue: -996960573
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: true
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+    IsGet_Armor_HWS1_Lower:
+      DataName: IsGet_Armor_HWS1_Lower
+      DeleteRev: -1
+      HashValue: -181577946
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: true
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+    IsGet_Armor_HWS1_Upper:
+      DataName: IsGet_Armor_HWS1_Upper
+      DeleteRev: -1
+      HashValue: -1779895399
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: true
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+    IsGet_Weapon_HWS_PumpkinWand:
+      DataName: IsGet_Weapon_HWS_PumpkinWand
+      DeleteRev: -1
+      HashValue: -1563261797
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: true
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+    IsGet_Weapon_Sword_HWSpumpkinwand:
+      DataName: IsGet_Weapon_Sword_HWSpumpkinwand
+      DeleteRev: -1
+      HashValue: 801976431
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: true
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+    IsNewPictureBook_Weapon_HWS_PumpkinWand:
+      DataName: IsNewPictureBook_Weapon_HWS_PumpkinWand
+      DeleteRev: -1
+      HashValue: -1483397708
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: false
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+    IsNewPictureBook_Weapon_Sword_HWSpumpkinwand:
+      DataName: IsNewPictureBook_Weapon_Sword_HWSpumpkinwand
+      DeleteRev: -1
+      HashValue: -1859544614
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: false
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+    IsRegisteredPictureBook_Weapon_HWS_PumpkinWand:
+      Category: 5
+      DataName: IsRegisteredPictureBook_Weapon_HWS_PumpkinWand
+      DeleteRev: -1
+      HashValue: -1674499400
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: false
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+    IsRegisteredPictureBook_Weapon_Sword_HWSpumpkinwand:
+      Category: 5
+      DataName: IsRegisteredPictureBook_Weapon_Sword_HWSpumpkinwand
+      DeleteRev: -1
+      HashValue: -294027767
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: false
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+    Npc_LynxHalloween1_DispNameFlag:
+      DataName: Npc_LynxHalloween1_DispNameFlag
+      DeleteRev: -1
+      HashValue: 1977474821
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: true
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+    Npc_LynxHalloween1_FirstTalk:
+      DataName: Npc_LynxHalloween1_FirstTalk
+      DeleteRev: -1
+      HashValue: 1193577052
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: true
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+  del: []
+f32_array_data:
+  add: {}
+  del: []
+f32_data:
+  add: {}
+  del: []
+s32_array_data:
+  add: {}
+  del: []
+s32_data:
+  add:
+    EquipTime_Armor_HWS1_Head:
+      DataName: EquipTime_Armor_HWS1_Head
+      DeleteRev: -1
+      HashValue: 1982660237
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: false
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: 2147483647
+      MinValue: 0
+      ResetType: 0
+    EquipTime_Armor_HWS1_Lower:
+      DataName: EquipTime_Armor_HWS1_Lower
+      DeleteRev: -1
+      HashValue: 1694205145
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: false
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: 2147483647
+      MinValue: 0
+      ResetType: 0
+    EquipTime_Armor_HWS1_Upper:
+      DataName: EquipTime_Armor_HWS1_Upper
+      DeleteRev: -1
+      HashValue: 71180390
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: false
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: 2147483647
+      MinValue: 0
+      ResetType: 0
+    EquipTime_Weapon_HWS_PumpkinWand:
+      DataName: EquipTime_Weapon_HWS_PumpkinWand
+      DeleteRev: -1
+      HashValue: 2007834204
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: false
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: 2147483647
+      MinValue: 0
+      ResetType: 0
+    EquipTime_Weapon_Sword_HWSpumpkinwand:
+      DataName: EquipTime_Weapon_Sword_HWSpumpkinwand
+      DeleteRev: -1
+      HashValue: 99031891
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: false
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: 2147483647
+      MinValue: 0
+      ResetType: 0
+    PictureBookSize_Weapon_HWS_PumpkinWand:
+      DataName: PictureBookSize_Weapon_HWS_PumpkinWand
+      DeleteRev: -1
+      HashValue: -1283277400
+      InitValue: -1
+      IsEventAssociated: false
+      IsOneTrigger: false
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: 65536
+      MinValue: -1
+      ResetType: 0
+    PictureBookSize_Weapon_Sword_HWSpumpkinwand:
+      DataName: PictureBookSize_Weapon_Sword_HWSpumpkinwand
+      DeleteRev: -1
+      HashValue: 2064271538
+      InitValue: -1
+      IsEventAssociated: false
+      IsOneTrigger: false
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: 65536
+      MinValue: -1
+      ResetType: 0
+    PorchTime_Armor_HWS1_Head:
+      DataName: PorchTime_Armor_HWS1_Head
+      DeleteRev: -1
+      HashValue: -487948687
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: false
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: 2147483647
+      MinValue: 0
+      ResetType: 0
+    PorchTime_Armor_HWS1_Lower:
+      DataName: PorchTime_Armor_HWS1_Lower
+      DeleteRev: -1
+      HashValue: -798688146
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: false
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: 2147483647
+      MinValue: 0
+      ResetType: 0
+    PorchTime_Armor_HWS1_Upper:
+      DataName: PorchTime_Armor_HWS1_Upper
+      DeleteRev: -1
+      HashValue: -1331603247
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: false
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: 2147483647
+      MinValue: 0
+      ResetType: 0
+    PorchTime_Weapon_HWS_PumpkinWand:
+      DataName: PorchTime_Weapon_HWS_PumpkinWand
+      DeleteRev: -1
+      HashValue: -1632357983
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: false
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: 2147483647
+      MinValue: 0
+      ResetType: 0
+    PorchTime_Weapon_Sword_HWSpumpkinwand:
+      DataName: PorchTime_Weapon_Sword_HWSpumpkinwand
+      DeleteRev: -1
+      HashValue: -782638963
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: false
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: 2147483647
+      MinValue: 0
+      ResetType: 0
+    dummy:
+      DataName: dummy
+      DeleteRev: -1
+      HashValue: 1341452863
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: false
+      IsProgramReadable: false
+      IsProgramWritable: false
+      IsSave: false
+      MaxValue: 0
+      MinValue: 0
+      ResetType: 0
+  del: []
+string256_array_data:
+  add: {}
+  del: []
+string256_data:
+  add: {}
+  del: []
+string64_array_data:
+  add: {}
+  del: []
+string64_data:
+  add: {}
+  del: []
+string_data:
+  add: {}
+  del: []
+vector2f_array_data:
+  add: {}
+  del: []
+vector2f_data:
+  add: {}
+  del: []
+vector3f_array_data:
+  add: {}
+  del: []
+vector3f_data:
+  add: {}
+  del: []
+vector4f_data:
+  add: {}
+  del: []

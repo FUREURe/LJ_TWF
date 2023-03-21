@@ -1,0 +1,152 @@
+CraftItem<Yorozuya_KounyuSetTbl>: {disable_event_start_interval: true, is_timeline: false, mode: Seamless}
+HatenoMini_BlueFire<Carry_TwnObj_AncientOven_A_02_Bow_Near>: {disable_event_start_interval: true, is_pause_non_demo_member: false,
+  is_timeline: false, mode: Seamless}
+HatenoMini_BlueFire<Carry_TwnObj_AncientOven_A_02_Bow_Talk>: {is_timeline: false, mode: Seamless, vanish_motorcycle: true}
+HatenoMini_BlueFire<Carry_TwnObj_AncientOven_A_02_Lsword_Near>: {disable_event_start_interval: true, is_pause_non_demo_member: false,
+  is_timeline: false, mode: Seamless}
+HatenoMini_BlueFire<Carry_TwnObj_AncientOven_A_02_Lsword_Talk>: {is_timeline: false, mode: Seamless, vanish_motorcycle: true}
+HatenoMini_BlueFire<Carry_TwnObj_AncientOven_A_02_Near>: {disable_event_start_interval: true, is_pause_non_demo_member: false,
+  is_timeline: false, mode: Seamless}
+HatenoMini_BlueFire<Carry_TwnObj_AncientOven_A_02_Shield_Near>: {disable_event_start_interval: true, is_pause_non_demo_member: false,
+  is_timeline: false, mode: Seamless}
+HatenoMini_BlueFire<Carry_TwnObj_AncientOven_A_02_Shield_Talk>: {is_timeline: false, mode: Seamless, vanish_motorcycle: true}
+HatenoMini_BlueFire<Carry_TwnObj_AncientOven_A_02_Spear_Near>: {disable_event_start_interval: true, is_pause_non_demo_member: false,
+  is_timeline: false, mode: Seamless}
+HatenoMini_BlueFire<Carry_TwnObj_AncientOven_A_02_Spear_Talk>: {is_timeline: false, mode: Seamless, vanish_motorcycle: true}
+HatenoMini_BlueFire<Carry_TwnObj_AncientOven_A_02_Talk>: {is_timeline: false, mode: Seamless, vanish_motorcycle: true}
+HatenoMini_BlueFire<Finish_TwnObj_AncientOven_A_02_Bow_CraftSword>:
+  exist_enable_camera_input: true
+  is_timeline: false
+  mode: Seamless
+  subfile:
+  - {file: TwnObj_AncientOven_A_02_Bow.bfevfl}
+  - {file: TwnObj_AncientOven_A_02.bfevfl}
+  - {file: InitTalk.bfevfl}
+  - {file: Common.bfevfl}
+HatenoMini_BlueFire<Finish_TwnObj_AncientOven_A_02_Bow_Near>: {disable_event_start_interval: true, is_pause_non_demo_member: false,
+  is_timeline: false, mode: Seamless}
+HatenoMini_BlueFire<Finish_TwnObj_AncientOven_A_02_Bow_Talk>:
+  exist_enable_camera_input: true
+  is_timeline: false
+  mode: Seamless
+  subfile:
+  - {file: CraftItem.bfevfl}
+  - {file: TwnObj_AncientOven_A_02.bfevfl}
+  - {file: InitTalk.bfevfl}
+  - {file: Common.bfevfl}
+HatenoMini_BlueFire<Finish_TwnObj_AncientOven_A_02_Lsword_Near>: {disable_event_start_interval: true, is_pause_non_demo_member: false,
+  is_timeline: false, mode: Seamless}
+HatenoMini_BlueFire<Finish_TwnObj_AncientOven_A_02_Lsword_Talk>:
+  exist_enable_camera_input: true
+  is_timeline: false
+  mode: Seamless
+  subfile:
+  - {file: TwnObj_AncientOven_A_02_Lsword.bfevfl}
+  - {file: InitTalk.bfevfl}
+  - {file: Common.bfevfl}
+HatenoMini_BlueFire<Finish_TwnObj_AncientOven_A_02_Near>: {disable_event_start_interval: true, is_pause_non_demo_member: false,
+  is_timeline: false, mode: Seamless}
+HatenoMini_BlueFire<Finish_TwnObj_AncientOven_A_02_Shield_Near>: {disable_event_start_interval: true, is_pause_non_demo_member: false,
+  is_timeline: false, mode: Seamless}
+HatenoMini_BlueFire<Finish_TwnObj_AncientOven_A_02_Shield_Talk>:
+  exist_enable_camera_input: true
+  is_timeline: false
+  mode: Seamless
+  subfile:
+  - {file: TwnObj_AncientOven_A_02_Shield.bfevfl}
+  - {file: InitTalk.bfevfl}
+  - {file: Common.bfevfl}
+HatenoMini_BlueFire<Finish_TwnObj_AncientOven_A_02_Spear_Near>: {disable_event_start_interval: true, is_pause_non_demo_member: false,
+  is_timeline: false, mode: Seamless}
+HatenoMini_BlueFire<Finish_TwnObj_AncientOven_A_02_Spear_Talk>:
+  exist_enable_camera_input: true
+  is_timeline: false
+  mode: Seamless
+  subfile:
+  - {file: TwnObj_AncientOven_A_02_Spear.bfevfl}
+  - {file: InitTalk.bfevfl}
+  - {file: Common.bfevfl}
+HatenoMini_BlueFire<Finish_TwnObj_AncientOven_A_02_Talk>:
+  exist_enable_camera_input: true
+  is_timeline: false
+  mode: Seamless
+  subfile:
+  - {file: TwnObj_AncientOven_A_02.bfevfl}
+  - {file: CraftItem.bfevfl}
+  - {file: InitTalk.bfevfl}
+  - {file: Common.bfevfl}
+HatenoMini_BlueFire<Meet_TwnObj_AncientOven_A_02_Bow_Near>: {disable_event_start_interval: true, is_pause_non_demo_member: false,
+  is_timeline: false, mode: Seamless}
+HatenoMini_BlueFire<Meet_TwnObj_AncientOven_A_02_Bow_Talk>: {is_timeline: false, mode: Seamless, vanish_motorcycle: true}
+HatenoMini_BlueFire<Meet_TwnObj_AncientOven_A_02_Lsword_Near>: {disable_event_start_interval: true, is_pause_non_demo_member: false,
+  is_timeline: false, mode: Seamless}
+HatenoMini_BlueFire<Meet_TwnObj_AncientOven_A_02_Lsword_Talk>: {is_timeline: false, mode: Seamless, vanish_motorcycle: true}
+HatenoMini_BlueFire<Meet_TwnObj_AncientOven_A_02_Near>: {disable_event_start_interval: true, is_pause_non_demo_member: false,
+  is_timeline: false, mode: Seamless}
+HatenoMini_BlueFire<Meet_TwnObj_AncientOven_A_02_Shield_Near>: {disable_event_start_interval: true, is_pause_non_demo_member: false,
+  is_timeline: false, mode: Seamless}
+HatenoMini_BlueFire<Meet_TwnObj_AncientOven_A_02_Shield_Talk>: {is_timeline: false, mode: Seamless, vanish_motorcycle: true}
+HatenoMini_BlueFire<Meet_TwnObj_AncientOven_A_02_Spear_Near>: {disable_event_start_interval: true, is_pause_non_demo_member: false,
+  is_timeline: false, mode: Seamless}
+HatenoMini_BlueFire<Meet_TwnObj_AncientOven_A_02_Spear_Talk>: {is_timeline: false, mode: Seamless, vanish_motorcycle: true}
+HatenoMini_BlueFire<Meet_TwnObj_AncientOven_A_02_Talk>: {is_timeline: false, mode: Seamless, vanish_motorcycle: true}
+HatenoMini_BlueFire<Ready_TwnObj_AncientOven_A_02_Bow_Near>: {disable_event_start_interval: true, is_pause_non_demo_member: false,
+  is_timeline: false, mode: Seamless}
+HatenoMini_BlueFire<Ready_TwnObj_AncientOven_A_02_Bow_Talk>: {is_timeline: false, mode: Seamless, vanish_motorcycle: true}
+HatenoMini_BlueFire<Ready_TwnObj_AncientOven_A_02_Lsword_Near>: {disable_event_start_interval: true, is_pause_non_demo_member: false,
+  is_timeline: false, mode: Seamless}
+HatenoMini_BlueFire<Ready_TwnObj_AncientOven_A_02_Lsword_Talk>: {is_timeline: false, mode: Seamless, vanish_motorcycle: true}
+HatenoMini_BlueFire<Ready_TwnObj_AncientOven_A_02_Near>: {disable_event_start_interval: true, is_pause_non_demo_member: false,
+  is_timeline: false, mode: Seamless}
+HatenoMini_BlueFire<Ready_TwnObj_AncientOven_A_02_Shield_Near>: {disable_event_start_interval: true, is_pause_non_demo_member: false,
+  is_timeline: false, mode: Seamless}
+HatenoMini_BlueFire<Ready_TwnObj_AncientOven_A_02_Shield_Talk>: {is_timeline: false, mode: Seamless, vanish_motorcycle: true}
+HatenoMini_BlueFire<Ready_TwnObj_AncientOven_A_02_Spear_Near>: {disable_event_start_interval: true, is_pause_non_demo_member: false,
+  is_timeline: false, mode: Seamless}
+HatenoMini_BlueFire<Ready_TwnObj_AncientOven_A_02_Spear_Talk>: {is_timeline: false, mode: Seamless, vanish_motorcycle: true}
+HatenoMini_BlueFire<Ready_TwnObj_AncientOven_A_02_Talk>: {is_timeline: false, mode: Seamless, vanish_motorcycle: true}
+TwnObj_AncientOven_A_02<Near>: {disable_event_start_interval: true, is_pause_non_demo_member: false, is_timeline: false, mode: Seamless}
+TwnObj_AncientOven_A_02<Talk>:
+  exist_enable_camera_input: true
+  is_timeline: false
+  mode: Seamless
+  subfile:
+  - {file: InitTalk.bfevfl}
+  - {file: Common.bfevfl}
+TwnObj_AncientOven_A_02_Bow<CraftSword>: {disable_event_start_interval: true, is_timeline: false, mode: Seamless}
+TwnObj_AncientOven_A_02_Bow<Near>: {disable_event_start_interval: true, is_pause_non_demo_member: false, is_timeline: false,
+  mode: Seamless}
+TwnObj_AncientOven_A_02_Bow<Talk>:
+  exist_enable_camera_input: true
+  is_timeline: false
+  mode: Seamless
+  subfile:
+  - {file: InitTalk.bfevfl}
+  - {file: Common.bfevfl}
+TwnObj_AncientOven_A_02_Lsword<Near>: {disable_event_start_interval: true, is_pause_non_demo_member: false, is_timeline: false,
+  mode: Seamless}
+TwnObj_AncientOven_A_02_Lsword<Talk>:
+  exist_enable_camera_input: true
+  is_timeline: false
+  mode: Seamless
+  subfile:
+  - {file: InitTalk.bfevfl}
+  - {file: Common.bfevfl}
+TwnObj_AncientOven_A_02_Shield<Near>: {disable_event_start_interval: true, is_pause_non_demo_member: false, is_timeline: false,
+  mode: Seamless}
+TwnObj_AncientOven_A_02_Shield<Talk>:
+  exist_enable_camera_input: true
+  is_timeline: false
+  mode: Seamless
+  subfile:
+  - {file: InitTalk.bfevfl}
+  - {file: Common.bfevfl}
+TwnObj_AncientOven_A_02_Spear<Near>: {disable_event_start_interval: true, is_pause_non_demo_member: false, is_timeline: false,
+  mode: Seamless}
+TwnObj_AncientOven_A_02_Spear<Talk>:
+  exist_enable_camera_input: true
+  is_timeline: false
+  mode: Seamless
+  subfile:
+  - {file: InitTalk.bfevfl}
+  - {file: Common.bfevfl}
