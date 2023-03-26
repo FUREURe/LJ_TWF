@@ -1,0 +1,1857 @@
+'1001478801': {itemCreatingPrice: 0}
+'1005204601': {itemCreatingPrice: 0}
+'101140642': {itemCreatingPrice: 0}
+'1014590086': {itemCreatingPrice: 0}
+'1022152307': {itemCreatingPrice: 0}
+'1028209732': {itemCreatingPrice: 0}
+'1028708474': {itemCreatingPrice: 0}
+'103335566': {itemCreatingPrice: 0}
+'1034479655': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_28, normal0ItemName02: Item_Enemy_29, normal0ItemName03: Item_Enemy_30,
+  normal0ItemNum01: 4, normal0ItemNum02: 4, normal0ItemNum03: 1, normal0StuffNum: 3}
+'1038722166': {itemCreatingPrice: 0}
+'1040027226': {itemCreatingPrice: 0}
+'1043803948': {itemCreatingPrice: 0}
+'1045031938': {itemCreatingPrice: 0}
+'1045947836': {itemCreatingPrice: 0}
+'1047421151': {itemCreatingPrice: 0}
+'1048945365': {itemCreatingPrice: 0}
+'1054718941': {itemCreatingPrice: 0}
+'1055590404': {itemCreatingPrice: 0}
+'1056098485': {itemCreatingPrice: 0}
+'1058576465': {itemCreatingPrice: 0}
+'1059598030': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Enemy_17, normal0ItemName03: Item_Feather,
+  normal0ItemNum01: 4, normal0ItemNum02: 20, normal0ItemNum03: 6, normal0StuffNum: 3}
+'1060396410': {itemCreatingPrice: 0}
+'107173558': {itemCreatingPrice: 0}
+'1091477187': {itemCreatingPrice: 0}
+'1096201943': {itemCreatingPrice: 0}
+'1098856094': {itemCreatingPrice: 0}
+'1111233264': {itemCreatingPrice: 0}
+'1130934115': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Enemy_00, normal0ItemName03: Item_Enemy_01,
+  normal0ItemNum01: 1, normal0ItemNum02: 2, normal0ItemNum03: 1, normal0StuffNum: 3}
+'1133096881': {itemCreatingPrice: 0}
+'1133780302':
+  drops:
+    Normal: [Item_Ore_A, Item_Ore_B, Item_Ore_C, Item_Ore_D, Item_Ore_Eldin]
+    Normal2:
+    - Item_Ore_I
+    - Item_Ore_F
+    - Item_Ore_E
+    - Item_Ore_D
+    - Item_Ore_B
+    - Item_Ore_C
+    - Item_Ore_A
+    - Item_Ore_Iron
+    - Item_Ore_Coal
+    - Item_Ore_Gold
+    - Item_Ore_Silver
+'1134424899': {itemCreatingPrice: 0}
+'1134711186': {itemCreatingPrice: 0}
+'1137334365': {itemCreatingPrice: 0}
+'1143807856': {itemCreatingPrice: 0}
+'1156593498': {itemCreatingPrice: 0}
+'1176064257':
+  drops:
+    Normal:
+    - Item_Ore_B
+    - Item_Ore_A
+    - Item_Ore_F
+    - Item_Ore_C
+    - Item_Ore_D
+    - Item_Ore_E
+    - Item_Ore_H
+    - Item_Ore_I
+    - Item_Ore_Iron
+    - Item_Ore_Coal
+    - Item_Ore_Gold
+    - Item_Ore_Silver
+'1176642392': {itemCreatingPrice: 0}
+'1177916321': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_I, normal0ItemName03: Item_Feather,
+  normal0ItemNum01: 1, normal0ItemNum02: 2, normal0ItemNum03: 3, normal0StuffNum: 3}
+'1178301134': {itemCreatingPrice: 0}
+'1180916442': {itemCreatingPrice: 0}
+'118648033': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemNum01: 2, normal0StuffNum: 1}
+'1187426004': {itemCreatingPrice: 0}
+'1189247987': {itemCreatingPrice: 0}
+'1208234498': {itemCreatingPrice: 0}
+'1211047512': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Enemy_17, normal0ItemName03: Item_Feather,
+  normal0ItemNum01: 2, normal0ItemNum02: 12, normal0ItemNum03: 3, normal0StuffNum: 3}
+'1211330028': {itemCreatingPrice: 0}
+'1213463078': {itemCreatingPrice: 0}
+'1216576443': {itemCreatingPrice: 0}
+'1219337298': {itemCreatingPrice: 0}
+'121958339': {itemCreatingPrice: 0}
+'1222703868': {itemCreatingPrice: 0}
+'1224321898': {itemCreatingPrice: 0}
+'1227890618': {itemCreatingPrice: 0}
+'123347535':
+  drops:
+    Normal: [Item_Fruit_L]
+    Normal2: [Item_Feather]
+'1239671705': {itemCreatingPrice: 0}
+'1240856611': {itemCreatingPrice: 0}
+'1253038257': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_29, normal0ItemName02: Item_Enemy_26, normal0ItemName03: Item_Enemy_30,
+  normal0ItemNum01: 7, normal0ItemNum02: 7, normal0ItemNum03: 1, normal0StuffNum: 3}
+'1266571792': {itemCreatingPrice: 0}
+'1266729206': {itemCreatingPrice: 0}
+'1268085470': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Gold, normal0ItemName02: Item_Ore_Steel, normal0ItemNum01: 2,
+  normal0ItemNum02: 2, normal0StuffNum: 2}
+'1272688158': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Iron, normal0ItemName02: Item_Ore_Silver, normal0ItemName03: Item_Ore_E,
+  normal0ItemNum01: 1, normal0ItemNum02: 1, normal0ItemNum03: 1, normal0StuffNum: 3}
+'1276354057': {itemCreatingPrice: 0}
+'1280687512': {itemCreatingPrice: 0}
+'1282845574': {itemCreatingPrice: 0}
+'1285279922': {itemCreatingPrice: 0}
+'128833951':
+  drops:
+    Normal: [Item_Ore_B]
+    Normal2: [Item_Ore_I, Item_Ore_F, Item_Ore_E, Item_Ore_Iron, Item_Ore_Coal, Item_Ore_Silver, Item_Ore_Gold]
+'1291279204': {itemCreatingPrice: 0}
+'1296529639': {itemCreatingPrice: 0}
+'1301471896': {itemCreatingPrice: 0}
+'1304566952': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Enemy_06, normal0ItemName03: Item_Enemy_07,
+  normal0ItemNum01: 2, normal0ItemNum02: 1, normal0ItemNum03: 1, normal0StuffNum: 3}
+'1312283357': {itemCreatingPrice: 0}
+'1314773923': {itemCreatingPrice: 0}
+'1317939072': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Silver, normal0ItemName02: Item_Ore_E, normal0ItemNum01: 2,
+  normal0ItemNum02: 1, normal0StuffNum: 2}
+'1318599738': {itemCreatingPrice: 0}
+'1327284160': {itemCreatingPrice: 0}
+'1327647444': {itemCreatingPrice: 0}
+'1331603957': {itemCreatingPrice: 0}
+'1334656741': {itemCreatingPrice: 0}
+'1335127923': {itemCreatingPrice: 0}
+'1338197645': {itemCreatingPrice: 0}
+'1341877747': {itemCreatingPrice: 0}
+'134868632': {itemCreatingPrice: 0}
+'1351204126': {itemCreatingPrice: 0}
+'1356513976': {itemCreatingPrice: 0}
+'1358484184': {itemCreatingPrice: 0}
+'1359054931': {itemCreatingPrice: 0}
+'1361599661': {itemCreatingPrice: 0}
+'1366184746': {itemCreatingPrice: 0}
+'1369997348':
+  aabbMax: {X: 0.254763991, Y: 0.834550023, Z: 0.276106}
+  aabbMin: {X: -0.293994009, Y: -0.438906014, Z: -0.238462001}
+  bfres: Item_Feather
+  boundingForTraverse: 1.27345598
+  bugMask: 3
+  cursorOffsetY: 0.400000006
+  elink: Item_PlantGet_A
+  generalLife: 1
+  instSize: 46932
+  itemBuyingPrice: 12
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 3
+  itemStainColor: 7
+  itemUseIconActorName: ''
+  lookAtOffsetY: 0.200000003
+  mainModel: Obj_Get_Item_Feather_01
+  motorcycleEnergy: {add: 75.0}
+  name: Item_Feather
+  pictureBookLiveSpot1: -1
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: Item
+  rigidBodyCenterY: 0.300000012
+  slink: Item_PlantLeafGet
+  sortKey: 33030
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: ''
+  tags: {tag9b44906f: !u 0x9b44906f, tagb51794dc: !u 0xb51794dc, tagc2ac3213: !u 0xc2ac3213, tagd7c5d3b2: !u 0xd7c5d3b2, tagdac84a6c: !u 0xdac84a6c,
+    tage0194f30: !u 0xe0194f30, tage13449bf: !u 0xe13449bf, tageb6cd85e: !u 0xeb6cd85e}
+  yLimitAlgorithm: NoLimit
+'1370071535': {itemCreatingPrice: 0}
+'1377021640': {itemCreatingPrice: 0}
+'1382378321': {itemCreatingPrice: 0}
+'1384646741': {itemCreatingPrice: 0}
+'1396314116': {itemCreatingPrice: 0}
+'1403003006': {itemCreatingPrice: 0}
+'1404365296': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Enemy_00, normal0ItemName03: Item_Enemy_01,
+  normal0ItemNum01: 1, normal0ItemNum02: 1, normal0ItemNum03: 1, normal0StuffNum: 3}
+'1405550655': {itemCreatingPrice: 0}
+'1412487897':
+  aabbMax: {X: 0.297684997, Y: 0.510590017, Z: 0.294759005}
+  aabbMin: {X: -0.297899008, Y: 0.0, Z: -0.251148999}
+  bfres: Weapon_Spear_050
+  boundingForTraverse: 0.510590017
+  bugMask: 1
+  cursorOffsetY: 0.349999994
+  elink: GetItem
+  generalLife: 100
+  instSize: 50804
+  itemBuyingPrice: 1040
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 260
+  itemStainColor: 1
+  itemUseIconActorName: Weapon_Spear_050
+  mainModel: Weapon_Spear_050
+  motorcycleEnergy: {add: 75.0}
+  name: Item_Spear_050_Broken
+  profile: Item
+  rigidBodyCenterY: 0.100000001
+  sortKey: 36080
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: ''
+  tags:
+    tag5de93bac: 1575566252
+    tag85c817c3: !u 0x85c817c3
+    tag9b44906f: !u 0x9b44906f
+    tag9e8d2a01: !u 0x9e8d2a01
+    tagb51794dc: !u 0xb51794dc
+    tagbd7fd9d5: !u 0xbd7fd9d5
+    tagc2ac3213: !u 0xc2ac3213
+    tagd1e9663c: !u 0xd1e9663c
+    tagdac84a6c: !u 0xdac84a6c
+    tage0194f30: !u 0xe0194f30
+    tage13449bf: !u 0xe13449bf
+  yLimitAlgorithm: NoLimit
+'1415042077': {itemCreatingPrice: 0}
+'1420623599':
+  drops:
+    Normal: [Item_Ore_B, Item_Ore_C, Item_Ore_A, Item_Ore_F, Item_Ore_D, Item_Ore_I, Item_Ore_Iron, Item_Ore_Coal, Item_Ore_Gold,
+      Item_Ore_Silver]
+'1422779495': {itemCreatingPrice: 0}
+'1423519209': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_Iron, normal0ItemNum01: 2,
+  normal0ItemNum02: 1, normal0StuffNum: 2}
+'1424570505': {itemCreatingPrice: 0}
+'1426632520': {itemCreatingPrice: 0}
+'1429686082': {itemCreatingPrice: 0}
+'1434348241': {itemCreatingPrice: 0}
+'1436218128': {itemCreatingPrice: 0}
+'1437424454': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_41, normal0ItemName02: Item_Ore_Iron, normal0ItemName03: Item_Ore_B,
+  normal0ItemNum01: 1, normal0ItemNum02: 6, normal0ItemNum03: 1, normal0StuffNum: 3}
+'1445269374': {itemCreatingPrice: 0}
+'1453588268': {itemCreatingPrice: 0}
+'1459960218': {itemCreatingPrice: 0}
+'1464265442': {itemCreatingPrice: 0}
+'1469388481': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemNum01: 3, normal0StuffNum: 1}
+'1471612577': {itemCreatingPrice: 0}
+'1471640335': {itemCreatingPrice: 0}
+'1474590983': {itemCreatingPrice: 0}
+'1477816194': {itemCreatingPrice: 0}
+'1478523637':
+  drops:
+    Normal: [Item_Ore_I, Item_Ore_C]
+    Normal2: [Item_Ore_I, Item_Ore_E, Item_Ore_C, Item_Ore_A, Item_Ore_Iron, Item_Ore_Coal, Item_Ore_Gold, Item_Ore_Silver]
+'1482154913': {itemCreatingPrice: 0}
+'148910949': {itemCreatingPrice: 0}
+'149597512': {itemCreatingPrice: 0}
+'1496674072': {itemCreatingPrice: 0}
+'150163132': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_Steel, normal0ItemNum01: 2,
+  normal0ItemNum02: 1, normal0StuffNum: 3}
+'1502839249': {itemCreatingPrice: 0}
+'1502889446': {itemCreatingPrice: 0}
+'1509617463': {itemCreatingPrice: 0}
+'1510122971': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_Steel, normal0ItemName03: Item_Enemy_05,
+  normal0ItemNum01: 1, normal0ItemNum02: 2, normal0ItemNum03: 2, normal0StuffNum: 3}
+'1510481988': {itemCreatingPrice: 0}
+'1511535548': {itemCreatingPrice: 0}
+'1513231938': {itemCreatingPrice: 0}
+'1515973160': {itemCreatingPrice: 0}
+'1516110458': {itemCreatingPrice: 0}
+'1517526562': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_PlantGet_H, normal0ItemName03: Item_PlantGet_G,
+  normal0ItemNum01: 5, normal0ItemNum02: 8, normal0ItemNum03: 5, normal0StuffNum: 3}
+'1518780930': {itemCreatingPrice: 0}
+'1519558384': {itemCreatingPrice: 0}
+'1521227228': {itemCreatingPrice: 0}
+'152750073': {itemCreatingPrice: 0}
+'1530400692': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_43, normal0ItemName02: Item_Ore_Iron, normal0ItemName03: Item_Ore_D,
+  normal0ItemNum01: 1, normal0ItemNum02: 10, normal0ItemNum03: 3, normal0StuffNum: 3}
+'1531018018': {itemCreatingPrice: 0}
+'1537598179': {itemCreatingPrice: 0}
+'1546436411': {itemCreatingPrice: 0}
+'1549126573': {itemCreatingPrice: 0}
+'1555536146':
+  aabbMax: {X: 0.297684997, Y: 0.537779987, Z: 0.247297004}
+  aabbMin: {X: -0.298022002, Y: 0.0, Z: -0.291732997}
+  bfres: Item_Ore_Eldin
+  boundingForTraverse: 0.537779987
+  bugMask: 1
+  cursorOffsetY: 0.349999994
+  elink: GetItem
+  generalLife: 100
+  instSize: 50804
+  itemBuyingPrice: 840
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 380
+  itemStainColor: 2
+  itemUseIconActorName: ''
+  mainModel: Item_Ore_Eldin
+  motorcycleEnergy: {add: 75.0}
+  name: Item_Ore_Eldin
+  profile: Item
+  rigidBodyCenterY: 0.100000001
+  sortKey: 36070
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: ''
+  tags:
+    tag5de93bac: 1575566252
+    tag85c817c3: !u 0x85c817c3
+    tag9b44906f: !u 0x9b44906f
+    tag9e8d2a01: !u 0x9e8d2a01
+    tagb51794dc: !u 0xb51794dc
+    tagbd7fd9d5: !u 0xbd7fd9d5
+    tagc2ac3213: !u 0xc2ac3213
+    tagd1e9663c: !u 0xd1e9663c
+    tagdac84a6c: !u 0xdac84a6c
+    tage0194f30: !u 0xe0194f30
+    tage13449bf: !u 0xe13449bf
+  yLimitAlgorithm: NoLimit
+'1556621050': {itemCreatingPrice: 0}
+'1562270267': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_PlantGet_O, normal0ItemName03: Item_Feather,
+  normal0ItemNum01: 2, normal0ItemNum02: 7, normal0ItemNum03: 2, normal0StuffNum: 3}
+'1566047568': {itemCreatingPrice: 0}
+'1568385100': {itemCreatingPrice: 0}
+'1568961808': {itemCreatingPrice: 0}
+'1574122867': {itemCreatingPrice: 0}
+'1575877494': {itemCreatingPrice: 0}
+'1585747377': {itemCreatingPrice: 0}
+'1588193594': {itemCreatingPrice: 0, normal0ItemName01: Item_Spear_050_Broken, normal0ItemName02: Item_Ore_I, normal0ItemName03: Item_Ore_A,
+  normal0ItemNum01: 1, normal0ItemNum02: 5, normal0ItemNum03: 1, normal0StuffNum: 3}
+'159856659': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_Iron, normal0ItemNum01: 1,
+  normal0ItemNum02: 4, normal0StuffNum: 2}
+'1601727387': {itemCreatingPrice: 0}
+'1608359829': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_D, normal0ItemName03: Item_Enemy_16,
+  normal0ItemNum01: 1, normal0ItemNum02: 1, normal0ItemNum03: 5, normal0StuffNum: 3}
+'1618332044': {itemCreatingPrice: 0}
+'1620139860': {itemCreatingPrice: 0}
+'1622679837': {itemCreatingPrice: 0}
+'1626799581': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_13, normal0ItemName02: Item_Ore_Steel, normal0ItemName03: Item_Ore_Eldin,
+  normal0ItemNum01: 2, normal0ItemNum02: 4, normal0ItemNum03: 1, normal0StuffNum: 3}
+'1627336948': {itemCreatingPrice: 0}
+'1628090168': {itemCreatingPrice: 0}
+'1630259651': {itemCreatingPrice: 0}
+'1631226663': {itemCreatingPrice: 0}
+'1635945330': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_PlantGet_H, normal0ItemName03: Item_Fruit_K,
+  normal0ItemNum01: 3, normal0ItemNum02: 6, normal0ItemNum03: 4, normal0StuffNum: 3}
+'1638657263': {itemCreatingPrice: 0}
+'1640402331': {itemCreatingPrice: 0}
+'1644203965': {itemCreatingPrice: 0}
+'1646087289': {itemCreatingPrice: 0}
+'1648711403': {itemCreatingPrice: 0}
+'1650521979':
+  drops:
+    Normal: [Item_Meat_07, Item_Meat_12]
+    Normal2: [Item_Feather]
+'1656261111': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Enemy_16, normal0ItemName03: Item_Feather,
+  normal0ItemNum01: 4, normal0ItemNum02: 20, normal0ItemNum03: 6, normal0StuffNum: 3}
+'16577542': {itemCreatingPrice: 0}
+'1669932079': {itemCreatingPrice: 0}
+'168139045': {itemCreatingPrice: 0}
+'168782891': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Steel, normal0ItemName02: Item_Ore_F, normal0ItemNum01: 5,
+  normal0ItemNum02: 2, normal0StuffNum: 2}
+'1692721206': {itemCreatingPrice: 0}
+'1699021189': {itemCreatingPrice: 0}
+'1701593049':
+  aabbMax: {X: 1.14732003, Y: 2.57590008, Z: 0.733887017}
+  aabbMin: {X: -1.14734006, Y: -0.000146000006, Z: -0.666015983}
+  attackPower: 0
+  bfres: TwnObj_AncientOven_A_01
+  boundingForTraverse: 2.57604599
+  bugMask: 3
+  cursorOffsetY: 1.0
+  generalLife: 100
+  instSize: 68132
+  lookAtOffsetY: 0.300000012
+  mainModel: TwnObj_AncientOven_A_02_Bow
+  name: TwnObj_AncientOven_A_02_Bow
+  profile: MapConstActive
+  rigidBodyCenterY: 1.11596
+  slink: TwnObj_AncientOven_A_01
+  sortKey: -2
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: ''
+  traverseDist: 200.0
+  xlink: Npc_NoFootstep
+  yLimitAlgorithm: NoLimit
+'1701873760': {itemCreatingPrice: 0}
+'1705210947': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_29, normal0ItemName02: Item_Enemy_26, normal0ItemName03: Item_Enemy_30,
+  normal0ItemNum01: 9, normal0ItemNum02: 7, normal0ItemNum03: 1, normal0StuffNum: 3}
+'1707327575':
+  aabbMax: {X: 0.297684997, Y: 0.642759025, Z: 0.265832007}
+  aabbMin: {X: -0.316531986, Y: 0.0, Z: -0.265186995}
+  bfres: Item_Ore_Steel
+  boundingForTraverse: 0.642759025
+  bugMask: 1
+  cursorOffsetY: 0.449999988
+  elink: GetItem
+  generalLife: 100
+  instSize: 50804
+  itemBuyingPrice: 2000
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 110
+  itemStainColor: 4
+  itemUseIconActorName: ''
+  mainModel: Item_Ore_Steel
+  motorcycleEnergy: {add: 50.0}
+  name: Item_Ore_Steel
+  normal0ItemName01: Item_Ore_Iron
+  normal0ItemName02: Item_Ore_Coal
+  normal0ItemNum01: 1
+  normal0ItemNum02: 1
+  normal0StuffNum: 2
+  profile: Item
+  rigidBodyCenterY: 0.100000001
+  sortKey: 36090
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: ''
+  tags:
+    tag5de93bac: 1575566252
+    tag85c817c3: !u 0x85c817c3
+    tag9b44906f: !u 0x9b44906f
+    tag9e8d2a01: !u 0x9e8d2a01
+    tagb51794dc: !u 0xb51794dc
+    tagbd7fd9d5: !u 0xbd7fd9d5
+    tagc2ac3213: !u 0xc2ac3213
+    tagd1e9663c: !u 0xd1e9663c
+    tagdac84a6c: !u 0xdac84a6c
+    tage0194f30: !u 0xe0194f30
+    tage13449bf: !u 0xe13449bf
+  yLimitAlgorithm: NoLimit
+'1713665316':
+  aabbMax: {X: 1.14732003, Y: 2.57590008, Z: 0.733887017}
+  aabbMin: {X: -1.14734006, Y: -0.000146000006, Z: -0.666015983}
+  attackPower: 0
+  bfres: TwnObj_AncientOven_A_01
+  boundingForTraverse: 2.57604599
+  bugMask: 3
+  cursorOffsetY: 1.0
+  generalLife: 100
+  instSize: 68132
+  lookAtOffsetY: 0.300000012
+  mainModel: TwnObj_AncientOven_A_02
+  name: TwnObj_AncientOven_A_02_Shield
+  profile: MapConstActive
+  rigidBodyCenterY: 1.11596
+  slink: TwnObj_AncientOven_A_01
+  sortKey: -2
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: ''
+  traverseDist: 200.0
+  xlink: Npc_NoFootstep
+  yLimitAlgorithm: NoLimit
+'1714631275': {itemCreatingPrice: 0}
+'1717368473': {itemCreatingPrice: 0}
+'1719123368': {itemCreatingPrice: 0}
+'1724262646': {itemCreatingPrice: 0}
+'1726959467': {itemCreatingPrice: 0}
+'1727177139': {itemCreatingPrice: 0}
+'1733774636': {itemCreatingPrice: 0}
+'1738226116': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_27, normal0ItemName02: Item_Enemy_28, normal0ItemName03: Item_Enemy_30,
+  normal0ItemNum01: 3, normal0ItemNum02: 2, normal0ItemNum03: 1, normal0StuffNum: 3}
+'1748289369': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_Gold, normal0ItemName03: Item_Ore_Iron,
+  normal0ItemNum01: 2, normal0ItemNum02: 2, normal0ItemNum03: 1, normal0StuffNum: 3}
+'1749417120': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_Ancient, normal0ItemName03: Item_PlantGet_G,
+  normal0ItemNum01: 2, normal0ItemNum02: 7, normal0ItemNum03: 13, normal0StuffNum: 3}
+'1755549727': {itemCreatingPrice: 0}
+'1756405888': {itemCreatingPrice: 0}
+'1757209363': {itemCreatingPrice: 0}
+'1757312137': {itemCreatingPrice: 0}
+'1758720260': {itemCreatingPrice: 0}
+'1762553142': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_29, normal0ItemName02: Item_Enemy_26, normal0ItemName03: Item_Enemy_30,
+  normal0ItemNum01: 10, normal0ItemNum02: 9, normal0ItemNum03: 1, normal0StuffNum: 3}
+'1766423775': {itemCreatingPrice: 0}
+'1780731136': {itemCreatingPrice: 0}
+'1781921321': {itemCreatingPrice: 0}
+'1800824466':
+  aabbMax: {X: 0.297684997, Y: 0.510590017, Z: 0.294759005}
+  aabbMin: {X: -0.297899008, Y: 0.0, Z: -0.251148999}
+  bfres: Weapon_Bow_028
+  boundingForTraverse: 0.510590017
+  bugMask: 1
+  cursorOffsetY: 0.349999994
+  elink: GetItem
+  generalLife: 100
+  instSize: 50804
+  itemBuyingPrice: 1040
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 260
+  itemStainColor: 1
+  itemUseIconActorName: Weapon_Bow_028
+  mainModel: Weapon_Bow_028
+  motorcycleEnergy: {add: 75.0}
+  name: Item_Bow_028_Broken
+  profile: Item
+  rigidBodyCenterY: 0.100000001
+  sortKey: 36080
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: ''
+  tags:
+    tag5de93bac: 1575566252
+    tag85c817c3: !u 0x85c817c3
+    tag9b44906f: !u 0x9b44906f
+    tag9e8d2a01: !u 0x9e8d2a01
+    tagb51794dc: !u 0xb51794dc
+    tagbd7fd9d5: !u 0xbd7fd9d5
+    tagc2ac3213: !u 0xc2ac3213
+    tagd1e9663c: !u 0xd1e9663c
+    tagdac84a6c: !u 0xdac84a6c
+    tage0194f30: !u 0xe0194f30
+    tage13449bf: !u 0xe13449bf
+  yLimitAlgorithm: NoLimit
+'1809452255': {itemCreatingPrice: 0}
+'1811094208': {itemCreatingPrice: 0}
+'1822351065': {itemCreatingPrice: 0}
+'1830045671': {itemCreatingPrice: 0}
+'1834134557': {itemCreatingPrice: 0}
+'1834496560': {itemCreatingPrice: 0}
+'184082913': {itemCreatingPrice: 0}
+'1847900358': {itemCreatingPrice: 0}
+'1849948185': {itemCreatingPrice: 0}
+'1852025135': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Enemy_06, normal0ItemName03: Item_Enemy_07,
+  normal0ItemNum01: 2, normal0ItemNum02: 3, normal0ItemNum03: 2, normal0StuffNum: 3}
+'1857477485': {itemCreatingPrice: 0}
+'1857509995': {itemCreatingPrice: 0}
+'1860236753': {itemCreatingPrice: 0}
+'1861021478':
+  drops:
+    Normal: [Item_Meat_06]
+    Normal2: [Item_Feather]
+'1861353693': {itemCreatingPrice: 0}
+'1874889217': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_I, normal0ItemName03: Item_Feather,
+  normal0ItemNum01: 1, normal0ItemNum02: 1, normal0ItemNum03: 1, normal0StuffNum: 3}
+'1875977994': {itemCreatingPrice: 0}
+'1876232850': {itemCreatingPrice: 0}
+'1876544329': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Enemy_15, normal0ItemName03: Item_Feather,
+  normal0ItemNum01: 2, normal0ItemNum02: 15, normal0ItemNum03: 3, normal0StuffNum: 3}
+'1880448119': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Enemy_00, normal0ItemName03: Item_Enemy_01,
+  normal0ItemNum01: 2, normal0ItemNum02: 2, normal0ItemNum03: 1, normal0StuffNum: 3}
+'1899793345': {itemCreatingPrice: 0}
+'1903571604': {itemCreatingPrice: 0}
+'190382162': {itemCreatingPrice: 0}
+'1904637199':
+  drops:
+    Normal: [Item_Meat_07]
+    Normal2: [Item_Feather]
+'1914850725':
+  drops:
+    Normal: [Item_Ore_I, Item_Ore_B, Item_Ore_Eldin]
+    Normal2: [Item_Ore_I, Item_Ore_E, Item_Ore_B, Item_Ore_A, Item_Ore_Iron, Item_Ore_Coal, Item_Ore_Gold, Item_Ore_Eldin]
+'1915853197': {itemCreatingPrice: 0}
+'1916027295': {itemCreatingPrice: 0}
+'1932445544': {itemCreatingPrice: 0}
+'1939671119': {itemCreatingPrice: 0}
+'1950548849': {itemCreatingPrice: 0}
+'1951742040': {itemCreatingPrice: 0}
+'1961938006': {itemCreatingPrice: 0, normal0ItemName01: Item_Sword_052_Broken, normal0ItemName02: Item_Ore_I, normal0ItemName03: Item_Ore_A,
+  normal0ItemNum01: 1, normal0ItemNum02: 5, normal0ItemNum03: 1, normal0StuffNum: 3}
+'1963854121': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Steel, normal0ItemName02: Item_Enemy_04, normal0ItemName03: Item_Enemy_32,
+  normal0ItemNum01: 2, normal0ItemNum02: 2, normal0ItemNum03: 1, normal0StuffNum: 3}
+'196450802': {itemCreatingPrice: 0}
+'1968987540': {itemCreatingPrice: 0}
+'1969542683': {itemCreatingPrice: 0}
+'197096852': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemNum01: 2, normal0StuffNum: 1}
+'1978170607': {itemCreatingPrice: 0}
+'1983056376': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Enemy_32, normal0ItemName03: Item_PlantGet_G,
+  normal0ItemNum01: 3, normal0ItemNum02: 1, normal0ItemNum03: 4, normal0StuffNum: 3}
+'1985040344': {itemCreatingPrice: 0}
+'198764192': {itemCreatingPrice: 0}
+'1999689408':
+  drops:
+    Normal: [Item_Fruit_L]
+    Normal2: [Item_Feather]
+'200089897': {itemCreatingPrice: 0}
+'2004392046': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_Iron, normal0ItemNum01: 1,
+  normal0ItemNum02: 3, normal0StuffNum: 2}
+'2012885924': {itemCreatingPrice: 0}
+'2017442943': {itemCreatingPrice: 0}
+'2018232942': {itemCreatingPrice: 0}
+'2018851673': {itemCreatingPrice: 0}
+'20199790': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Eldin, normal0ItemName02: Item_Ore_Steel, normal0ItemName03: Item_PlantGet_G,
+  normal0ItemNum01: 1, normal0ItemNum02: 5, normal0ItemNum03: 6, normal0StuffNum: 3}
+'2021677511': {itemCreatingPrice: 0}
+'2023340595': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_43, normal0ItemName02: Item_Ore_Iron, normal0ItemName03: Item_Ore_D,
+  normal0ItemNum01: 2, normal0ItemNum02: 4, normal0ItemNum03: 2, normal0StuffNum: 3}
+'2024857006': {itemCreatingPrice: 0}
+'2029147456': {itemCreatingPrice: 0}
+'2034822274': {itemCreatingPrice: 0}
+'2037080358': {itemCreatingPrice: 0}
+'204346137': {itemCreatingPrice: 0}
+'2043978884': {itemCreatingPrice: 0}
+'2045627548': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Iron, normal0ItemNum01: 1, normal0StuffNum: 1}
+'2046271340': {itemCreatingPrice: 0}
+'204784715': {itemCreatingPrice: 0}
+'2053478564': {itemCreatingPrice: 0, normal0ItemName01: Item_Lsword_054_Broken, normal0ItemName02: Item_Ore_I, normal0ItemName03: Item_Ore_A,
+  normal0ItemNum01: 1, normal0ItemNum02: 5, normal0ItemNum03: 1, normal0StuffNum: 3}
+'2054331576': {itemCreatingPrice: 0}
+'2056394094': {itemCreatingPrice: 0}
+'2064022840': {itemCreatingPrice: 0}
+'2066614578': {itemCreatingPrice: 0}
+'2075267631': {itemCreatingPrice: 0}
+'2077589787': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemNum01: 2, normal0StuffNum: 1}
+'2078144574': {itemCreatingPrice: 0}
+'2092451074': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Enemy_00, normal0ItemName03: Item_Enemy_01,
+  normal0ItemNum01: 2, normal0ItemNum02: 2, normal0ItemNum03: 1, normal0StuffNum: 3}
+'2092810076': {itemCreatingPrice: 0}
+'2095044150': {itemCreatingPrice: 0}
+'209773872': {itemCreatingPrice: 0}
+'2105361773': {itemCreatingPrice: 0}
+'2107552027': {itemCreatingPrice: 0}
+'2113917303': {itemCreatingPrice: 0}
+'2122320005': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_Steel, normal0ItemNum01: 1,
+  normal0ItemNum02: 5, normal0StuffNum: 2}
+'2124953216': {itemCreatingPrice: 0}
+'2127188041': {itemCreatingPrice: 0}
+'2129962333': {itemCreatingPrice: 0}
+'213197497': {itemCreatingPrice: 0}
+'2136603074': {itemCreatingPrice: 0}
+'2145846259': {itemCreatingPrice: 0}
+'2146278878': {itemCreatingPrice: 0}
+'2146584207': {itemCreatingPrice: 0}
+'2146729514': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Iron, normal0ItemName02: Item_Ore_Steel, normal0ItemNum01: 5,
+  normal0ItemNum02: 3, normal0StuffNum: 2}
+'2153927931': {itemCreatingPrice: 0}
+'2154678275': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_27, normal0ItemName02: Item_Enemy_28, normal0ItemName03: Item_Enemy_30,
+  normal0ItemNum01: 4, normal0ItemNum02: 3, normal0ItemNum03: 1, normal0StuffNum: 3}
+'2164811522': {itemCreatingPrice: 0}
+'2166774165': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_Steel, normal0ItemName03: Item_PlantGet_H,
+  normal0ItemNum01: 2, normal0ItemNum02: 5, normal0ItemNum03: 8, normal0StuffNum: 3}
+'2166881409': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Enemy_15, normal0ItemName03: Item_Feather,
+  normal0ItemNum01: 4, normal0ItemNum02: 20, normal0ItemNum03: 6, normal0StuffNum: 3}
+'2171100727': {itemCreatingPrice: 0}
+'2172519921': {itemCreatingPrice: 0}
+'217367208': {itemCreatingPrice: 0}
+'2194625707': {itemCreatingPrice: 0}
+'2198416693': {itemCreatingPrice: 0}
+'2202036277': {itemCreatingPrice: 0}
+'221246812': {itemCreatingPrice: 0}
+'2212863035': {itemCreatingPrice: 0}
+'2215513097': {itemCreatingPrice: 0}
+'2217585708': {itemCreatingPrice: 0}
+'2218497797': {itemCreatingPrice: 0}
+'2223063373': {itemCreatingPrice: 0}
+'2223527970': {itemCreatingPrice: 0}
+'2242208126': {itemCreatingPrice: 0}
+'22445902': {itemCreatingPrice: 0}
+'224569394': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Gold, normal0ItemName02: Item_Ore_Ancient, normal0ItemName03: Item_FishGet_Z,
+  normal0ItemNum01: 2, normal0ItemNum02: 9, normal0ItemNum03: 1, normal0StuffNum: 3}
+'2247982060': {itemCreatingPrice: 0}
+'2256368635': {itemCreatingPrice: 0}
+'2259071593': {itemCreatingPrice: 0}
+'2259686821': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Feather, normal0ItemNum01: 2,
+  normal0ItemNum02: 7, normal0StuffNum: 2}
+'2259845695': {itemCreatingPrice: 0}
+'2260364924': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Enemy_15, normal0ItemName03: Item_Feather,
+  normal0ItemNum01: 8, normal0ItemNum02: 45, normal0ItemNum03: 12, normal0StuffNum: 3}
+'2260648364': {itemCreatingPrice: 0}
+'2263458369':
+  aabbMax: {X: 0.297684997, Y: 0.510590017, Z: 0.294759005}
+  aabbMin: {X: -0.297899008, Y: 0.0, Z: -0.251148999}
+  bfres: Weapon_Shield_037
+  boundingForTraverse: 0.510590017
+  bugMask: 1
+  cursorOffsetY: 0.349999994
+  elink: GetItem
+  generalLife: 100
+  instSize: 50804
+  itemBuyingPrice: 1040
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 260
+  itemStainColor: 1
+  itemUseIconActorName: Weapon_Shield_037
+  mainModel: Weapon_Shield_037
+  motorcycleEnergy: {add: 75.0}
+  name: Item_Shield_037_Broken
+  profile: Item
+  rigidBodyCenterY: 0.100000001
+  sortKey: 36080
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: ''
+  tags:
+    tag5de93bac: 1575566252
+    tag85c817c3: !u 0x85c817c3
+    tag9b44906f: !u 0x9b44906f
+    tag9e8d2a01: !u 0x9e8d2a01
+    tagb51794dc: !u 0xb51794dc
+    tagbd7fd9d5: !u 0xbd7fd9d5
+    tagc2ac3213: !u 0xc2ac3213
+    tagd1e9663c: !u 0xd1e9663c
+    tagdac84a6c: !u 0xdac84a6c
+    tage0194f30: !u 0xe0194f30
+    tage13449bf: !u 0xe13449bf
+  yLimitAlgorithm: NoLimit
+'2264927258': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_13, normal0ItemName02: Item_Ore_Steel, normal0ItemName03: Item_Ore_Eldin,
+  normal0ItemNum01: 2, normal0ItemNum02: 5, normal0ItemNum03: 2, normal0StuffNum: 3}
+'2269584883': {itemCreatingPrice: 0}
+'2270089434': {itemCreatingPrice: 0}
+'2273530084': {itemCreatingPrice: 0}
+'2276538825': {itemCreatingPrice: 0}
+'227878392': {itemCreatingPrice: 0}
+'2287998737': {itemCreatingPrice: 0}
+'2288585229': {itemCreatingPrice: 0}
+'2294827482': {itemCreatingPrice: 0}
+'2299924821': {itemCreatingPrice: 0}
+'2301823433': {itemCreatingPrice: 0}
+'2308740545': {itemCreatingPrice: 0}
+'2321592326': {itemCreatingPrice: 0}
+'2330624282': {itemCreatingPrice: 0}
+'2334585822': {itemCreatingPrice: 0}
+'2336248858': {itemCreatingPrice: 0}
+'2336972969': {itemCreatingPrice: 0}
+'2340350284': {itemCreatingPrice: 0}
+'2343376239': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_12, normal0ItemName02: Item_Ore_Steel, normal0ItemName03: Item_Ore_Eldin,
+  normal0ItemNum01: 2, normal0ItemNum02: 4, normal0ItemNum03: 1, normal0StuffNum: 3}
+'2346206334': {itemCreatingPrice: 0}
+'2351342768': {itemCreatingPrice: 0}
+'2351883673': {itemCreatingPrice: 0}
+'2353739719': {itemCreatingPrice: 0}
+'2361446774': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_27, normal0ItemName02: Item_Enemy_28, normal0ItemName03: Item_Enemy_30,
+  normal0ItemNum01: 3, normal0ItemNum02: 2, normal0ItemNum03: 1, normal0StuffNum: 3}
+'2369655817': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_B, normal0ItemName03: Item_Enemy_15,
+  normal0ItemNum01: 1, normal0ItemNum02: 2, normal0ItemNum03: 10, normal0StuffNum: 3}
+'237055757': {itemCreatingPrice: 0}
+'2374452483': {itemCreatingPrice: 0}
+'2374884142': {itemCreatingPrice: 0}
+'2375802887': {itemCreatingPrice: 0}
+'2379994503': {itemCreatingPrice: 0}
+'2381647559': {itemCreatingPrice: 0}
+'2385831961': {itemCreatingPrice: 0}
+'2386776446': {itemCreatingPrice: 0}
+'2397916591': {itemCreatingPrice: 0}
+'2398179800': {itemCreatingPrice: 0}
+'2398657777': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_29, normal0ItemName02: Item_Enemy_26, normal0ItemName03: Item_Enemy_30,
+  normal0ItemNum01: 7, normal0ItemNum02: 6, normal0ItemNum03: 1, normal0StuffNum: 3}
+'2399456788': {itemCreatingPrice: 0}
+'2408376926': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Iron, normal0ItemName02: Item_Ore_Silver, normal0ItemNum01: 2,
+  normal0ItemNum02: 2, normal0StuffNum: 2}
+'2409991619': {itemCreatingPrice: 0}
+'2416913285': {itemCreatingPrice: 0}
+'2425252265': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_Iron, normal0ItemNum01: 1,
+  normal0ItemNum02: 2, normal0StuffNum: 2}
+'2436288099': {itemCreatingPrice: 0}
+'2441815295': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_PlantGet_I, normal0ItemName03: Item_FishGet_Z,
+  normal0ItemNum01: 2, normal0ItemNum02: 3, normal0ItemNum03: 3, normal0StuffNum: 3}
+'2446555291': {itemCreatingPrice: 0}
+'2447637746': {itemCreatingPrice: 0}
+'2448999902': {itemCreatingPrice: 0}
+'2449088262': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_41, normal0ItemName02: Item_Ore_Iron, normal0ItemName03: Item_Ore_B,
+  normal0ItemNum01: 2, normal0ItemNum02: 3, normal0ItemNum03: 3, normal0StuffNum: 3}
+'2449221539': {itemCreatingPrice: 0}
+'2454737384': {itemCreatingPrice: 0}
+'2455973292': {itemCreatingPrice: 0}
+'2461261424': {itemCreatingPrice: 0}
+'2461410350': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Iron, normal0ItemNum01: 1, normal0StuffNum: 1}
+'2463217434': {itemCreatingPrice: 0}
+'2464444563': {itemCreatingPrice: 0}
+'2482090075': {itemCreatingPrice: 0}
+'2485380109': {itemCreatingPrice: 0}
+'2485462344': {itemCreatingPrice: 0}
+'2490104200': {itemCreatingPrice: 0}
+'2491470150': {itemCreatingPrice: 0}
+'2493281346': {itemCreatingPrice: 0}
+'250280970': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Enemy_01, normal0ItemName03: Item_Enemy_32,
+  normal0ItemNum01: 2, normal0ItemNum02: 3, normal0ItemNum03: 2, normal0StuffNum: 3}
+'2503841265': {itemCreatingPrice: 0}
+'2508031595': {itemCreatingPrice: 0}
+'2508829834': {itemCreatingPrice: 0}
+'2512592478': {itemCreatingPrice: 0}
+'2514214967': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Steel, normal0ItemNum01: 2, normal0StuffNum: 1}
+'2518942436': {itemCreatingPrice: 0}
+'2521148226': {itemCreatingPrice: 0}
+'2525903083': {itemCreatingPrice: 0}
+'2526534431': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_Ancient, normal0ItemName03: Item_FishGet_Z,
+  normal0ItemNum01: 2, normal0ItemNum02: 2, normal0ItemNum03: 2, normal0StuffNum: 3}
+'2527229905': {itemCreatingPrice: 0}
+'2528648449': {itemCreatingPrice: 0}
+'2529082498': {itemCreatingPrice: 0}
+'2530217107': {itemCreatingPrice: 0}
+'2540011710': {itemCreatingPrice: 0}
+'2548280752': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Enemy_00, normal0ItemName03: Item_Enemy_01,
+  normal0ItemNum01: 2, normal0ItemNum02: 1, normal0ItemNum03: 1, normal0StuffNum: 3}
+'2548510851':
+  drops:
+    Normal: [Item_Meat_06]
+    Normal2: [Item_Feather]
+'255577025': {itemCreatingPrice: 0}
+'2556374772': {itemCreatingPrice: 0}
+'256703224': {itemCreatingPrice: 0}
+'2567301033': {itemCreatingPrice: 0}
+'2571024364':
+  drops:
+    Normal: [Item_Fruit_L]
+    Normal2: [Item_Feather]
+'2574711106': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_Steel, normal0ItemNum01: 1,
+  normal0ItemNum02: 8, normal0StuffNum: 2}
+'2575917165': {itemCreatingPrice: 0}
+'2581251996': {itemCreatingPrice: 0}
+'2582943350': {itemCreatingPrice: 0}
+'2588762717': {itemCreatingPrice: 0}
+'2589677940': {itemCreatingPrice: 0}
+'2600381818': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_D, normal0ItemName03: Item_Enemy_16,
+  normal0ItemNum01: 1, normal0ItemNum02: 2, normal0ItemNum03: 10, normal0StuffNum: 3}
+'2602806079': {itemCreatingPrice: 0}
+'260532561': {itemCreatingPrice: 0}
+'2607282993': {itemCreatingPrice: 0}
+'2613974289': {itemCreatingPrice: 0}
+'262048421': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_42, normal0ItemName02: Item_Ore_Iron, normal0ItemName03: Item_Ore_C,
+  normal0ItemNum01: 2, normal0ItemNum02: 3, normal0ItemNum03: 1, normal0StuffNum: 3}
+'2621438113': {itemCreatingPrice: 0}
+'2636162628': {itemCreatingPrice: 0}
+'263712056': {itemCreatingPrice: 0}
+'2637602157': {itemCreatingPrice: 0}
+'2656269301':
+  drops:
+    Normal: [Item_Fruit_L]
+    Normal2: [Item_Feather]
+'2656428443': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Steel, normal0ItemName02: Item_Mushroom_D, normal0ItemName03: Item_Ore_E,
+  normal0ItemNum01: 2, normal0ItemNum02: 4, normal0ItemNum03: 1, normal0StuffNum: 3}
+'2670914285': {itemCreatingPrice: 0}
+'2671277248': {itemCreatingPrice: 0}
+'267740630': {itemCreatingPrice: 0}
+'2689841807': {itemCreatingPrice: 0}
+'2694208790': {itemCreatingPrice: 0}
+'2696067677':
+  drops:
+    Normal: [Item_Meat_07]
+    Normal2: [Item_Feather]
+'2698958078': {itemCreatingPrice: 0}
+'2698966087': {itemCreatingPrice: 0}
+'2706426073': {itemCreatingPrice: 0}
+'2709741513': {itemCreatingPrice: 0}
+'2711227999': {itemCreatingPrice: 0}
+'2719874853': {itemCreatingPrice: 0}
+'2722246619': {itemCreatingPrice: 0}
+'2725246336': {itemCreatingPrice: 0}
+'2729970475': {itemCreatingPrice: 0}
+'2730980707': {itemCreatingPrice: 0}
+'2732811715': {itemCreatingPrice: 0}
+'273710522': {itemCreatingPrice: 0}
+'2739411549': {itemCreatingPrice: 0}
+'2744875141': {itemCreatingPrice: 0}
+'2747090557': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Iron, normal0ItemName02: Item_Ore_Steel, normal0ItemName03: Item_PlantGet_G,
+  normal0ItemNum01: 4, normal0ItemNum02: 3, normal0ItemNum03: 4, normal0StuffNum: 3}
+'2748087684': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_27, normal0ItemName02: Item_Enemy_28, normal0ItemName03: Item_Enemy_30,
+  normal0ItemNum01: 2, normal0ItemNum02: 2, normal0ItemNum03: 1, normal0StuffNum: 3}
+'2750796372': {itemCreatingPrice: 0}
+'2754136560': {itemCreatingPrice: 0}
+'2754282691': {itemCreatingPrice: 0}
+'2762062237': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_12, normal0ItemName02: Item_Ore_Steel, normal0ItemName03: Item_Ore_Eldin,
+  normal0ItemNum01: 2, normal0ItemNum02: 2, normal0ItemNum03: 1, normal0StuffNum: 3}
+'2762825928': {itemCreatingPrice: 0}
+'2769494395': {itemCreatingPrice: 0}
+'277184070': {itemCreatingPrice: 0}
+'2775595836': {itemCreatingPrice: 0}
+'2777580995': {itemCreatingPrice: 0}
+'2782252850': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_PlantGet_H, normal0ItemName03: Item_Fruit_K,
+  normal0ItemNum01: 3, normal0ItemNum02: 7, normal0ItemNum03: 4, normal0StuffNum: 3}
+'2787213172': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Enemy_17, normal0ItemName03: Item_Feather,
+  normal0ItemNum02: 3, normal0ItemNum03: 1, normal0StuffNum: 3}
+'2789018816': {itemCreatingPrice: 0}
+'2796991428': {itemCreatingPrice: 0}
+'2800655312': {itemCreatingPrice: 0}
+'2801257030': {itemCreatingPrice: 0}
+'2805890710': {itemCreatingPrice: 0}
+'2807909805': {itemCreatingPrice: 0}
+'2816046839': {itemCreatingPrice: 0}
+'2817099342': {itemCreatingPrice: 0}
+'2817360565': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_PlantGet_H, normal0ItemName03: Item_Fruit_K,
+  normal0ItemNum01: 4, normal0ItemNum02: 5, normal0ItemNum03: 5, normal0StuffNum: 3}
+'2827433270': {itemCreatingPrice: 0}
+'2831732728': {itemCreatingPrice: 0}
+'2833679602': {itemCreatingPrice: 0}
+'2854452828': {itemCreatingPrice: 0}
+'2858547985': {itemCreatingPrice: 0}
+'2868794998': {itemCreatingPrice: 0}
+'2888654809': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Iron, normal0ItemName02: Item_Ore_Silver, normal0ItemName03: Item_Ore_E,
+  normal0ItemNum01: 1, normal0ItemNum02: 4, normal0ItemNum03: 1, normal0StuffNum: 3}
+'2892202777': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Gold, normal0ItemName02: Item_Ore_Iron, normal0ItemNum01: 1,
+  normal0ItemNum02: 2, normal0StuffNum: 2}
+'2898687767': {itemCreatingPrice: 0}
+'2909195855': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_PlantGet_A, normal0ItemNum01: 2,
+  normal0ItemNum02: 3, normal0StuffNum: 2}
+'2909790670': {itemCreatingPrice: 0}
+'2912129647': {itemCreatingPrice: 0}
+'2928161469': {itemCreatingPrice: 0}
+'2928585375': {itemCreatingPrice: 0}
+'2936078319': {itemCreatingPrice: 0}
+'293841454': {itemCreatingPrice: 0}
+'2941835259': {itemCreatingPrice: 0}
+'2943440818': {itemCreatingPrice: 0}
+'2958477869': {itemCreatingPrice: 0}
+'2958840832': {itemCreatingPrice: 0}
+'2970544001': {itemCreatingPrice: 0}
+'2973989748': {itemCreatingPrice: 0}
+'2977303223': {itemCreatingPrice: 0}
+'297867360': {itemCreatingPrice: 0}
+'2980810683': {itemCreatingPrice: 0}
+'2982451250': {itemCreatingPrice: 0}
+'2983460537': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_B, normal0ItemName03: Item_Enemy_15,
+  normal0ItemNum01: 1, normal0ItemNum02: 1, normal0ItemNum03: 5, normal0StuffNum: 3}
+'2992351873': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_41, normal0ItemName02: Item_Ore_Iron, normal0ItemName03: Item_Ore_B,
+  normal0ItemNum01: 1, normal0ItemNum02: 10, normal0ItemNum03: 3, normal0StuffNum: 3}
+'2999338966': {itemCreatingPrice: 0}
+'3001964517': {itemCreatingPrice: 0}
+'3004185367': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_Gold, normal0ItemName03: Item_PlantGet_L,
+  normal0ItemNum01: 2, normal0ItemNum02: 2, normal0ItemNum03: 4, normal0StuffNum: 3}
+'3006811933': {itemCreatingPrice: 0}
+'3010840928': {itemCreatingPrice: 0}
+'3011633014': {itemCreatingPrice: 0}
+'3015262931':
+  aabbMax: {X: 0.297684997, Y: 0.460034996, Z: 0.247159004}
+  aabbMin: {X: -0.274228007, Y: 0.0, Z: -0.251148999}
+  bfres: Item_Ore_Silver
+  boundingForTraverse: 0.460034996
+  bugMask: 1
+  cursorOffsetY: 0.300000012
+  elink: GetItem
+  generalLife: 100
+  instSize: 50804
+  itemBuyingPrice: 240
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 190
+  itemStainColor: 13
+  itemUseIconActorName: ''
+  mainModel: Item_Ore_Silver
+  motorcycleEnergy: {add: 75.0}
+  name: Item_Ore_Silver
+  profile: Item
+  rigidBodyCenterY: 0.100000001
+  sortKey: 36040
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: ''
+  tags:
+    tag0ff61a01: 267786753
+    tag5de93bac: 1575566252
+    tag85c817c3: !u 0x85c817c3
+    tag9b44906f: !u 0x9b44906f
+    tag9e8d2a01: !u 0x9e8d2a01
+    tagb51794dc: !u 0xb51794dc
+    tagbd7fd9d5: !u 0xbd7fd9d5
+    tagc2ac3213: !u 0xc2ac3213
+    tagd1e9663c: !u 0xd1e9663c
+    tagdac84a6c: !u 0xdac84a6c
+    tage0194f30: !u 0xe0194f30
+    tage13449bf: !u 0xe13449bf
+  yLimitAlgorithm: NoLimit
+'3016732905': {itemCreatingPrice: 0}
+'3018155831': {itemCreatingPrice: 0}
+'3018777130': {itemCreatingPrice: 0}
+'3018931141': {itemCreatingPrice: 0}
+'3027368146': {itemCreatingPrice: 0}
+'3028156174': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_Iron, normal0ItemName03: Item_PlantGet_G,
+  normal0ItemNum01: 3, normal0ItemNum02: 1, normal0ItemNum03: 2, normal0StuffNum: 3}
+'3028628727': {itemCreatingPrice: 0}
+'3028853550': {itemCreatingPrice: 0}
+'3030545648': {itemCreatingPrice: 0}
+'3040243352': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Iron, normal0ItemName02: Item_Ore_Steel, normal0ItemNum01: 6,
+  normal0ItemNum02: 8, normal0StuffNum: 2}
+'3047916495': {itemCreatingPrice: 0}
+'3050015277':
+  aabbMax: {X: 0.297684997, Y: 0.510590017, Z: 0.294759005}
+  aabbMin: {X: -0.297899008, Y: 0.0, Z: -0.251148999}
+  bfres: Weapon_Sword_052
+  boundingForTraverse: 0.510590017
+  bugMask: 1
+  cursorOffsetY: 0.349999994
+  elink: GetItem
+  generalLife: 100
+  instSize: 50804
+  itemBuyingPrice: 1040
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 260
+  itemStainColor: 1
+  itemUseIconActorName: Weapon_Sword_052
+  mainModel: Weapon_Sword_052
+  motorcycleEnergy: {add: 75.0}
+  name: Item_Sword_052_Broken
+  profile: Item
+  rigidBodyCenterY: 0.100000001
+  sortKey: 36080
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: ''
+  tags:
+    tag5de93bac: 1575566252
+    tag85c817c3: !u 0x85c817c3
+    tag9b44906f: !u 0x9b44906f
+    tag9e8d2a01: !u 0x9e8d2a01
+    tagb51794dc: !u 0xb51794dc
+    tagbd7fd9d5: !u 0xbd7fd9d5
+    tagc2ac3213: !u 0xc2ac3213
+    tagd1e9663c: !u 0xd1e9663c
+    tagdac84a6c: !u 0xdac84a6c
+    tage0194f30: !u 0xe0194f30
+    tage13449bf: !u 0xe13449bf
+  yLimitAlgorithm: NoLimit
+'3055275694': {itemCreatingPrice: 0}
+'306327827': {itemCreatingPrice: 0}
+'3071495954': {itemCreatingPrice: 0}
+'3077837642': {itemCreatingPrice: 0}
+'3079865340': {itemCreatingPrice: 0}
+'3082002696': {itemCreatingPrice: 0}
+'3088818363': {itemCreatingPrice: 0}
+'309144480': {itemCreatingPrice: 0}
+'309836022': {itemCreatingPrice: 0}
+'3102695621': {itemCreatingPrice: 0}
+'3108539342': {itemCreatingPrice: 0}
+'3112701324': {itemCreatingPrice: 0}
+'3113973741': {itemCreatingPrice: 0, normal0ItemName01: Item_Shield_037_Broken, normal0ItemName02: Item_Ore_I, normal0ItemName03: Item_Ore_A,
+  normal0ItemNum01: 1, normal0ItemNum02: 5, normal0ItemNum03: 1, normal0StuffNum: 3}
+'3115935629': {itemCreatingPrice: 0}
+'3119126571': {itemCreatingPrice: 0}
+'3124634607': {itemCreatingPrice: 0}
+'3126441265': {itemCreatingPrice: 0}
+'312755413': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_28, normal0ItemName02: Item_Enemy_29, normal0ItemName03: Item_Enemy_30,
+  normal0ItemNum01: 5, normal0ItemNum02: 4, normal0ItemNum03: 1, normal0StuffNum: 3}
+'3127762708': {itemCreatingPrice: 0}
+'312893629': {itemCreatingPrice: 0}
+'313036108': {itemCreatingPrice: 0}
+'3133375819': {itemCreatingPrice: 0}
+'3134672069': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_Steel, normal0ItemNum01: 2,
+  normal0ItemNum02: 3, normal0StuffNum: 2}
+'3137785444': {itemCreatingPrice: 0}
+'3140512610': {itemCreatingPrice: 0}
+'314078417': {itemCreatingPrice: 0}
+'3144682493': {itemCreatingPrice: 0}
+'3147076156': {itemCreatingPrice: 0}
+'3148036714': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_Steel, normal0ItemNum01: 2,
+  normal0ItemNum02: 2, normal0StuffNum: 2}
+'3156070372': {itemCreatingPrice: 0}
+'3161131645': {itemCreatingPrice: 0}
+'3163573754':
+  drops:
+    Normal: [Item_Meat_06]
+    Normal2: [Item_Feather]
+'3167682163': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_43, normal0ItemName02: Item_Ore_Iron, normal0ItemName03: Item_Ore_D,
+  normal0ItemNum01: 1, normal0ItemNum02: 6, normal0ItemNum03: 1, normal0StuffNum: 3}
+'3170457125': {itemCreatingPrice: 0}
+'3183118556': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_Iron, normal0ItemName03: Item_Enemy_03,
+  normal0ItemNum01: 1, normal0ItemNum02: 1, normal0ItemNum03: 1, normal0StuffNum: 3}
+'3185821487': {itemCreatingPrice: 0}
+'3188538333': {itemCreatingPrice: 0}
+'3190116311': {itemCreatingPrice: 0}
+'3190967903': {itemCreatingPrice: 0}
+'3197619537': {itemCreatingPrice: 0}
+'320101738': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_Ancient, normal0ItemName03: Item_FishGet_Z,
+  normal0ItemNum01: 1, normal0ItemNum02: 5, normal0ItemNum03: 1, normal0StuffNum: 3}
+'3201606548': {itemCreatingPrice: 0}
+'3203838964': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Ancient, normal0ItemNum01: 10, normal0StuffNum: 1}
+'3206954369': {itemCreatingPrice: 0}
+'321109606': {itemCreatingPrice: 0}
+'3214694929': {itemCreatingPrice: 0}
+'3215819397': {itemCreatingPrice: 0}
+'3230937962': {itemCreatingPrice: 0}
+'3237116519': {itemCreatingPrice: 0}
+'3239902776': {itemCreatingPrice: 0}
+'3243528906': {itemCreatingPrice: 0}
+'3258015246': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Iron, normal0ItemName02: Item_Ore_Steel, normal0ItemNum01: 3,
+  normal0ItemNum02: 2, normal0StuffNum: 2}
+'3259509400': {itemCreatingPrice: 0}
+'3266098009': {itemCreatingPrice: 0}
+'3267289706': {itemCreatingPrice: 0}
+'3273128818': {itemCreatingPrice: 0}
+'3276979090': {itemCreatingPrice: 0}
+'3277647135': {itemCreatingPrice: 0}
+'3281768266': {itemCreatingPrice: 0}
+'3289844609': {itemCreatingPrice: 0, normal0ItemName01: Animal_Insect_Z, normal0ItemName02: Item_Ore_Silver, normal0ItemName03: Item_PlantGet_E,
+  normal0ItemNum01: 3, normal0ItemNum02: 1, normal0ItemNum03: 2, normal0StuffNum: 3}
+'3292495755': {itemCreatingPrice: 0}
+'3295869430': {itemCreatingPrice: 0}
+'3297419190': {itemCreatingPrice: 0}
+'3300600094': {itemCreatingPrice: 0}
+'3301474431': {itemCreatingPrice: 0}
+'3303167905': {itemCreatingPrice: 0}
+'3303290215': {itemCreatingPrice: 0}
+'3303921730': {itemCreatingPrice: 0}
+'3304459091': {itemCreatingPrice: 0}
+'3307597441': {itemCreatingPrice: 0}
+'3311180311': {itemCreatingPrice: 0}
+'3317790528': {itemCreatingPrice: 0}
+'3329309217': {itemCreatingPrice: 0}
+'3331390376': {itemCreatingPrice: 0}
+'3335835183': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_C, normal0ItemName03: Item_Enemy_17,
+  normal0ItemNum01: 1, normal0ItemNum02: 1, normal0ItemNum03: 5, normal0StuffNum: 3}
+'333697184': {itemCreatingPrice: 0}
+'3344038587': {itemCreatingPrice: 0}
+'3344655510': {itemCreatingPrice: 0}
+'3347816317': {itemCreatingPrice: 0}
+'3349680397': {itemCreatingPrice: 0}
+'33501080': {itemCreatingPrice: 0}
+'3357609239': {itemCreatingPrice: 0}
+'3374023832': {itemCreatingPrice: 0}
+'3375726281': {itemCreatingPrice: 0}
+'3380669604': {itemCreatingPrice: 0}
+'3386086146': {itemCreatingPrice: 0}
+'3388048226': {itemCreatingPrice: 0}
+'3400102340': {itemCreatingPrice: 0}
+'3401431114': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Enemy_01, normal0ItemName03: Item_Enemy_32,
+  normal0ItemNum01: 1, normal0ItemNum02: 3, normal0ItemNum03: 1, normal0StuffNum: 3}
+'3402604872': {itemCreatingPrice: 0}
+'3404003257': {itemCreatingPrice: 0}
+'3412867819': {itemCreatingPrice: 0}
+'3415241765': {itemCreatingPrice: 0}
+'34159039': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Iron, normal0ItemName02: Item_Enemy_03, normal0ItemName03: Item_Enemy_04,
+  normal0ItemNum01: 2, normal0ItemNum02: 1, normal0ItemNum03: 1, normal0StuffNum: 3}
+'3419000549': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_42, normal0ItemName02: Item_Ore_Iron, normal0ItemName03: Item_Ore_C,
+  normal0ItemNum01: 1, normal0ItemNum02: 4, normal0ItemNum03: 1, normal0StuffNum: 3}
+'3422447283': {itemCreatingPrice: 0}
+'3422682866': {itemCreatingPrice: 0}
+'3430366059': {itemCreatingPrice: 0}
+'3432227498': {itemCreatingPrice: 0}
+'3433302780': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Gold, normal0ItemName02: Item_Ore_Silver, normal0ItemNum01: 2,
+  normal0ItemNum02: 2, normal0StuffNum: 2}
+'343513459': {itemCreatingPrice: 0}
+'3436040130': {itemCreatingPrice: 0}
+'3443069817': {itemCreatingPrice: 0}
+'3445523879': {itemCreatingPrice: 0}
+'3452220893': {itemCreatingPrice: 0}
+'3452992595': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_Iron, normal0ItemNum01: 2,
+  normal0ItemNum02: 3, normal0StuffNum: 2}
+'3461331800': {itemCreatingPrice: 0}
+'3466348411': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Gold, normal0ItemName02: Item_Ore_B, normal0ItemNum01: 2,
+  normal0ItemNum02: 1, normal0StuffNum: 2}
+'3468580635': {itemCreatingPrice: 0}
+'3471648957': {itemCreatingPrice: 0}
+'3477915918': {itemCreatingPrice: 0}
+'3481683058': {itemCreatingPrice: 0}
+'3486990212': {itemCreatingPrice: 0}
+'3489167572': {itemCreatingPrice: 0}
+'3493416448': {itemCreatingPrice: 0}
+'3505041955': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Steel, normal0ItemName02: Item_Ore_Gold, normal0ItemNum01: 8,
+  normal0ItemNum02: 2, normal0StuffNum: 2}
+'3506366042': {itemCreatingPrice: 0}
+'3515582268': {itemCreatingPrice: 0}
+'3518071634': {itemCreatingPrice: 0}
+'3522230992': {itemCreatingPrice: 0}
+'3531017130': {itemCreatingPrice: 0}
+'3533424694': {itemCreatingPrice: 0}
+'3537043364': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Iron, normal0ItemName02: Item_Ore_Steel, normal0ItemName03: Item_Ore_Gold,
+  normal0ItemNum01: 1, normal0ItemNum02: 5, normal0ItemNum03: 2, normal0StuffNum: 3}
+'354057455': {itemCreatingPrice: 0}
+'3542763455': {itemCreatingPrice: 0}
+'3546034832': {itemCreatingPrice: 0}
+'3550906635': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_12, normal0ItemName02: Item_Ore_Steel, normal0ItemNum01: 1,
+  normal0ItemNum02: 1, normal0StuffNum: 2}
+'3551409893': {itemCreatingPrice: 0}
+'355464458': {itemCreatingPrice: 0}
+'3555438604': {itemCreatingPrice: 0}
+'3556630287': {itemCreatingPrice: 0}
+'3560700398': {itemCreatingPrice: 0}
+'3561958091': {itemCreatingPrice: 0}
+'3563147210': {itemCreatingPrice: 0}
+'356673149': {itemCreatingPrice: 0}
+'3570093330': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Enemy_07, normal0ItemName03: Item_Enemy_33,
+  normal0ItemNum01: 2, normal0ItemNum02: 4, normal0ItemNum03: 2, normal0StuffNum: 3}
+'3575304115': {itemCreatingPrice: 0}
+'3576970741': {itemCreatingPrice: 0}
+'358073894':
+  aabbMax: {X: 1.14732003, Y: 2.57590008, Z: 0.733887017}
+  aabbMin: {X: -1.14734006, Y: -0.000146000006, Z: -0.666015983}
+  attackPower: 0
+  bfres: TwnObj_AncientOven_A_01
+  boundingForTraverse: 2.57604599
+  bugMask: 3
+  cursorOffsetY: 1.0
+  generalLife: 100
+  instSize: 68132
+  lookAtOffsetY: 0.300000012
+  mainModel: TwnObj_AncientOven_A_02
+  name: TwnObj_AncientOven_A_02
+  profile: MapConstActive
+  rigidBodyCenterY: 1.11596
+  slink: TwnObj_AncientOven_A_01
+  sortKey: -2
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: ''
+  traverseDist: 200.0
+  xlink: Npc_NoFootstep
+  yLimitAlgorithm: NoLimit
+'3586079677': {itemCreatingPrice: 0}
+'3588511061': {itemCreatingPrice: 0}
+'3596089423': {itemCreatingPrice: 0}
+'3596672078': {itemCreatingPrice: 0}
+'3599003487': {itemCreatingPrice: 0}
+'3600629449': {itemCreatingPrice: 0}
+'3601723158': {itemCreatingPrice: 0}
+'3608493183': {itemCreatingPrice: 0}
+'3615979066': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Iron, normal0ItemName02: Item_Ore_B, normal0ItemNum01: 2,
+  normal0ItemNum02: 1, normal0StuffNum: 2}
+'3616632192': {itemCreatingPrice: 0}
+'3620551830': {itemCreatingPrice: 0}
+'3624390521': {itemCreatingPrice: 0}
+'3630163821': {itemCreatingPrice: 0}
+'3631638308': {itemCreatingPrice: 0}
+'3635394146': {itemCreatingPrice: 0}
+'3636288509': {itemCreatingPrice: 0}
+'3647521669': {itemCreatingPrice: 0}
+'3647957195': {itemCreatingPrice: 0}
+'364832404':
+  aabbMax: {X: 0.329863012, Y: 0.504700005, Z: 0.258736014}
+  aabbMin: {X: -0.299656004, Y: 0.0, Z: -0.306730986}
+  bfres: Item_Ore_Gold
+  boundingForTraverse: 0.504700005
+  bugMask: 1
+  cursorOffsetY: 0.349999994
+  elink: GetItem
+  generalLife: 100
+  instSize: 50804
+  itemBuyingPrice: 720
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 230
+  itemStainColor: 3
+  itemUseIconActorName: ''
+  mainModel: Item_Ore_Gold
+  motorcycleEnergy: {add: 75.0}
+  name: Item_Ore_Gold
+  profile: Item
+  rigidBodyCenterY: 0.100000001
+  sortKey: 36060
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: ''
+  tags:
+    tag5de93bac: 1575566252
+    tag85c817c3: !u 0x85c817c3
+    tag9b44906f: !u 0x9b44906f
+    tag9e8d2a01: !u 0x9e8d2a01
+    tagb51794dc: !u 0xb51794dc
+    tagbd7fd9d5: !u 0xbd7fd9d5
+    tagc2ac3213: !u 0xc2ac3213
+    tagd1e9663c: !u 0xd1e9663c
+    tagdac84a6c: !u 0xdac84a6c
+    tage0194f30: !u 0xe0194f30
+    tage13449bf: !u 0xe13449bf
+  yLimitAlgorithm: NoLimit
+'364886369': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Enemy_16, normal0ItemName03: Item_Feather,
+  normal0ItemNum01: 2, normal0ItemNum02: 12, normal0ItemNum03: 3, normal0StuffNum: 3}
+'3650028075': {itemCreatingPrice: 0}
+'3654700504': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Iron, normal0ItemName02: Item_Ore_Ancient, normal0ItemNum01: 2,
+  normal0ItemNum02: 4, normal0StuffNum: 2}
+'3663446':
+  drops:
+    Normal: [Item_Fruit_L]
+    Normal2: [Item_Feather]
+'3665886731': {itemCreatingPrice: 0}
+'3668779445': {itemCreatingPrice: 0}
+'3669820236': {itemCreatingPrice: 0}
+'3677700938': {itemCreatingPrice: 0}
+'3679160974': {itemCreatingPrice: 0}
+'3686877057': {itemCreatingPrice: 0}
+'3690931698': {itemCreatingPrice: 0}
+'3691470201': {itemCreatingPrice: 0}
+'369991598': {itemCreatingPrice: 0}
+'3708338628': {itemCreatingPrice: 0}
+'3708566208': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_PlantGet_A, normal0ItemNum01: 1,
+  normal0ItemNum02: 1, normal0StuffNum: 2}
+'3710144202': {itemCreatingPrice: 0}
+'3710286725': {itemCreatingPrice: 0}
+'3724109536': {itemCreatingPrice: 0}
+'372504800': {itemCreatingPrice: 0}
+'3744605044': {itemCreatingPrice: 0}
+'3745301019': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_I, normal0ItemName03: Item_Feather,
+  normal0ItemNum01: 2, normal0ItemNum02: 4, normal0ItemNum03: 6, normal0StuffNum: 3}
+'3747514407': {itemCreatingPrice: 0}
+'375009613': {itemCreatingPrice: 0}
+'3754950510': {itemCreatingPrice: 0}
+'3756110948': {itemCreatingPrice: 0}
+'3756730953': {itemCreatingPrice: 0}
+'3758045948': {itemCreatingPrice: 0}
+'3761112122': {itemCreatingPrice: 0}
+'3772052825': {itemCreatingPrice: 0}
+'3773078822': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemNum01: 2, normal0StuffNum: 1}
+'377863140': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Iron, normal0ItemName02: Item_Ore_Steel, normal0ItemName03: Item_Ore_Gold,
+  normal0ItemNum01: 3, normal0ItemNum02: 4, normal0ItemNum03: 2, normal0StuffNum: 3}
+'3779238868': {itemCreatingPrice: 0}
+'3780510181': {itemCreatingPrice: 0}
+'3783854205': {itemCreatingPrice: 0}
+'3784371081': {itemCreatingPrice: 0}
+'3787033620': {itemCreatingPrice: 0}
+'3792645250': {itemCreatingPrice: 0}
+'3794229384': {itemCreatingPrice: 0}
+'3800990748': {itemCreatingPrice: 0}
+'3803923349': {itemCreatingPrice: 0}
+'380427385': {itemCreatingPrice: 0}
+'3806122145': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_Iron, normal0ItemNum01: 4,
+  normal0ItemNum02: 2, normal0StuffNum: 2}
+'3810661854': {itemCreatingPrice: 0}
+'3812537932': {itemCreatingPrice: 0}
+'3815557406': {itemCreatingPrice: 0}
+'3817333200': {itemCreatingPrice: 0}
+'3818603732': {itemCreatingPrice: 0}
+'3820594667': {itemCreatingPrice: 0}
+'3841360077': {itemCreatingPrice: 0}
+'3843347124': {itemCreatingPrice: 0}
+'3845068369': {itemCreatingPrice: 0}
+'3847709054': {itemCreatingPrice: 0}
+'3853587640': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Enemy_01, normal0ItemName03: Item_Enemy_32,
+  normal0ItemNum01: 2, normal0ItemNum02: 5, normal0ItemNum03: 1, normal0StuffNum: 3}
+'3856041868': {itemCreatingPrice: 0}
+'3856875525': {itemCreatingPrice: 0}
+'3867663729': {itemCreatingPrice: 0}
+'3867939945': {itemCreatingPrice: 0, normal0ItemName01: Item_Bow_028_Broken, normal0ItemName02: Obj_FireWoodBundle, normal0ItemName03: Item_Ore_A,
+  normal0ItemNum01: 1, normal0ItemNum02: 5, normal0ItemNum03: 1, normal0StuffNum: 3}
+'3868772634': {itemCreatingPrice: 0}
+'3872671757': {itemCreatingPrice: 0}
+'3875352464': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_Steel, normal0ItemName03: Item_Feather,
+  normal0ItemNum01: 2, normal0ItemNum02: 1, normal0ItemNum03: 7, normal0StuffNum: 3}
+'3882545860': {itemCreatingPrice: 0}
+'3887694585': {itemCreatingPrice: 0}
+'3894725284': {itemCreatingPrice: 0}
+'3895843451': {itemCreatingPrice: 0}
+'3896460374': {itemCreatingPrice: 0}
+'390617797': {itemCreatingPrice: 0}
+'3909384099': {itemCreatingPrice: 0}
+'3910929869': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Enemy_01, normal0ItemName03: Item_Enemy_32,
+  normal0ItemNum01: 2, normal0ItemNum02: 5, normal0ItemNum03: 2, normal0StuffNum: 3}
+'3914518797': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Iron, normal0ItemName02: Item_Mushroom_D, normal0ItemNum01: 2,
+  normal0ItemNum02: 2, normal0StuffNum: 2}
+'3914613603':
+  drops:
+    Normal: [Item_Fruit_L]
+    Normal2: [Item_Feather]
+'3918383885':
+  aabbMax: {X: 1.03817999, Y: 2.91346002, Z: 1.24298}
+  aabbMin: {X: -0.901905, Y: -0.256045014, Z: -1.00242996}
+  attackPower: 0
+  bfres: Obj_Mineral_A
+  boundingForTraverse: 3.16950488
+  bugMask: 3
+  cursorOffsetY: 1.5
+  drops:
+    Normal: [Item_Ore_Eldin, Item_Ore_Iron, Item_Ore_Coal, Item_Ore_Gold, Item_Ore_Silver, Item_Ore_F, Item_Ore_I]
+  elink: Obj_Mineral_B_01
+  farModelCulling:
+    center: {X: 0.0, Y: 1.5, Z: 0.0}
+    height: 1.5
+    radius: 1.29999995
+  generalLife: 150
+  homeArea:
+  - {name: EldinCanyon}
+  - {name: EastHateru}
+  - {name: HeburaMountains}
+  instSize: 47120
+  mainModel: Obj_Mineral_B_01
+  name: Obj_Mineral_B_01_DeathMountain
+  pictureBookLiveSpot1: 20
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: MapDynamicPassive
+  rigidBodyCenterY: 1.05093002
+  slink: Mineral
+  sortKey: 71001
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: ''
+  tags: {tag4186e30f: 1099358991, tag9e8d2a01: !u 0x9e8d2a01, tagbb8d80c2: !u 0xbb8d80c2}
+  yLimitAlgorithm: NoLimit
+'3919532339': {itemCreatingPrice: 0}
+'3925975090': {itemCreatingPrice: 0}
+'3928463058': {itemCreatingPrice: 0}
+'393410842': {itemCreatingPrice: 0}
+'3934583132':
+  aabbMax: {X: 1.14732003, Y: 2.57590008, Z: 0.733887017}
+  aabbMin: {X: -1.14734006, Y: -0.000146000006, Z: -0.666015983}
+  attackPower: 0
+  bfres: TwnObj_AncientOven_A_01
+  boundingForTraverse: 2.57604599
+  bugMask: 3
+  cursorOffsetY: 1.0
+  generalLife: 100
+  instSize: 68132
+  lookAtOffsetY: 0.300000012
+  mainModel: TwnObj_AncientOven_A_02
+  name: TwnObj_AncientOven_A_02_Lsword
+  profile: MapConstActive
+  rigidBodyCenterY: 1.11596
+  slink: TwnObj_AncientOven_A_01
+  sortKey: -2
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: ''
+  traverseDist: 200.0
+  xlink: Npc_NoFootstep
+  yLimitAlgorithm: NoLimit
+'3934929701': {itemCreatingPrice: 0}
+'3943143287': {itemCreatingPrice: 0}
+'3953170192': {itemCreatingPrice: 0}
+'39546114': {itemCreatingPrice: 0}
+'3954794665': {itemCreatingPrice: 0}
+'3964996654': {itemCreatingPrice: 0}
+'3969442017': {itemCreatingPrice: 0}
+'3972879113': {itemCreatingPrice: 0}
+'3974869880': {itemCreatingPrice: 0}
+'3981071051': {itemCreatingPrice: 0}
+'3982256610': {itemCreatingPrice: 0}
+'398373937': {itemCreatingPrice: 0}
+'398397835': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_13, normal0ItemName02: Item_Ore_Steel, normal0ItemName03: Item_Ore_Eldin,
+  normal0ItemNum01: 4, normal0ItemNum02: 10, normal0ItemNum03: 4, normal0StuffNum: 3}
+'3984897671': {itemCreatingPrice: 0}
+'3988644276': {itemCreatingPrice: 0}
+'3992559084': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Fruit_E, normal0ItemNum01: 1,
+  normal0ItemNum02: 2, normal0StuffNum: 2}
+'4000434644': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_Iron, normal0ItemNum01: 1,
+  normal0ItemNum02: 7, normal0StuffNum: 2}
+'400825365': {itemCreatingPrice: 0}
+'4008875306': {itemCreatingPrice: 0}
+'4008996879': {itemCreatingPrice: 0}
+'4011779092': {itemCreatingPrice: 0}
+'4015529570': {itemCreatingPrice: 0}
+'401722699': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_13, normal0ItemName02: Item_Ore_Steel, normal0ItemNum01: 1,
+  normal0ItemNum02: 3, normal0StuffNum: 2}
+'4020493650': {itemCreatingPrice: 0}
+'402128994': {itemCreatingPrice: 0}
+'4022456427': {itemCreatingPrice: 0}
+'4027006092': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_13, normal0ItemName02: Item_Ore_Steel, normal0ItemNum01: 1,
+  normal0ItemNum02: 4, normal0StuffNum: 2}
+'4030737765': {itemCreatingPrice: 0}
+'4031373388': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_13, normal0ItemName02: Item_Ore_Steel, normal0ItemName03: Item_Ore_Eldin,
+  normal0ItemNum01: 4, normal0ItemNum02: 8, normal0ItemNum03: 2, normal0StuffNum: 3}
+'4035407811': {itemCreatingPrice: 0}
+'4048334106': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_Steel, normal0ItemName03: Item_PlantGet_G,
+  normal0ItemNum01: 3, normal0ItemNum02: 2, normal0ItemNum03: 8, normal0StuffNum: 3}
+'4055216809': {itemCreatingPrice: 0}
+'4055494970': {itemCreatingPrice: 0}
+'405712187': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Enemy_15, normal0ItemName03: Item_Feather,
+  normal0ItemNum02: 3, normal0ItemNum03: 1, normal0StuffNum: 3}
+'405735471': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_Gold, normal0ItemName03: Item_PlantGet_H,
+  normal0ItemNum01: 2, normal0ItemNum02: 6, normal0ItemNum03: 10, normal0StuffNum: 3}
+'4070724072': {itemCreatingPrice: 0}
+'4076489594': {itemCreatingPrice: 0}
+'4079656122': {itemCreatingPrice: 0}
+'4080838547': {itemCreatingPrice: 0}
+'4098316451': {itemCreatingPrice: 0}
+'4108496045': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_Ancient, normal0ItemName03: Item_FishGet_Z,
+  normal0ItemNum01: 1, normal0ItemNum02: 2, normal0ItemNum03: 1, normal0StuffNum: 3}
+'4120350563': {itemCreatingPrice: 0}
+'4129344535': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Enemy_15, normal0ItemName03: Item_Feather,
+  normal0ItemNum01: 2, normal0ItemNum02: 12, normal0ItemNum03: 3, normal0StuffNum: 3}
+'4135138663': {itemCreatingPrice: 0}
+'4135866970': {itemCreatingPrice: 0}
+'4140866291': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Enemy_15, normal0ItemName03: Item_Feather,
+  normal0ItemNum01: 1, normal0ItemNum02: 4, normal0ItemNum03: 1, normal0StuffNum: 3}
+'4141381296': {itemCreatingPrice: 0}
+'4146981244': {itemCreatingPrice: 0}
+'4150982805': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Enemy_07, normal0ItemName03: Item_Enemy_33,
+  normal0ItemNum01: 2, normal0ItemNum02: 5, normal0ItemNum03: 2, normal0StuffNum: 3}
+'4159028892':
+  drops:
+    Normal: [Item_Meat_06]
+    Normal2: [Item_Feather]
+'4159284331': {itemCreatingPrice: 0}
+'4161011330': {itemCreatingPrice: 0}
+'416683932': {itemCreatingPrice: 0}
+'4171308370': {itemCreatingPrice: 0}
+'4171414869': {itemCreatingPrice: 0}
+'417266655': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Enemy_15, normal0ItemName03: Item_Feather,
+  normal0ItemNum01: 4, normal0ItemNum02: 25, normal0ItemNum03: 6, normal0StuffNum: 3}
+'4176715269': {itemCreatingPrice: 0}
+'4180814937': {itemCreatingPrice: 0}
+'4185381961': {itemCreatingPrice: 0}
+'4189130810': {itemCreatingPrice: 0}
+'4193673550': {itemCreatingPrice: 0}
+'4194282599': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_28, normal0ItemName02: Item_Enemy_29, normal0ItemName03: Item_Enemy_30,
+  normal0ItemNum01: 5, normal0ItemNum02: 4, normal0ItemNum03: 1, normal0StuffNum: 3}
+'4198048927': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_C, normal0ItemName03: Item_Enemy_17,
+  normal0ItemNum01: 1, normal0ItemNum02: 2, normal0ItemNum03: 10, normal0StuffNum: 3}
+'4202166367': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Iron, normal0ItemName02: Item_Ore_Ancient, normal0ItemNum01: 1,
+  normal0ItemNum02: 15, normal0StuffNum: 2}
+'4202722709': {itemCreatingPrice: 0}
+'4203408312': {itemCreatingPrice: 0}
+'4204581009': {itemCreatingPrice: 0}
+'4209755801': {itemCreatingPrice: 0}
+'4213281830': {itemCreatingPrice: 0}
+'4216063825': {itemCreatingPrice: 0}
+'421759056': {itemCreatingPrice: 0}
+'4222736461': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Enemy_16, normal0ItemName03: Item_Feather,
+  normal0ItemNum02: 3, normal0ItemNum03: 1, normal0StuffNum: 3}
+'4227439953': {itemCreatingPrice: 0}
+'4230071112': {itemCreatingPrice: 0}
+'4231699182': {itemCreatingPrice: 0}
+'4232859711': {itemCreatingPrice: 0}
+'4239009273': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Iron, normal0ItemName02: Item_Ore_Steel, normal0ItemNum01: 2,
+  normal0ItemNum02: 2, normal0StuffNum: 2}
+'4246915071': {itemCreatingPrice: 0}
+'4260213132': {itemCreatingPrice: 0}
+'426023353': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemNum01: 3, normal0StuffNum: 1}
+'4267580566': {itemCreatingPrice: 0}
+'4278786725': {itemCreatingPrice: 0}
+'4285414043': {itemCreatingPrice: 0}
+'4288095528': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_PlantGet_A, normal0ItemNum01: 1,
+  normal0ItemNum02: 2, normal0StuffNum: 2}
+'4291787084': {itemCreatingPrice: 0}
+'4291955834': {itemCreatingPrice: 0}
+'4293271249': {itemCreatingPrice: 0}
+'4294966565': {itemCreatingPrice: 0}
+'434619719': {itemCreatingPrice: 0}
+'439304657': {itemCreatingPrice: 0}
+'441818251': {itemCreatingPrice: 0}
+'442434214': {itemCreatingPrice: 0}
+'451726721': {itemCreatingPrice: 0}
+'454166782': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_12, normal0ItemName02: Item_Ore_Steel, normal0ItemName03: Item_Ore_Eldin,
+  normal0ItemNum01: 4, normal0ItemNum02: 6, normal0ItemNum03: 2, normal0StuffNum: 3}
+'454709406':
+  aabbMax: {X: 0.297684997, Y: 0.537779987, Z: 0.247297004}
+  aabbMin: {X: -0.298022002, Y: 0.0, Z: -0.291732997}
+  bfres: Item_Ore_Ancient
+  boundingForTraverse: 0.537779987
+  bugMask: 1
+  cursorOffsetY: 0.349999994
+  elink: GetItem
+  generalLife: 100
+  instSize: 50804
+  itemBuyingPrice: 840
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 195
+  itemStainColor: 2
+  itemUseIconActorName: ''
+  mainModel: Item_Ore_Ancient
+  motorcycleEnergy: {add: 75.0}
+  name: Item_Ore_Ancient
+  normal0ItemName01: Item_Enemy_26
+  normal0ItemName02: Item_Enemy_29
+  normal0ItemName03: Item_Enemy_28
+  normal0ItemNum01: 1
+  normal0ItemNum02: 1
+  normal0ItemNum03: 2
+  normal0StuffNum: 3
+  profile: Item
+  rigidBodyCenterY: 0.100000001
+  sortKey: 36070
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: ''
+  tags:
+    tag5de93bac: 1575566252
+    tag85c817c3: !u 0x85c817c3
+    tag9b44906f: !u 0x9b44906f
+    tag9e8d2a01: !u 0x9e8d2a01
+    tagb51794dc: !u 0xb51794dc
+    tagbd7fd9d5: !u 0xbd7fd9d5
+    tagc2ac3213: !u 0xc2ac3213
+    tagd1e9663c: !u 0xd1e9663c
+    tagdac84a6c: !u 0xdac84a6c
+    tage0194f30: !u 0xe0194f30
+    tage13449bf: !u 0xe13449bf
+  yLimitAlgorithm: NoLimit
+'463072847': {itemCreatingPrice: 0}
+'463353418': {itemCreatingPrice: 0}
+'46752911': {itemCreatingPrice: 0}
+'47510452': {itemCreatingPrice: 0}
+'484130852': {itemCreatingPrice: 0}
+'485343298': {itemCreatingPrice: 0}
+'485763670': {itemCreatingPrice: 0}
+'488963478': {itemCreatingPrice: 0}
+'489866943': {itemCreatingPrice: 0}
+'494995864': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Iron, normal0ItemName02: Item_Ore_Ancient, normal0ItemNum01: 1,
+  normal0ItemNum02: 7, normal0StuffNum: 2}
+'500214245': {itemCreatingPrice: 0}
+'50212310': {itemCreatingPrice: 0}
+'503930272': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_28, normal0ItemName02: Item_Enemy_29, normal0ItemName03: Item_Enemy_30,
+  normal0ItemNum01: 7, normal0ItemNum02: 6, normal0ItemNum03: 1, normal0StuffNum: 3}
+'505474862': {itemCreatingPrice: 0}
+'508447817': {itemCreatingPrice: 0}
+'510497343': {itemCreatingPrice: 0}
+'51058287':
+  aabbMax: {X: 1.03817999, Y: 2.55201006, Z: 1.01002002}
+  aabbMin: {X: -0.886066973, Y: -0.256045014, Z: -0.935239017}
+  attackPower: 0
+  bfres: Obj_Mineral_A
+  boundingForTraverse: 2.80805492
+  bugMask: 3
+  cursorOffsetY: 1.5
+  drops:
+    Normal:
+    - Item_Ore_B
+    - Item_Ore_A
+    - Item_Ore_F
+    - Item_Ore_C
+    - Item_Ore_D
+    - Item_Ore_E
+    - Item_Ore_H
+    - Item_Ore_I
+    - Item_Ore_Iron
+    - Item_Ore_Coal
+    - Item_Ore_Gold
+    - Item_Ore_Silver
+    - Item_Ore_Eldin
+  elink: Obj_Mineral_A_01
+  farModelCulling:
+    center: {X: 0.0, Y: 1.29999995, Z: 0.0}
+    height: 1.29999995
+    radius: 1.20000005
+  generalLife: 100
+  homeArea:
+  - {name: EldinCanyon}
+  - {name: EastHateru}
+  - {name: HeburaMountains}
+  instSize: 47120
+  mainModel: Obj_Mineral_A_01
+  name: Obj_Mineral_A_01_DeathMountain
+  pictureBookLiveSpot1: 20
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: MapDynamicPassive
+  rigidBodyCenterY: 1.05093002
+  slink: Mineral
+  sortKey: 71000
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: Obj_Mineral_A_01
+  tags: {tag4186e30f: 1099358991, tag9e8d2a01: !u 0x9e8d2a01, tagbb8d80c2: !u 0xbb8d80c2}
+  yLimitAlgorithm: NoLimit
+'512360798': {itemCreatingPrice: 0}
+'523499471': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Steel, normal0ItemName02: Item_Ore_Silver, normal0ItemName03: Item_Ore_E,
+  normal0ItemNum01: 2, normal0ItemNum02: 1, normal0ItemNum03: 1, normal0StuffNum: 3}
+'524471350': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Eldin, normal0ItemName02: Item_Ore_Steel, normal0ItemName03: Item_PlantGet_G,
+  normal0ItemNum01: 2, normal0ItemNum02: 10, normal0ItemNum03: 12, normal0StuffNum: 3}
+'530341245': {itemCreatingPrice: 0}
+'532123670': {itemCreatingPrice: 0}
+'532235295': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_FishGet_Z, normal0ItemNum01: 4,
+  normal0ItemNum02: 2, normal0StuffNum: 2}
+'532403077': {itemCreatingPrice: 0}
+'539504452': {itemCreatingPrice: 0}
+'541186676': {itemCreatingPrice: 0}
+'546448983': {itemCreatingPrice: 0}
+'54801383': {itemCreatingPrice: 0}
+'55119488':
+  aabbMax: {X: 0.544942975, Y: 0.529404998, Z: 3.16336989}
+  aabbMin: {X: -0.539170027, Y: -0.0370710008, Z: -1.09126997}
+  bfres: TwnObj_City_Goron_A
+  boundingForTraverse: 0.566475987
+  bugMask: 0
+  cursorOffsetY: 0.5
+  instSize: 17396
+  mainModel: TwnObj_City_GoronSmithWorkbench_A_01
+  name: TwnObj_Anvil
+  profile: MapConstActive
+  sortKey: 1
+  yLimitAlgorithm: NoLimit
+'551766417': {itemCreatingPrice: 0}
+'551949862': {itemCreatingPrice: 0}
+'553342358': {itemCreatingPrice: 0}
+'55707854': {itemCreatingPrice: 0}
+'564758460':
+  aabbMax: {X: 0.297684997, Y: 0.510590017, Z: 0.294759005}
+  aabbMin: {X: -0.297899008, Y: 0.0, Z: -0.251148999}
+  bfres: Item_Ore_Coal
+  boundingForTraverse: 0.510590017
+  bugMask: 1
+  cursorOffsetY: 0.349999994
+  elink: GetItem
+  generalLife: 100
+  instSize: 50804
+  itemBuyingPrice: 1040
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 30
+  itemStainColor: 1
+  itemUseIconActorName: ''
+  mainModel: Item_Ore_Coal
+  motorcycleEnergy: {add: 75.0}
+  name: Item_Ore_Coal
+  profile: Item
+  rigidBodyCenterY: 0.100000001
+  sortKey: 36080
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: ''
+  tags:
+    tag5de93bac: 1575566252
+    tag85c817c3: !u 0x85c817c3
+    tag9b44906f: !u 0x9b44906f
+    tag9e8d2a01: !u 0x9e8d2a01
+    tagb51794dc: !u 0xb51794dc
+    tagbd7fd9d5: !u 0xbd7fd9d5
+    tagc2ac3213: !u 0xc2ac3213
+    tagd1e9663c: !u 0xd1e9663c
+    tagdac84a6c: !u 0xdac84a6c
+    tage0194f30: !u 0xe0194f30
+    tage13449bf: !u 0xe13449bf
+  yLimitAlgorithm: NoLimit
+'571449310': {itemCreatingPrice: 0}
+'582698059': {itemCreatingPrice: 0}
+'583771387': {itemCreatingPrice: 0}
+'592190394': {itemCreatingPrice: 0}
+'596367368': {itemCreatingPrice: 0}
+'596939880':
+  aabbMax: {X: 0.297684997, Y: 0.510590017, Z: 0.294759005}
+  aabbMin: {X: -0.297899008, Y: 0.0, Z: -0.251148999}
+  bfres: Weapon_Lsword_054
+  boundingForTraverse: 0.510590017
+  bugMask: 1
+  cursorOffsetY: 0.349999994
+  elink: GetItem
+  generalLife: 100
+  instSize: 50804
+  itemBuyingPrice: 1040
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 260
+  itemStainColor: 1
+  itemUseIconActorName: Weapon_Lsword_054
+  mainModel: Weapon_Lsword_054
+  motorcycleEnergy: {add: 75.0}
+  name: Item_Lsword_054_Broken
+  profile: Item
+  rigidBodyCenterY: 0.100000001
+  sortKey: 36080
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: ''
+  tags:
+    tag5de93bac: 1575566252
+    tag85c817c3: !u 0x85c817c3
+    tag9b44906f: !u 0x9b44906f
+    tag9e8d2a01: !u 0x9e8d2a01
+    tagb51794dc: !u 0xb51794dc
+    tagbd7fd9d5: !u 0xbd7fd9d5
+    tagc2ac3213: !u 0xc2ac3213
+    tagd1e9663c: !u 0xd1e9663c
+    tagdac84a6c: !u 0xdac84a6c
+    tage0194f30: !u 0xe0194f30
+    tage13449bf: !u 0xe13449bf
+  yLimitAlgorithm: NoLimit
+'600495345': {itemCreatingPrice: 0}
+'607985810': {itemCreatingPrice: 0}
+'614928616': {itemCreatingPrice: 0}
+'615766374': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemNum01: 1, normal0StuffNum: 1}
+'622108254': {itemCreatingPrice: 0}
+'62349851': {itemCreatingPrice: 0}
+'627203015': {itemCreatingPrice: 0}
+'629764873': {itemCreatingPrice: 0}
+'636487583': {itemCreatingPrice: 0}
+'640642107': {itemCreatingPrice: 0}
+'652270833': {itemCreatingPrice: 0}
+'657202797': {itemCreatingPrice: 0}
+'657826406': {itemCreatingPrice: 0}
+'659974341': {itemCreatingPrice: 0}
+'663653768': {itemCreatingPrice: 0}
+'66583744': {itemCreatingPrice: 0}
+'668856878': {itemCreatingPrice: 0}
+'671081038': {itemCreatingPrice: 0}
+'673673523': {itemCreatingPrice: 0}
+'673813110': {itemCreatingPrice: 0}
+'679435021': {itemCreatingPrice: 0}
+'689552704': {itemCreatingPrice: 0}
+'694131607': {itemCreatingPrice: 0}
+'69859326': {itemCreatingPrice: 0}
+'706308781': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_PlantGet_F, normal0ItemNum01: 1,
+  normal0ItemNum02: 4, normal0StuffNum: 2}
+'711400281':
+  aabbMax: {X: 0.297684997, Y: 0.460034996, Z: 0.247159004}
+  aabbMin: {X: -0.274228007, Y: 0.0, Z: -0.251148999}
+  bfres: Item_Ore_Iron
+  boundingForTraverse: 0.460034996
+  bugMask: 1
+  cursorOffsetY: 0.300000012
+  elink: GetItem
+  generalLife: 100
+  instSize: 50804
+  itemBuyingPrice: 240
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 45
+  itemStainColor: 13
+  itemUseIconActorName: ''
+  mainModel: Item_Ore_Iron
+  motorcycleEnergy: {add: 75.0}
+  name: Item_Ore_Iron
+  profile: Item
+  rigidBodyCenterY: 0.100000001
+  sortKey: 36040
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: ''
+  tags:
+    tag0ff61a01: 267786753
+    tag5de93bac: 1575566252
+    tag85c817c3: !u 0x85c817c3
+    tag9b44906f: !u 0x9b44906f
+    tag9e8d2a01: !u 0x9e8d2a01
+    tagb51794dc: !u 0xb51794dc
+    tagbd7fd9d5: !u 0xbd7fd9d5
+    tagc2ac3213: !u 0xc2ac3213
+    tagd1e9663c: !u 0xd1e9663c
+    tagdac84a6c: !u 0xdac84a6c
+    tage0194f30: !u 0xe0194f30
+    tage13449bf: !u 0xe13449bf
+  yLimitAlgorithm: NoLimit
+'717676883': {itemCreatingPrice: 0}
+'720123533': {itemCreatingPrice: 0}
+'724275117': {itemCreatingPrice: 0}
+'726858555': {itemCreatingPrice: 0}
+'742342434': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_42, normal0ItemName02: Item_Ore_Iron, normal0ItemName03: Item_Ore_C,
+  normal0ItemNum01: 1, normal0ItemNum02: 8, normal0ItemNum03: 2, normal0StuffNum: 3}
+'742804404': {itemCreatingPrice: 0}
+'747641127': {itemCreatingPrice: 0}
+'755340621': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_Iron, normal0ItemName03: Item_Enemy_04,
+  normal0ItemNum01: 1, normal0ItemNum02: 2, normal0ItemNum03: 3, normal0StuffNum: 3}
+'763490964': {itemCreatingPrice: 0}
+'763550808': {itemCreatingPrice: 0}
+'766190922': {itemCreatingPrice: 0}
+'77215961': {itemCreatingPrice: 0}
+'773620052': {itemCreatingPrice: 0}
+'778812933': {itemCreatingPrice: 0}
+'782641103': {itemCreatingPrice: 0}
+'789749524': {itemCreatingPrice: 0}
+'793826103': {itemCreatingPrice: 0}
+'794654863': {itemCreatingPrice: 0}
+'799448764': {itemCreatingPrice: 0}
+'804315371':
+  aabbMax: {X: 1.14732003, Y: 2.57590008, Z: 0.733887017}
+  aabbMin: {X: -1.14734006, Y: -0.000146000006, Z: -0.666015983}
+  attackPower: 0
+  bfres: TwnObj_AncientOven_A_01
+  boundingForTraverse: 2.57604599
+  bugMask: 3
+  cursorOffsetY: 1.0
+  generalLife: 100
+  instSize: 68132
+  lookAtOffsetY: 0.300000012
+  mainModel: TwnObj_AncientOven_A_02
+  name: TwnObj_AncientOven_A_02_Spear
+  profile: MapConstActive
+  rigidBodyCenterY: 1.11596
+  slink: TwnObj_AncientOven_A_01
+  sortKey: -2
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: ''
+  traverseDist: 200.0
+  xlink: Npc_NoFootstep
+  yLimitAlgorithm: NoLimit
+'81060889': {itemCreatingPrice: 0}
+'823509521': {itemCreatingPrice: 0}
+'824513486': {itemCreatingPrice: 0}
+'826032728': {itemCreatingPrice: 0}
+'828664396': {itemCreatingPrice: 0}
+'834772546': {itemCreatingPrice: 0}
+'836360210': {itemCreatingPrice: 0}
+'843696762': {itemCreatingPrice: 0}
+'845117574': {itemCreatingPrice: 0}
+'855792620': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Enemy_03, normal0ItemName03: Item_PlantGet_A,
+  normal0ItemNum01: 1, normal0ItemNum02: 1, normal0ItemNum03: 2, normal0StuffNum: 3}
+'855811200': {itemCreatingPrice: 0}
+'858402790': {itemCreatingPrice: 0}
+'860145063': {itemCreatingPrice: 0}
+'871827404': {itemCreatingPrice: 0}
+'874423308': {itemCreatingPrice: 0, normal0ItemName01: Item_Enemy_12, normal0ItemName02: Item_Ore_Steel, normal0ItemName03: Item_Ore_Eldin,
+  normal0ItemNum01: 4, normal0ItemNum02: 4, normal0ItemNum03: 2, normal0StuffNum: 3}
+'87468315': {itemCreatingPrice: 0}
+'879730677': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemName02: Item_Ore_Iron, normal0ItemName03: Item_PlantGet_A,
+  normal0ItemNum01: 2, normal0ItemNum02: 3, normal0ItemNum03: 5, normal0StuffNum: 3}
+'882557909': {itemCreatingPrice: 0}
+'891555427': {itemCreatingPrice: 0, normal0ItemName01: Item_Ore_Iron, normal0ItemName02: Item_Ore_Steel, normal0ItemName03: Item_Ore_Gold,
+  normal0ItemNum01: 1, normal0ItemNum02: 9, normal0ItemNum03: 3, normal0StuffNum: 3}
+'893067878': {itemCreatingPrice: 0}
+'905397687': {itemCreatingPrice: 0}
+'906604117': {itemCreatingPrice: 0}
+'913835528': {itemCreatingPrice: 0}
+'944337509': {itemCreatingPrice: 0}
+'945563108': {itemCreatingPrice: 0}
+'948571763': {itemCreatingPrice: 0}
+'949182437': {itemCreatingPrice: 0}
+'950242874': {itemCreatingPrice: 0}
+'962259765': {itemCreatingPrice: 0}
+'965865263': {itemCreatingPrice: 0}
+'968616935':
+  drops:
+    Normal: [Item_Meat_06]
+    Normal2: [Item_Feather]
+'968895746': {itemCreatingPrice: 0}
+'977137561': {itemCreatingPrice: 0}
+'984701999': {itemCreatingPrice: 0}
+'986000446': {itemCreatingPrice: 0, normal0ItemName01: Obj_FireWoodBundle, normal0ItemNum01: 2, normal0StuffNum: 1}
+'991211167': {itemCreatingPrice: 0}
+'995848105': {itemCreatingPrice: 0}

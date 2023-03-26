@@ -1,0 +1,247 @@
+2074637978:
+  attackPower: 50
+  bugMask: 3
+  elink: PlayerBeam
+  instSize: 14012
+  itemBuyingPrice: -1
+  itemCreatingPrice: -1
+  itemSaleRevivalCount: -1
+  itemSellingPrice: -1
+  itemStainColor: -1
+  itemUseIconActorName: ''
+  name: LylahBeam
+  profile: Bullet
+  slink: PlayerBeam
+  sortKey: 3
+  tags: {tagc43b7064: !u 0xc43b7064}
+  xlink: OnlyThruDamageToObj
+  yLimitAlgorithm: NoLimit
+2342996027:
+  Chemical: {Capaciter: 1}
+  aabbMax: {X: 0.08000200241804123, Y: 0.0757559984922409, Z: 0.7370759844779968}
+  aabbMin: {X: -0.07854799926280975, Y: -0.0757559984922409, Z: -0.17548100650310516}
+  attackPower: 60
+  bfres: Weapon_Sword_Lylah
+  boundingForTraverse: 0.1515129953622818
+  bugMask: 3
+  cursorOffsetY: 0.30000001192092896
+  elink: Weapon_Lsword_018
+  generalLife: 40
+  homeArea:
+  - {name: GerudoDesert}
+  - {name: ''}
+  - {name: ''}
+  instSize: 48992
+  itemBuyingPrice: 110
+  itemCreatingPrice: -1
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 28
+  itemStainColor: -1
+  itemUseIconActorName: ''
+  mainModel: Weapon_Sword_Lylah
+  name: Weapon_Sword_Lylah
+  pictureBookLiveSpot1: -1
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: WeaponSmallSword
+  slink: Weapon_Sword_MetalInToughSheath
+  sortKey: 11170
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: ''
+  tags: {tag2755f107: 659943687, tag289f28b5: 681519285, tag2cef9fdc: 753901532, tag4850af43: 1213247299,
+    tag4873f474: 1215558772, tag5e27ef10: 1579675408, tag7025851a: 1881507098, tagb51794dc: !u 0xb51794dc,
+    tagdcd7e698: !u 0xdcd7e698, tagdeb2c8bd: !u 0xdeb2c8bd, tage0194f30: !u 0xe0194f30}
+  traverseDist: 80.0
+  weaponCommonGuardPower: 0
+  weaponCommonPoweredSharpAddAtkMax: 40
+  weaponCommonPoweredSharpAddAtkMin: 40
+  weaponCommonPoweredSharpAddLifeMax: 0
+  weaponCommonPoweredSharpAddLifeMin: 0
+  weaponCommonPoweredSharpAddRapidFireMax: 1.0
+  weaponCommonPoweredSharpAddRapidFireMin: 1.0
+  weaponCommonPoweredSharpAddSpreadFire: false
+  weaponCommonPoweredSharpAddSurfMaster: false
+  weaponCommonPoweredSharpAddThrowMax: 0.0
+  weaponCommonPoweredSharpAddThrowMin: 0.0
+  weaponCommonPoweredSharpAddZoomRapid: false
+  weaponCommonPoweredSharpWeaponAddGuardMax: 0
+  weaponCommonPoweredSharpWeaponAddGuardMin: 0
+  weaponCommonRank: 0
+  weaponCommonSharpWeaponAddAtkMax: 0
+  weaponCommonSharpWeaponAddAtkMin: 0
+  weaponCommonSharpWeaponAddCrit: false
+  weaponCommonSharpWeaponAddGuardMax: 0
+  weaponCommonSharpWeaponAddGuardMin: 0
+  weaponCommonSharpWeaponAddLifeMax: 0
+  weaponCommonSharpWeaponAddLifeMin: 0
+  weaponCommonSharpWeaponPer: 100.0
+  weaponCommonStickDamage: 10
+  xlink: Weapon
+  yLimitAlgorithm: NoLimit
+3408992242:
+  Chemical: {Capaciter: 1}
+  aabbMax: {X: 0.33173999190330505, Y: 0.06167599931359291, Z: 0.8266029953956604}
+  aabbMin: {X: -0.44775399565696716, Y: -0.06054700165987015, Z: -0.820743978023529}
+  attackPower: 50
+  bfres: Weapon_Bow_Lylah
+  boundingForTraverse: 0.12222299724817276
+  bowArrowName: BrightArrowTP
+  bowIsLeadShot: true
+  bowIsRapidFire: false
+  bowLeadShotNum: 0
+  bowRapidFireNum: 0
+  bugMask: 3
+  cursorOffsetY: 0.30000001192092896
+  elink: Weapon_Bow_032
+  generalLife: 45
+  homeArea:
+  - {name: GerudoDesert}
+  - {name: ''}
+  - {name: ''}
+  instSize: 49268
+  itemBuyingPrice: 156
+  itemCreatingPrice: -1
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 52
+  itemStainColor: -1
+  itemUseIconActorName: ''
+  mainModel: Weapon_Bow_Lylah
+  name: Weapon_Bow_Lylah
+  pictureBookLiveSpot1: -1
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: WeaponBow
+  slink: Weapon_Bow_Metal
+  sortKey: 14552
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: ''
+  tags: {tag2755f107: 659943687, tag289f28b5: 681519285, tag2cef9fdc: 753901532, tag4850af43: 1213247299,
+    tag4873f474: 1215558772, tag7025851a: 1881507098, tagb51794dc: !u 0xb51794dc,
+    tagdcd7e698: !u 0xdcd7e698, tagdeb2c8bd: !u 0xdeb2c8bd, tage0194f30: !u 0xe0194f30}
+  traverseDist: 80.0
+  weaponCommonGuardPower: 0
+  weaponCommonPoweredSharpAddAtkMax: 0
+  weaponCommonPoweredSharpAddAtkMin: 0
+  weaponCommonPoweredSharpAddLifeMax: 0
+  weaponCommonPoweredSharpAddLifeMin: 0
+  weaponCommonPoweredSharpAddRapidFireMax: 1.0
+  weaponCommonPoweredSharpAddRapidFireMin: 1.0
+  weaponCommonPoweredSharpAddSpreadFire: true
+  weaponCommonPoweredSharpAddSurfMaster: false
+  weaponCommonPoweredSharpAddThrowMax: 1.0
+  weaponCommonPoweredSharpAddThrowMin: 1.0
+  weaponCommonPoweredSharpAddZoomRapid: false
+  weaponCommonPoweredSharpWeaponAddGuardMax: 0
+  weaponCommonPoweredSharpWeaponAddGuardMin: 0
+  weaponCommonRank: 0
+  weaponCommonSharpWeaponAddAtkMax: 0
+  weaponCommonSharpWeaponAddAtkMin: 0
+  weaponCommonSharpWeaponAddCrit: false
+  weaponCommonSharpWeaponAddGuardMax: 0
+  weaponCommonSharpWeaponAddGuardMin: 0
+  weaponCommonSharpWeaponAddLifeMax: 0
+  weaponCommonSharpWeaponAddLifeMin: 0
+  weaponCommonSharpWeaponPer: 100.0
+  weaponCommonStickDamage: 0
+  xlink: Weapon
+  yLimitAlgorithm: NoLimit
+3737657940:
+  aabbMax: {X: 3.449709892272949, Y: 5.401509761810303, Z: 2.469320058822632}
+  aabbMin: {X: -3.3523499965667725, Y: -0.0033919999841600657, Z: -3.085930109024048}
+  animalUnitBasePlayRate: 1.0
+  attackPower: 60
+  bfres: Enemy_Lynel_Lylah
+  boundingForTraverse: 5.40490198135376
+  bugMask: 3
+  cursorOffsetY: 1.149999976158142
+  drops:
+    Normal: [Item_Ore_D, Item_Ore_B, Item_Ore_C, Item_Ore_A, Item_Ore_J]
+    Normal2: [Item_Enemy_14]
+    Normal3: [Item_Enemy_13]
+    Normal4: [Item_Enemy_12]
+  elink: Enemy_Lynel
+  enemyRank: 52
+  generalLife: 9001
+  horseUnitRiddenAnimalType: 8
+  instSize: 469092
+  mainModel: Lynel_Lylah
+  name: Enemy_Lynel_Lylah
+  pictureBookLiveSpot1: 21
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: Enemy
+  rigidBodyCenterY: 1.0
+  slink: Lynel
+  sortKey: 804
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: ''
+  tags: {tag27b417c1: 666113985, tag33b0a8cc: 867215564, tag36565b66: 911629158, tag42766900: 1115056384,
+    tag4806038d: 1208353677, tag485bf81d: 1213986845, tag559ef706: 1436481286, tag5aa0d024: 1520488484,
+    tag5de4ff3b: 1575288635, tag6b3d3141: 1799172417, tag82ed5778: !u 0x82ed5778,
+    tag8fda6cdd: !u 0x8fda6cdd, tag994aef4b: !u 0x994aef4b, tagb0c9e79a: !u 0xb0c9e79a,
+    tagf2e5b2f2: !u 0xf2e5b2f2, tagf97d1393: !u 0xf97d1393}
+  traverseDist: 300.0
+  xlink: Lynel
+  yLimitAlgorithm: LimitYDiff
+4085581072:
+  aabbMax: {X: 0.5120530128479004, Y: 0.03610499948263168, Z: 0.38060900568962097}
+  aabbMin: {X: -0.24916499853134155, Y: -0.16237099468708038, Z: -0.38060900568962097}
+  attackPower: 0
+  bfres: Weapon_Shield_Lylah
+  boundingForTraverse: 0.19847600162029266
+  bugMask: 3
+  cursorOffsetY: 0.30000001192092896
+  elink: Weapon_Shield_013
+  generalLife: 1000
+  homeArea:
+  - {name: GerudoDesert}
+  - {name: ''}
+  - {name: ''}
+  instSize: 61704
+  itemBuyingPrice: 45
+  itemCreatingPrice: 10
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 15
+  itemStainColor: -1
+  itemUseIconActorName: ''
+  mainModel: Weapon_Shield_Lylah
+  name: Weapon_Shield_Lylah
+  pictureBookLiveSpot1: -1
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: WeaponShield
+  rigidBodyCenterY: -0.08083999902009964
+  slink: Weapon_Shield_Ancient
+  sortKey: 15540
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: ''
+  tags: {tag2755f107: 659943687, tag289f28b5: 681519285, tag2cef9fdc: 753901532, tag4850af43: 1213247299,
+    tag4873f474: 1215558772, tag5e27ef10: 1579675408, tag7025851a: 1881507098, tagb51794dc: !u 0xb51794dc,
+    tagdcd7e698: !u 0xdcd7e698, tagdeb2c8bd: !u 0xdeb2c8bd, tage0194f30: !u 0xe0194f30}
+  traverseDist: 80.0
+  weaponCommonGuardPower: 75
+  weaponCommonPoweredSharpAddAtkMax: 0
+  weaponCommonPoweredSharpAddAtkMin: 0
+  weaponCommonPoweredSharpAddLifeMax: 0
+  weaponCommonPoweredSharpAddLifeMin: 0
+  weaponCommonPoweredSharpAddRapidFireMax: 1.0
+  weaponCommonPoweredSharpAddRapidFireMin: 1.0
+  weaponCommonPoweredSharpAddSpreadFire: false
+  weaponCommonPoweredSharpAddSurfMaster: false
+  weaponCommonPoweredSharpAddThrowMax: 1.0
+  weaponCommonPoweredSharpAddThrowMin: 1.0
+  weaponCommonPoweredSharpAddZoomRapid: false
+  weaponCommonPoweredSharpWeaponAddGuardMax: 25
+  weaponCommonPoweredSharpWeaponAddGuardMin: 25
+  weaponCommonRank: 9
+  weaponCommonSharpWeaponAddAtkMax: 0
+  weaponCommonSharpWeaponAddAtkMin: 0
+  weaponCommonSharpWeaponAddCrit: false
+  weaponCommonSharpWeaponAddGuardMax: 0
+  weaponCommonSharpWeaponAddGuardMin: 0
+  weaponCommonSharpWeaponAddLifeMax: 0
+  weaponCommonSharpWeaponAddLifeMin: 0
+  weaponCommonSharpWeaponPer: 100.0
+  weaponCommonStickDamage: 0
+  xlink: Weapon
+  yLimitAlgorithm: NoLimit

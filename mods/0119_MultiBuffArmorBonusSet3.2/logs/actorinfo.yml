@@ -1,0 +1,3295 @@
+'1006387283': {armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'1009404486': {armorDefenceAddLevel: 32,armorEffectAncientPowUp: true,armorEffectEffectLevel: 3,armorEffectEnableClimbWaterfall: true,armorEffectEnableSpinAttack: true}
+'1015886333': {armorEffectEffectLevel: 3,armorEffectEffectType: ResistHot,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Sheikah}
+'1021091464':
+  aabbMax: {X: 0.121162,Y: 0.040131,Z: 0.96889}
+  aabbMin: {X: -0.211983,Y: -0.040131,Z: -0.218491}
+  attackPower: 80
+  bfres: Weapon_Sword_026
+  boundingForTraverse: 0.080261
+  bugMask: 3
+  cursorOffsetY: 0.3
+  elink: Weapon_Sword_023
+  generalLife: 100
+  instSize: 64742
+  itemBuyingPrice: 20
+  itemCreatingPrice: 5015
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 5
+  itemStainColor: -1
+  itemUseIconActorName: 
+  mainModel: Weapon_Sword_023
+  name: Weapon_Sword_026
+  normal0ItemName01: Weapon_Sword_023
+  normal0ItemName02: Item_Enemy_56
+  normal0ItemName03: Item_Enemy_31
+  normal0ItemNum01: 1
+  normal0ItemNum02: 1
+  normal0ItemNum03: 2
+  normal0StuffNum: 3
+  pictureBookLiveSpot1: 21
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: 26
+  profile: WeaponSmallSword
+  slink: Weapon_Sword_023
+  sortKey: 11180
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: 
+  tags: {tag2755f107: 659943687,tag289f28b5: 681519285,tag2cef9fdc: 753901532,tag3d2fc55b: 1026540891,tag5e27ef10: 1579675408,tagb0c9e79a: !u 0xB0C9E79A,tagb51794dc: !u 0xB51794DC,tage0194f30: !u 0xE0194F30}
+  traverseDist: 80.0
+  weaponCommonGuardPower: 0
+  weaponCommonPoweredSharpAddAtkMax: 47
+  weaponCommonPoweredSharpAddAtkMin: 25
+  weaponCommonPoweredSharpAddLifeMax: 47
+  weaponCommonPoweredSharpAddLifeMin: 22
+  weaponCommonPoweredSharpAddRapidFireMax: 1.0
+  weaponCommonPoweredSharpAddRapidFireMin: 1.0
+  weaponCommonPoweredSharpAddSpreadFire: false
+  weaponCommonPoweredSharpAddSurfMaster: false
+  weaponCommonPoweredSharpAddThrowMax: 2.0
+  weaponCommonPoweredSharpAddThrowMin: 1.5
+  weaponCommonPoweredSharpAddZoomRapid: false
+  weaponCommonPoweredSharpWeaponAddGuardMax: 0
+  weaponCommonPoweredSharpWeaponAddGuardMin: 0
+  weaponCommonRank: 1
+  weaponCommonSharpWeaponAddAtkMax: 24
+  weaponCommonSharpWeaponAddAtkMin: 17
+  weaponCommonSharpWeaponAddCrit: true
+  weaponCommonSharpWeaponAddGuardMax: 0
+  weaponCommonSharpWeaponAddGuardMin: 0
+  weaponCommonSharpWeaponAddLifeMax: 31
+  weaponCommonSharpWeaponAddLifeMin: 16
+  weaponCommonSharpWeaponPer: 10.0
+  weaponCommonStickDamage: 10
+  xlink: ChemicalWeapon
+  yLimitAlgorithm: NoLimit
+'102369777': {armorDefenceAddLevel: 28,armorEffectEffectLevel: 3,armorEffectEffectType: SnowMove,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Sheikah}
+'104129331': {traverseDist: 210.0}
+'1066967160': {seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Rito}
+'1076941591': {armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp,seriesArmorSeriesType: Korok}
+'1099661718':
+  aabbMax: {X: 0.96782,Y: 2.81948,Z: 2.7371}
+  aabbMin: {X: -1.24825,Y: -0.006026,Z: -1.5635}
+  attackPower: 16
+  bfres: Enemy_Lizalfos
+  boundingForTraverse: 2.825506
+  bugMask: 3
+  cursorOffsetY: 1.0
+  drops:
+    Normal: [Kevin_The_Electric_Lizalfos]
+  elink: Enemy_Lizalfos_Electric
+  enemyRank: 26
+  generalLife: 1500
+  homeArea:
+    - {name: GerudoDesert}
+    - {name: HyruleHill}
+    - {name: FironeGrassland}
+  instSize: 583321
+  mainModel: Lizalfos
+  name: Kevin_The_Electric_Lizalfos
+  pictureBookLiveSpot1: -1
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: Enemy
+  slink: Lizalfos
+  sortKey: 0
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: 
+  tags: {tag35960905: 899025157,tag3ed0b27e: 1053864574,tag82ed5778: !u 0x82ED5778,tag994aef4b: !u 0x994AEF4B,tagb0c9e79a: !u 0xB0C9E79A,tage0e120f7: !u 0xE0E120F7,tagf2e5b2f2: !u 0xF2E5B2F2}
+  traverseDist: 250.0
+  xlink: Biped_Enemy
+  yLimitAlgorithm: LimitYDiff
+'1104054605': {armorEffectEffectLevel: 2}
+'1130934115': {weaponCommonPoweredSharpAddRapidFireMax: false,weaponCommonPoweredSharpAddRapidFireMin: false}
+'1144983180': {seriesArmorEnableCompBonus: true}
+'1156398412': {seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'1161076025': {armorDefenceAddLevel: 28,armorEffectAncientPowUp: true,armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp}
+'1166353668': {armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp}
+'1177916321': {itemSaleRevivalCount: 500}
+'1187426004':
+  tags: {tag5e27ef10: 1579675408}
+'1191588302':
+  aabbMax: {X: 3.44971,Y: 5.40151,Z: 2.46932}
+  aabbMin: {X: -3.35235,Y: -0.003392,Z: -3.08593}
+  animalUnitBasePlayRate: 1.0
+  attackPower: 120
+  bfres: Enemy_Lynel_Gold_Ancient
+  boundingForTraverse: 5.404902
+  bugMask: 3
+  cursorOffsetY: 1.15
+  drops:
+    Normal: [Item_Ore_D,Item_Ore_B,Item_Ore_C,Item_Ore_A,Item_Ore_J]
+    Normal2: [Item_Enemy_14]
+    Normal3: [Item_Enemy_13]
+    Normal4: [Item_Enemy_12]
+  elink: Enemy_Lynel
+  enemyRank: 52
+  generalLife: 25000
+  horseUnitRiddenAnimalType: 8
+  instSize: 467901
+  mainModel: Lynel_Gold_Ancient
+  name: Enemy_Lynel_Gold_Ancient
+  pictureBookLiveSpot1: 21
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: Enemy
+  rigidBodyCenterY: 1.0
+  slink: Lynel
+  sortKey: 804
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: 
+  tags:
+    tag27b417c1: 666113985
+    tag33b0a8cc: 867215564
+    tag36565b66: 911629158
+    tag42766900: 1115056384
+    tag4806038d: 1208353677
+    tag485bf81d: 1213986845
+    tag559ef706: 1436481286
+    tag5aa0d024: 1520488484
+    tag5de4ff3b: 1575288635
+    tag6b3d3141: 1799172417
+    tag82ed5778: !u 0x82ED5778
+    tag8fda6cdd: !u 0x8FDA6CDD
+    tag994aef4b: !u 0x994AEF4B
+    tagb0c9e79a: !u 0xB0C9E79A
+    tagf2e5b2f2: !u 0xF2E5B2F2
+    tagf97d1393: !u 0xF97D1393
+  traverseDist: 300.0
+  xlink: Lynel
+  yLimitAlgorithm: LimitYDiff
+'1205664709': {armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp,seriesArmorSeriesType: Korok}
+'1207479497': {armorEffectEffectLevel: 1,armorEffectEffectType: SandMove,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'1240810092':
+  aabbMax: {X: 0.303467,Y: 1.78027,Z: 0.23645}
+  aabbMin: {X: -0.303467,Y: 0.744629,Z: -0.350342}
+  armorDefenceAddLevel: 5
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 3
+  armorEffectEffectType: AttackUp
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 2
+  armorNextRankName: Armor_261_Head
+  armorStarNum: 1
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_260
+  boundingForTraverse: 1.035641
+  bugMask: 1
+  instSize: 70772
+  itemBuyingPrice: 1000
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 250
+  itemStainColor: -1
+  itemUseIconActorName: 
+  mainModel: Armor_260_Head_B
+  name: Armor_260_Head_B
+  profile: ArmorHead
+  seriesArmorEnableCompBonus: false
+  seriesArmorSeriesType: Hero
+  sortKey: -1
+  tags: {tag216a3a63: 560609891,tag289f28b5: 681519285,tag84f40ec6: !u 0x84F40EC6}
+  yLimitAlgorithm: NoLimit
+'1272097018': {armorEffectEffectLevel: 3}
+'1279612786':
+  aabbMax: {X: 0.163794,Y: 0.116165,Z: 0.43407}
+  aabbMin: {X: -0.179954,Y: -0.146902,Z: -0.610038}
+  arrowArrowDeletePer: 0
+  arrowArrowNum: 50
+  arrowDeleteTime: 0
+  arrowDeleteTimeWithChemical: 0
+  arrowEnemyShootNumForDelete: 0
+  bfres: Bundle_50_100
+  boundingForTraverse: 0.263067
+  bugMask: 3
+  cursorOffsetY: 0.2
+  generalLife: 100
+  instSize: 12747
+  itemBuyingPrice: 20
+  itemCreatingPrice: -1
+  itemSaleRevivalCount: 500
+  itemSellingPrice: -1
+  itemStainColor: -1
+  itemUseIconActorName: 
+  mainModel: Bundle_50_100
+  name: Obj_ArrowBundle_A_50
+  pictureBookLiveSpot1: -1
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: Item
+  slink: Obj_Arrow
+  sortKey: 11
+  systemIsGetItemSelf: true
+  systemSameGroupActorName: NormalArrow
+  tags: {tag19f6c13a: 435601722,tag2755f107: 659943687,tag2cef9fdc: 753901532,tag80e484a4: !u 0x80E484A4,tag9b44906f: !u 0x9B44906F,tagdeb2c8bd: !u 0xDEB2C8BD,tage0194f30: !u 0xE0194F30}
+  yLimitAlgorithm: NoLimit
+'1280687512': {armorDefenceAddLevel: 20,armorEffectEffectLevel: 1,armorEffectEffectType: SandMove}
+'1287023111': {attackPower: 51,weaponCommonPoweredSharpAddAtkMax: 47,weaponCommonPoweredSharpAddAtkMin: 22,weaponCommonSharpWeaponAddAtkMax: 19,weaponCommonSharpWeaponAddAtkMin: 9,weaponCommonSharpWeaponAddLifeMax: 14}
+'1296529639': {armorDefenceAddLevel: 32,armorEffectAncientPowUp: true,armorEffectEffectLevel: 3,armorEffectEffectType: ResistBurnAndResistAncient,armorEffectEnableSpinAttack: true,seriesArmorSeriesType: Goron}
+'1301619386':
+  aabbMax: {X: 0.163794,Y: 0.116165,Z: 0.43407}
+  aabbMin: {X: -0.179954,Y: -0.146902,Z: -0.610038}
+  arrowArrowDeletePer: 0
+  arrowArrowNum: 100
+  arrowDeleteTime: 0
+  arrowDeleteTimeWithChemical: 0
+  arrowEnemyShootNumForDelete: 0
+  bfres: Bundle_50_100
+  boundingForTraverse: 0.263067
+  bugMask: 3
+  cursorOffsetY: 0.2
+  generalLife: 100
+  instSize: 12747
+  itemBuyingPrice: 20
+  itemCreatingPrice: -1
+  itemSaleRevivalCount: 500
+  itemSellingPrice: -1
+  itemStainColor: -1
+  itemUseIconActorName: 
+  mainModel: Bundle_50_100
+  name: Obj_ArrowBundle_A_100
+  pictureBookLiveSpot1: -1
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: Item
+  slink: Obj_Arrow
+  sortKey: 11
+  systemIsGetItemSelf: true
+  systemSameGroupActorName: NormalArrow
+  tags: {tag19f6c13a: 435601722,tag2755f107: 659943687,tag2cef9fdc: 753901532,tag80e484a4: !u 0x80E484A4,tag9b44906f: !u 0x9B44906F,tagdeb2c8bd: !u 0xDEB2C8BD,tage0194f30: !u 0xE0194F30}
+  yLimitAlgorithm: NoLimit
+'1306526556': {seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'1324716761': {seriesArmorSeriesType: Korok}
+'1405550655': {armorDefenceAddLevel: 20,armorEffectEffectLevel: 3,armorEffectEffectType: ResistAncient,seriesArmorSeriesType: Zora}
+'1425020310': {seriesArmorSeriesType: Korok}
+'1427542096':
+  aabbMax: {X: 0.988783,Y: 2.25672,Z: 1.0922}
+  aabbMin: {X: -1.01086,Y: -0.012515,Z: -0.383978}
+  attackPower: 48
+  bfres: Enemy_Bokoblin_Gold
+  boundingForTraverse: 2.269235
+  bugMask: 3
+  cursorOffsetY: 0.6
+  drops:
+    Normal: [Item_Ore_D,Item_Ore_B,Item_Ore_C,Item_Ore_A]
+    Normal2: [Item_Ore_F,Item_Ore_E,Item_Ore_D,Item_Ore_B,Item_Ore_C,Item_Ore_A]
+    Normal3: [Item_Enemy_02]
+    Normal4: [Item_Enemy_01]
+    Normal5: [Item_Enemy_00]
+  elink: Bokoblin_Red
+  enemyRank: 40
+  generalLife: 1080
+  instSize: 480009
+  mainModel: Bokoblin_Gold
+  name: Enemy_Bokoblin_Gold_Sniper
+  pictureBookLiveSpot1: 21
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: Enemy
+  slink: Bokoblin_Red
+  sortKey: 505
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: Enemy_Bokoblin_Gold
+  tags:
+    tag33b0a8cc: 867215564
+    tag36565b66: 911629158
+    tag4806038d: 1208353677
+    tag559ef706: 1436481286
+    tag57e2e33f: 1474487103
+    tag6b536bc9: 1800629193
+    tag82ed5778: !u 0x82ED5778
+    tag8fda6cdd: !u 0x8FDA6CDD
+    tag994aef4b: !u 0x994AEF4B
+    taga7e979db: !u 0xA7E979DB
+    tagb0c9e79a: !u 0xB0C9E79A
+    tagf2e5b2f2: !u 0xF2E5B2F2
+  traverseDist: 150.0
+  xlink: Biped_Enemy
+  yLimitAlgorithm: LimitYDiff
+'1441484949':
+  aabbMax: {X: 0.412566,Y: 1.60728,Z: 1.62464}
+  aabbMin: {X: -0.363146,Y: -0.088743,Z: -0.476456}
+  attackPower: 10
+  bfres: Enemy_Moriblin_Bone
+  boundingForTraverse: 1.696023
+  bugMask: 3
+  cursorOffsetY: 1.05
+  elink: Stal_Bokoblin_Junior_Head
+  enemyRank: 0
+  generalLife: 1
+  instSize: 123298
+  mainModel: Moriblin_Bone_Head
+  name: Enemy_Moriblin_Bone_Junior_Head_AllDay
+  pictureBookLiveSpot1: -1
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: Enemy
+  rigidBodyCenterY: 0.3
+  slink: Enemy_Moriblin_Bone_Junior_Head
+  sortKey: 10604
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: Enemy_Moriblin_Bone_Junior
+  tags: {tag0c6690b5: 208048309,tag35960905: 899025157,tag72d6e7a4: 1926686628,tag82ed5778: !u 0x82ED5778,tag8fda6cdd: !u 0x8FDA6CDD,tag994aef4b: !u 0x994AEF4B,tagb0c9e79a: !u 0xB0C9E79A,tagff2ecb67: !u 0xFF2ECB67}
+  traverseDist: 150.0
+  yLimitAlgorithm: NoLimit
+'1446777885': {seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Sheikah}
+'1456969794': {seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Sheikah}
+'1478300556':
+  aabbMax: {X: 2.05999,Y: 4.41768,Z: 3.82261}
+  aabbMin: {X: -2.12521,Y: -0.021109,Z: -1.08682}
+  attackPower: 48
+  bfres: Enemy_Moriblin_Gold
+  boundingForTraverse: 4.438789
+  bugMask: 3
+  cursorOffsetY: 0.75
+  drops:
+    Normal: [Item_Ore_D,Item_Ore_B,Item_Ore_C,Item_Ore_A]
+    Normal2: [Item_Ore_F,Item_Ore_E,Item_Ore_D,Item_Ore_B,Item_Ore_C,Item_Ore_A]
+    Normal3: [Item_Enemy_08]
+    Normal4: [Item_Enemy_07]
+    Normal5: [Item_Enemy_06]
+  elink: Moriblin
+  enemyRank: 44
+  generalLife: 1620
+  instSize: 428911
+  mainModel: Moriblin_Gold
+  name: Enemy_Moriblin_Gold_Sniper
+  pictureBookLiveSpot1: 21
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: Enemy
+  slink: Moriblin
+  sortKey: 608
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: Enemy_Moriblin_Gold
+  tags:
+    tag255b5760: 626743136
+    tag33b0a8cc: 867215564
+    tag36565b66: 911629158
+    tag4806038d: 1208353677
+    tag485bf81d: 1213986845
+    tag559ef706: 1436481286
+    tag82ed5778: !u 0x82ED5778
+    tag8fda6cdd: !u 0x8FDA6CDD
+    tag994aef4b: !u 0x994AEF4B
+    taga7e979db: !u 0xA7E979DB
+    tagb0c9e79a: !u 0xB0C9E79A
+    tagf2e5b2f2: !u 0xF2E5B2F2
+  traverseDist: 150.0
+  xlink: Biped_Enemy
+  yLimitAlgorithm: LimitYDiff
+'1479308649':
+  aabbMax: {X: 0.147217,Y: 1.78613,Z: 0.193604}
+  aabbMin: {X: -0.147217,Y: 1.37402,Z: -0.230957}
+  armorDefenceAddLevel: 22
+  armorEffectAncientPowUp: true
+  armorEffectEffectLevel: 3
+  armorEffectEffectType: AttackUp
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: None
+  armorStarNum: 1
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_250
+  boundingForTraverse: 0.41211
+  bugMask: 1
+  instSize: 92384
+  itemBuyingPrice: 500
+  itemCreatingPrice: 500
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 125
+  itemStainColor: -1
+  itemUseIconActorName: Armor_250_Head
+  mainModel: Armor_250_Head
+  name: Armor_250_Head
+  normal0ItemName01: Item_Ore_B
+  normal0ItemNum01: 3
+  normal0StuffNum: 1
+  profile: ArmorHead
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: Power
+  sortKey: 1621344
+  tags: {tag289f28b5: 681519285,tag84f40ec6: !u 0x84F40EC6,tage0194f30: !u 0xE0194F30}
+  yLimitAlgorithm: NoLimit
+'1507798857':
+  aabbMax: {X: 0.95861,Y: 2.86714,Z: 2.73261}
+  aabbMin: {X: -1.15112,Y: -0.008019,Z: -1.5557}
+  attackPower: 10
+  bfres: Enemy_Lizalfos_Bone
+  boundingForTraverse: 2.875159
+  bugMask: 3
+  cursorOffsetY: 1.0
+  drops:
+    Normal: [Item_Enemy_04]
+    Normal2: [Item_Enemy_03]
+  elink: Enemy_Lizalfos_Bone_Junior
+  enemyRank: 22
+  generalLife: 1
+  homeArea:
+    - {name: GerudoDesert}
+    - {name: HyruleHill}
+    - {name: TabantaFrontier}
+  instSize: 495092
+  mainModel: Lizalfos_Bone
+  name: Enemy_Lizalfos_Bone_Junior_AllDay
+  pictureBookLiveSpot1: -1
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: Enemy
+  slink: Enemy_Lizalfos_Bone_Junior
+  sortKey: 0
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: 
+  tags:
+    tag1ac8f200: 449376768
+    tag35960905: 899025157
+    tag3ed0b27e: 1053864574
+    tag72d6e7a4: 1926686628
+    tag82ed5778: !u 0x82ED5778
+    tag994aef4b: !u 0x994AEF4B
+    taga4c7ba34: !u 0xA4C7BA34
+    taga7e979db: !u 0xA7E979DB
+    tagb0c9e79a: !u 0xB0C9E79A
+    tagf2e5b2f2: !u 0xF2E5B2F2
+  traverseDist: 150.0
+  xlink: Biped_Enemy
+  yLimitAlgorithm: NoLimit
+'1512261731':
+  aabbMax: {X: 0.967564,Y: 2.81927,Z: 2.73631}
+  aabbMin: {X: -1.248,Y: -0.005746,Z: -1.56313}
+  attackPower: 40
+  bfres: Enemy_Lizalfos_Gold_Volcano
+  boundingForTraverse: 2.825016
+  bugMask: 3
+  cursorOffsetY: 1.0
+  drops:
+    Normal: [Item_Ore_D,Item_Ore_B,Item_Ore_C,Item_Ore_A]
+    Normal2: [Item_Ore_F,Item_Ore_E,Item_Ore_D,Item_Ore_B,Item_Ore_C,Item_Ore_A]
+    Normal3: [Item_Enemy_05]
+    Normal4: [Item_Enemy_04]
+    Normal5: [Item_Enemy_03]
+  elink: Lizalfos
+  enemyRank: 42
+  generalLife: 1296
+  instSize: 479236
+  mainModel: Lizalfos_Gold_Volcano
+  name: Enemy_Lizalfos_Gold_Volcano
+  pictureBookLiveSpot1: 21
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: Enemy
+  slink: Lizalfos
+  sortKey: 708
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: Enemy_Lizalfos_Gold_Volcano
+  tags:
+    tag33b0a8cc: 867215564
+    tag36565b66: 911629158
+    tag3ed0b27e: 1053864574
+    tag4806038d: 1208353677
+    tag559ef706: 1436481286
+    tag82ed5778: !u 0x82ED5778
+    tag8fda6cdd: !u 0x8FDA6CDD
+    tag994aef4b: !u 0x994AEF4B
+    taga7e979db: !u 0xA7E979DB
+    tagb0c9e79a: !u 0xB0C9E79A
+    tage0e120f7: !u 0xE0E120F7
+    tagf2e5b2f2: !u 0xF2E5B2F2
+  traverseDist: 150.0
+  xlink: Biped_Enemy
+  yLimitAlgorithm: LimitYDiff
+'1513909412': {armorDefenceAddLevel: 28,armorEffectAncientPowUp: true,armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp}
+'1517526562': {weaponCommonPoweredSharpAddRapidFireMax: false,weaponCommonPoweredSharpAddRapidFireMin: false}
+'1524222845': {armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'1529319719': {armorEffectEffectLevel: 3}
+'1541685856':
+  aabbMax: {X: 0.134277,Y: 1.79297,Z: 0.187744}
+  aabbMin: {X: -0.134277,Y: 1.43359,Z: -0.61377}
+  armorDefenceAddLevel: 32
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 3
+  armorEffectEffectType: SwimSpeed
+  armorEffectEnableClimbWaterfall: true
+  armorEffectEnableSpinAttack: true
+  armorHeadMantleType: 0
+  armorNextRankName: 
+  armorStarNum: 1
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_420
+  boundingForTraverse: 0.35938
+  bugMask: 1
+  instSize: 57580
+  itemBuyingPrice: 3000
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 125
+  itemStainColor: -1
+  itemUseIconActorName: Armor_420_Head
+  mainModel: Armor_420_Head
+  name: Armor_420_Head
+  profile: ArmorHead
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: AmiiboOcarinaOfTime
+  sortKey: 4221705
+  tags: {tag1c0c8d23: 470584611,tag289f28b5: 681519285,tag84f40ec6: !u 0x84F40EC6,taga21d5dbb: !u 0xA21D5DBB,tagd1e9663c: !u 0xD1E9663C,tage0194f30: !u 0xE0194F30}
+  yLimitAlgorithm: NoLimit
+'1542655831': {armorDefenceAddLevel: 28,armorEffectEffectLevel: 3,armorEffectEffectType: Quietness,seriesArmorSeriesType: Sheikah}
+'1547260699': {armorDefenceAddLevel: 20,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Climb}
+'1556855285': {armorEffectEffectLevel: 2}
+'1559228153': {armorDefenceAddLevel: 32,armorEffectAncientPowUp: true,armorEffectEffectLevel: 3,armorEffectEffectType: Quietness,armorEffectEnableClimbWaterfall: true,armorEffectEnableSpinAttack: true}
+'1562270267': {weaponCommonPoweredSharpAddRapidFireMax: false,weaponCommonPoweredSharpAddRapidFireMin: false}
+'1568385100': {cookSpiceBoostEffectiveTime: 25000,itemSellingPrice: 1100}
+'1591088870': {armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp}
+'1599934729':
+  attackPower: 5
+  bugMask: 2
+  generalLife: 2500
+  sortKey: 887
+  tags: {tag0e3e49b1: 238963121,tag17044493: 386155667,tag3a61e2a9: 979493545,tag4806038d: 1208353677,tag921c2372: !u 0x921C2372,tag994aef4b: !u 0x994AEF4B,tagb0c9e79a: !u 0xB0C9E79A,tage3e49b1: 238963121}
+  traverseDist: 225.0
+'1608164946':
+  aabbMax: {X: 0.147217,Y: 1.79395,Z: 0.192139}
+  aabbMin: {X: -0.147217,Y: 1.37402,Z: -0.510254}
+  armorDefenceAddLevel: 32
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 3
+  armorEffectEffectType: AttackUp
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: 
+  armorStarNum: 5
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_316
+  boundingForTraverse: 0.41993
+  bugMask: 1
+  instSize: 74094
+  itemBuyingPrice: 3640
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 910
+  itemStainColor: -1
+  itemUseIconActorName: Armor_316_Head
+  mainModel: Armor_316_Head
+  name: Armor_351_Head
+  normal0ItemName01: Armor_350_Head
+  normal0ItemName02: Item_PlantGet_J
+  normal0ItemName03: Item_Enemy_48
+  normal0ItemNum01: 1
+  normal0ItemNum02: 10
+  normal0ItemNum03: 2
+  normal0StuffNum: 3
+  profile: ArmorHead
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: Korok
+  sortKey: 4721024
+  tags: {tag1c0c8d23: 470584611,tag216a3a63: 560609891,tag289f28b5: 681519285,tag2cef9fdc: 753901532,tag84f40ec6: !u 0x84F40EC6,tage0194f30: !u 0xE0194F30}
+  yLimitAlgorithm: NoLimit
+'1621618742':
+  aabbMax: {X: 6.68462,Y: 2.16354,Z: 1.22596}
+  aabbMin: {X: -0.090982,Y: -0.640233,Z: -0.330679}
+  bfres: FldObj_RuinGuardian_A
+  boundingForTraverse: 2.803773
+  bugMask: 0
+  cursorOffsetY: 0.5
+  instSize: 36855
+  mainModel: FldObj_RuinGuardianArm_A_01
+  name: FldObj_RuinGuardianArm_A_01_RotP
+  profile: MapDynamicPassive
+  sortKey: -3
+  tags: {tag0d23ee8c: 220458636,taga1c9da5d: !u 0xA1C9DA5D}
+  traverseDist: 215.0
+  yLimitAlgorithm: NoLimit
+'1631226663': {armorDefenceAddLevel: 28}
+'1635906044': {armorDefenceAddLevel: 28,armorEffectEffectLevel: 3,armorEffectEffectType: ResistLightning,seriesArmorSeriesType: Sheikah}
+'1663739053': {armorDefenceAddLevel: 28,armorEffectAncientPowUp: true,armorEffectEffectLevel: 3,armorEffectEnableClimbWaterfall: true,armorEffectEnableSpinAttack: true,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Sheikah}
+'169106126': {armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'1696075531': {seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'1707046064': {armorEffectEffectLevel: 2,armorEffectEffectType: ResistHot}
+'1714631275': {armorDefenceAddLevel: 32,armorEffectEffectLevel: 3,armorEffectEffectType: ResistLightning,seriesArmorSeriesType: Goron}
+'1717368473': {armorDefenceAddLevel: 28,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Sheikah}
+'1730588390': {traverseDist: 300.0}
+'1732215519': {armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'1749417120': {generalLife: 45,weaponCommonPoweredSharpAddRapidFireMax: false,weaponCommonPoweredSharpAddRapidFireMin: false,weaponCommonSharpWeaponPer: 30.0}
+'1774481396':
+  aabbMax: {X: 0.303467,Y: 1.78027,Z: 0.23645}
+  aabbMin: {X: -0.303467,Y: 0.744629,Z: -0.350342}
+  armorDefenceAddLevel: 5
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 3
+  armorEffectEffectType: AttackUp
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 2
+  armorNextRankName: Armor_261_Head
+  armorStarNum: 1
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_260
+  boundingForTraverse: 1.035641
+  bugMask: 1
+  instSize: 70772
+  itemBuyingPrice: 1000
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 250
+  itemStainColor: -1
+  itemUseIconActorName: 
+  mainModel: Armor_260_Head_A
+  name: Armor_260_Head
+  profile: ArmorHead
+  seriesArmorEnableCompBonus: false
+  seriesArmorSeriesType: Hero
+  sortKey: 1221014
+  tags: {tag216a3a63: 560609891,tag289f28b5: 681519285,tag84f40ec6: !u 0x84F40EC6,tage0194f30: !u 0xE0194F30}
+  yLimitAlgorithm: NoLimit
+'184684947': {armorDefenceAddLevel: 28,armorEffectEffectLevel: 3}
+'1854477880': {generalLife: 520}
+'186182266': {armorEffectEffectLevel: 3}
+'1873271589': {armorDefenceAddLevel: 28,armorEffectAncientPowUp: true,armorEffectEffectLevel: 3,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Ancient}
+'1892972862': {armorEffectAncientPowUp: true,armorEffectEffectLevel: 2,armorEffectEffectType: ResistLightning,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Ancient}
+'1902038497': {weaponCommonPoweredSharpAddRapidFireMax: false,weaponCommonPoweredSharpAddRapidFireMin: false}
+'1906633807':
+  aabbMax: {X: 3.51172,Y: 6.63241,Z: 3.66797}
+  aabbMin: {X: -3.63477,Y: -0.136634,Z: -3.70703}
+  attackPower: 0
+  bfres: Enemy_Guardian_A
+  boundingForTraverse: 6.769044
+  bugMask: 3
+  cursorOffsetY: 3.0
+  drops:
+    Normal:
+      - Item_Enemy_27
+      - Item_Enemy_28
+      - Item_Enemy_26
+      - Item_Enemy_29
+      - Item_Enemy_30
+      - Item_Enemy_31
+      - Item_Enemy_27
+      - Item_Enemy_28
+      - Item_Enemy_26
+      - Item_Enemy_29
+      - Item_Enemy_30
+      - Item_Enemy_31
+  elink: Guardian_A
+  enemyRank: 15
+  generalLife: 1500
+  homeArea:
+    - {name: CentralHyrule}
+    - {name: TamulSea}
+    - {name: GerudoHighlands}
+    - {name: CentralHyrule}
+    - {name: TamulSea}
+    - {name: GerudoHighlands}
+  instSize: 56040
+  mainModel: Guardian_A_Body
+  name: PetGuardian
+  pictureBookLiveSpot1: 27
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: Guardian
+  rigidBodyCenterY: 1.0
+  slink: Guardian
+  sortKey: 886
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: Enemy_Guardian_A
+  tags: {tag0e3e49b1: 238963121,tag17044493: 386155667,tag3a61e2a9: 979493545,tag4806038d: 1208353677,tag921c2372: !u 0x921C2372,tag994aef4b: !u 0x994AEF4B,tagb0c9e79a: !u 0xB0C9E79A}
+  traverseDist: 200.0
+  xlink: Guardian
+  yLimitAlgorithm: NoLimit
+'1910032778': {armorEffectEffectLevel: 3}
+'1914816298': {armorDefenceAddLevel: 28,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Sheikah}
+'194108433':
+  aabbMax: {X: 0.894624,Y: 2.41542,Z: 0.876027}
+  aabbMin: {X: -0.885345,Y: -0.015831,Z: -1.2189}
+  attackPower: 10
+  bfres: Enemy_Octarock_Senior
+  boundingForTraverse: 2.431251
+  bugMask: 3
+  cursorOffsetY: 2.35
+  drops:
+    Normal: [Item_Enemy_21]
+    Normal2: [Item_Enemy_20,Item_Enemy_57,LocalSeafood]
+  elink: Octarock
+  enemyRank: 5
+  generalLife: 8
+  homeArea:
+    - {name: HyruleHill}
+    - {name: TamulOutback}
+    - {name: WestHateru}
+  instSize: 215190
+  mainModel: Octarock_Senior
+  name: Enemy_Octarock_Senior
+  pictureBookLiveSpot1: -1
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: Enemy
+  rigidBodyCenterY: 1.6
+  slink: Octarock
+  sortKey: 301
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: 
+  tags: {tag00336c07: 3369991,tag1ac8f200: 449376768,tag35960905: 899025157,tag5f20e8b5: 1595992245,tag994aef4b: !u 0x994AEF4B,tagaf85ec67: !u 0xAF85EC67,tagb0c9e79a: !u 0xB0C9E79A}
+  yLimitAlgorithm: NoLimit
+'1947722414': {armorEffectEffectLevel: 1,armorEffectEffectType: SnowMove,seriesArmorSeriesType: Korok}
+'1957730581': {armorDefenceAddLevel: 28,armorEffectEffectLevel: 3,armorEffectEffectType: Quietness}
+'1963272145': {seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'1968443105': {armorEffectEffectLevel: 3}
+'1980806740': {armorEffectEffectLevel: 1,armorEffectEffectType: SandMove,seriesArmorSeriesType: Korok}
+'198198545':
+  aabbMax: {X: 0.303467,Y: 1.78027,Z: 0.23645}
+  aabbMin: {X: -0.303467,Y: 0.744629,Z: -0.350342}
+  armorDefenceAddLevel: 14
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 3
+  armorEffectEffectType: AttackUp
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 2
+  armorNextRankName: Armor_263_Head
+  armorStarNum: 3
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_260
+  boundingForTraverse: 1.035641
+  bugMask: 1
+  instSize: 70772
+  itemBuyingPrice: 1840
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 460
+  itemStainColor: -1
+  itemUseIconActorName: Armor_260_Head
+  mainModel: Armor_260_Head
+  name: Armor_262_Head_B
+  normal0ItemName01: Armor_261_Head
+  normal0ItemName02: Item_PlantGet_J
+  normal0ItemName03: Item_Enemy_56
+  normal0ItemNum01: 1
+  normal0ItemNum02: 3
+  normal0ItemNum03: 2
+  normal0StuffNum: 3
+  profile: ArmorHead
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: Korok
+  sortKey: -1
+  tags: {tag216a3a63: 560609891,tag289f28b5: 681519285,tag84f40ec6: !u 0x84F40EC6}
+  yLimitAlgorithm: NoLimit
+'1983056376': {weaponCommonPoweredSharpAddRapidFireMax: false,weaponCommonPoweredSharpAddRapidFireMin: false}
+'1983177048': {armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp,seriesArmorSeriesType: Korok}
+'2003227749':
+  generalLife: 2500
+  homeArea:
+    - {name: CentralHyrule}
+    - {name: TabantaFrontier}
+    - {name: TamulSea}
+  traverseDist: 225.0
+'201730118': {armorEffectAncientPowUp: true,armorEffectEffectLevel: 3}
+'20199790': {weaponCommonPoweredSharpAddRapidFireMax: false,weaponCommonPoweredSharpAddRapidFireMin: false}
+'2050667111': {armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'2066614578': {weaponCommonPoweredSharpAddRapidFireMax: false,weaponCommonPoweredSharpAddRapidFireMin: false}
+'2070782582':
+  bugMask: 1
+  instSize: 5111
+  name: Enemy_Place_Holder_04
+  profile: Enemy
+  sortKey: 0
+  tags: {tag994aef4b: !u 0x994AEF4B,tagb0c9e79a: !u 0xB0C9E79A}
+  yLimitAlgorithm: NoLimit
+'2080905665': {seriesArmorSeriesType: Korok}
+'208311008':
+  bugMask: 1
+  instSize: 5111
+  name: Enemy_Place_Holder_05
+  profile: Enemy
+  sortKey: 0
+  tags: {tag994aef4b: !u 0x994AEF4B,tagb0c9e79a: !u 0xB0C9E79A}
+  yLimitAlgorithm: NoLimit
+'2103443849': {armorEffectEffectLevel: 2,armorEffectEffectType: ResistHot}
+'2114932027': {armorDefenceAddLevel: 28,seriesArmorSeriesType: Korok}
+'2124953216': {armorDefenceAddLevel: 28,armorEffectEffectLevel: 2,armorEffectEffectType: ResistBurn,seriesArmorSeriesType: Power}
+'2132641860': {armorDefenceAddLevel: 28,seriesArmorSeriesType: Korok}
+'2156821343': {armorEffectEffectLevel: 3}
+'2164179664':
+  aabbMax: {X: 0.190649,Y: 0.051666,Z: 0.789505}
+  aabbMin: {X: -0.485596,Y: -0.052124,Z: -0.789505}
+  attackPower: 45
+  bfres: Weapon_Bow_023
+  boundingForTraverse: 0.10379
+  bowArrowName: 
+  bowIsLeadShot: true
+  bowIsRapidFire: true
+  bowLeadShotNum: 4
+  bowRapidFireNum: 4
+  bugMask: 3
+  cursorOffsetY: 0.3
+  elink: Weapon_Bow_023
+  generalLife: 100
+  instSize: 83919
+  itemBuyingPrice: 20500
+  itemCreatingPrice: 10350
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 5
+  itemStainColor: -1
+  itemUseIconActorName: AncientBowMark
+  mainModel: Weapon_Bow_023
+  name: AncientBowMark
+  normal0ItemName01: Weapon_Bow_023
+  normal0ItemName02: Item_Enemy_30
+  normal0ItemName03: Item_Enemy_31
+  normal0ItemNum01: 1
+  normal0ItemNum02: 2
+  normal0ItemNum03: 2
+  normal0StuffNum: 3
+  pictureBookLiveSpot1: 21
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: 26
+  profile: WeaponBow
+  slink: Weapon_Bow_023
+  sortKey: 0
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: 
+  tags: {tag2755f107: 659943687,tag289f28b5: 681519285,tag2cef9fdc: 753901532,tag5e27ef10: 1579675408,tagb51794dc: !u 0xB51794DC,tage0194f30: !u 0xE0194F30}
+  traverseDist: 80.0
+  weaponCommonGuardPower: 0
+  weaponCommonPoweredSharpAddAtkMax: 40
+  weaponCommonPoweredSharpAddAtkMin: 22
+  weaponCommonPoweredSharpAddLifeMax: 60
+  weaponCommonPoweredSharpAddLifeMin: 25
+  weaponCommonPoweredSharpAddRapidFireMax: false
+  weaponCommonPoweredSharpAddRapidFireMin: false
+  weaponCommonPoweredSharpAddSpreadFire: false
+  weaponCommonPoweredSharpAddSurfMaster: false
+  weaponCommonPoweredSharpAddThrowMax: 1.0
+  weaponCommonPoweredSharpAddThrowMin: 1.0
+  weaponCommonPoweredSharpAddZoomRapid: false
+  weaponCommonPoweredSharpWeaponAddGuardMax: 0
+  weaponCommonPoweredSharpWeaponAddGuardMin: 0
+  weaponCommonRank: 1
+  weaponCommonSharpWeaponAddAtkMax: 13
+  weaponCommonSharpWeaponAddAtkMin: 8
+  weaponCommonSharpWeaponAddCrit: false
+  weaponCommonSharpWeaponAddGuardMax: 0
+  weaponCommonSharpWeaponAddGuardMin: 0
+  weaponCommonSharpWeaponAddLifeMax: 24
+  weaponCommonSharpWeaponAddLifeMin: 12
+  weaponCommonSharpWeaponPer: 10.0
+  weaponCommonStickDamage: 0
+  xlink: Weapon
+  yLimitAlgorithm: NoLimit
+'2166774165': {weaponCommonPoweredSharpAddRapidFireMax: false,weaponCommonPoweredSharpAddRapidFireMin: false}
+'2169111490': {seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'217367208': {armorDefenceAddLevel: 28,armorEffectAncientPowUp: true,armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Ancient}
+'2187301447': {armorEffectEffectLevel: 1,armorEffectEffectType: SnowMove,seriesArmorSeriesType: Korok}
+'2201480294':
+  Chemical: {Capaciter: 1}
+  aabbMax: {X: 0.184247,Y: 0.048308,Z: 1.55777}
+  aabbMin: {X: -0.184247,Y: -0.048308,Z: -0.511113}
+  attackPower: 75
+  bfres: Weapon_Spear_576
+  boundingForTraverse: 0.096617
+  bugMask: 2
+  cursorOffsetY: 0.3
+  elink: Weapon_Spear_023
+  generalLife: 54
+  instSize: 54624
+  itemBuyingPrice: 30
+  itemCreatingPrice: -1
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 8
+  itemStainColor: -1
+  itemUseIconActorName: 
+  mainModel: Weapon_Spear_576
+  name: Weapon_Spear_576
+  profile: WeaponSpear
+  rigidBodyCenterY: -0.000042
+  slink: Weapon_Lsword_MetalWide
+  sortKey: 0
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: 
+  tags: {tag1c0c8d23: 470584611,tag289f28b5: 681519285,tag2cef9fdc: 753901532,tagb0c9e79a: !u 0xB0C9E79A,tagb51794dc: !u 0xB51794DC,tagd1e9663c: !u 0xD1E9663C,tage0194f30: !u 0xE0194F30,tagef2efe5d: !u 0xEF2EFE5D}
+  traverseDist: 80.0
+  weaponCommonGuardPower: 0
+  weaponCommonPoweredSharpAddAtkMax: 23
+  weaponCommonPoweredSharpAddAtkMin: 13
+  weaponCommonPoweredSharpAddLifeMax: 30
+  weaponCommonPoweredSharpAddLifeMin: 19
+  weaponCommonPoweredSharpAddRapidFireMax: 1.0
+  weaponCommonPoweredSharpAddRapidFireMin: 1.0
+  weaponCommonPoweredSharpAddSpreadFire: false
+  weaponCommonPoweredSharpAddSurfMaster: false
+  weaponCommonPoweredSharpAddThrowMax: 2.0
+  weaponCommonPoweredSharpAddThrowMin: 1.5
+  weaponCommonPoweredSharpAddZoomRapid: false
+  weaponCommonPoweredSharpWeaponAddGuardMax: 0
+  weaponCommonPoweredSharpWeaponAddGuardMin: 0
+  weaponCommonRank: 1
+  weaponCommonSharpWeaponAddAtkMax: 12
+  weaponCommonSharpWeaponAddAtkMin: 6
+  weaponCommonSharpWeaponAddCrit: true
+  weaponCommonSharpWeaponAddGuardMax: 0
+  weaponCommonSharpWeaponAddGuardMin: 0
+  weaponCommonSharpWeaponAddLifeMax: 18
+  weaponCommonSharpWeaponAddLifeMin: 6
+  weaponCommonSharpWeaponPer: 10.0
+  weaponCommonStickDamage: 10
+  xlink: Weapon
+  yLimitAlgorithm: NoLimit
+'2237612786':
+  aabbMax: {X: 0.303467,Y: 1.78027,Z: 0.23645}
+  aabbMin: {X: -0.303467,Y: 0.744629,Z: -0.350342}
+  armorDefenceAddLevel: 8
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 3
+  armorEffectEffectType: AttackUp
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 2
+  armorNextRankName: Armor_262_Head
+  armorStarNum: 2
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_260
+  boundingForTraverse: 1.035641
+  bugMask: 1
+  instSize: 70772
+  itemBuyingPrice: 1120
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 280
+  itemStainColor: -1
+  itemUseIconActorName: Armor_260_Head
+  mainModel: Armor_260_Head_B
+  name: Armor_261_Head_B
+  normal0ItemName01: Armor_260_Head
+  normal0ItemName02: Item_PlantGet_J
+  normal0ItemNum01: 1
+  normal0ItemNum02: 3
+  normal0StuffNum: 2
+  profile: ArmorHead
+  seriesArmorEnableCompBonus: false
+  seriesArmorSeriesType: Hero
+  sortKey: -1
+  tags: {tag216a3a63: 560609891,tag289f28b5: 681519285,tag84f40ec6: !u 0x84F40EC6}
+  yLimitAlgorithm: NoLimit
+'2286370258': {seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'2291469842': {armorDefenceAddLevel: 28,armorEffectEffectLevel: 3,armorEffectEffectType: Quietness,armorUpperDisableSelfMantle: true,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Ancient}
+'2298794397': {seriesArmorSeriesType: Power}
+'2310599600': {generalLife: 8000}
+'2321592326': {armorDefenceAddLevel: 28,armorEffectEffectLevel: 3,seriesArmorSeriesType: Power}
+'2330399379': {armorDefenceAddLevel: 20,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Gerudo}
+'2337451095': {seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'2339111090': {armorDefenceAddLevel: 28,armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp,seriesArmorSeriesType: Korok}
+'2341407451':
+  aabbMax: {X: 0.917969,Y: 1.49316,Z: 0.197021}
+  aabbMin: {X: -0.917969,Y: 0.663574,Z: -0.145508}
+  armorDefenceAddLevel: 8
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 2
+  armorEffectEffectType: ResistCold
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: Armor_262_Upper
+  armorStarNum: 2
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 1
+  bfres: Armor_260
+  boundingForTraverse: 0.829586
+  bugMask: 1
+  instSize: 145789
+  itemBuyingPrice: 1120
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 280
+  itemStainColor: -1
+  itemUseIconActorName: Armor_260_Upper
+  mainModel: Armor_260_Upper
+  name: Armor_261_Upper
+  normal0ItemName01: Armor_260_Upper
+  normal0ItemName02: Item_PlantGet_J
+  normal0ItemNum01: 1
+  normal0ItemNum02: 3
+  normal0StuffNum: 2
+  profile: ArmorUpper
+  seriesArmorEnableCompBonus: false
+  seriesArmorSeriesType: Hero
+  sortKey: 1222014
+  tags: {tag216a3a63: 560609891,tag289f28b5: 681519285,tag84f40ec6: !u 0x84F40EC6,tage0194f30: !u 0xE0194F30}
+  yLimitAlgorithm: NoLimit
+'2355009436': {instSize: 70033,isHasFar: false}
+'2355679000':
+  bugMask: 1
+  instSize: 5111
+  name: Enemy_Place_Holder
+  profile: Enemy
+  sortKey: 0
+  tags: {tag994aef4b: !u 0x994AEF4B,tagb0c9e79a: !u 0xB0C9E79A}
+  yLimitAlgorithm: NoLimit
+'2357209184': {armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp,seriesArmorSeriesType: Korok}
+'2372841282': {attackPower: 200,generalLife: 11,rigidBodyCenterY: 0.0}
+'2416862059': {instSize: 480009}
+'2421366170':
+  armorDefenceAddLevel: 28
+  armorEffectAncientPowUp: true
+  armorEffectEffectLevel: 3
+  armorEffectEffectType: SnowMove
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: Sheikah
+  tags: {tag216a3a63: 560609891,tag289f28b5: 681519285,tag84f40ec6: !u 0x84F40EC6,tagd1e9663c: !u 0xD1E9663C}
+'242268901': {seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Gerudo}
+'2423997058': {armorEffectEffectLevel: 3,armorEffectEnableClimbWaterfall: true,armorEffectEnableSpinAttack: true}
+'2438408984': {armorDefenceAddLevel: 28,seriesArmorSeriesType: Korok}
+'2441418968': {armorDefenceAddLevel: 28,armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp,seriesArmorSeriesType: Korok}
+'2441815295': {weaponCommonPoweredSharpAddRapidFireMax: false,weaponCommonPoweredSharpAddRapidFireMin: false}
+'2450392899':
+  bugMask: 1
+  instSize: 5111
+  name: Enemy_Place_Holder_02
+  profile: Enemy
+  sortKey: 0
+  tags: {tag994aef4b: !u 0x994AEF4B,tagb0c9e79a: !u 0xB0C9E79A}
+  yLimitAlgorithm: NoLimit
+'2453846685': {seriesArmorSeriesType: Korok}
+'2491839991':
+  aabbMax: {X: 0.147217,Y: 1.79395,Z: 0.192139}
+  aabbMin: {X: -0.147217,Y: 1.37402,Z: -0.510254}
+  armorDefenceAddLevel: 22
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 3
+  armorEffectEffectType: AttackUp
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: Armor_351_Head
+  armorStarNum: 4
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_316
+  boundingForTraverse: 0.41993
+  bugMask: 1
+  instSize: 74094
+  itemBuyingPrice: 2640
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 660
+  itemStainColor: -1
+  itemUseIconActorName: Armor_316_Head
+  mainModel: Armor_316_Head
+  name: Armor_350_Head
+  normal0ItemName01: Armor_349_Head
+  normal0ItemName02: Item_PlantGet_J
+  normal0ItemName03: Item_Enemy_52
+  normal0ItemNum01: 1
+  normal0ItemNum02: 3
+  normal0ItemNum03: 2
+  normal0StuffNum: 3
+  profile: ArmorHead
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: Korok
+  sortKey: 4721024
+  tags: {tag1c0c8d23: 470584611,tag216a3a63: 560609891,tag289f28b5: 681519285,tag2cef9fdc: 753901532,tag84f40ec6: !u 0x84F40EC6,tage0194f30: !u 0xE0194F30}
+  yLimitAlgorithm: NoLimit
+'2523376290':
+  aabbMax: {X: 0.988265,Y: 2.25641,Z: 1.0918}
+  aabbMin: {X: -1.01035,Y: -0.012228,Z: -0.383895}
+  attackPower: 48
+  bfres: Enemy_Bokoblin_Gold_Volcano
+  boundingForTraverse: 2.268638
+  bugMask: 3
+  cursorOffsetY: 0.6
+  drops:
+    Normal: [Item_Ore_D,Item_Ore_B,Item_Ore_C,Item_Ore_A]
+    Normal2: [Item_Ore_F,Item_Ore_E,Item_Ore_D,Item_Ore_B,Item_Ore_C,Item_Ore_A]
+    Normal3: [Item_Enemy_02]
+    Normal4: [Item_Enemy_01]
+    Normal5: [Item_Enemy_00]
+  elink: Bokoblin_Red
+  enemyRank: 40
+  generalLife: 1080
+  instSize: 480009
+  mainModel: Bokoblin_Gold_Volcano
+  name: Enemy_Bokoblin_Gold_Volcano
+  pictureBookLiveSpot1: 21
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: Enemy
+  slink: Bokoblin_Red
+  sortKey: 505
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: Enemy_Bokoblin_Gold_Volcano
+  tags:
+    tag33b0a8cc: 867215564
+    tag36565b66: 911629158
+    tag4806038d: 1208353677
+    tag559ef706: 1436481286
+    tag57e2e33f: 1474487103
+    tag6b536bc9: 1800629193
+    tag82ed5778: !u 0x82ED5778
+    tag8fda6cdd: !u 0x8FDA6CDD
+    tag994aef4b: !u 0x994AEF4B
+    taga7e979db: !u 0xA7E979DB
+    tagb0c9e79a: !u 0xB0C9E79A
+    tagf2e5b2f2: !u 0xF2E5B2F2
+  traverseDist: 150.0
+  xlink: Biped_Enemy
+  yLimitAlgorithm: LimitYDiff
+'2540011710': {armorDefenceAddLevel: 28,armorEffectEffectLevel: 3,armorEffectEffectType: ClimbSpeed,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Ancient}
+'2543282768': {armorEffectEffectLevel: 3}
+'2584557969':
+  attackPower: 52
+  bugMask: 3
+  elink: GanonBeam
+  instSize: 20840
+  name: GuardianBeam_Malice
+  profile: Beam
+  slink: GuardianBeam
+  sortKey: 10927
+  tags: {tag3a61e2a9: 979493545,tag5e27ef10: 1579675408,tagfd964809: !u 0xFD964809}
+  xlink: OnlyThruDamageToObj
+  yLimitAlgorithm: NoLimit
+'2593526915': {seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Sheikah}
+'2600090185': {armorEffectEffectLevel: 2,armorEffectEffectType: ResistHot,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'2627535034': {armorDefenceAddLevel: 16,armorEffectEffectLevel: 1,armorEffectEffectType: ResistHot}
+'2643151847': {seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Sheikah}
+'2659817301': {armorDefenceAddLevel: 28,armorEffectEffectLevel: 3,armorEffectEffectType: SnowMove}
+'2680916068':
+  aabbMax: {X: 6.19937,Y: 33.4558,Z: 6.13773}
+  aabbMin: {X: -6.13773,Y: -0.5,Z: -6.13773}
+  bfres: DgnObj_DLC_Tower_A
+  boundingForTraverse: 33.9558
+  bugMask: 0
+  cursorOffsetY: 0.5
+  instSize: 151443
+  mainModel: DgnObj_DLC_Tower_A_01
+  name: Tower
+  profile: MapDynamicActive
+  sortKey: 0
+  tags: {taga1c9da5d: !u 0xA1C9DA5D}
+  traverseDist: 500.0
+  yLimitAlgorithm: NoLimit
+'2691498565': {armorDefenceAddLevel: 28,armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp,seriesArmorSeriesType: Korok}
+'2692761260':
+  aabbMax: {X: 0.648334,Y: 0.017549,Z: 0.401855}
+  aabbMin: {X: -0.400494,Y: -0.194182,Z: -0.401855}
+  attackPower: 25
+  bfres: Weapon_Shield_027
+  boundingForTraverse: 0.211731
+  bugMask: 3
+  cursorOffsetY: 0.3
+  elink: Weapon_Shield_038
+  generalLife: 150
+  instSize: 60142
+  itemBuyingPrice: 375
+  itemCreatingPrice: 7520
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 125
+  itemStainColor: -1
+  itemUseIconActorName: 
+  mainModel: Weapon_Shield_038
+  name: Weapon_Shield_027
+  normal0ItemName01: Weapon_Shield_038
+  normal0ItemName02: Item_Enemy_31
+  normal0ItemName03: Item_Ore_A
+  normal0ItemNum01: 1
+  normal0ItemNum02: 2
+  normal0ItemNum03: 7
+  normal0StuffNum: 3
+  pictureBookLiveSpot1: 21
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: 26
+  profile: WeaponShield
+  rigidBodyCenterY: -0.08
+  slink: Weapon_Shield_038
+  sortKey: 15180
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: 
+  tags: {tag2755f107: 659943687,tag289f28b5: 681519285,tag2cef9fdc: 753901532,tag5e27ef10: 1579675408,tagb0c9e79a: !u 0xB0C9E79A,tagb51794dc: !u 0xB51794DC,tage0194f30: !u 0xE0194F30}
+  traverseDist: 80.0
+  weaponCommonGuardPower: 70
+  weaponCommonPoweredSharpAddAtkMax: 0
+  weaponCommonPoweredSharpAddAtkMin: 0
+  weaponCommonPoweredSharpAddLifeMax: 16
+  weaponCommonPoweredSharpAddLifeMin: 8
+  weaponCommonPoweredSharpAddRapidFireMax: 1.0
+  weaponCommonPoweredSharpAddRapidFireMin: 1.0
+  weaponCommonPoweredSharpAddSpreadFire: false
+  weaponCommonPoweredSharpAddSurfMaster: false
+  weaponCommonPoweredSharpAddThrowMax: 1.0
+  weaponCommonPoweredSharpAddThrowMin: 1.0
+  weaponCommonPoweredSharpAddZoomRapid: false
+  weaponCommonPoweredSharpWeaponAddGuardMax: 26
+  weaponCommonPoweredSharpWeaponAddGuardMin: 14
+  weaponCommonRank: 0
+  weaponCommonSharpWeaponAddAtkMax: 0
+  weaponCommonSharpWeaponAddAtkMin: 0
+  weaponCommonSharpWeaponAddCrit: false
+  weaponCommonSharpWeaponAddGuardMax: 13
+  weaponCommonSharpWeaponAddGuardMin: 7
+  weaponCommonSharpWeaponAddLifeMax: 7
+  weaponCommonSharpWeaponAddLifeMin: 7
+  weaponCommonSharpWeaponPer: 10.0
+  weaponCommonStickDamage: 0
+  xlink: Weapon
+  yLimitAlgorithm: NoLimit
+'2727918673':
+  aabbMax: {X: 0.303467,Y: 1.78027,Z: 0.23645}
+  aabbMin: {X: -0.303467,Y: 0.744629,Z: -0.350342}
+  armorDefenceAddLevel: 8
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 3
+  armorEffectEffectType: AttackUp
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 2
+  armorNextRankName: Armor_262_Head
+  armorStarNum: 2
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_260
+  boundingForTraverse: 1.035641
+  bugMask: 1
+  instSize: 70772
+  itemBuyingPrice: 1120
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 280
+  itemStainColor: -1
+  itemUseIconActorName: Armor_260_Head
+  mainModel: Armor_260_Head_A
+  name: Armor_261_Head
+  normal0ItemName01: Armor_260_Head
+  normal0ItemName02: Item_PlantGet_J
+  normal0ItemNum01: 1
+  normal0ItemNum02: 3
+  normal0StuffNum: 2
+  profile: ArmorHead
+  seriesArmorEnableCompBonus: false
+  seriesArmorSeriesType: Hero
+  sortKey: 1221014
+  tags: {tag216a3a63: 560609891,tag289f28b5: 681519285,tag84f40ec6: !u 0x84F40EC6,tage0194f30: !u 0xE0194F30}
+  yLimitAlgorithm: NoLimit
+'2745868288': {seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'2747090557': {weaponCommonPoweredSharpAddRapidFireMax: false,weaponCommonPoweredSharpAddRapidFireMin: false}
+'2750352218':
+  aabbMax: {X: 3.51172,Y: 6.63241,Z: 3.66797}
+  aabbMin: {X: -3.63477,Y: -0.136634,Z: -3.70703}
+  attackPower: 5
+  bfres: MaliceGuardian
+  boundingForTraverse: 6.769044
+  bugMask: 2
+  cursorOffsetY: 3.0
+  drops:
+    Normal: [Item_Enemy_27,Item_Enemy_28,Item_Enemy_26,Item_Enemy_29,Item_Enemy_30,Item_Enemy_31]
+  elink: Guardian_A
+  enemyRank: 15
+  generalLife: 9500
+  homeArea:
+    - {name: CentralHyrule}
+    - {name: TamulSea}
+    - {name: GerudoHighlands}
+  instSize: 114884
+  mainModel: MaliceGuardian
+  name: Enemy_MaliceGuardian
+  pictureBookLiveSpot1: 27
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: Guardian
+  rigidBodyCenterY: 1.0
+  slink: Guardian
+  sortKey: 0
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: Enemy_Guardian_Malice
+  tags: {tag17044493: 386155667,tag3a61e2a9: 979493545,tag4806038d: 1208353677,tag921c2372: !u 0x921C2372,tag994aef4b: !u 0x994AEF4B,tagb0c9e79a: !u 0xB0C9E79A,tage3e49b1: 238963121}
+  traverseDist: 225.0
+  xlink: Guardian
+  yLimitAlgorithm: NoLimit
+'2781868713':
+  aabbMax: {X: 3.47309,Y: 6.2227,Z: 3.66839}
+  aabbMin: {X: -3.68986,Y: -0.212167,Z: -3.70738}
+  attackPower: 0
+  bfres: FldObj_RuinGuardian_A
+  boundingForTraverse: 6.434867
+  bugMask: 1
+  drops:
+    Normal:
+      - Item_Enemy_26
+      - Item_Enemy_27
+      - Item_Enemy_28
+      - Item_Enemy_29
+      - Item_Enemy_30
+      - Item_Enemy_26
+      - Item_Enemy_27
+      - Item_Enemy_28
+      - Item_Enemy_29
+      - Item_Enemy_30
+  generalLife: 100
+  instSize: 36855
+  mainModel: FldObj_RuinGuardian_A_01
+  name: FldObj_RuinGuardian_Static
+  profile: MapDynamicPassive
+  rigidBodyCenterY: 3.5
+  sortKey: 0
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: 
+  tags: {tag21f1c37a: 569492346}
+  traverseDist: 210.0
+  yLimitAlgorithm: NoLimit
+'2792141784': {armorDefenceAddLevel: 28,armorEffectEffectLevel: 3,armorEffectEffectType: SandMove,seriesArmorSeriesType: Rubber}
+'2819076433': {armorDefenceAddLevel: 28,armorEffectEffectLevel: 3,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Ancient}
+'2820952381':
+  drops:
+    Normal: [PutRupee_Gold,PutRupee_Red,PutRupee_Purple,PutRupee_Silver]
+    Normal2: [Item_Enemy_21]
+    Normal3: [Item_Enemy_20,Item_Enemy_57]
+'2831732728':
+  generalLife: 80
+  tags:
+    tag2755f107: 659943687
+    tag289f28b5: 681519285
+    tag2cef9fdc: 753901532
+    tag4850af43: 1213247299
+    tag4873f474: 1215558772
+    tag5e27ef10: 1579675408
+    tag7025851a: 1881507098
+    tagb51794dc: !u 0xB51794DC
+    tagc43b7064: !u 0xC43B7064
+    tagdcd7e698: !u 0xDCD7E698
+    tagdeb2c8bd: !u 0xDEB2C8BD
+    tage0194f30: !u 0xE0194F30
+'2838774479':
+  aabbMax: {X: 0.917969,Y: 1.49316,Z: 0.177734}
+  aabbMin: {X: -0.917969,Y: 0.651367,Z: -0.144043}
+  armorDefenceAddLevel: 32
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 3
+  armorEffectEffectType: ResistHot
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: 
+  armorStarNum: 1
+  armorUpperDisableSelfMantle: true
+  armorUpperUseMantleType: 1
+  bfres: Armor_690
+  boundingForTraverse: 0.841793
+  bugMask: 1
+  instSize: 168872
+  itemBuyingPrice: 8000
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 5000
+  itemStainColor: -1
+  itemUseIconActorName: Armor_690_Upper
+  mainModel: Armor_690_Upper
+  name: Armor_690_Upper
+  profile: ArmorUpper
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: AmiiboOcarinaOfTime
+  sortKey: 4222705
+  tags: {tag1c0c8d23: 470584611,tag289f28b5: 681519285,tag84f40ec6: !u 0x84F40EC6,taga21d5dbb: !u 0xA21D5DBB,tagd1e9663c: !u 0xD1E9663C,tage0194f30: !u 0xE0194F30}
+  yLimitAlgorithm: NoLimit
+'2857614765':
+  aabbMax: {X: 3.44971,Y: 5.40151,Z: 2.46932}
+  aabbMin: {X: -3.35235,Y: -0.003392,Z: -3.08593}
+  animalUnitBasePlayRate: 1.0
+  attackPower: 120
+  bfres: Enemy_Lynel_Gold_Ancient
+  boundingForTraverse: 5.404902
+  bugMask: 3
+  cursorOffsetY: 1.15
+  drops:
+    Normal: [Item_Ore_D,Item_Ore_B,Item_Ore_C,Item_Ore_A,Item_Ore_J]
+    Normal2: [Item_Enemy_14]
+    Normal3: [Item_Enemy_13]
+    Normal4: [Item_Enemy_12]
+  elink: Enemy_Lynel
+  enemyRank: 52
+  generalLife: 25000
+  horseUnitRiddenAnimalType: 8
+  instSize: 467901
+  mainModel: Lynel_Gold_Ancient
+  name: Enemy_Lynel_Gold_Ancient_NoExplode
+  pictureBookLiveSpot1: 21
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: Enemy
+  rigidBodyCenterY: 1.0
+  slink: Lynel
+  sortKey: 804
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: 
+  tags:
+    tag27b417c1: 666113985
+    tag33b0a8cc: 867215564
+    tag36565b66: 911629158
+    tag42766900: 1115056384
+    tag4806038d: 1208353677
+    tag485bf81d: 1213986845
+    tag559ef706: 1436481286
+    tag5aa0d024: 1520488484
+    tag5de4ff3b: 1575288635
+    tag6b3d3141: 1799172417
+    tag82ed5778: !u 0x82ED5778
+    tag8fda6cdd: !u 0x8FDA6CDD
+    tag994aef4b: !u 0x994AEF4B
+    tagb0c9e79a: !u 0xB0C9E79A
+    tagf2e5b2f2: !u 0xF2E5B2F2
+    tagf97d1393: !u 0xF97D1393
+  traverseDist: 300.0
+  xlink: Lynel
+  yLimitAlgorithm: LimitYDiff
+'2859541490': {armorEffectEffectLevel: 3}
+'2862166773': {armorDefenceAddLevel: 28,armorEffectAncientPowUp: true,armorEffectEffectLevel: 3,armorEffectEffectType: ClimbSpeed}
+'2873138112': {attackPower: 75,generalLife: 150,weaponCommonPoweredSharpAddAtkMax: 57,weaponCommonPoweredSharpAddAtkMin: 11}
+'2892190074': {armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'2909195855': {weaponCommonPoweredSharpAddRapidFireMax: false,weaponCommonPoweredSharpAddRapidFireMin: false}
+'2909790670': {armorDefenceAddLevel: 28,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Sheikah}
+'29213391':
+  Chemical: {Capaciter: 1}
+  aabbMax: {X: 0.157029,Y: 0.051944,Z: 1.58919}
+  aabbMin: {X: -0.157029,Y: -0.051944,Z: -0.528897}
+  attackPower: 50
+  bfres: Weapon_Lsword_055
+  boundingForTraverse: 0.103889
+  bugMask: 3
+  cursorOffsetY: 0.3
+  elink: Weapon_Lsword_055
+  generalLife: 35
+  homeArea:
+    - {name: CentralHyrule}
+    - {name: WestHateru}
+    - {name: HeburaMountains}
+  instSize: 54860
+  itemBuyingPrice: 450
+  itemCreatingPrice: -1
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 112
+  itemStainColor: -1
+  itemUseIconActorName: 
+  mainModel: Weapon_Lsword_055
+  name: Weapon_Lsword_100
+  pictureBookLiveSpot1: -1
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: WeaponLargeSword
+  slink: Weapon_Lsword_Metal
+  sortKey: 12171
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: 
+  tags: {tag2755f107: 659943687,tag289f28b5: 681519285,tag2cef9fdc: 753901532,tagb0c9e79a: !u 0xB0C9E79A,tagb51794dc: !u 0xB51794DC,tagd1e9663c: !u 0xD1E9663C,tage0194f30: !u 0xE0194F30}
+  traverseDist: 80.0
+  weaponCommonGuardPower: 0
+  weaponCommonPoweredSharpAddAtkMax: 19
+  weaponCommonPoweredSharpAddAtkMin: 11
+  weaponCommonPoweredSharpAddLifeMax: 16
+  weaponCommonPoweredSharpAddLifeMin: 8
+  weaponCommonPoweredSharpAddRapidFireMax: 1.0
+  weaponCommonPoweredSharpAddRapidFireMin: 1.0
+  weaponCommonPoweredSharpAddSpreadFire: false
+  weaponCommonPoweredSharpAddSurfMaster: false
+  weaponCommonPoweredSharpAddThrowMax: 2.0
+  weaponCommonPoweredSharpAddThrowMin: 1.5
+  weaponCommonPoweredSharpAddZoomRapid: false
+  weaponCommonPoweredSharpWeaponAddGuardMax: 0
+  weaponCommonPoweredSharpWeaponAddGuardMin: 0
+  weaponCommonRank: 0
+  weaponCommonSharpWeaponAddAtkMax: 10
+  weaponCommonSharpWeaponAddAtkMin: 5
+  weaponCommonSharpWeaponAddCrit: true
+  weaponCommonSharpWeaponAddGuardMax: 0
+  weaponCommonSharpWeaponAddGuardMin: 0
+  weaponCommonSharpWeaponAddLifeMax: 7
+  weaponCommonSharpWeaponAddLifeMin: 4
+  weaponCommonSharpWeaponPer: 10.0
+  weaponCommonStickDamage: 10
+  xlink: Weapon
+  yLimitAlgorithm: NoLimit
+'292651956': {generalLife: 16000}
+'2946829281':
+  Chemical: {Capaciter: 1}
+  aabbMax: {X: 0.167837,Y: 0.050976,Z: 1.21014}
+  aabbMin: {X: -0.167837,Y: -0.050976,Z: -0.216997}
+  attackPower: 170
+  bfres: Weapon_Sword_074
+  boundingForTraverse: 0.101952
+  bugMask: 2
+  cursorOffsetY: 0.3
+  elink: Weapon_Sword_015
+  generalLife: 200
+  instSize: 63984
+  itemBuyingPrice: 1
+  itemCreatingPrice: -1
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 1
+  itemStainColor: -1
+  itemUseIconActorName: 
+  mainModel: Weapon_Sword_074
+  masterSwordSearchEvilDist: 120.0
+  masterSwordSleepActorName: Weapon_Sword_074
+  masterSwordTrueFormActorName: Weapon_Sword_074
+  masterSwordTrueFormAttackPower: 60
+  name: Weapon_Sword_074
+  pictureBookLiveSpot1: 21
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: 26
+  profile: WeaponSmallSword
+  rigidBodyCenterY: 0.0
+  slink: Weapon_Sword_070
+  sortKey: 11001
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: 
+  tags:
+    tag2755f107: 659943687
+    tag289f28b5: 681519285
+    tag2cef9fdc: 753901532
+    tag4850af43: 1213247299
+    tag4873f474: 1215558772
+    tag5e27ef10: 1579675408
+    tag7025851a: 1881507098
+    tagb51794dc: !u 0xB51794DC
+    tagc43b7064: !u 0xC43B7064
+    tagdcd7e698: !u 0xDCD7E698
+    tagdeb2c8bd: !u 0xDEB2C8BD
+    tage0194f30: !u 0xE0194F30
+  traverseDist: 80.0
+  weaponCommonGuardPower: 0
+  weaponCommonPoweredSharpAddAtkMax: 0
+  weaponCommonPoweredSharpAddAtkMin: 0
+  weaponCommonPoweredSharpAddLifeMax: 0
+  weaponCommonPoweredSharpAddLifeMin: 0
+  weaponCommonPoweredSharpAddRapidFireMax: 1.0
+  weaponCommonPoweredSharpAddRapidFireMin: 1.0
+  weaponCommonPoweredSharpAddSpreadFire: false
+  weaponCommonPoweredSharpAddSurfMaster: false
+  weaponCommonPoweredSharpAddThrowMax: 1.0
+  weaponCommonPoweredSharpAddThrowMin: 1.0
+  weaponCommonPoweredSharpAddZoomRapid: false
+  weaponCommonPoweredSharpWeaponAddGuardMax: 0
+  weaponCommonPoweredSharpWeaponAddGuardMin: 0
+  weaponCommonRank: 0
+  weaponCommonSharpWeaponAddAtkMax: 0
+  weaponCommonSharpWeaponAddAtkMin: 0
+  weaponCommonSharpWeaponAddCrit: false
+  weaponCommonSharpWeaponAddGuardMax: 0
+  weaponCommonSharpWeaponAddGuardMin: 0
+  weaponCommonSharpWeaponAddLifeMax: 0
+  weaponCommonSharpWeaponAddLifeMin: 0
+  weaponCommonSharpWeaponPer: 10.0
+  weaponCommonStickDamage: 10
+  xlink: ChemicalWeapon
+  yLimitAlgorithm: NoLimit
+'2963413343': {seriesArmorSeriesType: Korok}
+'2975035429': {generalLife: 2000}
+'2976276930': {armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp,seriesArmorSeriesType: Korok}
+'2997177765': {armorDefenceAddLevel: 28,armorEffectEffectLevel: 3,armorEffectEffectType: ResistHot,seriesArmorSeriesType: Korok}
+'3004185367': {weaponCommonPoweredSharpAddRapidFireMax: false,weaponCommonPoweredSharpAddRapidFireMin: false}
+'3015149786': {armorDefenceAddLevel: 28,armorEffectEffectLevel: 3,armorEffectEffectType: SnowMove,seriesArmorSeriesType: Korok}
+'301768952':
+  aabbMax: {X: 3.47309,Y: 6.2227,Z: 3.66839}
+  aabbMin: {X: -3.68986,Y: -0.212167,Z: -3.70738}
+  attackPower: 0
+  bfres: FldObj_RuinGuardian_A
+  boundingForTraverse: 6.434867
+  bugMask: 0
+  drops:
+    Normal:
+      - Item_Enemy_26
+      - Item_Enemy_27
+      - Item_Enemy_28
+      - Item_Enemy_29
+      - Item_Enemy_30
+      - Item_Enemy_26
+      - Item_Enemy_27
+      - Item_Enemy_28
+      - Item_Enemy_29
+      - Item_Enemy_30
+  generalLife: 100
+  instSize: 41592
+  mainModel: FldObj_RuinGuardian_A_01
+  name: Enemy_FldObj_RuinGuardian_Static
+  profile: MapDynamicActive
+  rigidBodyCenterY: 3.5
+  sortKey: 0
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: 
+  tags: {tag994aef4b: !u 0x994AEF4B,tagb0c9e79a: !u 0xB0C9E79A}
+  traverseDist: 225.0
+  yLimitAlgorithm: NoLimit
+'3028156174': {weaponCommonPoweredSharpAddRapidFireMax: false,weaponCommonPoweredSharpAddRapidFireMin: false}
+'3043232391': {armorDefenceAddLevel: 20,armorEffectEffectLevel: 3,armorEffectEffectType: ResistColdAndResistAncient,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Ancient}
+'3062936313':
+  aabbMax: {X: 0.147217,Y: 1.79395,Z: 0.192139}
+  aabbMin: {X: -0.147217,Y: 1.37402,Z: -0.510254}
+  armorDefenceAddLevel: 5
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 3
+  armorEffectEffectType: AttackUp
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: Armor_348_Head
+  armorStarNum: 1
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_316
+  boundingForTraverse: 0.41993
+  bugMask: 1
+  instSize: 74094
+  itemBuyingPrice: 1000
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 250
+  itemStainColor: -1
+  itemUseIconActorName: 
+  mainModel: Armor_316_Head
+  name: Armor_316_Head
+  profile: ArmorHead
+  seriesArmorEnableCompBonus: false
+  seriesArmorSeriesType: Hero
+  sortKey: 4721024
+  tags: {tag1c0c8d23: 470584611,tag216a3a63: 560609891,tag289f28b5: 681519285,tag2cef9fdc: 753901532,tag84f40ec6: !u 0x84F40EC6,tage0194f30: !u 0xE0194F30}
+  yLimitAlgorithm: NoLimit
+'3067581152':
+  aabbMax: {X: 0.688263,Y: 3.78978,Z: 1.01875}
+  aabbMin: {X: -0.78597,Y: -0.004624,Z: -1.1042}
+  attackPower: 30
+  bfres: Enemy_Yiga_New
+  boundingForTraverse: 3.794404
+  bugMask: 3
+  cursorOffsetY: 1.15
+  drops:
+    Normal: [Item_Fruit_H]
+    Normal2: [Item_Ore_F,Item_Ore_E,Item_Ore_D,Item_Ore_B,Item_Ore_C]
+  elink: Assassin_Middle
+  enemyRank: 28
+  generalLife: 3050
+  homeArea:
+    - {name: GerudoHighlands}
+    - {name: TamulPlateau}
+    - {name: CentralHyrule}
+  instSize: 289425
+  mainModel: Yiga_New
+  name: Enemy_Yiga_New
+  pictureBookLiveSpot1: 21
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: Enemy
+  slink: Assassin_Middle
+  sortKey: 0
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: Enemy_Assassin_Middle
+  tags: {tag35960905: 899025157,tag994aef4b: !u 0x994AEF4B,tagb0c9e79a: !u 0xB0C9E79A,tagd679f846: !u 0xD679F846,tagf2e5b2f2: !u 0xF2E5B2F2}
+  traverseDist: 150.0
+  xlink: Assassin
+  yLimitAlgorithm: LimitYDiff
+'3077837642': {armorDefenceAddLevel: 28}
+'3099451952': {seriesArmorSeriesType: Korok}
+'3113973741':
+  homeArea:
+    - {name: CentralHyrule}
+    - {name: HeburaMountains}
+    - {name: EldinMountains}
+  instSize: 51440
+'3115263823': {seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'3119228923': {attackPower: 120,generalLife: 50000}
+'3127316550':
+  aabbMax: {X: 0.917969,Y: 1.49316,Z: 0.197021}
+  aabbMin: {X: -0.917969,Y: 0.663574,Z: -0.145508}
+  armorDefenceAddLevel: 14
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 2
+  armorEffectEffectType: ResistCold
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: Armor_263_Upper
+  armorStarNum: 3
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 1
+  bfres: Armor_260
+  boundingForTraverse: 0.829586
+  bugMask: 1
+  instSize: 145789
+  itemBuyingPrice: 120
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 30
+  itemStainColor: -1
+  itemUseIconActorName: Armor_260_Upper
+  mainModel: Armor_260_Upper
+  name: Armor_262_Upper
+  normal0ItemName01: Armor_261_Upper
+  normal0ItemName02: Item_PlantGet_J
+  normal0ItemName03: Item_Enemy_56
+  normal0ItemNum01: 1
+  normal0ItemNum02: 3
+  normal0ItemNum03: 2
+  normal0StuffNum: 3
+  profile: ArmorUpper
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: Korok
+  sortKey: 1222014
+  tags: {tag216a3a63: 560609891,tag289f28b5: 681519285,tag84f40ec6: !u 0x84F40EC6,tage0194f30: !u 0xE0194F30}
+  yLimitAlgorithm: NoLimit
+'3127759520':
+  aabbMax: {X: 0.226318,Y: 0.942871,Z: 0.220093}
+  aabbMin: {X: -0.226318,Y: -0.000221,Z: -0.139648}
+  armorDefenceAddLevel: 32
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 3
+  armorEffectEffectType: ResistCold
+  armorEffectEnableClimbWaterfall: true
+  armorEffectEnableSpinAttack: true
+  armorHeadMantleType: 0
+  armorNextRankName: 
+  armorStarNum: 1
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_420
+  boundingForTraverse: 0.943092
+  bugMask: 1
+  instSize: 40695
+  itemBuyingPrice: 3000
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 2000
+  itemStainColor: -1
+  itemUseIconActorName: Armor_420_Lower
+  mainModel: Armor_420_Lower
+  name: Armor_420_Lower
+  profile: ArmorLower
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: AmiiboOcarinaOfTime
+  sortKey: 4223705
+  tags: {tag1c0c8d23: 470584611,tag289f28b5: 681519285,tag84f40ec6: !u 0x84F40EC6,taga21d5dbb: !u 0xA21D5DBB,tagd1e9663c: !u 0xD1E9663C,tage0194f30: !u 0xE0194F30}
+  yLimitAlgorithm: NoLimit
+'3129219631': {armorDefenceAddLevel: 32,armorEffectAncientPowUp: true,armorEffectEffectLevel: 2,armorEffectEffectType: ResistLightning,armorEffectEnableClimbWaterfall: true,armorEffectEnableSpinAttack: true}
+'3132798666': {seriesArmorSeriesType: Korok}
+'314078417': {weaponCommonPoweredSharpAddRapidFireMax: false,weaponCommonPoweredSharpAddRapidFireMin: false}
+'3161011351': {armorDefenceAddLevel: 16,armorEffectEffectLevel: 1,armorEffectEffectType: ResistHot}
+'3177722621': {armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp,seriesArmorSeriesType: Korok}
+'318562323': {generalLife: 10000}
+'3188538333': {weaponCommonPoweredSharpAddRapidFireMax: false,weaponCommonPoweredSharpAddRapidFireMin: false}
+'319048708': {armorEffectEffectLevel: 3,armorEffectEffectType: ResistFreeze,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Ancient}
+'3196831668': {armorDefenceAddLevel: 28,armorEffectEffectLevel: 3,armorEffectEffectType: ResistLightning,seriesArmorSeriesType: Sheikah}
+'3200862244': {generalLife: 9500}
+'3203838964':
+  attackPower: 60
+  generalLife: 40
+  instSize: 50590
+  weaponCommonPoweredSharpAddAtkMax: 20
+  weaponCommonPoweredSharpAddAtkMin: 65
+  weaponCommonPoweredSharpAddLifeMax: 70
+  weaponCommonPoweredSharpAddLifeMin: 40
+  weaponCommonRank: 16
+  weaponCommonSharpWeaponAddAtkMax: 10
+  weaponCommonSharpWeaponAddAtkMin: 20
+  weaponCommonSharpWeaponAddLifeMax: 30
+  weaponCommonSharpWeaponAddLifeMin: 20
+  weaponCommonSharpWeaponPer: 20.0
+'3212633141': {armorDefenceAddLevel: 20,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Climb}
+'3212765280': {attackPower: 110,generalLife: 3000,instSize: 509317}
+'3225696735': {armorEffectEffectLevel: 3}
+'3242756459': {armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'3278832831': {seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'3284696836': {armorEffectEffectLevel: 2,armorEffectEffectType: ResistHot,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'3289844609': {weaponCommonPoweredSharpAddRapidFireMax: false,weaponCommonPoweredSharpAddRapidFireMin: false}
+'3331404883':
+  aabbMax: {X: 3.47309,Y: 6.61096,Z: 3.66839}
+  aabbMin: {X: -3.68986,Y: -0.269037,Z: -3.70738}
+  attackPower: 0
+  bfres: Enemy_Guardian_A_Old
+  boundingForTraverse: 6.879997
+  bugMask: 3
+  cursorOffsetY: 3.0
+  drops:
+    Normal: [Item_Enemy_27,Item_Enemy_28,Item_Enemy_26,Item_Enemy_29]
+  elink: Enemy_Guardian_A_Fixed
+  enemyRank: 5
+  generalLife: 500
+  instSize: 122234
+  mainModel: Enemy_Guardian_A_Old
+  name: Enemy_Guardian_A_Fixed_Movable_Sand
+  pictureBookLiveSpot1: 27
+  pictureBookLiveSpot2: 28
+  pictureBookSpecialDrop: -1
+  profile: Guardian
+  rigidBodyCenterY: 1.02857
+  slink: Enemy_Guardian_A_Fixed
+  sortKey: 898
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: Enemy_Guardian_A_Fixed_Moss
+  tags: {tag0e3e49b1: 238963121,tag17044493: 386155667,tag3a61e2a9: 979493545,tag4806038d: 1208353677,tag994aef4b: !u 0x994AEF4B,tagb0c9e79a: !u 0xB0C9E79A,tagd8efc0bb: !u 0xD8EFC0BB}
+  traverseDist: 200.0
+  xlink: Guardian
+  yLimitAlgorithm: NoLimit
+'3332970343': {armorDefenceAddLevel: 28,armorEffectEffectLevel: 3,armorEffectEffectType: ResistCold,seriesArmorSeriesType: Rubber}
+'3344628707': {armorEffectEffectLevel: 2}
+'3346679183':
+  aabbMax: {X: 0.303467,Y: 1.78027,Z: 0.23645}
+  aabbMin: {X: -0.303467,Y: 0.744629,Z: -0.350342}
+  armorDefenceAddLevel: 22
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 3
+  armorEffectEffectType: AttackUp
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 2
+  armorNextRankName: Armor_264_Head
+  armorStarNum: 4
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_260
+  boundingForTraverse: 1.035641
+  bugMask: 1
+  instSize: 70772
+  itemBuyingPrice: 2640
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 660
+  itemStainColor: -1
+  itemUseIconActorName: Armor_260_Head
+  mainModel: Armor_260_Head_B
+  name: Armor_263_Head_B
+  normal0ItemName01: Armor_262_Head
+  normal0ItemName02: Item_PlantGet_J
+  normal0ItemName03: Item_Enemy_52
+  normal0ItemNum01: 1
+  normal0ItemNum02: 3
+  normal0ItemNum03: 2
+  normal0StuffNum: 3
+  profile: ArmorHead
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: Korok
+  sortKey: -1
+  tags: {tag216a3a63: 560609891,tag289f28b5: 681519285,tag84f40ec6: !u 0x84F40EC6}
+  yLimitAlgorithm: NoLimit
+'3349680397': {armorDefenceAddLevel: 28,armorEffectEffectLevel: 3,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Sheikah}
+'33501080': {armorDefenceAddLevel: 28}
+'337187680': {seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Sheikah}
+'3377724454': {armorEffectAncientPowUp: true,armorEffectEffectLevel: 3}
+'3385905297': {seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Rito}
+'3388073584':
+  aabbMax: {X: 0.226318,Y: 0.942871,Z: 0.220093}
+  aabbMin: {X: -0.226318,Y: -0.000221,Z: -0.139648}
+  armorDefenceAddLevel: 32
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 3
+  armorEffectEffectType: Quietness
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: None
+  armorStarNum: 1
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_690
+  boundingForTraverse: 0.943092
+  bugMask: 1
+  instSize: 40695
+  itemBuyingPrice: 9000
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 2000
+  itemStainColor: -1
+  itemUseIconActorName: Armor_690_Lower
+  mainModel: Armor_690_Lower
+  name: Armor_690_Lower
+  profile: ArmorLower
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: AmiiboOcarinaOfTime
+  sortKey: 4223705
+  tags: {tag1c0c8d23: 470584611,tag289f28b5: 681519285,tag84f40ec6: !u 0x84F40EC6,taga21d5dbb: !u 0xA21D5DBB,tagd1e9663c: !u 0xD1E9663C,tage0194f30: !u 0xE0194F30}
+  yLimitAlgorithm: NoLimit
+'3400102340': {sortKey: 36091}
+'340060373': {attackPower: 400}
+'3419898987': {seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Gerudo}
+'3427832073': {armorDefenceAddLevel: 20,armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Power}
+'343227818': {armorDefenceAddLevel: 28,armorEffectEffectLevel: 2,armorEffectEffectType: ResistCold}
+'3436954561': {instSize: 482976}
+'3443972692': {armorEffectEffectLevel: 3}
+'3451866262':
+  aabbMax: {X: 0.303467,Y: 1.78027,Z: 0.23645}
+  aabbMin: {X: -0.303467,Y: 0.744629,Z: -0.350342}
+  armorDefenceAddLevel: 32
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 3
+  armorEffectEffectType: AttackUp
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 2
+  armorNextRankName: 
+  armorStarNum: 5
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_260
+  boundingForTraverse: 1.035641
+  bugMask: 1
+  instSize: 70772
+  itemBuyingPrice: 3640
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 910
+  itemStainColor: -1
+  itemUseIconActorName: Armor_260_Head
+  mainModel: Armor_260_Head_B
+  name: Armor_264_Head_B
+  normal0ItemName01: Armor_263_Head
+  normal0ItemName02: Item_PlantGet_J
+  normal0ItemName03: Item_Enemy_48
+  normal0ItemNum01: 1
+  normal0ItemNum02: 10
+  normal0ItemNum03: 2
+  normal0StuffNum: 3
+  profile: ArmorHead
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: Korok
+  sortKey: -1
+  tags: {tag216a3a63: 560609891,tag289f28b5: 681519285,tag84f40ec6: !u 0x84F40EC6}
+  yLimitAlgorithm: NoLimit
+'3468678388': {seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Ancient}
+'349324817': {seriesArmorSeriesType: Korok}
+'3494111980': {seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Sheikah}
+'3496459744': {armorEffectEffectLevel: 1,armorEffectEffectType: SandMove,seriesArmorSeriesType: Korok}
+'3498859128':
+  aabbMax: {X: 4.11328,Y: 5.79311,Z: 4.6875}
+  aabbMin: {X: -4.11328,Y: -0.385847,Z: -3.12695}
+  attackPower: 0
+  bfres: Enemy_Guardian_B
+  boundingForTraverse: 6.178957
+  bugMask: 3
+  cursorOffsetY: 2.4
+  drops:
+    Normal: [Item_Enemy_27,Item_Enemy_28,Item_Enemy_26,Item_Enemy_29,Item_Enemy_30,Item_Enemy_31]
+  elink: Guardian_A
+  enemyRank: 10
+  generalLife: 1500
+  homeArea:
+    - {name: CentralHyrule}
+    - {name: }
+    - {name: }
+  instSize: 110075
+  mainModel: Enemy_Guardian_B
+  name: Enemy_Guardian_B_Rotatable
+  pictureBookLiveSpot1: 28
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: Guardian
+  rigidBodyCenterY: 1.11357
+  slink: Enemy_Guardian_B
+  sortKey: 894
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: Enemy_Guardian_B
+  tags: {tag0e3e49b1: 238963121,tag17044493: 386155667,tag3a61e2a9: 979493545,tag4806038d: 1208353677,tag994aef4b: !u 0x994AEF4B,tagb0c9e79a: !u 0xB0C9E79A}
+  traverseDist: 200.0
+  xlink: Guardian
+  yLimitAlgorithm: NoLimit
+'3529566490': {armorDefenceAddLevel: 28,armorEffectEffectLevel: 3,armorEffectEffectType: SandMove,seriesArmorSeriesType: Korok}
+'3547475045': {armorDefenceAddLevel: 28,armorEffectEffectLevel: 3,armorEffectEffectType: ResistCold,seriesArmorSeriesType: Korok}
+'3612984020': {generalLife: 520}
+'361867870': {armorEffectEffectLevel: 2}
+'3620551830': {itemSaleRevivalCount: 500}
+'3631761039': {seriesArmorSeriesType: Korok}
+'3635614718': {seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Sheikah}
+'3638508852': {armorDefenceAddLevel: 20,armorEffectEffectLevel: 1,armorEffectEffectType: ClimbSpeed,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Climb}
+'3647636464': {seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'364938094': {armorEffectEffectLevel: 1,armorEffectEffectType: SnowMove,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'3652658556':
+  aabbMax: {X: 0.917969,Y: 1.49316,Z: 0.197021}
+  aabbMin: {X: -0.917969,Y: 0.663574,Z: -0.145508}
+  armorDefenceAddLevel: 32
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 2
+  armorEffectEffectType: ResistCold
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: 
+  armorStarNum: 5
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 1
+  bfres: Armor_260
+  boundingForTraverse: 0.829586
+  bugMask: 1
+  instSize: 145789
+  itemBuyingPrice: 3640
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 910
+  itemStainColor: -1
+  itemUseIconActorName: Armor_260_Upper
+  mainModel: Armor_260_Upper
+  name: Armor_264_Upper
+  normal0ItemName01: Armor_263_Upper
+  normal0ItemName02: Item_PlantGet_J
+  normal0ItemName03: Item_Enemy_48
+  normal0ItemNum01: 1
+  normal0ItemNum02: 10
+  normal0ItemNum03: 2
+  normal0StuffNum: 3
+  profile: ArmorUpper
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: Korok
+  sortKey: 1222014
+  tags: {tag216a3a63: 560609891,tag289f28b5: 681519285,tag84f40ec6: !u 0x84F40EC6,tage0194f30: !u 0xE0194F30}
+  yLimitAlgorithm: NoLimit
+'3654700504': {attackPower: 40,generalLife: 41}
+'3663711067': {armorEffectEffectLevel: 2}
+'3665760885': {seriesArmorSeriesType: Korok}
+'3668473375':
+  aabbMax: {X: 0.917969,Y: 1.49316,Z: 0.177734}
+  aabbMin: {X: -0.917969,Y: 0.651367,Z: -0.144043}
+  armorDefenceAddLevel: 32
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 3
+  armorEffectEffectType: ResistFreeze
+  armorEffectEnableClimbWaterfall: true
+  armorEffectEnableSpinAttack: true
+  armorHeadMantleType: 0
+  armorNextRankName: 
+  armorStarNum: 1
+  armorUpperDisableSelfMantle: true
+  armorUpperUseMantleType: 1
+  bfres: Armor_420
+  boundingForTraverse: 0.841793
+  bugMask: 1
+  instSize: 168872
+  itemBuyingPrice: 6000
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 5000
+  itemStainColor: -1
+  itemUseIconActorName: Armor_420_Upper
+  mainModel: Armor_420_Upper
+  name: Armor_420_Upper
+  profile: ArmorUpper
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: AmiiboOcarinaOfTime
+  sortKey: 4222705
+  tags: {tag1c0c8d23: 470584611,tag289f28b5: 681519285,tag84f40ec6: !u 0x84F40EC6,taga21d5dbb: !u 0xA21D5DBB,tagd1e9663c: !u 0xD1E9663C,tage0194f30: !u 0xE0194F30}
+  yLimitAlgorithm: NoLimit
+'3668779445': {armorDefenceAddLevel: 20,armorEffectEffectLevel: 3,armorEffectEffectType: ClimbSpeed}
+'3676991311':
+  Chemical: {Burnable: 1,Capaciter: 1}
+  aabbMax: {X: 0.245972,Y: 0.067444,Z: 1.56641}
+  aabbMin: {X: -0.290527,Y: -0.067444,Z: -0.571289}
+  attackPower: 93
+  bfres: Weapon_Lsword_026
+  boundingForTraverse: 0.134888
+  bugMask: 3
+  cursorOffsetY: 0.3
+  elink: Weapon_Lsword_023
+  generalLife: 100
+  instSize: 82751
+  itemBuyingPrice: 30
+  itemCreatingPrice: 5329
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 8
+  itemStainColor: -1
+  itemUseIconActorName: 
+  mainModel: Weapon_Lsword_026
+  name: Weapon_Lsword_026
+  normal0ItemName01: Weapon_Lsword_023
+  normal0ItemName02: Item_Enemy_30
+  normal0ItemName03: Item_Enemy_48
+  normal0ItemNum01: 1
+  normal0ItemNum02: 5
+  normal0ItemNum03: 1
+  normal0StuffNum: 3
+  pictureBookLiveSpot1: 21
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: 26
+  profile: WeaponLargeSword
+  rigidBodyCenterY: 0.0
+  slink: Weapon_Lsword_023
+  sortKey: 12180
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: 
+  tags:
+    tag2755f107: 659943687
+    tag2813d81b: 672389147
+    tag289f28b5: 681519285
+    tag2cef9fdc: 753901532
+    tag3d2fc55b: 1026540891
+    tag5e27ef10: 1579675408
+    tagb0c9e79a: !u 0xB0C9E79A
+    tagb51794dc: !u 0xB51794DC
+    tagdf7c57f6: !u 0xDF7C57F6
+    tage0194f30: !u 0xE0194F30
+  traverseDist: 80.0
+  weaponCommonGuardPower: 0
+  weaponCommonPoweredSharpAddAtkMax: 33
+  weaponCommonPoweredSharpAddAtkMin: 21
+  weaponCommonPoweredSharpAddLifeMax: 27
+  weaponCommonPoweredSharpAddLifeMin: 13
+  weaponCommonPoweredSharpAddRapidFireMax: 1.0
+  weaponCommonPoweredSharpAddRapidFireMin: 1.0
+  weaponCommonPoweredSharpAddSpreadFire: false
+  weaponCommonPoweredSharpAddSurfMaster: false
+  weaponCommonPoweredSharpAddThrowMax: 2.0
+  weaponCommonPoweredSharpAddThrowMin: 1.5
+  weaponCommonPoweredSharpAddZoomRapid: false
+  weaponCommonPoweredSharpWeaponAddGuardMax: 0
+  weaponCommonPoweredSharpWeaponAddGuardMin: 0
+  weaponCommonRank: 1
+  weaponCommonSharpWeaponAddAtkMax: 20
+  weaponCommonSharpWeaponAddAtkMin: 11
+  weaponCommonSharpWeaponAddCrit: true
+  weaponCommonSharpWeaponAddGuardMax: 0
+  weaponCommonSharpWeaponAddGuardMin: 0
+  weaponCommonSharpWeaponAddLifeMax: 14
+  weaponCommonSharpWeaponAddLifeMin: 9
+  weaponCommonSharpWeaponPer: 10.0
+  weaponCommonStickDamage: 10
+  xlink: ChemicalWeapon
+  yLimitAlgorithm: NoLimit
+'3679275695':
+  aabbMax: {X: 2.0,Y: 2.0,Z: 2.0}
+  aabbMin: {X: -2.0,Y: 0.0,Z: -2.0}
+  attackPower: 0
+  bfres: DgnObj_DLC_Hrl_BoxParts_A
+  boundingForTraverse: 2.0
+  bugMask: 1
+  cursorOffsetY: 0.5
+  generalLife: 100
+  instSize: 69226
+  mainModel: DgnObj_DLC_Hrl_Box4x4x2Top_01
+  name: BoxPartTop
+  profile: MapDynamicActive
+  rigidBodyCenterY: 1.0
+  sortKey: 0
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: 
+  traverseDist: 210.0
+  yLimitAlgorithm: NoLimit
+'368979851':
+  aabbMax: {X: 0.147217,Y: 1.79395,Z: 0.192139}
+  aabbMin: {X: -0.147217,Y: 1.37402,Z: -0.510254}
+  armorDefenceAddLevel: 14
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 3
+  armorEffectEffectType: AttackUp
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: Armor_350_Head
+  armorStarNum: 3
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_316
+  boundingForTraverse: 0.41993
+  bugMask: 1
+  instSize: 74094
+  itemBuyingPrice: 1840
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 460
+  itemStainColor: -1
+  itemUseIconActorName: Armor_316_Head
+  mainModel: Armor_316_Head
+  name: Armor_349_Head
+  normal0ItemName01: Armor_348_Head
+  normal0ItemName02: Item_PlantGet_J
+  normal0ItemName03: Item_Enemy_56
+  normal0ItemNum01: 1
+  normal0ItemNum02: 3
+  normal0ItemNum03: 2
+  normal0StuffNum: 3
+  profile: ArmorHead
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: Korok
+  sortKey: 4721024
+  tags: {tag1c0c8d23: 470584611,tag216a3a63: 560609891,tag289f28b5: 681519285,tag2cef9fdc: 753901532,tag84f40ec6: !u 0x84F40EC6,tage0194f30: !u 0xE0194F30}
+  yLimitAlgorithm: NoLimit
+'3696081363': {armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'3702296616': {armorDefenceAddLevel: 16,armorEffectEffectLevel: 1,armorEffectEffectType: SandMove}
+'3708566208': {weaponCommonPoweredSharpAddRapidFireMax: false,weaponCommonPoweredSharpAddRapidFireMin: false}
+'3735223342':
+  aabbMax: {X: 0.147217,Y: 1.79395,Z: 0.192139}
+  aabbMin: {X: -0.147217,Y: 1.37402,Z: -0.510254}
+  armorDefenceAddLevel: 8
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 3
+  armorEffectEffectType: AttackUp
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: Armor_349_Head
+  armorStarNum: 2
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_316
+  boundingForTraverse: 0.41993
+  bugMask: 1
+  instSize: 74094
+  itemBuyingPrice: 1120
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 280
+  itemStainColor: -1
+  itemUseIconActorName: Armor_316_Head
+  mainModel: Armor_316_Head
+  name: Armor_348_Head
+  normal0ItemName01: Armor_316_Head
+  normal0ItemName02: Item_PlantGet_J
+  normal0ItemNum01: 1
+  normal0ItemNum02: 3
+  normal0StuffNum: 2
+  profile: ArmorHead
+  seriesArmorEnableCompBonus: false
+  seriesArmorSeriesType: Hero
+  sortKey: 4721024
+  tags: {tag1c0c8d23: 470584611,tag216a3a63: 560609891,tag289f28b5: 681519285,tag2cef9fdc: 753901532,tag84f40ec6: !u 0x84F40EC6,tage0194f30: !u 0xE0194F30}
+  yLimitAlgorithm: NoLimit
+'3745301019': {itemSaleRevivalCount: 500}
+'3745416564':
+  attackPower: 24
+  drops:
+    Happy: [Item_Enemy_30,Item_Enemy_30]
+    Normal:
+      - Item_Enemy_26
+      - Item_Enemy_29
+      - Item_Enemy_30
+      - Item_Enemy_26
+      - Item_Enemy_29
+      - Item_Enemy_30
+      - Item_Enemy_26
+      - Item_Enemy_29
+      - Item_Enemy_30
+      - Item_Enemy_26
+      - Item_Enemy_29
+      - Item_Enemy_30
+    Normal2:
+      - Item_Enemy_27
+      - Item_Enemy_28
+      - Item_Enemy_26
+      - Item_Enemy_29
+      - Item_Enemy_27
+      - Item_Enemy_28
+      - Item_Enemy_26
+      - Item_Enemy_29
+      - Item_Enemy_27
+      - Item_Enemy_28
+      - Item_Enemy_26
+      - Item_Enemy_29
+      - Item_Enemy_27
+      - Item_Enemy_28
+      - Item_Enemy_26
+      - Item_Enemy_29
+'3770530604': {armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp}
+'3784288125': {armorEffectEffectLevel: 1,armorEffectEffectType: SandMove,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'3785352135': {generalLife: 2500,traverseDist: 225.0}
+'3786141809': {armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp,seriesArmorSeriesType: Korok}
+'3794229384': {weaponCommonPoweredSharpAddRapidFireMax: false,weaponCommonPoweredSharpAddRapidFireMin: false}
+'3801757432': {seriesArmorSeriesType: Korok}
+'381045065':
+  aabbMax: {X: 0.401366,Y: 1.00019,Z: 0.870766}
+  aabbMin: {X: -0.402342,Y: 0.001592,Z: -0.611905}
+  attackPower: 10
+  bfres: Enemy_Lizalfos_Bone
+  boundingForTraverse: 0.998598
+  bugMask: 3
+  cursorOffsetY: 1.05
+  elink: Stal_Bokoblin_Junior_Head
+  enemyRank: 0
+  generalLife: 1
+  instSize: 105285
+  mainModel: Lizalfos_Bone_Head
+  name: Enemy_Lizalfos_Bone_Junior_Head_AllDay
+  pictureBookLiveSpot1: -1
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: Enemy
+  rigidBodyCenterY: 0.3
+  slink: Enemy_Lizalfos_Bone_Junior_Head
+  sortKey: 10717
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: Enemy_Lizalfos_Bone_Junior
+  tags: {tag0c6690b5: 208048309,tag35960905: 899025157,tag3ed0b27e: 1053864574,tag72d6e7a4: 1926686628,tag82ed5778: !u 0x82ED5778,tag994aef4b: !u 0x994AEF4B,tagb0c9e79a: !u 0xB0C9E79A,tagff2ecb67: !u 0xFF2ECB67}
+  traverseDist: 150.0
+  yLimitAlgorithm: NoLimit
+'383062763': {seriesArmorSeriesType: Korok}
+'3842586581':
+  bugMask: 1
+  instSize: 5111
+  name: Enemy_Place_Holder_03
+  profile: Enemy
+  sortKey: 0
+  tags: {tag994aef4b: !u 0x994AEF4B,tagb0c9e79a: !u 0xB0C9E79A}
+  yLimitAlgorithm: NoLimit
+'3862135448':
+  aabbMax: {X: 7.73464,Y: 0.743778,Z: 0.647199}
+  aabbMin: {X: -0.439754,Y: -0.605604,Z: -1.04864}
+  bfres: FldObj_RuinGuardian_A
+  boundingForTraverse: 1.349382
+  bugMask: 0
+  cursorOffsetY: 0.5
+  instSize: 36893
+  mainModel: FldObj_RuinGuardianArm_A_02
+  name: FldObj_RuinGuardianArm_A_02_RotP
+  profile: MapDynamicPassive
+  sortKey: -2
+  tags: {tag0d23ee8c: 220458636,taga1c9da5d: !u 0xA1C9DA5D}
+  traverseDist: 215.0
+  yLimitAlgorithm: NoLimit
+'3863468195': {armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp,seriesArmorSeriesType: Korok}
+'3867939945': {weaponCommonPoweredSharpAddRapidFireMax: false,weaponCommonPoweredSharpAddRapidFireMin: false}
+'387017334': {armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp,seriesArmorSeriesType: Korok}
+'3880478743': {armorDefenceAddLevel: 28,armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp}
+'3887694585': {armorDefenceAddLevel: 20,armorEffectAncientPowUp: true,armorEffectEffectLevel: 3,armorEffectEnableClimbWaterfall: true,armorEffectEnableSpinAttack: true,seriesArmorSeriesType: Zora}
+'3900873069': {seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'3921769762': {seriesArmorSeriesType: Power}
+'3952543976': {seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'3971928783':
+  aabbMax: {X: 3.51172,Y: 6.63241,Z: 3.66797}
+  aabbMin: {X: -3.63477,Y: -0.136634,Z: -3.70703}
+  attackPower: 5
+  bfres: MaliceGuardian
+  boundingForTraverse: 6.769044
+  bugMask: 2
+  cursorOffsetY: 3.0
+  drops:
+    Normal: [Item_Enemy_27,Item_Enemy_28,Item_Enemy_26,Item_Enemy_29,Item_Enemy_30,Item_Enemy_31]
+  elink: Guardian_A
+  enemyRank: 15
+  generalLife: 9500
+  homeArea:
+    - {name: CentralHyrule}
+    - {name: TamulSea}
+    - {name: GerudoHighlands}
+  instSize: 114884
+  mainModel: MaliceGuardian
+  name: Enemy_Guardian_Malice
+  pictureBookLiveSpot1: 27
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: Guardian
+  rigidBodyCenterY: 1.0
+  slink: Guardian
+  sortKey: 0
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: Enemy_Guardian_Malice
+  tags: {tag17044493: 386155667,tag3a61e2a9: 979493545,tag4806038d: 1208353677,tag921c2372: !u 0x921C2372,tag994aef4b: !u 0x994AEF4B,tagb0c9e79a: !u 0xB0C9E79A,tage3e49b1: 238963121}
+  traverseDist: 225.0
+  xlink: Guardian
+  yLimitAlgorithm: NoLimit
+'3982256610': {traverseDist: 150.0}
+'4013578306':
+  aabbMax: {X: 0.190674,Y: 0.051666,Z: 0.789551}
+  aabbMin: {X: -0.485596,Y: -0.052124,Z: -0.789551}
+  attackPower: 45
+  bfres: Weapon_Bow_024
+  boundingForTraverse: 0.10379
+  bowArrowName: 
+  bowIsLeadShot: true
+  bowIsRapidFire: false
+  bowLeadShotNum: 4
+  bowRapidFireNum: 4
+  bugMask: 3
+  cursorOffsetY: 0.3
+  elink: Weapon_Bow_023
+  generalLife: 100
+  instSize: 67962
+  itemBuyingPrice: 20500
+  itemCreatingPrice: 5750
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 5
+  itemStainColor: -1
+  itemUseIconActorName: Weapon_Bow_024
+  mainModel: Weapon_Bow_023
+  name: Weapon_Bow_024
+  normal0ItemName01: Weapon_Bow_023
+  normal0ItemName02: Item_Enemy_27
+  normal0ItemName03: Item_Enemy_31
+  normal0ItemNum01: 1
+  normal0ItemNum02: 25
+  normal0ItemNum03: 3
+  normal0StuffNum: 3
+  pictureBookLiveSpot1: 21
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: 26
+  profile: WeaponBow
+  slink: Weapon_Bow_023
+  sortKey: 0
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: 
+  tags: {tag2755f107: 659943687,tag289f28b5: 681519285,tag2cef9fdc: 753901532,tag5e27ef10: 1579675408,tagb0c9e79a: !u 0xB0C9E79A,tagb51794dc: !u 0xB51794DC,tage0194f30: !u 0xE0194F30}
+  traverseDist: 80.0
+  weaponCommonGuardPower: 0
+  weaponCommonPoweredSharpAddAtkMax: 40
+  weaponCommonPoweredSharpAddAtkMin: 22
+  weaponCommonPoweredSharpAddLifeMax: 60
+  weaponCommonPoweredSharpAddLifeMin: 25
+  weaponCommonPoweredSharpAddRapidFireMax: false
+  weaponCommonPoweredSharpAddRapidFireMin: false
+  weaponCommonPoweredSharpAddSpreadFire: false
+  weaponCommonPoweredSharpAddSurfMaster: false
+  weaponCommonPoweredSharpAddThrowMax: 1.0
+  weaponCommonPoweredSharpAddThrowMin: 1.0
+  weaponCommonPoweredSharpAddZoomRapid: false
+  weaponCommonPoweredSharpWeaponAddGuardMax: 0
+  weaponCommonPoweredSharpWeaponAddGuardMin: 0
+  weaponCommonRank: 1
+  weaponCommonSharpWeaponAddAtkMax: 13
+  weaponCommonSharpWeaponAddAtkMin: 8
+  weaponCommonSharpWeaponAddCrit: false
+  weaponCommonSharpWeaponAddGuardMax: 0
+  weaponCommonSharpWeaponAddGuardMin: 0
+  weaponCommonSharpWeaponAddLifeMax: 24
+  weaponCommonSharpWeaponAddLifeMin: 12
+  weaponCommonSharpWeaponPer: 10.0
+  weaponCommonStickDamage: 0
+  xlink: Weapon
+  yLimitAlgorithm: NoLimit
+'4015005018':
+  aabbMax: {X: 0.303467,Y: 1.78027,Z: 0.23645}
+  aabbMin: {X: -0.303467,Y: 0.744629,Z: -0.350342}
+  armorDefenceAddLevel: 22
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 3
+  armorEffectEffectType: AttackUp
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 2
+  armorNextRankName: Armor_264_Head
+  armorStarNum: 4
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_260
+  boundingForTraverse: 1.035641
+  bugMask: 1
+  instSize: 70772
+  itemBuyingPrice: 2640
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 660
+  itemStainColor: -1
+  itemUseIconActorName: Armor_260_Head
+  mainModel: Armor_260_Head_A
+  name: Armor_263_Head
+  normal0ItemName01: Armor_262_Head
+  normal0ItemName02: Item_PlantGet_J
+  normal0ItemName03: Item_Enemy_52
+  normal0ItemNum01: 1
+  normal0ItemNum02: 3
+  normal0ItemNum03: 2
+  normal0StuffNum: 3
+  profile: ArmorHead
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: Korok
+  sortKey: 1221014
+  tags: {tag216a3a63: 560609891,tag289f28b5: 681519285,tag84f40ec6: !u 0x84F40EC6,tage0194f30: !u 0xE0194F30}
+  yLimitAlgorithm: NoLimit
+'4035407811': {rigidBodyCenterY: 0.0}
+'4037055478': {armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'4048334106': {weaponCommonPoweredSharpAddRapidFireMax: false,weaponCommonPoweredSharpAddRapidFireMin: false}
+'4052914087': {armorDefenceAddLevel: 28,seriesArmorSeriesType: Korok}
+'405735471': {weaponCommonPoweredSharpAddRapidFireMax: false,weaponCommonPoweredSharpAddRapidFireMin: false}
+'4065668578':
+  aabbMax: {X: 0.303467,Y: 1.78027,Z: 0.23645}
+  aabbMin: {X: -0.303467,Y: 0.744629,Z: -0.350342}
+  armorDefenceAddLevel: 32
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 3
+  armorEffectEffectType: AttackUp
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 2
+  armorNextRankName: 
+  armorStarNum: 5
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_260
+  boundingForTraverse: 1.035641
+  bugMask: 1
+  instSize: 70772
+  itemBuyingPrice: 3640
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 910
+  itemStainColor: -1
+  itemUseIconActorName: Armor_260_Head
+  mainModel: Armor_260_Head_A
+  name: Armor_264_Head
+  normal0ItemName01: Armor_263_Head
+  normal0ItemName02: Item_PlantGet_J
+  normal0ItemName03: Item_Enemy_48
+  normal0ItemNum01: 1
+  normal0ItemNum02: 10
+  normal0ItemNum03: 2
+  normal0StuffNum: 3
+  profile: ArmorHead
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: Korok
+  sortKey: 1221014
+  tags: {tag216a3a63: 560609891,tag289f28b5: 681519285,tag84f40ec6: !u 0x84F40EC6,tage0194f30: !u 0xE0194F30}
+  yLimitAlgorithm: NoLimit
+'4068941346': {seriesArmorSeriesType: Korok}
+'4077156257': {instSize: 31705}
+'412237254':
+  drops:
+    Happy: [Item_Enemy_30,Item_Enemy_30]
+    Normal:
+      - Item_Enemy_26
+      - Item_Enemy_29
+      - Item_Enemy_30
+      - Item_Enemy_26
+      - Item_Enemy_29
+      - Item_Enemy_30
+      - Item_Enemy_26
+      - Item_Enemy_29
+      - Item_Enemy_30
+      - Item_Enemy_26
+      - Item_Enemy_29
+      - Item_Enemy_30
+      - Item_Enemy_26
+      - Item_Enemy_29
+      - Item_Enemy_30
+    Normal2:
+      - Item_Enemy_27
+      - Item_Enemy_28
+      - Item_Enemy_26
+      - Item_Enemy_29
+      - Item_Enemy_27
+      - Item_Enemy_28
+      - Item_Enemy_26
+      - Item_Enemy_29
+      - Item_Enemy_27
+      - Item_Enemy_28
+      - Item_Enemy_26
+      - Item_Enemy_29
+      - Item_Enemy_27
+      - Item_Enemy_28
+      - Item_Enemy_26
+      - Item_Enemy_29
+      - Item_Enemy_27
+      - Item_Enemy_28
+      - Item_Enemy_26
+      - Item_Enemy_29
+'4169915080':
+  Chemical: {Capaciter: 1}
+  aabbMax: {X: 0.415527,Y: 0.361572,Z: 2.85352}
+  aabbMin: {X: -0.210693,Y: -0.361572,Z: -0.322266}
+  attackPower: 67
+  bfres: Weapon_Spear_026
+  boundingForTraverse: 0.723144
+  bugMask: 3
+  cursorOffsetY: 0.3
+  elink: Weapon_Spear_023
+  generalLife: 140
+  instSize: 68274
+  itemBuyingPrice: 20
+  itemCreatingPrice: 4650
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 7
+  itemStainColor: -1
+  itemUseIconActorName: 
+  mainModel: Weapon_Spear_026
+  name: Weapon_Spear_026
+  normal0ItemName01: Weapon_Spear_023
+  normal0ItemName02: Item_Enemy_29
+  normal0ItemName03: Item_Enemy_52
+  normal0ItemNum01: 1
+  normal0ItemNum02: 12
+  normal0ItemNum03: 1
+  normal0StuffNum: 3
+  pictureBookLiveSpot1: 21
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: 26
+  profile: WeaponSpear
+  rigidBodyCenterY: -0.000042
+  slink: Weapon_Spear_023
+  sortKey: 13180
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: 
+  tags: {tag2755f107: 659943687,tag289f28b5: 681519285,tag2cef9fdc: 753901532,tag3d2fc55b: 1026540891,tag5e27ef10: 1579675408,tag8f5d0d55: !u 0x8F5D0D55,tagb0c9e79a: !u 0xB0C9E79A,tagb51794dc: !u 0xB51794DC,tage0194f30: !u 0xE0194F30}
+  traverseDist: 80.0
+  weaponCommonGuardPower: 0
+  weaponCommonPoweredSharpAddAtkMax: 34
+  weaponCommonPoweredSharpAddAtkMin: 16
+  weaponCommonPoweredSharpAddLifeMax: 23
+  weaponCommonPoweredSharpAddLifeMin: 10
+  weaponCommonPoweredSharpAddRapidFireMax: 1.0
+  weaponCommonPoweredSharpAddRapidFireMin: 1.0
+  weaponCommonPoweredSharpAddSpreadFire: false
+  weaponCommonPoweredSharpAddSurfMaster: false
+  weaponCommonPoweredSharpAddThrowMax: 2.0
+  weaponCommonPoweredSharpAddThrowMin: 1.5
+  weaponCommonPoweredSharpAddZoomRapid: false
+  weaponCommonPoweredSharpWeaponAddGuardMax: 0
+  weaponCommonPoweredSharpWeaponAddGuardMin: 0
+  weaponCommonRank: 1
+  weaponCommonSharpWeaponAddAtkMax: 12
+  weaponCommonSharpWeaponAddAtkMin: 6
+  weaponCommonSharpWeaponAddCrit: true
+  weaponCommonSharpWeaponAddGuardMax: 0
+  weaponCommonSharpWeaponAddGuardMin: 0
+  weaponCommonSharpWeaponAddLifeMax: 9
+  weaponCommonSharpWeaponAddLifeMin: 5
+  weaponCommonSharpWeaponPer: 10.0
+  weaponCommonStickDamage: 10
+  xlink: Weapon
+  yLimitAlgorithm: NoLimit
+'4173063867': {armorDefenceAddLevel: 28,armorEffectEffectLevel: 3,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Sheikah}
+'419220480': {armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp,seriesArmorEnableCompBonus: true}
+'4202166367': {generalLife: 52}
+'420429790':
+  aabbMax: {X: 2.05909,Y: 4.4171,Z: 3.82093}
+  aabbMin: {X: -2.12433,Y: -0.020432,Z: -1.08644}
+  attackPower: 48
+  bfres: Enemy_Moriblin_Gold_Volcano
+  boundingForTraverse: 4.437532
+  bugMask: 3
+  cursorOffsetY: 0.75
+  drops:
+    Normal: [Item_Ore_D,Item_Ore_B,Item_Ore_C,Item_Ore_A]
+    Normal2: [Item_Ore_F,Item_Ore_E,Item_Ore_D,Item_Ore_B,Item_Ore_C,Item_Ore_A]
+    Normal3: [Item_Enemy_08]
+    Normal4: [Item_Enemy_07]
+    Normal5: [Item_Enemy_06]
+  elink: Moriblin
+  enemyRank: 44
+  generalLife: 1620
+  instSize: 428911
+  mainModel: Moriblin_Gold_Volcano
+  name: Enemy_Moriblin_Gold_Volcano
+  pictureBookLiveSpot1: 21
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: Enemy
+  slink: Moriblin
+  sortKey: 608
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: Enemy_Moriblin_Gold_Volcano
+  tags:
+    tag255b5760: 626743136
+    tag33b0a8cc: 867215564
+    tag36565b66: 911629158
+    tag4806038d: 1208353677
+    tag485bf81d: 1213986845
+    tag559ef706: 1436481286
+    tag82ed5778: !u 0x82ED5778
+    tag8fda6cdd: !u 0x8FDA6CDD
+    tag994aef4b: !u 0x994AEF4B
+    taga7e979db: !u 0xA7E979DB
+    tagb0c9e79a: !u 0xB0C9E79A
+    tagf2e5b2f2: !u 0xF2E5B2F2
+  traverseDist: 150.0
+  xlink: Biped_Enemy
+  yLimitAlgorithm: LimitYDiff
+'4239311049': {armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'4247888960':
+  aabbMax: {X: 0.337071,Y: 0.882912,Z: 0.18132}
+  aabbMin: {X: -0.338182,Y: -0.001966,Z: -0.18132}
+  bfres: Item_StaminaUtuwa
+  boundingForTraverse: 0.884878
+  bugMask: 3
+  cursorOffsetY: 0.4
+  elink: Obj_StaminaUtuwa_A_01
+  generalLife: 100
+  instSize: 42101
+  itemBuyingPrice: -1
+  itemCreatingPrice: -1
+  itemSaleRevivalCount: -1
+  itemSellingPrice: -1
+  itemStainColor: -1
+  itemUseIconActorName: 
+  lookAtOffsetY: 0.1
+  mainModel: Item_StaminaUtuwa
+  name: Obj_StaminaUtuwa_B
+  profile: Item
+  rigidBodyCenterY: 0.335332
+  slink: Obj_StaminaUtuwa
+  sortKey: 50014
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: 
+  tags: {tag03528579: 55739769,tag4850af43: 1213247299,tag7025851a: 1881507098,tagdcd7e698: !u 0xDCD7E698,tagdeb2c8bd: !u 0xDEB2C8BD,tage0194f30: !u 0xE0194F30,tagf321a28c: !u 0xF321A28C}
+  yLimitAlgorithm: NoLimit
+'4265044439':
+  aabbMax: {X: 2.05909,Y: 4.4171,Z: 3.82093}
+  aabbMin: {X: -2.12433,Y: -0.020432,Z: -1.08644}
+  attackPower: 100
+  bfres: Enemy_Moriblin_Malice
+  boundingForTraverse: 4.437532
+  bugMask: 3
+  cursorOffsetY: 0.75
+  drops:
+    Normal: [Item_Ore_D,Item_Ore_B,Item_Ore_C,Item_Ore_A,Item_Ore_J]
+    Normal2: [Item_Ore_F,Item_Ore_E,Item_Ore_D,Item_Ore_B,Item_Ore_C,Item_Ore_A,Item_Ore_J]
+    Normal3: [Item_Enemy_08]
+    Normal4: [Item_Enemy_07]
+    Normal5: [Enemy_Moriblin_Bone_Junior_AllDay]
+  elink: Moriblin
+  enemyRank: 44
+  generalLife: 4000
+  instSize: 553030
+  mainModel: Moriblin_Malice
+  name: Enemy_Moriblin_Malice
+  pictureBookLiveSpot1: 21
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: Enemy
+  slink: Moriblin
+  sortKey: 0
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: Enemy_Moriblin_Malice
+  tags:
+    tag255b5760: 626743136
+    tag33b0a8cc: 867215564
+    tag36565b66: 911629158
+    tag4806038d: 1208353677
+    tag485bf81d: 1213986845
+    tag559ef706: 1436481286
+    tag82ed5778: !u 0x82ED5778
+    tag8fda6cdd: !u 0x8FDA6CDD
+    tag994aef4b: !u 0x994AEF4B
+    taga7e979db: !u 0xA7E979DB
+    tagb0c9e79a: !u 0xB0C9E79A
+    tagf2e5b2f2: !u 0xF2E5B2F2
+  traverseDist: 150.0
+  xlink: Biped_Enemy
+  yLimitAlgorithm: LimitYDiff
+'4266406890': {armorDefenceAddLevel: 28,armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp}
+'427242568':
+  drops:
+    Happy: [Item_Enemy_30,Item_Enemy_30]
+    Normal: [Item_Enemy_27,Item_Enemy_28,Item_Enemy_27,Item_Enemy_28,Item_Enemy_27,Item_Enemy_28,Item_Enemy_27,Item_Enemy_28]
+    Normal2: [Item_Enemy_27,Item_Enemy_28,Item_Enemy_27,Item_Enemy_28,Item_Enemy_27,Item_Enemy_28,Item_Enemy_27,Item_Enemy_28]
+'4283944553': {armorDefenceAddLevel: 28,armorEffectEffectLevel: 3,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Sheikah}
+'4288095528': {weaponCommonPoweredSharpAddRapidFireMax: false,weaponCommonPoweredSharpAddRapidFireMin: false}
+'438300916':
+  aabbMax: {X: 0.163794,Y: 0.116165,Z: 0.43407}
+  aabbMin: {X: -0.179954,Y: -0.146902,Z: -0.610038}
+  arrowArrowDeletePer: 0
+  arrowArrowNum: 30
+  arrowDeleteTime: 0
+  arrowDeleteTimeWithChemical: 0
+  arrowEnemyShootNumForDelete: 0
+  bfres: Item_ArrowNormal_A
+  boundingForTraverse: 0.263067
+  bugMask: 3
+  cursorOffsetY: 0.2
+  generalLife: 100
+  instSize: 12747
+  itemBuyingPrice: 20
+  itemCreatingPrice: -1
+  itemSaleRevivalCount: 500
+  itemSellingPrice: -1
+  itemStainColor: -1
+  itemUseIconActorName: 
+  mainModel: Item_ArrowNormal_A
+  name: Obj_ArrowBundle_A_30
+  pictureBookLiveSpot1: -1
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: Item
+  slink: Obj_Arrow
+  sortKey: 11
+  systemIsGetItemSelf: true
+  systemSameGroupActorName: NormalArrow
+  tags: {tag19f6c13a: 435601722,tag2755f107: 659943687,tag2cef9fdc: 753901532,tag80e484a4: !u 0x80E484A4,tag9b44906f: !u 0x9B44906F,tagdeb2c8bd: !u 0xDEB2C8BD,tage0194f30: !u 0xE0194F30}
+  yLimitAlgorithm: NoLimit
+'455031113': {seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Sheikah}
+'465965543':
+  aabbMax: {X: 0.134277,Y: 1.79297,Z: 0.187744}
+  aabbMin: {X: -0.134277,Y: 1.43359,Z: -0.61377}
+  armorDefenceAddLevel: 32
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 3
+  armorEffectEffectType: ResistBurn
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: 
+  armorStarNum: 1
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_690
+  boundingForTraverse: 0.35938
+  bugMask: 1
+  instSize: 57580
+  itemBuyingPrice: 10000
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 125
+  itemStainColor: -1
+  itemUseIconActorName: Armor_690_Head
+  mainModel: Armor_690_Head
+  name: Armor_690_Head
+  profile: ArmorHead
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: AmiiboOcarinaOfTime
+  sortKey: 4221705
+  tags: {tag1c0c8d23: 470584611,tag289f28b5: 681519285,tag84f40ec6: !u 0x84F40EC6,taga21d5dbb: !u 0xA21D5DBB,tagd1e9663c: !u 0xD1E9663C,tage0194f30: !u 0xE0194F30}
+  yLimitAlgorithm: NoLimit
+'470817778':
+  aabbMax: {X: 0.917969,Y: 1.49316,Z: 0.197021}
+  aabbMin: {X: -0.917969,Y: 0.663574,Z: -0.145508}
+  armorDefenceAddLevel: 22
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 2
+  armorEffectEffectType: ResistCold
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: Armor_264_Upper
+  armorStarNum: 4
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 1
+  bfres: Armor_260
+  boundingForTraverse: 0.829586
+  bugMask: 1
+  instSize: 145789
+  itemBuyingPrice: 2640
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 660
+  itemStainColor: -1
+  itemUseIconActorName: Armor_260_Upper
+  mainModel: Armor_260_Upper
+  name: Armor_263_Upper
+  normal0ItemName01: Armor_262_Upper
+  normal0ItemName02: Item_PlantGet_J
+  normal0ItemName03: Item_Enemy_52
+  normal0ItemNum01: 1
+  normal0ItemNum02: 3
+  normal0ItemNum03: 2
+  normal0StuffNum: 3
+  profile: ArmorUpper
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: Korok
+  sortKey: 1222014
+  tags: {tag216a3a63: 560609891,tag289f28b5: 681519285,tag84f40ec6: !u 0x84F40EC6,tage0194f30: !u 0xE0194F30}
+  yLimitAlgorithm: NoLimit
+'483245438': {seriesArmorSeriesType: Korok}
+'494995864': {attackPower: 49,generalLife: 32}
+'495174884':
+  aabbMax: {X: 0.96782,Y: 2.81948,Z: 2.7371}
+  aabbMin: {X: -1.24833,Y: -0.006026,Z: -1.5635}
+  attackPower: 40
+  bfres: Enemy_Lizalfos_Gold
+  boundingForTraverse: 2.825506
+  bugMask: 3
+  cursorOffsetY: 1.0
+  drops:
+    Normal: [Item_Ore_D,Item_Ore_B,Item_Ore_C,Item_Ore_A]
+    Normal2: [Item_Ore_F,Item_Ore_E,Item_Ore_D,Item_Ore_B,Item_Ore_C,Item_Ore_A]
+    Normal3: [Item_Enemy_05]
+    Normal4: [Item_Enemy_04]
+    Normal5: [Item_Enemy_03]
+  elink: Lizalfos
+  enemyRank: 42
+  generalLife: 1296
+  instSize: 479236
+  mainModel: Lizalfos_Gold
+  name: Enemy_Lizalfos_Gold_Sniper
+  pictureBookLiveSpot1: 21
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: Enemy
+  slink: Lizalfos
+  sortKey: 708
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: Enemy_Lizalfos_Gold
+  tags:
+    tag33b0a8cc: 867215564
+    tag36565b66: 911629158
+    tag3ed0b27e: 1053864574
+    tag4806038d: 1208353677
+    tag559ef706: 1436481286
+    tag82ed5778: !u 0x82ED5778
+    tag8fda6cdd: !u 0x8FDA6CDD
+    tag994aef4b: !u 0x994AEF4B
+    taga7e979db: !u 0xA7E979DB
+    tagb0c9e79a: !u 0xB0C9E79A
+    tage0e120f7: !u 0xE0E120F7
+    tagf2e5b2f2: !u 0xF2E5B2F2
+  traverseDist: 150.0
+  xlink: Biped_Enemy
+  yLimitAlgorithm: LimitYDiff
+'510497343': {armorDefenceAddLevel: 28,armorEffectEffectLevel: 3,armorEffectEffectType: ResistAncient,seriesArmorSeriesType: Power}
+'516614532': {armorDefenceAddLevel: 28,seriesArmorSeriesType: Korok}
+'520975755':
+  aabbMax: {X: 3.47309,Y: 6.2227,Z: 3.66839}
+  aabbMin: {X: -3.68986,Y: -0.212167,Z: -3.70738}
+  attackPower: 0
+  bfres: FldObj_RuinGuardian_A
+  boundingForTraverse: 6.434867
+  bugMask: 0
+  drops:
+    Normal:
+      - Item_Enemy_26
+      - Item_Enemy_27
+      - Item_Enemy_28
+      - Item_Enemy_29
+      - Item_Enemy_30
+      - Item_Enemy_26
+      - Item_Enemy_27
+      - Item_Enemy_28
+      - Item_Enemy_29
+      - Item_Enemy_30
+  generalLife: 100
+  instSize: 41597
+  mainModel: FldObj_RuinGuardian_A_01
+  name: Enemy_FldObj_RuinGuardian_Stalker
+  profile: MapDynamicActive
+  rigidBodyCenterY: 3.5
+  sortKey: 0
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: 
+  tags: {tag994aef4b: !u 0x994AEF4B,tagb0c9e79a: !u 0xB0C9E79A}
+  traverseDist: 225.0
+  yLimitAlgorithm: NoLimit
+'524471350': {weaponCommonPoweredSharpAddRapidFireMax: false,weaponCommonPoweredSharpAddRapidFireMin: false}
+'526773015': {attackPower: 350}
+'534260987': {armorDefenceAddLevel: 28,seriesArmorSeriesType: Korok}
+'578970655': {attackPower: 240,generalLife: 15000}
+'58467137': {generalLife: 6000}
+'604819199':
+  aabbMax: {X: 0.303467,Y: 1.78027,Z: 0.23645}
+  aabbMin: {X: -0.303467,Y: 0.744629,Z: -0.350342}
+  armorDefenceAddLevel: 14
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 3
+  armorEffectEffectType: AttackUp
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 2
+  armorNextRankName: Armor_263_Head
+  armorStarNum: 3
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_260
+  boundingForTraverse: 1.035641
+  bugMask: 1
+  instSize: 70772
+  itemBuyingPrice: 1840
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 460
+  itemStainColor: -1
+  itemUseIconActorName: Armor_260_Head
+  mainModel: Armor_260_Head_A
+  name: Armor_262_Head
+  normal0ItemName01: Armor_261_Head
+  normal0ItemName02: Item_PlantGet_J
+  normal0ItemName03: Item_Enemy_56
+  normal0ItemNum01: 1
+  normal0ItemNum02: 3
+  normal0ItemNum03: 2
+  normal0StuffNum: 3
+  profile: ArmorHead
+  seriesArmorEnableCompBonus: true
+  seriesArmorSeriesType: Korok
+  sortKey: 1221014
+  tags: {tag216a3a63: 560609891,tag289f28b5: 681519285,tag84f40ec6: !u 0x84F40EC6,tage0194f30: !u 0xE0194F30}
+  yLimitAlgorithm: NoLimit
+'606640627': {armorEffectEffectLevel: 1,armorEffectEffectType: SnowMove,seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'611954883': {armorEffectEffectLevel: 2}
+'624984507': {armorEffectAncientPowUp: true,armorEffectEffectLevel: 3}
+'658311286': {seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'659974341': {weaponCommonPoweredSharpAddRapidFireMax: false,weaponCommonPoweredSharpAddRapidFireMin: false}
+'662177722': {generalLife: 2500,traverseDist: 225.0}
+'673813110': {itemSaleRevivalCount: 500}
+'689231517': {armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp,seriesArmorEnableCompBonus: true}
+'706308781': {weaponCommonPoweredSharpAddRapidFireMax: false,weaponCommonPoweredSharpAddRapidFireMin: false}
+'720839636': {armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp,seriesArmorSeriesType: Korok}
+'736192649': {armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp}
+'742469666':
+  aabbMax: {X: 2.07662,Y: 4.30833,Z: 3.82093}
+  aabbMin: {X: -2.12457,Y: -0.006665,Z: -1.04136}
+  attackPower: 10
+  bfres: Enemy_Moriblin_Bone
+  boundingForTraverse: 4.314996
+  bugMask: 3
+  cursorOffsetY: 0.75
+  drops:
+    Normal: [Item_Enemy_07]
+    Normal2: [Item_Enemy_06]
+  elink: Enemy_Moriblin_Bone_Junior
+  enemyRank: 24
+  generalLife: 2
+  homeArea:
+    - {name: HyruleForest}
+    - {name: GerudoHighlands}
+    - {name: EldinMountains}
+  instSize: 420965
+  mainModel: Moriblin_Bone
+  name: Enemy_Moriblin_Bone_Junior_AllDay
+  pictureBookLiveSpot1: -1
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: Enemy
+  slink: Enemy_Moriblin_Bone_Junior
+  sortKey: 0
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: 
+  tags:
+    tag1ac8f200: 449376768
+    tag255b5760: 626743136
+    tag35960905: 899025157
+    tag485bf81d: 1213986845
+    tag72d6e7a4: 1926686628
+    tag82ed5778: !u 0x82ED5778
+    tag8fda6cdd: !u 0x8FDA6CDD
+    tag994aef4b: !u 0x994AEF4B
+    taga4c7ba34: !u 0xA4C7BA34
+    taga7e979db: !u 0xA7E979DB
+    tagb0c9e79a: !u 0xB0C9E79A
+    tagf2e5b2f2: !u 0xF2E5B2F2
+  traverseDist: 150.0
+  xlink: Biped_Enemy
+  yLimitAlgorithm: NoLimit
+'747641127': {armorDefenceAddLevel: 20,armorEffectEffectLevel: 1,armorEffectEffectType: SnowMove}
+'755553922':
+  aabbMax: {X: 3.47309,Y: 6.2227,Z: 3.66839}
+  aabbMin: {X: -3.68986,Y: -0.212167,Z: -3.70738}
+  attackPower: 0
+  bfres: FldObj_RuinGuardian_A
+  boundingForTraverse: 6.434867
+  bugMask: 1
+  drops:
+    Normal: [Item_Enemy_26,Item_Enemy_27,Item_Enemy_28,Item_Enemy_29,Item_Enemy_30]
+  generalLife: 100
+  instSize: 41813
+  mainModel: FldObj_RuinGuardian_A_01
+  name: FldObj_RuinGuardian_A_Dynamic_NoDrop
+  profile: MapDynamicPassive
+  rigidBodyCenterY: 3.5
+  sortKey: 1
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: 
+  tags: {tag21f1c37a: 569492346}
+  yLimitAlgorithm: NoLimit
+'756747014': {armorDefenceAddLevel: 28,armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp,seriesArmorSeriesType: Korok}
+'757442531': {seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'757834252': {instSize: 479882}
+'757858002':
+  drops:
+    Happy: [Item_Enemy_30,Item_Enemy_30]
+    Normal:
+      - Item_Enemy_27
+      - Item_Enemy_28
+      - Item_Enemy_26
+      - Item_Enemy_29
+      - Item_Enemy_27
+      - Item_Enemy_28
+      - Item_Enemy_26
+      - Item_Enemy_29
+      - Item_Enemy_27
+      - Item_Enemy_28
+      - Item_Enemy_26
+      - Item_Enemy_29
+      - Item_Enemy_27
+      - Item_Enemy_28
+      - Item_Enemy_26
+      - Item_Enemy_29
+    Normal2:
+      - Item_Enemy_27
+      - Item_Enemy_28
+      - Item_Enemy_26
+      - Item_Enemy_29
+      - Item_Enemy_27
+      - Item_Enemy_28
+      - Item_Enemy_26
+      - Item_Enemy_29
+      - Item_Enemy_27
+      - Item_Enemy_28
+      - Item_Enemy_26
+      - Item_Enemy_29
+      - Item_Enemy_27
+      - Item_Enemy_28
+      - Item_Enemy_26
+      - Item_Enemy_29
+'762270013':
+  aabbMax: {X: 2.97743,Y: 0.462932,Z: 0.403331}
+  aabbMin: {X: -0.046318,Y: -0.596393,Z: -0.403331}
+  bfres: FldObj_RuinGuardian_A
+  boundingForTraverse: 3.023748
+  bugMask: 0
+  cursorOffsetY: 0.5
+  instSize: 36893
+  mainModel: FldObj_RuinGuardianArm_A_03
+  name: FldObj_RuinGuardianArm_A_03_RotP
+  profile: MapDynamicPassive
+  sortKey: -1
+  tags: {tag0d23ee8c: 220458636,taga1c9da5d: !u 0xA1C9DA5D}
+  traverseDist: 215.0
+  yLimitAlgorithm: NoLimit
+'763550808': {armorDefenceAddLevel: 32,armorEffectAncientPowUp: true,armorEffectEffectLevel: 3,armorEffectEffectType: ResistFreeze,seriesArmorSeriesType: Goron}
+'771228015':
+  aabbMax: {X: 0.917969,Y: 1.49316,Z: 0.197021}
+  aabbMin: {X: -0.917969,Y: 0.663574,Z: -0.145508}
+  armorDefenceAddLevel: 5
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 2
+  armorEffectEffectType: ResistCold
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: Armor_261_Upper
+  armorStarNum: 1
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 1
+  bfres: Armor_260
+  boundingForTraverse: 0.829586
+  bugMask: 1
+  instSize: 145789
+  itemBuyingPrice: 1000
+  itemCreatingPrice: 0
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 250
+  itemStainColor: -1
+  itemUseIconActorName: 
+  mainModel: Armor_260_Upper
+  name: Armor_260_Upper
+  profile: ArmorUpper
+  seriesArmorEnableCompBonus: false
+  seriesArmorSeriesType: Hero
+  sortKey: 1222014
+  tags: {tag216a3a63: 560609891,tag289f28b5: 681519285,tag84f40ec6: !u 0x84F40EC6,tage0194f30: !u 0xE0194F30}
+  yLimitAlgorithm: NoLimit
+'774911590': {seriesArmorSeriesType: Korok}
+'812278149':
+  aabbMax: {X: 1.06456,Y: 0.201452,Z: 0.368516}
+  aabbMin: {X: -1.44384,Y: -0.574208,Z: -0.438146}
+  bfres: FldObj_RuinGuardian_A
+  boundingForTraverse: 2.5084
+  bugMask: 0
+  cursorOffsetY: 0.5
+  instSize: 36893
+  mainModel: FldObj_RuinGuardianArm_A_04
+  name: FldObj_RuinGuardianArm_A_04_RotP
+  profile: MapDynamicPassive
+  sortKey: 0
+  tags: {tag0d23ee8c: 220458636,taga1c9da5d: !u 0xA1C9DA5D}
+  traverseDist: 215.0
+  yLimitAlgorithm: NoLimit
+'838507021': {armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp,seriesArmorSeriesType: Power}
+'854702757':
+  aabbMax: {X: 0.96782,Y: 2.81948,Z: 2.7371}
+  aabbMin: {X: -1.24833,Y: -0.006026,Z: -1.5635}
+  attackPower: 80
+  bfres: Enemy_Lizalfos_Malice
+  boundingForTraverse: 2.825506
+  bugMask: 3
+  cursorOffsetY: 1.0
+  drops:
+    Normal: [Item_Ore_D,Item_Ore_B,Item_Ore_C,Item_Ore_A]
+    Normal2: [Item_Ore_F,Item_Ore_E,Item_Ore_D,Item_Ore_B,Item_Ore_C,Item_Ore_A]
+    Normal3: [Item_Enemy_05]
+    Normal4: [Item_Enemy_04]
+    Normal5: [Item_Enemy_03]
+  elink: Lizalfos
+  enemyRank: 42
+  generalLife: 3200
+  instSize: 479236
+  mainModel: Lizalfos_Malice
+  name: Enemy_Lizalfos_Malice
+  pictureBookLiveSpot1: 21
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: -1
+  profile: Enemy
+  slink: Lizalfos
+  sortKey: 0
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: Enemy_Lizalfos_Malice
+  tags:
+    tag33b0a8cc: 867215564
+    tag36565b66: 911629158
+    tag3ed0b27e: 1053864574
+    tag4806038d: 1208353677
+    tag559ef706: 1436481286
+    tag82ed5778: !u 0x82ED5778
+    tag8fda6cdd: !u 0x8FDA6CDD
+    tag994aef4b: !u 0x994AEF4B
+    taga7e979db: !u 0xA7E979DB
+    tagb0c9e79a: !u 0xB0C9E79A
+    tage0e120f7: !u 0xE0E120F7
+    tagf2e5b2f2: !u 0xF2E5B2F2
+  traverseDist: 150.0
+  xlink: Biped_Enemy
+  yLimitAlgorithm: LimitYDiff
+'855792620': {weaponCommonPoweredSharpAddRapidFireMax: false,weaponCommonPoweredSharpAddRapidFireMin: false}
+'855811200': {armorDefenceAddLevel: 20,armorEffectEffectLevel: 3,armorEffectEffectType: ResistElectric,seriesArmorSeriesType: Zora}
+'856595709': {instSize: 432206}
+'875933993': {seriesArmorSeriesType: Korok}
+'879730677': {weaponCommonPoweredSharpAddRapidFireMax: false,weaponCommonPoweredSharpAddRapidFireMin: false}
+'906774838': {armorEffectEffectLevel: 3}
+'920934449': {armorDefenceAddLevel: 28,armorEffectEffectLevel: 3,seriesArmorSeriesType: Rubber}
+'938611564': {armorDefenceAddLevel: 28,armorEffectEffectLevel: 3,armorEffectEffectType: AttackUp,seriesArmorSeriesType: Korok}
+'98413492': {seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Korok}
+'98764625': {seriesArmorEnableCompBonus: true,seriesArmorSeriesType: Ancient}
+'989448219': {armorDefenceAddLevel: 28,armorEffectAncientPowUp: true,armorEffectEffectLevel: 3}
+'991331737':
+  Chemical: {Capaciter: 1}
+  aabbMax: {X: 0.413758,Y: 0.060291,Z: 0.311979}
+  aabbMin: {X: -0.140458,Y: -0.179231,Z: -0.36943}
+  attackPower: 0
+  bfres: Weapon_Shield_Mirror
+  boundingForTraverse: 0.239323
+  bugMask: 3
+  cursorOffsetY: 0.3
+  elink: Weapon_Shield
+  generalLife: 800
+  homeArea:
+    - {name: GerudoHighlands}
+    - {name: GerudoDesert}
+    - {name: }
+    - {name: GerudoHighlands}
+    - {name: GerudoDesert}
+    - {name: }
+  instSize: 47190
+  itemBuyingPrice: 50000
+  itemCreatingPrice: 10
+  itemSaleRevivalCount: 0
+  itemSellingPrice: 40000
+  itemStainColor: -1
+  itemUseIconActorName: 
+  mainModel: Weapon_Shield_Mirror
+  name: Weapon_Shield_Mirror
+  pictureBookLiveSpot1: 21
+  pictureBookLiveSpot2: -1
+  pictureBookSpecialDrop: 26
+  profile: WeaponShield
+  rigidBodyCenterY: -0.078882
+  slink: Weapon_Shield_Metal
+  sortKey: 15000
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: 
+  tags: {tag2755f107: 659943687,tag289f28b5: 681519285,tag2cef9fdc: 753901532,tag7025851a: 1881507098,tagb0c9e79a: !u 0xB0C9E79A,tagb51794dc: !u 0xB51794DC,tage0194f30: !u 0xE0194F30}
+  traverseDist: 80.0
+  weaponCommonGuardPower: 100
+  weaponCommonPoweredSharpAddAtkMax: 0
+  weaponCommonPoweredSharpAddAtkMin: 0
+  weaponCommonPoweredSharpAddLifeMax: 0
+  weaponCommonPoweredSharpAddLifeMin: 0
+  weaponCommonPoweredSharpAddRapidFireMax: 1.0
+  weaponCommonPoweredSharpAddRapidFireMin: 1.0
+  weaponCommonPoweredSharpAddSpreadFire: false
+  weaponCommonPoweredSharpAddSurfMaster: false
+  weaponCommonPoweredSharpAddThrowMax: 0
+  weaponCommonPoweredSharpAddThrowMin: 0
+  weaponCommonPoweredSharpAddZoomRapid: false
+  weaponCommonPoweredSharpWeaponAddGuardMax: 0
+  weaponCommonPoweredSharpWeaponAddGuardMin: 0
+  weaponCommonRank: 0
+  weaponCommonSharpWeaponAddAtkMax: 0
+  weaponCommonSharpWeaponAddAtkMin: 0
+  weaponCommonSharpWeaponAddCrit: false
+  weaponCommonSharpWeaponAddGuardMax: 0
+  weaponCommonSharpWeaponAddGuardMin: 0
+  weaponCommonSharpWeaponAddLifeMax: 0
+  weaponCommonSharpWeaponAddLifeMin: 0
+  weaponCommonSharpWeaponPer: 10.0
+  weaponCommonStickDamage: 0
+  xlink: Weapon
+  yLimitAlgorithm: NoLimit
+'993438696': {armorDefenceAddLevel: 28,armorEffectAncientPowUp: true,armorEffectEffectLevel: 3,armorEffectEffectType: ClimbSpeed,armorEffectEnableClimbWaterfall: true,seriesArmorSeriesType: Sheikah}

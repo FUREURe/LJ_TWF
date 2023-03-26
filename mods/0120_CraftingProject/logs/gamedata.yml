@@ -1,0 +1,217 @@
+bool_array_data:
+  add: {}
+  del: []
+bool_data:
+  add:
+    IsGet_Item_Bow_028_Broken:
+      DataName: IsGet_Item_Bow_028_Broken
+      DeleteRev: -1
+      HashValue: 2096966110
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: true
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+    IsGet_Item_Feather:
+      DataName: IsGet_Item_Feather
+      DeleteRev: -1
+      HashValue: 1203855233
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: true
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+    IsGet_Item_Lsword_054_Broken:
+      DataName: IsGet_Item_Lsword_054_Broken
+      DeleteRev: -1
+      HashValue: 1827785073
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: true
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+    IsGet_Item_Ore_Ancient:
+      DataName: IsGet_Item_Ore_Ancient
+      DeleteRev: -1
+      HashValue: -1483624933
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: true
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+    IsGet_Item_Ore_Coal:
+      DataName: IsGet_Item_Ore_Coal
+      DeleteRev: -1
+      HashValue: -2029799164
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: true
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+    IsGet_Item_Ore_Eldin:
+      DataName: IsGet_Item_Ore_Eldin
+      DeleteRev: -1
+      HashValue: -1716844398
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: true
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+    IsGet_Item_Ore_Gold:
+      DataName: IsGet_Item_Ore_Gold
+      DeleteRev: -1
+      HashValue: -1290479572
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: true
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+    IsGet_Item_Ore_Iron:
+      DataName: IsGet_Item_Ore_Iron
+      DeleteRev: -1
+      HashValue: -1932712479
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: true
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+    IsGet_Item_Ore_Silver:
+      DataName: IsGet_Item_Ore_Silver
+      DeleteRev: -1
+      HashValue: 1589960034
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: true
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+    IsGet_Item_Ore_Steel:
+      DataName: IsGet_Item_Ore_Steel
+      DeleteRev: -1
+      HashValue: -1595977257
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: true
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+    IsGet_Item_Shield_037_Broken:
+      DataName: IsGet_Item_Shield_037_Broken
+      DeleteRev: -1
+      HashValue: -913506472
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: true
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+    IsGet_Item_Spear_050_Broken:
+      DataName: IsGet_Item_Spear_050_Broken
+      DeleteRev: -1
+      HashValue: -291532422
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: true
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+    IsGet_Item_Sword_052_Broken:
+      DataName: IsGet_Item_Sword_052_Broken
+      DeleteRev: -1
+      HashValue: 258261390
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: true
+      IsProgramReadable: true
+      IsProgramWritable: true
+      IsSave: true
+      MaxValue: true
+      MinValue: false
+      ResetType: 0
+  del: []
+f32_array_data:
+  add: {}
+  del: []
+f32_data:
+  add: {}
+  del: []
+s32_array_data:
+  add: {}
+  del: []
+s32_data:
+  add: {}
+  del: []
+string256_array_data:
+  add: {}
+  del: []
+string256_data:
+  add: {}
+  del: []
+string64_array_data:
+  add: {}
+  del: []
+string64_data:
+  add: {}
+  del: []
+string_data:
+  add: {}
+  del: []
+vector2f_array_data:
+  add: {}
+  del: []
+vector2f_data:
+  add: {}
+  del: []
+vector3f_array_data:
+  add: {}
+  del: []
+vector3f_data:
+  add: {}
+  del: []
+vector4f_data:
+  add: {}
+  del: []
