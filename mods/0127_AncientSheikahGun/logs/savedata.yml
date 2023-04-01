@@ -1,0 +1,8 @@
+add:
+- {DataName: IsNewPictureBook_Weapon_Bow_ANG, HashValue: 1379798828}
+- {DataName: IsGet_Weapon_Bow_ANG, HashValue: 898883033}
+- {DataName: EquipTime_Weapon_Bow_ANG, HashValue: 938523488}
+- {DataName: PictureBookSize_Weapon_Bow_ANG, HashValue: -362692915}
+- {DataName: IsRegisteredPictureBook_Weapon_Bow_ANG, HashValue: -562991182}
+- {DataName: PorchTime_Weapon_Bow_ANG, HashValue: -1790196759}
+del: []

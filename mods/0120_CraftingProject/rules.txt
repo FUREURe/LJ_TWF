@@ -1,8 +1,0 @@
-[Definition]
-titleIds = 00050000101C9300,00050000101C9400,00050000101C9500
-name = Crafting Project
-path = {BCML: DON'T TOUCH}/Crafting Project
-description = Adds the ability to craft weapons through Anvils that have been placed in every stable and village.
-version = 4
-image = C:\Users\gign9\OneDrive\Pictures\craftinglogo8.png
-url = https://gamebanana.com/craftings/103

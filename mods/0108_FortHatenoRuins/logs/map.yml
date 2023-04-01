@@ -1,0 +1,3548 @@
+H-7_Dynamic:
+  add:
+  - HashId: !u 0xffc94d81
+    Rotate: -4.79999971
+    SRTHash: 0
+    Translate: [2530.24414, 157.615387, 2106.87622]
+    UnitConfigName: TwnObj_Village_HatenoFence_A_05C
+  - HashId: !u 0xffc94d82
+    Rotate: -4.79999971
+    SRTHash: 0
+    Translate: [2543.93921, 156.215378, 2087.42139]
+    UnitConfigName: TwnObj_Village_HatenoFence_A_06C
+  - HashId: !u 0xffc94d83
+    Rotate: -4.5999999
+    SRTHash: 0
+    Translate: [2543.16406, 156.615387, 2081.18311]
+    UnitConfigName: TwnObj_Village_HatenoFence_A_04C
+  - HashId: !u 0xffc94d84
+    Rotate: -4.5999999
+    SRTHash: 0
+    Translate: [2543.21924, 156.615387, 2081.15991]
+    UnitConfigName: TwnObj_Village_HatenoFence_A_06C
+  - HashId: !u 0xffc94d85
+    Rotate: -5.0
+    SRTHash: 0
+    Translate: [2543.39453, 156.615387, 2093.64868]
+    UnitConfigName: TwnObj_Village_HatenoFence_A_05C
+  - HashId: !u 0xffc94d86
+    Rotate: -4.79999971
+    SRTHash: 0
+    Translate: [2542.44751, 157.015381, 2096.66162]
+    UnitConfigName: TwnObj_Village_HatenoFence_A_05C
+  - HashId: !u 0xffc94d87
+    Rotate: -4.5999999
+    SRTHash: 0
+    Translate: [2542.13745, 157.41539, 2099.84229]
+    UnitConfigName: TwnObj_Village_HatenoFence_A_05C
+  - HashId: !u 0xffc94d88
+    Rotate: -4.5999999
+    SRTHash: 0
+    Translate: [2541.82642, 157.41539, 2109.42261]
+    UnitConfigName: TwnObj_Village_HatenoFence_A_06C
+  - HashId: !u 0xffc94d89
+    Rotate: -6.19999981
+    SRTHash: 0
+    Translate: [2530.15698, 158.215378, 2110.02881]
+    UnitConfigName: TwnObj_Village_HatenoFence_A_05C
+  - HashId: !u 0xffc94d8a
+    Rotate: -6.19999981
+    SRTHash: 0
+    Translate: [2526.88965, 158.41539, 2110.30688]
+    UnitConfigName: TwnObj_Village_HatenoFence_A_06C
+  - HashId: !u 0xffc94d8b
+    Rotate: -6.39999962
+    SRTHash: 0
+    Translate: [2520.53564, 158.615387, 2110.77075]
+    UnitConfigName: TwnObj_Village_HatenoFence_A_06C
+  - HashId: !u 0xffc94d8c
+    Rotate: -6.19999981
+    SRTHash: 0
+    Translate: [2514.12744, 158.815384, 2109.93042]
+    UnitConfigName: TwnObj_Village_HatenoFence_A_06C
+  - HashId: !u 0xffc94d8d
+    Rotate: -6.19999981
+    SRTHash: 0
+    Translate: [2507.76855, 159.215378, 2110.47461]
+    UnitConfigName: TwnObj_Village_HatenoFence_A_06C
+  - HashId: !u 0xffc94d8e
+    Rotate: -4.79999971
+    SRTHash: 0
+    Translate: [2530.05786, 158.015381, 2109.92114]
+    UnitConfigName: TwnObj_Village_HatenoFence_A_05C
+  - HashId: !u 0xffc94d8f
+    Rotate: -4.79999971
+    SRTHash: 0
+    Translate: [2530.02173, 158.215378, 2110.04395]
+    UnitConfigName: TwnObj_Village_HatenoFence_A_04C
+  - HashId: !u 0xffc94d90
+    Rotate: -4.79999971
+    SRTHash: 0
+    Translate: [2542.44824, 157.41539, 2103.08813]
+    UnitConfigName: TwnObj_Village_HatenoFence_A_06C
+  - HashId: !u 0xffc94d91
+    Rotate: -4.5999999
+    SRTHash: 0
+    Translate: [2542.42651, 157.41539, 2115.76343]
+    UnitConfigName: TwnObj_Village_HatenoFence_A_06C
+  - HashId: !u 0xffc94d92
+    Rotate: -4.5999999
+    SRTHash: 0
+    Translate: [2529.78833, 158.41539, 2112.98926]
+    UnitConfigName: TwnObj_Village_HatenoFence_A_05C
+  - HashId: !u 0xffc94d93
+    Rotate: -4.5999999
+    SRTHash: 0
+    Translate: [2543.07544, 157.41539, 2122.06177]
+    UnitConfigName: TwnObj_Village_HatenoFence_A_06C
+  - HashId: !u 0xffc94d94
+    Rotate: -4.39999962
+    SRTHash: 0
+    Translate: [2530.51099, 157.815384, 2119.21069]
+    UnitConfigName: TwnObj_Village_HatenoFence_A_05C
+  - HashId: !u 0xffc94d95
+    Rotate: -4.5999999
+    SRTHash: 0
+    Translate: [2530.17896, 158.215378, 2116.26685]
+    UnitConfigName: TwnObj_Village_HatenoFence_A_05C
+  - HashId: !u 0xffc94d96
+    Rotate: -5.5999999
+    SRTHash: 0
+    Translate: [2531.41846, 157.815384, 2122.23071]
+    UnitConfigName: TwnObj_Village_HatenoFence_A_05C
+  - HashId: !u 0xffc94d97
+    Rotate: -5.5999999
+    SRTHash: 0
+    Translate: [2528.99146, 158.215378, 2124.23901]
+    UnitConfigName: TwnObj_Village_HatenoFence_A_05C
+  - HashId: !u 0xffc94d98
+    Rotate: -4.19999981
+    SRTHash: 0
+    Translate: [2543.77002, 157.815384, 2128.44189]
+    UnitConfigName: TwnObj_Village_HatenoFence_A_05C
+  - HashId: !u 0xffc94d99
+    Rotate: -3.79999971
+    SRTHash: 0
+    Translate: [2545.3396, 158.215378, 2131.24097]
+    UnitConfigName: TwnObj_Village_HatenoFence_A_05C
+  - HashId: !u 0xffc94d9a
+    Rotate: -3.79999971
+    SRTHash: 0
+    Translate: [2547.79199, 158.615387, 2133.11426]
+    UnitConfigName: TwnObj_Village_HatenoFence_A_05C
+  - HashId: !u 0xffc94d9b
+    Rotate: -4.39999962
+    SRTHash: 0
+    Translate: [2550.28662, 159.615387, 2134.77734]
+    UnitConfigName: TwnObj_Village_HatenoFence_A_05C
+  - HashId: !u 0xffc94d9c
+    Rotate: -4.39999962
+    SRTHash: 0
+    Translate: [2550.33765, 159.615387, 2135.08179]
+    UnitConfigName: TwnObj_Village_HatenoFence_A_04C
+  - HashId: !u 0xffc94d9d
+    Rotate: -5.5999999
+    SRTHash: 0
+    Translate: [2526.41064, 157.615387, 2126.63257]
+    UnitConfigName: TwnObj_Village_HatenoLamp_A_04C
+  - HashId: !u 0xffc94d9e
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2508.96606, 160.783279, 2136.08813]
+    UnitConfigName: TwnObj_Village_HatenoLamp_A_02C
+  - HashId: !u 0xffc94d9f
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2504.29468, 160.783279, 2144.86304]
+    UnitConfigName: TwnObj_Village_HatenoLamp_A_02C
+  - HashId: !u 0xffc94da0
+    Rotate: -2.5999999
+    SRTHash: 0
+    Translate: [2510.34692, 157.815384, 2134.78735]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94da1
+    Rotate: -2.20000005
+    SRTHash: 0
+    Translate: [2519.38477, 156.815384, 2152.90039]
+    UnitConfigName: FldObj_HighwayHylia_A_03C
+  - HashId: !u 0xffc94da2
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2379.41553, 202.815384, 1989.31287]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94da4
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2414.73926, 202.815384, 2008.05042]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_02C
+  - HashId: !u 0xffc94daa
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2419.16895, 202.815384, 2010.3905]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94dab
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2440.76904, 187.550568, 2009.79346]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_D_01C
+  - HashId: !u 0xffc94dac
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2440.82397, 174.950562, 2009.81763]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94dad
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2432.06226, 174.950562, 2004.72925]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94dae
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2432.06226, 187.550568, 2004.72925]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94daf
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2440.76904, 187.550568, 2009.79346]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94db1
+    Rotate: -4.5999999
+    SRTHash: 0
+    Translate: [2526.83765, 158.015381, 2095.10327]
+    UnitConfigName: TwnObj_Village_HatenoLamp_A_02C
+  - HashId: !u 0xffc94db2
+    Rotate: -4.5999999
+    SRTHash: 0
+    Translate: [2526.12012, 158.015381, 2088.38794]
+    UnitConfigName: TwnObj_Village_HatenoLamp_A_02C
+  - HashId: !u 0xffc94db3
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2530.50049, 157.815384, 2075.99561]
+    UnitConfigName: TwnObj_Village_HatenoLamp_A_02C
+  - HashId: !u 0xffc94db4
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2527.45557, 157.815384, 2081.87158]
+    UnitConfigName: TwnObj_Village_HatenoLamp_A_02C
+  - HashId: !u 0xffc94db5
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2503.67285, 165.38327, 2138.90112]
+    UnitConfigName: TwnObj_Village_HatenoLamp_A_03C
+  - HashId: !u 0xffc94db6
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2506.12573, 168.783279, 2140.12061]
+    UnitConfigName: TwnObj_HyruleCastleObject_WeaponOrnament_B_01
+  - HashId: !u 0xffc94db7
+    Rotate: -8.19999981
+    SRTHash: 0
+    Translate: [2543.5061, 157.615387, 2128.48682]
+    UnitConfigName: TwnObj_Village_HatenoLamp_A_04C
+  - HashId: !u 0xffc94db8
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2502.15503, 159.983276, 2153.8689]
+    UnitConfigName: FldObj_HyliaWoodRuinShelter_A_01C
+  - HashId: !u 0xffc94dbd
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2472.72656, 177.632965, 2051.5603]
+    UnitConfigName: FldObj_AkkareFortFlowerbed_A_01C
+  - HashId: !u 0xffc94dbe
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2500.69897, 177.432968, 2045.44287]
+    UnitConfigName: FldObj_AkkareFortFlowerbed_A_01C
+  - '!Parameters': {AngleY: 0.0, CutRate: 0.0, DropTable: Normal, SharpWeaponJudgeType: 0}
+    HashId: !u 0xffc94dbf
+    Rotate: 0.879999995
+    SRTHash: 1982053692
+    Translate: [2500.69897, 177.432968, 2045.44287]
+    UnitConfigName: Obj_TreeConiferous_A_03
+  - '!Parameters': {AngleY: 0.0, CutRate: 0.0, DropTable: Normal, SharpWeaponJudgeType: 0}
+    HashId: !u 0xffc94dc0
+    Rotate: 1.08000004
+    SRTHash: 1982053692
+    Translate: [2472.69531, 177.632965, 2051.81421]
+    UnitConfigName: Obj_TreeConiferous_A_03
+  - HashId: !u 0xffc94dc1
+    SRTHash: -1909118778
+    Translate: [2502.29565, 159.556473, 2154.01465]
+    UnitConfigName: GrassCutTag
+  - HashId: !u 0xffc94dc2
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2461.11938, 163.723419, 2124.21851]
+    UnitConfigName: FldObj_AkkareFortFlowerbed_A_01C
+  - '!Parameters': {AngleY: 0.0, CutRate: 0.0, DropTable: Normal, SharpWeaponJudgeType: 0}
+    HashId: !u 0xffc94dc3
+    Rotate: 0.479999989
+    SRTHash: 1982053692
+    Translate: [2453.37354, 159.523422, 2142.31934]
+    UnitConfigName: Obj_TreeConiferous_A_02
+  - HashId: !u 0xffc94dc4
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2453.37354, 159.523422, 2142.31934]
+    UnitConfigName: FldObj_AkkareFortFlowerbed_A_01C
+  - HashId: !u 0xffc94dc5
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2447.10596, 163.723419, 2117.57861]
+    UnitConfigName: FldObj_AkkareFortFlowerbed_A_01C
+  - '!Parameters': {AngleY: 0.0, CutRate: 0.0, DropTable: Normal, SharpWeaponJudgeType: 0}
+    HashId: !u 0xffc94dc6
+    Rotate: 1.08000004
+    SRTHash: 1982053692
+    Translate: [2461.11938, 163.723419, 2124.21851]
+    UnitConfigName: Obj_TreeConiferous_A_02
+  - '!Parameters': {AngleY: 0.0, CutRate: 0.0, DropTable: Normal, SharpWeaponJudgeType: 0}
+    HashId: !u 0xffc94dc7
+    Rotate: -0.120000012
+    SRTHash: 1982053692
+    Translate: [2447.09668, 163.723419, 2117.552]
+    UnitConfigName: Obj_TreeConiferous_A_02
+  - HashId: !u 0xffc94dc9
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2406.2793, 173.100006, 2120.3313]
+    UnitConfigName: FldObj_HyliaStoneRuinRightAngleWall_A_02C
+  - HashId: !u 0xffc94dca
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2411.3689, 173.100006, 2146.12549]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_02C
+  - HashId: !u 0xffc94dcb
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2501.91528, 177.015381, 2071.89087]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_07C
+  - HashId: !u 0xffc94dcf
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2495.14917, 177.215378, 2028.66138]
+    UnitConfigName: FldObj_HyliaStoneRuinRightAngleWall_A_01C
+  - HashId: !u 0xffc94dd3
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2432.8147, 190.215378, 2049.02808]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_04C
+  - HashId: !u 0xffc94dd5
+    Rotate: -2.05840707
+    SRTHash: 0
+    Translate: [2420.37573, 188.215378, 2037.05493]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94dd6
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2418.62573, 160.41539, 2118.94482]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94de5
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2450.47534, 131.415375, 2047.74841]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94de6
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2450.47534, 118.815384, 2047.74841]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94de7
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2480.43628, 159.983276, 2149.18457]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_D_01C
+  - HashId: !u 0xffc94de8
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2476.01099, 165.583282, 2146.83887]
+    UnitConfigName: TwnObj_Village_HatenoLamp_A_03C
+  - HashId: !u 0xffc94de9
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2436.5542, 193.350571, 2007.47937]
+    UnitConfigName: TwnObj_Village_HatenoLamp_A_03C
+  - HashId: !u 0xffc94dec
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2459.98633, 133.215378, 2036.9696]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_D_01C
+  - HashId: !u 0xffc94ded
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2464.6897, 118.215378, 2028.13513]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_02C
+  - HashId: !u 0xffc94dee
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2464.6897, 133.215378, 2028.13513]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_02C
+  - HashId: !u 0xffc94def
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2459.98633, 117.615379, 2036.9696]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94df3
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2434.05054, 184.550568, 2004.37329]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94df4
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2415.198, 184.550568, 1994.32483]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94df5
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2425.93433, 184.550568, 1981.03455]
+    UnitConfigName: FldObj_HighwayHylia_A_03C
+  - HashId: !u 0xffc94dfb
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2284.35889, 161.815384, 2046.55701]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94dff
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2255.66846, 104.215385, 2031.20227]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94e00
+    Rotate: -3.62920356
+    SRTHash: 0
+    Translate: [2250.99243, 134.015381, 2040.02075]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94e03
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2279.70239, 135.815384, 2055.41284]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94e04
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2275.021, 135.815384, 2064.24438]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94e06
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2246.10718, 108.415382, 2049.15698]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94e07
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2241.43335, 123.215385, 2058.00366]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94e0a
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2271.24146, 134.41539, 2062.38013]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e0b
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2280.64355, 160.615387, 2044.11755]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e0c
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2259.86987, 147.615387, 2033.34302]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e0d
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2254.62524, 147.615387, 2042.0166]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e0e
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2275.74512, 134.615387, 2053.20312]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e0f
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2250.26953, 109.415382, 2051.52563]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e10
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2237.53345, 122.015381, 2055.82471]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e13
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2330.64795, 188.326324, 2048.11865]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94e14
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2331.82471, 189.326324, 2048.70654]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94e15
+    Rotate: -2.05840707
+    SRTHash: 0
+    Translate: [2352.46021, 203.93634, 2116.72583]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e19
+    Rotate: -2.05840707
+    SRTHash: 0
+    Translate: [2352.46021, 191.336349, 2116.72583]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e27
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2284.42188, 147.015381, 2046.34998]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94e28
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2284.42188, 132.215378, 2046.34998]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94e29
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2284.42188, 102.615387, 2046.34998]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94e2a
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2284.42188, 117.415382, 2046.34998]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94e2b
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2255.66846, 148.815384, 2031.20227]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94e2c
+    Rotate: -3.62920356
+    SRTHash: 0
+    Translate: [2250.99243, 148.815384, 2040.02075]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94e2d
+    Rotate: -3.62920356
+    SRTHash: 0
+    Translate: [2250.99243, 134.015381, 2040.02075]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94e2e
+    Rotate: -3.62920356
+    SRTHash: 0
+    Translate: [2250.99243, 119.015381, 2040.02075]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94e2f
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2255.66846, 134.015381, 2031.20227]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94e30
+    Rotate: -3.62920356
+    SRTHash: 0
+    Translate: [2250.99243, 104.215385, 2040.02075]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94e31
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2255.66846, 119.015381, 2031.20227]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94e32
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2279.70239, 121.015381, 2055.41284]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94e33
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2275.02734, 121.015381, 2064.26831]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94e34
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2275.02734, 106.215385, 2064.26831]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94e35
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2279.70239, 106.215385, 2055.41284]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94e36
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2246.10718, 123.215385, 2049.15698]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94e37
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2241.43335, 108.415382, 2058.00366]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94e38
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2285.65991, 118.015388, 2046.92346]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_02C
+  - HashId: !u 0xffc94e3a
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2237.53345, 109.415382, 2055.82471]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e3c
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2221.15894, 108.215385, 2047.39978]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_02C
+  - HashId: !u 0xffc94e3d
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2212.6543, 106.415382, 2042.91284]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e3e
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2331.16357, 203.93634, 2156.43164]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94e3f
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2326.75342, 207.136353, 2153.9436]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_D_01C
+  - HashId: !u 0xffc94e43
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2491.2749, 170.615387, 2104.97925]
+    UnitConfigName: FldObj_HyliaStoneRuinRightAngleWall_A_01C
+  - HashId: !u 0xffc94e44
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2491.28882, 173.815384, 2104.96484]
+    UnitConfigName: FldObj_HyliaStoneRuinRightAngleWall_A_01C
+  - HashId: !u 0xffc94e48
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2326.75342, 207.136353, 2153.9436]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e49
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2326.75342, 194.536346, 2153.9436]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e4a
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2317.02588, 194.536346, 2148.84424]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e4b
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2317.02588, 207.136353, 2148.84424]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e4c
+    Rotate: -3.62920356
+    SRTHash: 0
+    Translate: [2312.8584, 203.93634, 2146.55005]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94e52
+    Rotate: 2.65398192
+    SRTHash: 0
+    Translate: [2323.34229, 202.93634, 2139.73071]
+    UnitConfigName: FldObj_MountainLanayruStairs_A_01C
+  - HashId: !u 0xffc94e53
+    Rotate: 2.65398192
+    SRTHash: 0
+    Translate: [2326.55322, 200.736359, 2133.15552]
+    UnitConfigName: FldObj_MountainLanayruStairs_A_01C
+  - HashId: !u 0xffc94e54
+    Rotate: 2.65398192
+    SRTHash: 0
+    Translate: [2333.11157, 196.336349, 2120.11084]
+    UnitConfigName: FldObj_MountainLanayruStairs_A_01C
+  - HashId: !u 0xffc94e55
+    Rotate: 2.65398192
+    SRTHash: 0
+    Translate: [2329.80298, 198.536346, 2126.8186]
+    UnitConfigName: FldObj_MountainLanayruStairs_A_01C
+  - HashId: !u 0xffc94e56
+    Rotate: 2.65398192
+    SRTHash: 0
+    Translate: [2336.53223, 194.136353, 2113.729]
+    UnitConfigName: FldObj_MountainLanayruStairs_A_01C
+  - HashId: !u 0xffc94e57
+    Rotate: -2.05840707
+    SRTHash: 0
+    Translate: [2334.03394, 191.536346, 2106.82031]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e58
+    Rotate: -2.05840707
+    SRTHash: 0
+    Translate: [2334.00903, 203.93634, 2106.86401]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e59
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2287.33618, 174.41539, 2017.23499]
+    UnitConfigName: FldObj_HyliaStoneRuinLookout_A_02C
+  - HashId: !u 0xffc94e5a
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2250.26953, 122.015381, 2051.52563]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e5b
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2271.24146, 121.815392, 2062.38013]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e5c
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2271.24146, 109.41539, 2062.38013]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e5e
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2273.71191, 120.415375, 2063.71655]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_02C
+  - HashId: !u 0xffc94e5f
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2270.87964, 108.815376, 2062.29614]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_D_01C
+  - HashId: !u 0xffc94e60
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2260.05029, 108.815376, 2056.85352]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_D_01C
+  - HashId: !u 0xffc94e61
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2259.78906, 110.215393, 2056.86279]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e62
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2261.53296, 110.215393, 2057.78174]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e67
+    Rotate: 2.65398192
+    SRTHash: 0
+    Translate: [2339.96851, 191.936356, 2107.396]
+    UnitConfigName: FldObj_MountainLanayruStairs_A_01C
+  - HashId: !u 0xffc94e68
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2275.74512, 122.015388, 2053.20312]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e69
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2275.74512, 109.41539, 2053.20312]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e6a
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2254.62524, 109.815384, 2042.0166]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e6b
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2254.62524, 135.015381, 2042.0166]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e6c
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2254.62524, 122.41539, 2042.0166]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e6d
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2259.86987, 109.815384, 2033.34302]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e6e
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2259.86987, 135.015381, 2033.34302]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e6f
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2259.86987, 122.41539, 2033.34302]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e70
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2280.64355, 148.015381, 2044.11755]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e71
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2280.64355, 135.41539, 2044.11755]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e72
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2280.64355, 122.815384, 2044.11755]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e73
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2280.64355, 110.215385, 2044.11755]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e75
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2280.92407, 133.41539, 2055.96069]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_02C
+  - HashId: !u 0xffc94e77
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2283.05127, 146.615387, 2045.70801]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_02C
+  - HashId: !u 0xffc94e79
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2285.65991, 131.815384, 2046.92346]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_02C
+  - HashId: !u 0xffc94e7a
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2269.39478, 109.015388, 2038.43591]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_D_01C
+  - HashId: !u 0xffc94e7b
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2281.13989, 108.41539, 2044.28662]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_D_01C
+  - HashId: !u 0xffc94e7c
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2271.57715, 109.41539, 2039.98596]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e7d
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2269.72778, 109.41539, 2039.04797]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e7e
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2263.96411, 134.926331, 2045.75598]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94e7f
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2278.72534, 109.41539, 2047.55042]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e80
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2250.03101, 109.815384, 2043.9198]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e81
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2250.03101, 122.015381, 2043.9198]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e82
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2278.72534, 134.615387, 2047.55042]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e83
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2278.72534, 122.015388, 2047.55042]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94e84
+    Rotate: [3.14159274, -5.19999981, 0.0]
+    SRTHash: 0
+    Translate: [2264.04712, 126.12632, 2045.61914]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94e87
+    Rotate: [-1.57079637, -2.05840707, 0.0]
+    SRTHash: 0
+    Translate: [2255.10181, 120.526321, 2038.02808]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94e88
+    Rotate: [-1.57079637, -2.05840707, 0.0]
+    SRTHash: 0
+    Translate: [2251.56763, 118.926323, 2044.72791]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94e89
+    Rotate: [-1.57079637, -0.487610698, 0.0]
+    SRTHash: 0
+    Translate: [2256.64697, 116.926323, 2055.50488]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94e8a
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2325.25293, 188.815384, 2037.90784]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_D_01C
+  - HashId: !u 0xffc94e8b
+    Rotate: -3.62920356
+    SRTHash: 0
+    Translate: [2318.23608, 188.815384, 2051.14844]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94e8f
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2331.48193, 188.815384, 2058.18384]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_02C
+  - HashId: !u 0xffc94e90
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2335.86768, 188.815384, 2060.52222]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94e92
+    Rotate: -3.62920356
+    SRTHash: 0
+    Translate: [2321.8269, 188.815384, 2086.97876]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94e93
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2335.08057, 188.815384, 2094.01465]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_02C
+  - HashId: !u 0xffc94e94
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2339.51953, 188.815384, 2096.35181]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94e95
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2337.18384, 188.815384, 2100.77612]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_02C
+  - HashId: !u 0xffc94e96
+    Rotate: -3.62920356
+    SRTHash: 0
+    Translate: [2318.23608, 174.41539, 2051.14844]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94e97
+    Rotate: -0.487610698
+    SRTHash: 0
+    Translate: [2334.40698, 188.326324, 2031.46558]
+    UnitConfigName: FldObj_HighwayHylia_A_03C
+  - HashId: !u 0xffc94e98
+    Rotate: -0.487610698
+    SRTHash: 0
+    Translate: [2338.03247, 189.326324, 2037.45923]
+    UnitConfigName: FldObj_HighwayHylia_A_03C
+  - HashId: !u 0xffc94e99
+    Rotate: 2.65398192
+    SRTHash: 0
+    Translate: [2349.21997, 191.936356, 2111.9978]
+    UnitConfigName: FldObj_MountainLanayruStairs_A_01C
+  - HashId: !u 0xffc94e9a
+    Rotate: 2.65398192
+    SRTHash: 0
+    Translate: [2345.9231, 194.136353, 2118.26733]
+    UnitConfigName: FldObj_MountainLanayruStairs_A_01C
+  - HashId: !u 0xffc94e9b
+    Rotate: 2.65398192
+    SRTHash: 0
+    Translate: [2342.4729, 196.336349, 2124.98071]
+    UnitConfigName: FldObj_MountainLanayruStairs_A_01C
+  - HashId: !u 0xffc94e9c
+    Rotate: 2.65398192
+    SRTHash: 0
+    Translate: [2338.89526, 198.536346, 2131.646]
+    UnitConfigName: FldObj_MountainLanayruStairs_A_01C
+  - HashId: !u 0xffc94e9d
+    Rotate: 2.65398192
+    SRTHash: 0
+    Translate: [2335.56445, 200.736359, 2137.91528]
+    UnitConfigName: FldObj_MountainLanayruStairs_A_01C
+  - HashId: !u 0xffc94e9e
+    Rotate: 2.65398192
+    SRTHash: 0
+    Translate: [2332.04468, 202.93634, 2144.36841]
+    UnitConfigName: FldObj_MountainLanayruStairs_A_01C
+  - HashId: !u 0xffc94e9f
+    Rotate: 2.65398192
+    SRTHash: 0
+    Translate: [2322.23047, 205.136353, 2147.76123]
+    UnitConfigName: FldObj_MountainLanayruStairs_A_01C
+  - HashId: !u 0xffc94ea0
+    Rotate: -0.487610698
+    SRTHash: 0
+    Translate: [2342.06982, 191.536362, 2109.26953]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94ea1
+    Rotate: -0.487610698
+    SRTHash: 0
+    Translate: [2347.08228, 190.936356, 2102.46387]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94ea2
+    Rotate: -0.487610698
+    SRTHash: 0
+    Translate: [2355.44824, 189.936356, 2088.72314]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94ea3
+    Rotate: -0.487610698
+    SRTHash: 0
+    Translate: [2351.81128, 190.536346, 2093.61792]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94ea5
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2470.4707, 177.215378, 2039.0592]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94ea6
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2461.49805, 177.215378, 2034.27808]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_07C
+  - HashId: !u 0xffc94ea7
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2289.69067, 180.41539, 2012.77747]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94ea8
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2288.6062, 180.41539, 2018.24719]
+    UnitConfigName: FldObj_HyliaStoneRuinRightAngleWall_A_02C
+  - HashId: !u 0xffc94eaa
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2243.77612, 114.415382, 2065.04077]
+    UnitConfigName: TwnObj_Village_FishingWoodDeck_A_01C
+  - HashId: !u 0xffc94eab
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2234.71729, 114.615387, 2060.7959]
+    UnitConfigName: TwnObj_Village_FishingWoodDeck_A_01C
+  - HashId: !u 0xffc94eac
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2225.88696, 114.615387, 2055.98535]
+    UnitConfigName: TwnObj_Village_FishingWoodDeck_A_01C
+  - HashId: !u 0xffc94ead
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2224.10522, 114.615387, 2059.51074]
+    UnitConfigName: TwnObj_Village_FishingWoodDeck_A_01C
+  - HashId: !u 0xffc94eae
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2232.87012, 114.615387, 2064.30762]
+    UnitConfigName: TwnObj_Village_FishingWoodDeck_A_01C
+  - HashId: !u 0xffc94d2f
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2502.55688, 155.615387, 2104.1228]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94eaf
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2241.64331, 114.415382, 2069.10376]
+    UnitConfigName: TwnObj_Village_FishingWoodDeck_A_01C
+  - HashId: !u 0xffc94d2d
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2470.6853, 158.815384, 2135.28613]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94eb0
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2217.20459, 114.615387, 2051.15405]
+    UnitConfigName: TwnObj_Village_FishingWoodDeck_A_01C
+  - HashId: !u 0xffc94d30
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2529.22583, 155.815384, 2073.25293]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94eb1
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2215.32495, 114.615387, 2054.70142]
+    UnitConfigName: TwnObj_Village_FishingWoodDeck_A_01C
+  - HashId: !u 0xffc94d2c
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2471.95435, 158.815384, 2159.42139]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94eb4
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2250.29468, 114.215385, 2073.84131]
+    UnitConfigName: TwnObj_Village_FishingWoodDeck_A_01C
+  - HashId: !u 0xffc94d31
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2517.07202, 155.815384, 2090.98315]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94eb5
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2252.40039, 114.215385, 2069.80908]
+    UnitConfigName: TwnObj_Village_FishingWoodDeck_A_01C
+  - HashId: !u 0xffc94d32
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2435.52856, 160.815384, 2140.479]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94eb7
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2502.03125, 177.015381, 2078.19775]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94d33
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2416.22583, 158.815384, 2154.63257]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94eb9
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2253.67505, 116.722588, 2076.98633]
+    UnitConfigName: TwnObj_Village_HatenoLamp_A_04C
+  - HashId: !u 0xffc94d2b
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2462.53809, 158.815384, 2178.61548]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94ebc
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2236.19897, 117.122589, 2067.67236]
+    UnitConfigName: TwnObj_Village_HatenoLamp_A_04C
+  - HashId: !u 0xffc94d2e
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2480.38599, 158.815384, 2116.22729]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94ebd
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2211.95947, 117.122589, 2054.52466]
+    UnitConfigName: TwnObj_Village_HatenoLamp_A_04C
+  - HashId: !u 0xffc94d34
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2400.13647, 158.815384, 2122.19189]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94ec0
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2432.00146, 163.615387, 2126.31641]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94d35
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2390.14233, 158.815384, 2140.95801]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94ec2
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2436.7627, 163.615387, 2128.88892]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_06C
+  - HashId: !u 0xffc94d37
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2428.80396, 160.41539, 2075.97974]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94ec7
+    Rotate: [3.14159274, -3.62920356, 0.0]
+    SRTHash: 0
+    Translate: [2445.64282, 146.529648, 2143.90356]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94d38
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2439.06567, 160.41539, 2057.21899]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94ec8
+    Rotate: [3.14159274, -3.62920356, 0.0]
+    SRTHash: 0
+    Translate: [2457.14551, 146.529648, 2120.41504]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94d3a
+    Rotate: -0.487610877
+    SRTHash: 0
+    Translate: [2446.18018, 161.215378, 2137.42725]
+    UnitConfigName: FldObj_MountainLanayruStairs_A_01C
+  - HashId: !u 0xffc94ec9
+    Rotate: [3.14159274, -3.62920356, 0.0]
+    SRTHash: 0
+    Translate: [2428.57568, 146.529648, 2134.7998]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94d3e
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2497.18042, 158.815384, 2148.31348]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94eca
+    Rotate: [3.14159274, -3.62920356, 0.0]
+    SRTHash: 0
+    Translate: [2463.61572, 146.529648, 2152.77612]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94d3f
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2506.55298, 158.815384, 2129.86523]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94ecb
+    Rotate: [3.14159274, -3.62920356, 0.0]
+    SRTHash: 0
+    Translate: [2475.99487, 146.529648, 2130.46753]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94d40
+    Rotate: -1.39999998
+    SRTHash: 0
+    Translate: [2513.01514, 158.015381, 2130.27148]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94ecc
+    Rotate: [3.14159274, -3.62920356, 0.0]
+    SRTHash: 0
+    Translate: [2438.53979, 146.529648, 2109.89771]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94d41
+    Rotate: -2.0
+    SRTHash: 0
+    Translate: [2514.22607, 157.015381, 2133.9519]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94ecd
+    Rotate: [3.14159274, -3.62920356, 0.0]
+    SRTHash: 0
+    Translate: [2489.70898, 146.529648, 2110.41357]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94d42
+    Rotate: -1.99999988
+    SRTHash: 0
+    Translate: [2504.41211, 157.815384, 2149.29688]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94ece
+    Rotate: [3.14159274, -3.62920356, 0.0]
+    SRTHash: 0
+    Translate: [2433.69165, 146.529648, 2079.55298]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94d45
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2452.31226, 158.815384, 2145.79517]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94ecf
+    Rotate: [3.14159274, -3.62920356, 0.0]
+    SRTHash: 0
+    Translate: [2471.2439, 146.529648, 2099.83472]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94d47
+    Rotate: 1.08318543
+    SRTHash: 0
+    Translate: [2448.91113, 159.015381, 2149.49634]
+    UnitConfigName: FldObj_MountainLanayruStairs_A_01C
+  - HashId: !u 0xffc94ed0
+    Rotate: [3.14159274, -3.62920356, 0.0]
+    SRTHash: 0
+    Translate: [2452.2793, 146.529648, 2090.0]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94d4c
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2516.77979, 177.215378, 2066.9126]
+    UnitConfigName: FldObj_HyliaStoneRuinHouse_A_02C
+  - HashId: !u 0xffc94ed1
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2435.86963, 113.558823, 2128.13232]
+    UnitConfigName: TwnObj_HyruleCastleWallTower_A_01C
+  - HashId: !u 0xffc94d5c
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2428.59595, 160.815384, 2140.20508]
+    UnitConfigName: FldObj_HyliaStoneRuinHouse_A_02C
+  - HashId: !u 0xffc94ed2
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2473.40649, 113.558823, 2119.64722]
+    UnitConfigName: TwnObj_HyruleCastleWallTower_A_01C
+  - HashId: !u 0xffc94d5d
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2426.27026, 158.815384, 2135.82837]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94ed4
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2459.89771, 129.015381, 2037.09558]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEndBreak_A_01C
+  - HashId: !u 0xffc94d5e
+    Rotate: 1.08318543
+    SRTHash: 0
+    Translate: [2444.15112, 159.015381, 2158.42065]
+    UnitConfigName: FldObj_MountainLanayruStairs_A_01C
+  - HashId: !u 0xffc94ed6
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2455.82495, 129.415375, 2044.79932]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94d5f
+    Rotate: 1.08318543
+    SRTHash: 0
+    Translate: [2439.38623, 159.015381, 2167.40552]
+    UnitConfigName: FldObj_MountainLanayruStairs_A_01C
+  - HashId: !u 0xffc94ed8
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2478.90356, 121.639664, 2074.49365]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_D_01C
+  - HashId: !u 0xffc94d60
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2424.14844, 160.815384, 2156.50415]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94ed9
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2477.83447, 113.839661, 2073.44531]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94d61
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2443.39185, 159.815384, 2129.81738]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94eda
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2471.57495, 113.839661, 2070.47559]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94d62
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2444.00781, 158.815384, 2164.26025]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94edc
+    Rotate: [3.14159274, -3.62920356, 0.0]
+    SRTHash: 0
+    Translate: [2501.41992, 146.529648, 2087.64331]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94d66
+    Rotate: -2.05840707
+    SRTHash: 0
+    Translate: [2365.04541, 202.815384, 2016.28284]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94edd
+    Rotate: [3.14159274, -3.62920356, 0.0]
+    SRTHash: 0
+    Translate: [2482.44946, 146.529648, 2077.80371]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94d6a
+    Rotate: -0.487610877
+    SRTHash: 0
+    Translate: [2467.28784, 162.015381, 2096.40527]
+    UnitConfigName: TwnObj_HyruleCastleObject_StoneStatue_B_01C
+  - HashId: !u 0xffc94ede
+    Rotate: [3.14159274, -3.62920356, 0.0]
+    SRTHash: 0
+    Translate: [2463.59106, 146.529648, 2067.76929]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94d6c
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2418.47827, 189.615387, 2041.60327]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94edf
+    Rotate: [3.14159274, -3.62920356, 0.0]
+    SRTHash: 0
+    Translate: [2444.95435, 146.529648, 2057.31128]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94d70
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2470.91699, 159.983276, 2144.33252]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94ee2
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2452.40747, 106.839661, 2060.42749]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_02C
+  - HashId: !u 0xffc94d71
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2493.60132, 159.983276, 2156.16602]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94ee3
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2452.40747, 121.639664, 2060.42749]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_02C
+  - HashId: !u 0xffc94d72
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2500.61499, 159.983276, 2142.91919]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_02C
+  - HashId: !u 0xffc94eec
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2478.90356, 136.439667, 2074.49365]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_02C
+  - HashId: !u 0xffc94d73
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2489.21509, 159.983276, 2153.85938]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_02C
+  - HashId: !u 0xffc94eed
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2469.97119, 106.839661, 2069.96558]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94d74
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2505.29321, 159.983276, 2134.08545]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_D_01C
+  - HashId: !u 0xffc94eee
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2479.2627, 106.839661, 2074.40723]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94d75
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2507.64624, 159.983276, 2129.66748]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94eef
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2477.83447, 101.239662, 2073.44531]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94d76
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2503.25464, 159.983276, 2127.26758]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_02C
+  - HashId: !u 0xffc94ef0
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2471.57495, 101.239662, 2070.47559]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94d77
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2493.88574, 158.983276, 2122.41284]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94ef1
+    Rotate: [3.14159274, -3.62920356, 0.0]
+    SRTHash: 0
+    Translate: [2494.24878, 146.529648, 2141.50586]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94d78
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2492.05322, 159.983276, 2159.54736]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94ef2
+    Rotate: -2.05840707
+    SRTHash: 0
+    Translate: [2487.04785, 117.656593, 2051.56396]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94d7a
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2482.1062, 159.983276, 2178.04224]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_02C
+  - HashId: !u 0xffc94ef3
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2461.37085, 113.558823, 2142.22314]
+    UnitConfigName: TwnObj_HyruleCastleWallTower_A_01C
+  - HashId: !u 0xffc94d7b
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2440.23462, 150.015381, 2130.77026]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94ef4
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2448.48535, 113.558823, 2105.45728]
+    UnitConfigName: TwnObj_HyruleCastleWallTower_A_01C
+  - HashId: !u 0xffc94d7c
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2454.36353, 150.015381, 2138.14355]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94ef5
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2484.11719, 126.949432, 2055.8252]
+    UnitConfigName: TwnObj_Village_HatenoLamp_A_03C
+  - HashId: !u 0xffc94d7d
+    Rotate: -2.05840707
+    SRTHash: 0
+    Translate: [2416.80713, 202.815369, 2014.80029]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94ef6
+    Rotate: [0.0634397194, -9.19999981, 0.339653969]
+    SRTHash: 0
+    Translate: [2265.88672, 108.526321, 2044.84033]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94d7e
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2414.41187, 188.415375, 2039.22827]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94ef7
+    Rotate: [-1.57079637, -5.19999981, 0.0]
+    SRTHash: 0
+    Translate: [2458.48535, 146.581802, 2031.7041]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94d7f
+    Rotate: -4.19999981
+    SRTHash: 0
+    Translate: [2526.37891, 156.815384, 2095.13159]
+    UnitConfigName: TwnObj_Village_HatenoFence_A_06C
+  - HashId: !u 0xffc94ef8
+    Rotate: [-1.57079637, -0.487610698, 0.0]
+    SRTHash: 0
+    Translate: [2442.17578, 162.392975, 2038.77795]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94d80
+    Rotate: -4.5999999
+    SRTHash: 0
+    Translate: [2529.48486, 157.215378, 2100.5376]
+    UnitConfigName: TwnObj_Village_HatenoFence_A_06C
+  - HashId: !u 0xffc94ef9
+    Rotate: [-1.57079637, -0.487610698, 0.0]
+    SRTHash: 0
+    Translate: [2449.03369, 162.392975, 2042.43018]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94efa
+    Rotate: [-1.57079637, -5.19999981, 0.0]
+    SRTHash: 0
+    Translate: [2459.33594, 174.38179, 2037.35962]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94efc
+    Rotate: [-1.57079637, -5.19999981, 0.0]
+    SRTHash: 0
+    Translate: [2457.34961, 174.38179, 2044.42847]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94efd
+    Rotate: [-0.0775485933, -9.39999962, -0.256099582]
+    SRTHash: 0
+    Translate: [2448.71509, 130.855759, 2033.6781]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - '!Parameters':
+      ArrowName: NormalArrow
+      EquipItem1: Weapon_Bow_029
+      EquipItem3: BokoblinPipe
+      FortressEatPer: -1
+      IsNearCreate: false
+      IsWatchKeeping: true
+      LevelSensorMode: 0
+      RotAngle: 60.0
+      SharpWeaponJudgeType: 0
+      TerritoryArea: 0.0
+      WaitTime: 150.0
+    HashId: !u 0xffc94f01
+    Rotate: 1.60159266
+    SRTHash: 756063027
+    Translate: [2346.77612, 190.828033, 2071.22778]
+    UnitConfigName: Enemy_Bokoblin_Guard_Junior
+  - '!Parameters': {ArrowName: NormalArrow, EquipItem1: Weapon_Bow_003, FortressEatPer: -1, IsNearCreate: false, IsWatchKeeping: true,
+      LevelSensorMode: 0, RotAngle: 60.0, SharpWeaponJudgeType: 0, TerritoryArea: 0.0, WaitTime: 150.0}
+    HashId: !u 0xffc94f02
+    Rotate: 4.00159264
+    SRTHash: 756063027
+    Translate: [2255.49316, 161.297638, 2031.28284]
+    UnitConfigName: Enemy_Bokoblin_Guard_Junior
+  - '!Parameters': {ArrowName: NormalArrow, EquipItem1: Weapon_Bow_003, FortressEatPer: -1, IsNearCreate: false, IsWatchKeeping: true,
+      LevelSensorMode: 0, RotAngle: 60.0, SharpWeaponJudgeType: 0, TerritoryArea: 0.0, WaitTime: 150.0}
+    HashId: !u 0xffc94f03
+    Rotate: 4.80159283
+    SRTHash: 756063027
+    Translate: [2279.58154, 148.497635, 2056.97705]
+    UnitConfigName: Enemy_Bokoblin_Guard_Junior
+  - '!Parameters':
+      ArrowName: ElectricArrow
+      EquipItem1: Weapon_Bow_029
+      EquipItem3: BokoblinPipe
+      FortressEatPer: -1
+      IsNearCreate: false
+      IsWatchKeeping: true
+      LevelSensorMode: 0
+      RotAngle: 60.0
+      SharpWeaponJudgeType: 0
+      TerritoryArea: 0.0
+      WaitTime: 150.0
+    HashId: !u 0xffc94f04
+    Rotate: 6.40159273
+    SRTHash: 756063027
+    Translate: [2253.58154, 161.297638, 2037.80347]
+    UnitConfigName: Enemy_Bokoblin_Guard_Junior
+  - '!Parameters':
+      ArrowName: NormalArrow
+      EquipItem1: Weapon_Bow_003
+      EquipItem3: BokoblinPipe
+      FortressEatPer: -1
+      IsNearCreate: false
+      IsWatchKeeping: true
+      LevelSensorMode: 0
+      RotAngle: 60.0
+      SharpWeaponJudgeType: 0
+      TerritoryArea: 0.0
+      WaitTime: 150.0
+    HashId: !u 0xffc94f05
+    Rotate: 4.80159283
+    SRTHash: 756063027
+    Translate: [2245.42358, 135.897644, 2049.91968]
+    UnitConfigName: Enemy_Bokoblin_Guard_Junior
+  - HashId: !u 0xffc94f06
+    Rotate: -3.62920356
+    SRTHash: 0
+    Translate: [2289.70947, 134.926331, 2059.53613]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94f07
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2278.67578, 121.815392, 2066.07568]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94f08
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2278.67578, 134.41539, 2066.07568]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94f09
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2278.67578, 109.215393, 2066.07568]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - '!Parameters':
+      ArrowName: NormalArrow
+      CarryActorName: OctObj_Grass_01
+      DropTable: Normal
+      EquipItem1: Default
+      EquipItem2: Default
+      EquipItem3: Default
+      EquipItem4: Default
+      IsNearCreate: false
+      LevelSensorMode: 0
+      NearCreateAppearID: 0
+      SharpWeaponJudgeType: 0
+      TerritoryArea: 0.0
+    HashId: !u 0xffc94f0a
+    Rotate: -3.39999986
+    SRTHash: -306844623
+    Translate: [2275.34644, 111.210373, 2001.95447]
+    UnitConfigName: Enemy_Octarock
+  - '!Parameters':
+      ArrowName: NormalArrow
+      CarryActorName: OctObj_Grass_01
+      DropTable: Normal
+      EquipItem1: Default
+      EquipItem2: Default
+      EquipItem3: Default
+      EquipItem4: Default
+      IsNearCreate: false
+      LevelSensorMode: 0
+      NearCreateAppearID: 0
+      SharpWeaponJudgeType: 0
+      TerritoryArea: 0.0
+    HashId: !u 0xffc94f0b
+    Rotate: -3.0
+    SRTHash: -306844623
+    Translate: [2260.24634, 111.210373, 2015.38147]
+    UnitConfigName: Enemy_Octarock
+  - '!Parameters':
+      ArrowName: NormalArrow
+      CarryActorName: OctObj_Grass_01
+      DropTable: Normal
+      EquipItem1: Default
+      EquipItem2: Default
+      EquipItem3: Default
+      EquipItem4: Default
+      IsNearCreate: false
+      LevelSensorMode: 0
+      NearCreateAppearID: 0
+      SharpWeaponJudgeType: 0
+      TerritoryArea: 0.0
+    HashId: !u 0xffc94f0c
+    Rotate: -0.799999952
+    SRTHash: -306844623
+    Translate: [2251.23364, 114.678963, 2082.65161]
+    UnitConfigName: Enemy_Octarock
+  - '!Parameters': {EquipItem1: Weapon_Lsword_004, FortressEatPer: -1, IsNearCreate: false, IsWatchKeeping: false, LevelSensorMode: 0,
+      RotAngle: 0.0, SharpWeaponJudgeType: 0, TerritoryArea: 0.0, WaitTime: 1.0}
+    HashId: !u 0xffc94f0d
+    Rotate: -2.82000041
+    SRTHash: 2008970387
+    Translate: [2353.91357, 190.872696, 2081.23511]
+    UnitConfigName: Enemy_Moriblin_Junior
+  - '!Parameters': {EquipItem1: Weapon_Spear_005, FortressEatPer: -1, IsNearCreate: false, IsWatchKeeping: false, LevelSensorMode: 1,
+      RotAngle: 0.0, SharpWeaponJudgeType: 0, TerritoryArea: 0.0, WaitTime: 1.0}
+    HashId: !u 0xffc94f0e
+    SRTHash: -537525753
+    Translate: [2355.87964, 190.865433, 2090.25562]
+    UnitConfigName: Enemy_Bokoblin_Middle
+  - '!Parameters': {EquipItem1: Weapon_Sword_005, FortressEatPer: -1, IsNearCreate: false, IsWatchKeeping: false, LevelSensorMode: 1,
+      RotAngle: 0.0, SharpWeaponJudgeType: 0, TerritoryArea: 0.0, WaitTime: 1.0}
+    HashId: !u 0xffc94f0f
+    Rotate: -4.0
+    SRTHash: -537525753
+    Translate: [2360.21484, 190.865433, 2078.94043]
+    UnitConfigName: Enemy_Bokoblin_Middle
+  - '!Parameters': {EquipItem1: Weapon_Sword_060, IsNearCreate: false, LevelSensorMode: 0, NearCreateAppearID: 0, SharpWeaponJudgeType: 0,
+      TerritoryArea: 0.0}
+    HashId: !u 0xffc94f12
+    Rotate: 5.18000031
+    SRTHash: 1480731529
+    Translate: [2516.04175, 183.602478, 2046.48804]
+    UnitConfigName: Enemy_Wizzrobe_Fire
+  - '!Parameters':
+      ArrowName: NormalArrow
+      DropTable: Normal
+      EquipItem1: Default
+      EquipItem2: Default
+      EquipItem3: Default
+      EquipItem4: Default
+      IsCreateOnFace: true
+      IsNearCreate: false
+      LevelSensorMode: 0
+      SharpWeaponJudgeType: 1
+      TerritoryArea: 0.0
+    HashId: !u 0xffc94f13
+    Rotate: -0.0799999237
+    SRTHash: 374126892
+    Translate: [2399.26978, 178.603363, 2106.75244]
+    UnitConfigName: Enemy_Keese_Electric_AllDay
+  - '!Parameters':
+      ArrowName: NormalArrow
+      DropTable: Normal
+      EquipItem1: Default
+      EquipItem2: Default
+      EquipItem3: Default
+      EquipItem4: Default
+      IsCreateOnFace: true
+      IsNearCreate: false
+      LevelSensorMode: 0
+      SharpWeaponJudgeType: 1
+      TerritoryArea: 0.0
+    HashId: !u 0xffc94f14
+    Rotate: -2.67999983
+    SRTHash: 374126892
+    Translate: [2400.25293, 178.603363, 2104.30615]
+    UnitConfigName: Enemy_Keese_Electric_AllDay
+  - '!Parameters':
+      ArrowName: NormalArrow
+      DropTable: Normal
+      EquipItem1: Default
+      EquipItem2: Default
+      EquipItem3: Default
+      EquipItem4: Default
+      IsCreateOnFace: true
+      IsNearCreate: false
+      LevelSensorMode: 0
+      SharpWeaponJudgeType: 1
+      TerritoryArea: 0.0
+    HashId: !u 0xffc94f15
+    Rotate: -5.88000011
+    SRTHash: 374126892
+    Translate: [2490.37891, 182.671234, 2085.00757]
+    UnitConfigName: Enemy_Keese_Electric_AllDay
+  - HashId: !u 0xffc94f19
+    Rotate: [-1.57079637, -5.19999981, 0.0]
+    SRTHash: 0
+    Translate: [2468.8855, 182.413193, 2075.17725]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94f1a
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2467.20605, 181.213196, 2076.35449]
+    UnitConfigName: FldObj_HyliaStoneRuinRightAngleWall_A_02C
+  - '!Parameters':
+      ArrowName: NormalArrow
+      DropTable: Normal
+      EquipItem1: Default
+      EquipItem2: Default
+      EquipItem3: Default
+      EquipItem4: Default
+      IsCreateOnFace: true
+      IsNearCreate: false
+      LevelSensorMode: 0
+      SharpWeaponJudgeType: 1
+      TerritoryArea: 0.0
+    HashId: !u 0xffc94f1c
+    Rotate: 0.720000088
+    SRTHash: 374126892
+    Translate: [2259.43677, 125.72364, 2044.60742]
+    UnitConfigName: Enemy_Keese_AllDay
+  - '!Parameters':
+      ArrowName: NormalArrow
+      DropTable: Normal
+      EquipItem1: Default
+      EquipItem2: Default
+      EquipItem3: Default
+      EquipItem4: Default
+      IsCreateOnFace: true
+      IsNearCreate: false
+      LevelSensorMode: 0
+      SharpWeaponJudgeType: 1
+      TerritoryArea: 0.0
+    HashId: !u 0xffc94f1d
+    Rotate: -0.279999912
+    SRTHash: 374126892
+    Translate: [2265.6748, 125.72364, 2047.1582]
+    UnitConfigName: Enemy_Keese_AllDay
+  - '!Parameters':
+      ArrowName: NormalArrow
+      DropTable: Normal
+      EquipItem1: Default
+      EquipItem2: Default
+      EquipItem3: Default
+      EquipItem4: Default
+      IsCreateOnFace: true
+      IsNearCreate: false
+      LevelSensorMode: 0
+      SharpWeaponJudgeType: 1
+      TerritoryArea: 0.0
+    HashId: !u 0xffc94f20
+    Rotate: 0.5200001
+    SRTHash: 374126892
+    Translate: [2261.55396, 125.72364, 2041.67017]
+    UnitConfigName: Enemy_Keese_AllDay
+  - '!Parameters':
+      ArrowName: NormalArrow
+      DropTable: Normal
+      EquipItem1: Default
+      EquipItem2: Default
+      EquipItem3: Default
+      EquipItem4: Default
+      IsCreateOnFace: true
+      IsNearCreate: false
+      LevelSensorMode: 0
+      SharpWeaponJudgeType: 1
+      TerritoryArea: 0.0
+    HashId: !u 0xffc94f25
+    Rotate: -2.67999983
+    SRTHash: 374126892
+    Translate: [2480.51245, 128.387589, 2062.63452]
+    UnitConfigName: Enemy_Keese_AllDay
+  - '!Parameters':
+      ArrowName: NormalArrow
+      DropTable: Normal
+      EquipItem1: Default
+      EquipItem2: Default
+      EquipItem3: Default
+      EquipItem4: Default
+      IsCreateOnFace: true
+      IsNearCreate: false
+      LevelSensorMode: 0
+      SharpWeaponJudgeType: 1
+      TerritoryArea: 0.0
+    HashId: !u 0xffc94f26
+    Rotate: -4.67999983
+    SRTHash: 374126892
+    Translate: [2478.21631, 128.387589, 2061.41602]
+    UnitConfigName: Enemy_Keese_AllDay
+  - HashId: !u 0xffc94f27
+    Rotate: [-1.57079637, -0.487610698, 0.0]
+    SRTHash: 0
+    Translate: [2408.49854, 207.422623, 2038.78662]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94f2c
+    Rotate: -0.487610698
+    SRTHash: 0
+    Translate: [2327.80176, 215.936356, 2134.07642]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94f2d
+    Rotate: -0.487610698
+    SRTHash: 0
+    Translate: [2334.88452, 215.936356, 2122.49438]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94f2e
+    Rotate: [3.14159274, -3.62920356, 0.0]
+    SRTHash: 0
+    Translate: [2334.88452, 215.136353, 2122.49438]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94f2f
+    Rotate: [3.14159274, -3.62920356, 0.0]
+    SRTHash: 0
+    Translate: [2327.80176, 214.936356, 2134.07642]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94ff0
+    Rotate: -0.487610698
+    SRTHash: 0
+    Translate: [2511.77051, 158.815384, 2118.14453]
+    UnitConfigName: FldObj_HighwayHylia_A_03C
+  - '!Parameters':
+      ArrowName: NormalArrow
+      DropTable: Normal
+      EquipItem1: Default
+      EquipItem2: Default
+      EquipItem3: Default
+      EquipItem4: Default
+      IsCreateOnFace: true
+      IsNearCreate: false
+      LevelSensorMode: 0
+      SharpWeaponJudgeType: 1
+      TerritoryArea: 0.0
+    HashId: !u 0xffc94f32
+    Rotate: -1.27999997
+    SRTHash: 374126892
+    Translate: [2408.27271, 206.31369, 2035.35669]
+    UnitConfigName: Enemy_Keese_AllDay
+  - HashId: !u 0xffc94f35
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2392.32349, 186.350555, 1983.65686]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94f36
+    Rotate: [-1.57079637, -0.487610698, 0.0]
+    SRTHash: 0
+    Translate: [2514.5376, 182.263519, 2074.19214]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94f37
+    Rotate: [-1.57079637, -0.487610698, 0.0]
+    SRTHash: 0
+    Translate: [2519.7229, 182.263519, 2067.94434]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94f38
+    SRTHash: -1909118778
+    Translate: [2213.85962, 118.518341, 2051.14185]
+    UnitConfigName: GrassCutTag
+  - '!Parameters':
+      ArrowName: NormalArrow
+      DropTable: Normal
+      EquipItem1: Default
+      EquipItem2: Default
+      EquipItem3: Default
+      EquipItem4: Default
+      IsCreateOnFace: false
+      IsNearCreate: false
+      LevelSensorMode: 0
+      SharpWeaponJudgeType: 1
+      TerritoryArea: 0.0
+    HashId: !u 0xffc94f39
+    Rotate: -3.27999997
+    SRTHash: 374126892
+    Translate: [2451.23267, 122.047592, 2136.54736]
+    UnitConfigName: Enemy_Keese_AllDay
+  - '!Parameters':
+      ArrowName: NormalArrow
+      DropTable: Normal
+      EquipItem1: Default
+      EquipItem2: Default
+      EquipItem3: Default
+      EquipItem4: Default
+      IsCreateOnFace: false
+      IsNearCreate: false
+      LevelSensorMode: 0
+      SharpWeaponJudgeType: 1
+      TerritoryArea: 0.0
+    HashId: !u 0xffc94f3a
+    Rotate: -4.88000011
+    SRTHash: 374126892
+    Translate: [2453.33643, 122.396469, 2089.62744]
+    UnitConfigName: Enemy_Keese_AllDay
+  - '!Parameters':
+      ArrowName: NormalArrow
+      DropTable: Normal
+      EquipItem1: Default
+      EquipItem2: Default
+      EquipItem3: Default
+      EquipItem4: Default
+      IsCreateOnFace: false
+      IsNearCreate: false
+      LevelSensorMode: 0
+      SharpWeaponJudgeType: 1
+      TerritoryArea: 0.0
+    HashId: !u 0xffc94f3b
+    Rotate: -3.27999997
+    SRTHash: 374126892
+    Translate: [2448.83276, 123.631477, 2114.96899]
+    UnitConfigName: Enemy_Keese_AllDay
+  - '!Parameters':
+      ArrowName: NormalArrow
+      DropTable: Normal
+      EquipItem1: Default
+      EquipItem2: Default
+      EquipItem3: Default
+      EquipItem4: Default
+      IsCreateOnFace: false
+      IsNearCreate: false
+      LevelSensorMode: 0
+      SharpWeaponJudgeType: 1
+      TerritoryArea: 0.0
+    HashId: !u 0xffc94f3c
+    Rotate: -3.27999997
+    SRTHash: 374126892
+    Translate: [2464.04517, 120.69236, 2121.31201]
+    UnitConfigName: Enemy_Keese_AllDay
+  - HashId: !u 0xffc94f3f
+    Rotate: [-1.57079637, -2.05840707, 0.0]
+    SRTHash: 0
+    Translate: [2432.69531, 176.068771, 2091.49365]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94f40
+    Rotate: [-1.57079637, -2.05840707, 0.0]
+    SRTHash: 0
+    Translate: [2436.51929, 176.068771, 2084.8606]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94f43
+    Rotate: [-1.57079637, -2.05840707, 0.0]
+    SRTHash: 0
+    Translate: [2486.43433, 173.015381, 2118.13428]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - '!Parameters':
+      ArrowName: NormalArrow
+      DropTable: Normal
+      EquipItem1: Default
+      EquipItem2: Default
+      EquipItem3: Default
+      EquipItem4: Default
+      IsCreateOnFace: true
+      IsNearCreate: false
+      LevelSensorMode: 0
+      SharpWeaponJudgeType: 1
+      TerritoryArea: 0.0
+    HashId: !u 0xffc94f48
+    Rotate: -4.48000002
+    SRTHash: 374126892
+    Translate: [2465.20142, 181.513046, 2072.94775]
+    UnitConfigName: Enemy_Keese_AllDay
+  - '!Parameters':
+      ArrowName: NormalArrow
+      DropTable: Normal
+      EquipItem1: Default
+      EquipItem2: Default
+      EquipItem3: Default
+      EquipItem4: Default
+      IsCreateOnFace: true
+      IsNearCreate: false
+      LevelSensorMode: 0
+      SharpWeaponJudgeType: 1
+      TerritoryArea: 0.0
+    HashId: !u 0xffc94f49
+    Rotate: -3.07999992
+    SRTHash: 374126892
+    Translate: [2468.04712, 181.513046, 2074.0625]
+    UnitConfigName: Enemy_Keese_AllDay
+  - HashId: !u 0xffc94f5c
+    Rotate: -0.887610912
+    SRTHash: 0
+    Translate: [2461.96216, 177.615372, 2037.0752]
+    UnitConfigName: FldObj_CmnRuinFurniture_BedBroken_A_01C
+  - HashId: !u 0xffc94f5d
+    Rotate: -2.88761091
+    SRTHash: 0
+    Translate: [2458.36816, 177.615372, 2044.5105]
+    UnitConfigName: FldObj_CmnRuinFurniture_BedBroken_A_01C
+  - HashId: !u 0xffc94f5e
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2458.79443, 177.699997, 2040.07727]
+    UnitConfigName: FldObj_CmnRuinFurniture_CarpetDamaged_A_01C
+  - HashId: !u 0xffc94f5f
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2463.95654, 177.615372, 2028.44324]
+    UnitConfigName: FldObj_CmnRuinFurniture_Shelf_A_01C
+  - HashId: !u 0xffc94f61
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2461.62793, 177.615372, 2032.99011]
+    UnitConfigName: FldObj_CmnRuinFurniture_Shelf_A_01C
+  - HashId: !u 0xffc94f62
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2465.0127, 177.615372, 2050.8479]
+    UnitConfigName: TwnObj_HyruleCastleObject_WeaponStand_B_01C
+  - HashId: !u 0xffc94f63
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2479.51221, 177.215378, 2028.8938]
+    UnitConfigName: TwnObj_HyruleCastleObject_TableSet_B_01C
+  - HashId: !u 0xffc94f64
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2465.10522, 177.520004, 2076.66675]
+    UnitConfigName: TwnObj_HyruleCastleObject_WeaponStand_B_01C
+  - HashId: !u 0xffc94f6b
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2518.0022, 177.619705, 2068.72095]
+    UnitConfigName: FldObj_CmnRuinFurniture_Shelf_A_01C
+  - HashId: !u 0xffc94f6c
+    Rotate: 1.08318543
+    SRTHash: 0
+    Translate: [2521.75684, 177.619705, 2072.18457]
+    UnitConfigName: FldObj_CmnRuinFurniture_Shelf_A_01C
+  - HashId: !u 0xffc94f6d
+    Rotate: 1.08318543
+    SRTHash: 0
+    Translate: [2520.65674, 177.619705, 2074.32593]
+    UnitConfigName: FldObj_CmnRuinFurniture_Shelf_A_01C
+  - HashId: !u 0xffc94f6e
+    Rotate: -5.28761101
+    SRTHash: 0
+    Translate: [2421.49731, 161.477219, 2142.88208]
+    UnitConfigName: FldObj_CmnRuinFurniture_BedBroken_A_01C
+  - HashId: !u 0xffc94f6f
+    Rotate: -5.08761072
+    SRTHash: 0
+    Translate: [2422.86426, 161.477219, 2139.78442]
+    UnitConfigName: FldObj_CmnRuinFurniture_BedBroken_A_01C
+  - HashId: !u 0xffc94f70
+    Rotate: -5.6876111
+    SRTHash: 0
+    Translate: [2424.59741, 161.477219, 2135.19653]
+    UnitConfigName: FldObj_CmnRuinFurniture_BedBroken_A_01C
+  - HashId: !u 0xffc94f71
+    Rotate: -5.28761101
+    SRTHash: 0
+    Translate: [2426.21191, 161.477219, 2132.84302]
+    UnitConfigName: FldObj_CmnRuinFurniture_BedBroken_A_01C
+  - HashId: !u 0xffc94f72
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2387.34717, 173.512787, 2133.2793]
+    UnitConfigName: TwnObj_HyruleCastleObject_TableSet_B_01C
+  - HashId: !u 0xffc94f73
+    Rotate: 1.08318543
+    SRTHash: 0
+    Translate: [2386.46289, 173.42395, 2122.60815]
+    UnitConfigName: FldObj_CmnRuinFurniture_Shelf_A_01C
+  - HashId: !u 0xffc94f74
+    Rotate: 1.08318543
+    SRTHash: 0
+    Translate: [2387.50342, 173.42395, 2120.41016]
+    UnitConfigName: FldObj_CmnRuinFurniture_Shelf_A_01C
+  - HashId: !u 0xffc94f75
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2420.49463, 202.43074, 2025.5907]
+    UnitConfigName: TwnObj_HyruleCastleObject_Sofa_A_01C
+  - HashId: !u 0xffc94f76
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2408.34448, 202.43074, 2024.1416]
+    UnitConfigName: TwnObj_HyruleCastleObject_Sofa_A_01C
+  - HashId: !u 0xffc94f77
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2416.09937, 202.43074, 2028.22278]
+    UnitConfigName: TwnObj_HyruleCastleObject_Sofa_A_01C
+  - HashId: !u 0xffc94f78
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2414.61597, 202.5, 2031.27222]
+    UnitConfigName: FldObj_CmnRuinFurniture_CarpetDamaged_A_01C
+  - HashId: !u 0xffc94f79
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2410.96191, 202.5, 2029.14563]
+    UnitConfigName: FldObj_CmnRuinFurniture_CarpetDamaged_A_01C
+  - HashId: !u 0xffc94f7a
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2406.96777, 202.5, 2027.18555]
+    UnitConfigName: FldObj_CmnRuinFurniture_CarpetDamaged_A_01C
+  - HashId: !u 0xffc94f7b
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2413.22705, 202.43074, 2033.93005]
+    UnitConfigName: TwnObj_HyruleCastleObject_Sofa_A_01C
+  - HashId: !u 0xffc94f7c
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2404.92407, 202.43074, 2029.9104]
+    UnitConfigName: TwnObj_HyruleCastleObject_Sofa_A_01C
+  - HashId: !u 0xffc94f7d
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2409.39282, 202.43074, 2031.31628]
+    UnitConfigName: FldObj_CmnRuinFurniture_Shelf_A_01C
+  - HashId: !u 0xffc94f7e
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2409.39282, 203.630737, 2031.31628]
+    UnitConfigName: TwnObj_HyruleCastleObject_TableTorch_A_01C
+  - HashId: !u 0xffc94f7f
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2407.08569, 202.015381, 2018.15442]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94f80
+    Rotate: [-1.57079637, -2.05840707, 0.0]
+    SRTHash: 0
+    Translate: [2406.81396, 207.415375, 2018.67993]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94f82
+    Rotate: [-1.57079637, -5.19999981, 0.0]
+    SRTHash: 0
+    Translate: [2421.23755, 207.415375, 2026.08472]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94f83
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2416.98047, 202.5, 2024.00476]
+    UnitConfigName: FldObj_CmnRuinFurniture_CarpetDamaged_A_01C
+  - '!Parameters': {DropActor: Item_Ore_D, EnableRevival: true, IsInGround: false, SharpWeaponJudgeType: 0}
+    HashId: !u 0xffc94f84
+    Rotate: -0.546018243
+    SRTHash: 2104824807
+    Translate: [2419.34619, 202.543152, 2022.18738]
+    UnitConfigName: TBox_Field_Stone
+  - HashId: !u 0xffc94f86
+    Rotate: [-1.57079637, -0.487610698, 0.0]
+    SRTHash: 0
+    Translate: [2406.34204, 207.422623, 2030.31104]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94f87
+    Rotate: -2.08761096
+    SRTHash: 0
+    Translate: [2416.12988, 202.43074, 2021.25037]
+    UnitConfigName: FldObj_CmnRuinFurniture_BedBroken_A_01C
+  - HashId: !u 0xffc94f88
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2511.96021, 177.215378, 2059.26465]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94f89
+    Rotate: [-1.57079637, 2.65398192, 0.0]
+    SRTHash: 0
+    Translate: [2517.00293, 182.263519, 2058.68188]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94f8a
+    Rotate: -6.88761091
+    SRTHash: 0
+    Translate: [2427.42871, 161.477219, 2143.99658]
+    UnitConfigName: FldObj_CmnRuinFurniture_TableBroken_A_01C
+  - HashId: !u 0xffc94f8b
+    Rotate: -6.88761091
+    SRTHash: 0
+    Translate: [2430.94751, 161.477219, 2137.6228]
+    UnitConfigName: FldObj_CmnRuinFurniture_TableBroken_A_01C
+  - HashId: !u 0xffc94f8c
+    Rotate: [-1.57079637, -5.19999981, 0.0]
+    SRTHash: 0
+    Translate: [2504.67334, 181.615387, 2083.81494]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94f8d
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2328.69604, 174.215378, 2031.3772]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_02C
+  - HashId: !u 0xffc94f8f
+    Rotate: -0.487610877
+    SRTHash: 0
+    Translate: [2472.0166, 177.015381, 2082.86938]
+    UnitConfigName: TwnObj_HyruleCastleObject_StoneStatue_A_01C
+  - HashId: !u 0xffc94f90
+    Rotate: -0.487610877
+    SRTHash: 0
+    Translate: [2478.90063, 177.015381, 2086.36792]
+    UnitConfigName: TwnObj_HyruleCastleObject_StoneStatue_A_01C
+  - HashId: !u 0xffc94f93
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2481.45435, 176.815384, 2085.78979]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94f94
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2470.99976, 176.815399, 2080.27905]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94f95
+    Rotate: -4.5999999
+    SRTHash: 0
+    Translate: [2517.6355, 156.015381, 2095.65063]
+    UnitConfigName: FldObj_HighwayHylia_A_03C
+  - HashId: !u 0xffc94f97
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2475.48853, 176.615387, 2082.97876]
+    UnitConfigName: FldObj_HyliaStoneRuinGate_A_01C
+  - HashId: !u 0xffc94f99
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2413.81519, 202.415375, 2040.06372]
+    UnitConfigName: FldObj_HyliaStoneRuinGate_A_01C
+  - HashId: !u 0xffc94f9a
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2387.36401, 201.615372, 2025.8877]
+    UnitConfigName: FldObj_HyliaStoneRuinGate_A_01C
+  - HashId: !u 0xffc94f9b
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2459.58691, 177.015381, 2053.03076]
+    UnitConfigName: FldObj_HyliaStoneRuinGate_A_01C
+  - HashId: !u 0xffc94f9c
+    Rotate: -2.68761086
+    SRTHash: 0
+    Translate: [2496.41089, 176.615372, 2080.93384]
+    UnitConfigName: FldObj_HyliaStoneRuinDebris_A_01C
+  - HashId: !u 0xffc94f9f
+    Rotate: -2.68761086
+    SRTHash: 0
+    Translate: [2416.85352, 173.052078, 2126.0918]
+    UnitConfigName: FldObj_HyliaStoneRuinDebris_A_01C
+  - HashId: !u 0xffc94fa0
+    Rotate: -2.68761086
+    SRTHash: 0
+    Translate: [2390.16406, 173.052078, 2123.37256]
+    UnitConfigName: FldObj_HyliaStoneRuinDebris_A_01C
+  - HashId: !u 0xffc94fa2
+    Rotate: -4.28761101
+    SRTHash: 0
+    Translate: [2465.1814, 177.615372, 2046.672]
+    UnitConfigName: FldObj_CmnRuinFurniture_TableBroken_A_01C
+  - HashId: !u 0xffc94fa3
+    Rotate: -2.08761096
+    SRTHash: 0
+    Translate: [2483.68335, 177.339996, 2030.96765]
+    UnitConfigName: FldObj_CmnRuinFurniture_CarpetDamaged_A_01C
+  - HashId: !u 0xffc94fa4
+    Rotate: -3.68761086
+    SRTHash: 0
+    Translate: [2522.52026, 177.729996, 2065.89502]
+    UnitConfigName: FldObj_CmnRuinFurniture_CarpetDamaged_A_01C
+  - HashId: !u 0xffc94fa5
+    Rotate: -2.08761096
+    SRTHash: 0
+    Translate: [2514.75513, 177.729996, 2061.51953]
+    UnitConfigName: FldObj_CmnRuinFurniture_CarpetDamaged_A_01C
+  - HashId: !u 0xffc94fa6
+    Rotate: -3.65840721
+    SRTHash: 0
+    Translate: [2519.89258, 177.759293, 2067.53613]
+    UnitConfigName: TwnObj_HyruleCastleObject_Sofa_A_01C
+  - HashId: !u 0xffc94faa
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2447.19922, 162.499771, 2134.0769]
+    UnitConfigName: FldObj_HyliaStoneRuinGate_A_01C
+  - HashId: !u 0xffc94fab
+    Rotate: -0.487610698
+    SRTHash: 0
+    Translate: [2473.69287, 113.019623, 2087.95288]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94fac
+    Rotate: -0.487610698
+    SRTHash: 0
+    Translate: [2492.35034, 113.019623, 2097.96875]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94fad
+    Rotate: -0.487610698
+    SRTHash: 0
+    Translate: [2479.78467, 113.019623, 2119.33032]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94fae
+    Rotate: -0.487610698
+    SRTHash: 0
+    Translate: [2460.84375, 113.019623, 2109.47827]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - '!Parameters':
+      AddParam: 0
+      AddSpecialFlag: 0
+      DropTable: Normal
+      EnemyOwnItem: false
+      IsCreateSharpWeapon: false
+      IsEmitLandNoise: false
+      IsFixedPlace: true
+      IsPlayerPut: false
+      IsWeaponCreateByRawLife: false
+      LevelSensorMode: 0
+      Life: -1
+      SharpWeaponJudgeType: 0
+    HashId: !u 0xffc94fb1
+    Rotate: [1.57079637, -0.487610936, 0.0]
+    SRTHash: 0
+    Translate: [2478.72339, 179.41539, 2086.79785]
+    UnitConfigName: Weapon_Lsword_030
+  - '!Parameters':
+      AddParam: 0
+      AddSpecialFlag: 0
+      DropTable: Normal
+      EnemyOwnItem: false
+      IsCreateSharpWeapon: false
+      IsEmitLandNoise: false
+      IsFixedPlace: true
+      IsPlayerPut: false
+      IsWeaponCreateByRawLife: false
+      LevelSensorMode: 0
+      Life: -1
+      SharpWeaponJudgeType: 0
+    HashId: !u 0xffc94fb2
+    Rotate: [1.57079637, -0.487610936, 0.0]
+    SRTHash: 0
+    Translate: [2471.82397, 179.41539, 2083.35938]
+    UnitConfigName: Weapon_Lsword_030
+  - HashId: !u 0xffc94fb3
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2406.46948, 173.300003, 2118.60547]
+    UnitConfigName: FldObj_AkkareFortFlowerbed_A_01C
+  - '!Parameters': {AngleY: 0.0, CutRate: 0.0, DropTable: Normal, SharpWeaponJudgeType: 0}
+    HashId: !u 0xffc94fb4
+    Rotate: 1.88
+    SRTHash: 1982053692
+    Translate: [2406.46948, 173.300003, 2118.60547]
+    UnitConfigName: Obj_TreeConiferous_A_03
+  - HashId: !u 0xffc94fb5
+    Rotate: -0.487610698
+    SRTHash: 0
+    Translate: [2454.98999, 113.019623, 2077.74072]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94fb6
+    Rotate: -0.487610698
+    SRTHash: 0
+    Translate: [2442.12622, 113.019623, 2101.32031]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - '!Parameters':
+      AddParam: 0
+      AddSpecialFlag: 0
+      DropTable: Normal
+      EnemyOwnItem: false
+      IsCreateSharpWeapon: false
+      IsEmitLandNoise: false
+      IsFixedPlace: true
+      IsPlayerPut: false
+      IsWeaponCreateByRawLife: false
+      LevelSensorMode: 0
+      Life: -1
+      SharpWeaponJudgeType: 0
+    HashId: !u 0xffc94fb8
+    Rotate: [1.17287707, 0.600000024, -0.19889532]
+    SRTHash: 0
+    Translate: [2387.52661, 173.943298, 2123.27539]
+    UnitConfigName: Weapon_Sword_001
+  - HashId: !u 0xffc94fbe
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2445.48657, 178.350571, 2012.3678]
+    UnitConfigName: TwnObj_HyruleCastleWallConnect_A_01C
+  - HashId: !u 0xffc94fbf
+    Rotate: -2.05840707
+    SRTHash: 0
+    Translate: [2443.14844, 178.150574, 2016.38538]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94fc2
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2495.76196, 176.615387, 2065.57446]
+    UnitConfigName: FldObj_HyliaStoneRuinGate_A_01C
+  - '!Parameters': {AngleY: 0.0, CutRate: 0.0, DropTable: Normal, SharpWeaponJudgeType: 0}
+    HashId: !u 0xffc94fc4
+    Rotate: -4.32000017
+    SRTHash: 1982053692
+    Translate: [2481.94531, 178.350006, 2029.2981]
+    UnitConfigName: TwnObj_Village_HatenoLamp_A_01C
+  - HashId: !u 0xffc94fcb
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2390.58984, 201.615372, 2017.82971]
+    UnitConfigName: FldObj_HyliaStoneRuinGate_A_01C
+  - HashId: !u 0xffc94fcc
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2413.979, 204.40419, 2041.91785]
+    UnitConfigName: TwnObj_Village_HatenoLamp_A_02C
+  - HashId: !u 0xffc94fcd
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2409.40112, 175.192963, 2110.36206]
+    UnitConfigName: TwnObj_Village_HatenoLamp_A_02C
+  - '!Parameters': {AngleY: 0.0, CutRate: 0.0, DropTable: Normal, SharpWeaponJudgeType: 0}
+    HashId: !u 0xffc94fcf
+    Rotate: -2.11999989
+    SRTHash: 1982053692
+    Translate: [2410.29688, 205.445786, 2028.95605]
+    UnitConfigName: TwnObj_Village_HatenoLamp_A_03C
+  - '!Parameters': {AngleY: 0.0, CutRate: 0.0, DropTable: Normal, SharpWeaponJudgeType: 0}
+    HashId: !u 0xffc94fd0
+    Rotate: -2.11999989
+    SRTHash: 1982053692
+    Translate: [2417.08765, 205.445786, 2024.0072]
+    UnitConfigName: TwnObj_Village_HatenoLamp_A_03C
+  - HashId: !u 0xffc94fd1
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2519.06006, 180.362167, 2063.57959]
+    UnitConfigName: TwnObj_Village_HatenoLamp_A_03C
+  - HashId: !u 0xffc94fd2
+    Rotate: -7.19999981
+    SRTHash: 0
+    Translate: [2518.7583, 178.767502, 2069.11816]
+    UnitConfigName: TwnObj_Village_HatenoLamp_A_01C
+  - '!Parameters': {AngleY: 0.0, CutRate: 0.0, DropTable: Normal, SharpWeaponJudgeType: 0}
+    HashId: !u 0xffc94fd6
+    Rotate: -2.11999989
+    SRTHash: 1982053692
+    Translate: [2287.32861, 174.825058, 2024.41296]
+    UnitConfigName: TwnObj_Village_HatenoLamp_A_04C
+  - HashId: !u 0xffc94fd7
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2285.96655, 174.41539, 2042.2821]
+    UnitConfigName: FldObj_HyliaStoneRuinGate_A_01C
+  - HashId: !u 0xffc94fd8
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2357.93286, 201.815369, 2027.71802]
+    UnitConfigName: FldObj_HyliaStoneRuinGate_A_01C
+  - HashId: !u 0xffc94fdb
+    Rotate: [-1.57079637, -0.487610698, 0.0]
+    SRTHash: 0
+    Translate: [2458.43823, 182.413193, 2072.78247]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94fdf
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2467.95117, 113.009338, 2077.84766]
+    UnitConfigName: TwnObj_Village_FishingWoodDeck_A_01C
+  - HashId: !u 0xffc94fe0
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2465.83789, 113.009338, 2081.84668]
+    UnitConfigName: TwnObj_Village_FishingWoodDeck_A_01C
+  - HashId: !u 0xffc94fe1
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2459.21484, 113.009338, 2073.03003]
+    UnitConfigName: TwnObj_Village_FishingWoodDeck_A_01C
+  - HashId: !u 0xffc94fe2
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2457.1394, 113.009338, 2077.05664]
+    UnitConfigName: TwnObj_Village_FishingWoodDeck_A_01C
+  - '!Parameters': {EquipItem1: Weapon_Sword_062, IsNearCreate: false, LevelSensorMode: 0, NearCreateAppearID: 0, SharpWeaponJudgeType: 0,
+      TerritoryArea: 0.0}
+    HashId: !u 0xffc94fe3
+    Rotate: 8.9800005
+    SRTHash: 1480731529
+    Translate: [2450.42529, 118.048531, 2128.91211]
+    UnitConfigName: Enemy_Wizzrobe_Electric
+  - '!Parameters':
+      ArrowName: NormalArrow
+      DropTable: Normal
+      EquipItem1: Default
+      EquipItem2: Default
+      EquipItem3: Default
+      EquipItem4: Default
+      IsCreateOnFace: false
+      IsNearCreate: false
+      LevelSensorMode: 0
+      SharpWeaponJudgeType: 1
+      TerritoryArea: 0.0
+    HashId: !u 0xffc94fe5
+    Rotate: -2.48000002
+    SRTHash: 374126892
+    Translate: [2466.40454, 122.396469, 2106.24438]
+    UnitConfigName: Enemy_Keese_AllDay
+  - '!Parameters':
+      ArrowName: NormalArrow
+      DropTable: Normal
+      EquipItem1: Default
+      EquipItem2: Default
+      EquipItem3: Default
+      EquipItem4: Default
+      IsCreateOnFace: false
+      IsNearCreate: false
+      LevelSensorMode: 0
+      SharpWeaponJudgeType: 1
+      TerritoryArea: 0.0
+    HashId: !u 0xffc94fe6
+    Rotate: -1.68000007
+    SRTHash: 374126892
+    Translate: [2479.65967, 122.396469, 2097.32397]
+    UnitConfigName: Enemy_Keese_AllDay
+  - HashId: !u 0xffc94fe8
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2448.29224, 113.009338, 2072.42358]
+    UnitConfigName: TwnObj_Village_FishingWoodDeck_A_01C
+  - HashId: !u 0xffc94fe9
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2450.45557, 113.009338, 2068.36157]
+    UnitConfigName: TwnObj_Village_FishingWoodDeck_A_01C
+  - HashId: !u 0xffc94feb
+    Rotate: -0.487610698
+    SRTHash: 0
+    Translate: [2449.81226, 113.019623, 2133.43506]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - '!Parameters': {DropActor: Armor_095_Head, EnableRevival: false, IsInGround: false, SharpWeaponJudgeType: 0}
+    HashId: !u 0xffc94f56
+    Rotate: -2.05840731
+    SRTHash: 2104824807
+    Translate: [2529.73926, 179.166092, 2048.4375]
+    UnitConfigName: TBox_Field_Stone
+  - '!Parameters': {DropActor: Armor_095_Upper, EnableRevival: false, IsInGround: false, SharpWeaponJudgeType: 0}
+    HashId: !u 0xffc94f58
+    Rotate: [0.0, -2.79999995, 0.0]
+    SRTHash: 2104824807
+    Translate: [2465.97974, 113.162132, 2103.84619]
+    UnitConfigName: TBox_Field_Iron
+  - '!Parameters': {DropActor: Obj_ArrowBundle_A_02, EnableRevival: true, IsInGround: false, SharpWeaponJudgeType: 0}
+    HashId: !u 0xffc94fde
+    Rotate: -0.546018243
+    SRTHash: 2104824807
+    Translate: [2398.02393, 203.927231, 1991.89392]
+    UnitConfigName: TBox_Field_Stone
+  - '!Parameters': {DropActor: Armor_095_Lower, EnableRevival: false, IsInGround: false, SharpWeaponJudgeType: 0}
+    HashId: !u 0xffc94f57
+    Rotate: -2.4584074
+    SRTHash: 2104824807
+    Translate: [2272.05347, 122.959999, 2056.63721]
+    UnitConfigName: TBox_Field_Stone
+  - HashId: !u 0xffc94e85
+    Rotate: [-1.57079637, -5.19999981, 0.0]
+    SRTHash: 0
+    Translate: [2273.96143, 122.326324, 2057.47241]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94e86
+    Rotate: [-1.57079637, -5.19999981, 0.0]
+    SRTHash: 0
+    Translate: [2277.28516, 122.326324, 2050.4978]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94fec
+    Rotate: [-1.57079637, 2.65398192, 0.0]
+    SRTHash: 0
+    Translate: [2268.79834, 120.925499, 2040.53174]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94dd9
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2496.60791, 169.215378, 2113.77856]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94dda
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2486.7605, 183.615387, 2088.4585]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94ddd
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2465.27515, 177.415375, 2068.09668]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94e1a
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2492.5437, 177.015381, 2071.14331]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94e1f
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2488.85522, 170.415375, 2128.77271]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94e21
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2437.60352, 170.015381, 2096.89331]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94e41
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2479.854, 175.215378, 2096.68872]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94e42
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2486.46777, 172.215378, 2100.25122]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94e66
+    Rotate: -2.05840707
+    SRTHash: 0
+    Translate: [2483.43823, 170.615372, 2122.76807]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_01C
+  - HashId: !u 0xffc94fee
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2423.13159, 160.41539, 2097.17236]
+    UnitConfigName: FldObj_HighwayHylia_A_02C
+  - HashId: !u 0xffc94d56
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2408.49219, 189.41539, 2027.39954]
+    UnitConfigName: FldObj_AkkareFort_A_01C
+  - HashId: !u 0xffc94d59
+    Rotate: -2.05840707
+    SRTHash: 0
+    Translate: [2372.10132, 202.215378, 2006.06897]
+    UnitConfigName: FldObj_AkkareFort_A_01C
+  - HashId: !u 0xffc94dfa
+    Rotate: -2.05840707
+    SRTHash: 0
+    Translate: [2312.75952, 174.615372, 2025.92249]
+    UnitConfigName: FldObj_AkkareFort_A_01C
+  - HashId: !u 0xffc94d54
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2389.32056, 202.215378, 2015.25073]
+    UnitConfigName: FldObj_AkkareFort_A_01C
+  - HashId: !u 0xffc94d4a
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2392.47144, 173.215378, 2122.01807]
+    UnitConfigName: FldObj_AkkareFort_A_01C
+  del: []
+  mod:
+    '2336797450':
+      '!Parameters': {IsStopWithoutReductionY: false, Shape: Sphere, Sound: SheikersTowerBgm, SpotBgmLifeScaleMargin: 0.0}
+      HashId: !u 0x8b48b30a
+      SRTHash: 657393890
+      Scale: 31.0
+      Translate: [2735.48145, 262.5, 2133.50757]
+      UnitConfigName: SpotBgmTag
+    '4179707981':
+      '!Parameters': {DropTable: Normal, InitMotionStatus: 0, IsEnemyLiftable: true, IsPlayerPut: false, SharpWeaponJudgeType: 0}
+      HashId: !u 0xf921484d
+      Rotate: -0.0776367113
+      SRTHash: 1580765538
+      Translate: [2206.7959, 119.123947, 2041.58228]
+      UnitConfigName: Item_Mushroom_E
+    '4182925818':
+      HashId: !u 0xf95261fa
+      Rotate: [3.07406878, -0.304540783, 3.09979582]
+      SRTHash: 706810112
+      Translate: [2507.40771, 157.143127, 2124.35986]
+      UnitConfigName: Obj_RockGray_A_L_02
+H-7_Static:
+  add:
+  - HashId: !u 0xffc94ee9
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2496.56958, 136.439667, 2083.85693]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94eea
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2470.08276, 121.639664, 2069.80273]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94eeb
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2452.40747, 136.439667, 2060.42749]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94f33
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2432.06226, 186.350555, 2004.72925]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94f34
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2414.40308, 186.350555, 1995.35901]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94fed
+    Rotate: -2.05840707
+    SRTHash: 0
+    Translate: [2371.02246, 184.736343, 2081.41577]
+    UnitConfigName: TwnObj_HyruleCastleWallPartsEnd_A_01C
+  - HashId: !u 0xffc94fef
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2394.95508, 202.015381, 2025.04321]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_05C
+  - '!Parameters': {AutoSave: false, CameraPriority: 1, CameraSet: '-', ForceCalcInEvent: false, Shape: Sphere}
+    HashId: !u 0xffc94f51
+    LinksToObj:
+    - '!Parameters': {NoAutoDemoMember: false}
+      DefinitionName: BasicSigOnOnly
+      DestUnitHashId: !u 0xffc94f52
+    Rotate: 0.0
+    SRTHash: -1691301925
+    Scale: 2.0
+    Translate: [2417.15942, 204.602905, 2022.95581]
+    UnitConfigName: Area
+  - '!Parameters':
+      ArrowName: NormalArrow
+      DropTable: Normal
+      EquipItem1: Default
+      EquipItem2: Default
+      EquipItem3: Default
+      EquipItem4: Default
+      IsDrop: false
+      IsNearCreate: true
+      IsWatchKeeping: false
+      LevelSensorMode: 0
+      NearCreateAppearID: 0
+      NearCreateAppearType: 1
+      RotAngle: 0.0
+      SharpWeaponJudgeType: 1
+      TerritoryArea: 0.0
+      WaitTime: 1.0
+    HashId: !u 0xffc94f50
+    Rotate: 0.0
+    SRTHash: 1687336004
+    Translate: [2290.36841, 180.418381, 2015.72791]
+    UnitConfigName: Enemy_Chuchu_Junior
+  - '!Parameters': {AutoSave: false, CameraPriority: 1, CameraSet: '-', ForceCalcInEvent: false, Shape: Sphere}
+    HashId: !u 0xffc94f4e
+    LinksToObj:
+    - '!Parameters': {NoAutoDemoMember: false}
+      DefinitionName: BasicSigOnOnly
+      DestUnitHashId: !u 0xffc94f4f
+    Rotate: 0.0
+    SRTHash: -1691301925
+    Scale: 3.0
+    Translate: [2287.86621, 181.81839, 2015.9574]
+    UnitConfigName: Area
+  - '!Parameters': {IncrementSave: false, MakeSaveFlag: 0, NoChangeSignal: false, SaveFlagOnOffType: 0}
+    HashId: !u 0xffc94f4f
+    LinksToObj:
+    - '!Parameters': {AppearFade: true}
+      DefinitionName: Create
+      DestUnitHashId: !u 0xffc94f50
+    SRTHash: 949794115
+    Translate: [2290.36841, 180.418381, 2015.72791]
+    UnitConfigName: LinkTagAnd
+  - '!Parameters':
+      ArrowName: NormalArrow
+      DropTable: Normal
+      EquipItem1: Default
+      EquipItem2: Default
+      EquipItem3: Default
+      EquipItem4: Default
+      IsDrop: false
+      IsNearCreate: true
+      IsWatchKeeping: false
+      LevelSensorMode: 0
+      NearCreateAppearID: 0
+      NearCreateAppearType: 1
+      RotAngle: 0.0
+      SharpWeaponJudgeType: 1
+      TerritoryArea: 0.0
+      WaitTime: 1.0
+    HashId: !u 0xffc94f4c
+    Rotate: -0.400000006
+    SRTHash: 1687336004
+    Translate: [2465.42651, 177.658173, 2059.42822]
+    UnitConfigName: Enemy_Chuchu_Middle
+  - '!Parameters': {IncrementSave: false, MakeSaveFlag: 0, NoChangeSignal: false, SaveFlagOnOffType: 0}
+    HashId: !u 0xffc94f4b
+    LinksToObj:
+    - '!Parameters': {AppearFade: true}
+      DefinitionName: Create
+      DestUnitHashId: !u 0xffc94f4c
+    SRTHash: 949794115
+    Translate: [2463.46753, 179.458176, 2063.01562]
+    UnitConfigName: LinkTagAnd
+  - '!Parameters': {IncrementSave: false, MakeSaveFlag: 0, NoChangeSignal: false, SaveFlagOnOffType: 0}
+    HashId: !u 0xffc94f52
+    LinksToObj:
+    - '!Parameters': {AppearFade: true}
+      DefinitionName: Create
+      DestUnitHashId: !u 0xffc94f53
+    - '!Parameters': {AppearFade: true}
+      DefinitionName: Create
+      DestUnitHashId: !u 0xffc94f54
+    SRTHash: 949794115
+    Translate: [2415.45654, 204.602905, 2022.98291]
+    UnitConfigName: LinkTagAnd
+  - '!Parameters': {AutoSave: false, CameraPriority: 1, CameraSet: '-', ForceCalcInEvent: false, Shape: Sphere}
+    HashId: !u 0xffc94f4a
+    LinksToObj:
+    - '!Parameters': {NoAutoDemoMember: false}
+      DefinitionName: BasicSigOnOnly
+      DestUnitHashId: !u 0xffc94f4b
+    Rotate: -0.600000024
+    SRTHash: -1691301925
+    Scale: 2.0
+    Translate: [2460.84692, 179.458176, 2068.04858]
+    UnitConfigName: Area
+  - '!Parameters':
+      ArrowName: NormalArrow
+      DropTable: Normal
+      EquipItem1: Default
+      EquipItem2: Default
+      EquipItem3: Default
+      EquipItem4: Default
+      IsDrop: false
+      IsNearCreate: true
+      IsWatchKeeping: false
+      LevelSensorMode: 0
+      NearCreateAppearID: 0
+      NearCreateAppearType: 1
+      RotAngle: 0.0
+      SharpWeaponJudgeType: 1
+      TerritoryArea: 0.0
+      WaitTime: 1.0
+    HashId: !u 0xffc94f4d
+    Rotate: 0.000366210908
+    SRTHash: 1687336004
+    Translate: [0.0, 0.0, 0.0]
+    UnitConfigName: Enemy_ChuChu_Junior
+  - '!Parameters':
+      ArrowName: NormalArrow
+      DropTable: Normal
+      EquipItem1: Default
+      EquipItem2: Default
+      EquipItem3: Default
+      EquipItem4: Default
+      IsDrop: false
+      IsNearCreate: true
+      IsWatchKeeping: false
+      LevelSensorMode: 0
+      NearCreateAppearID: 0
+      NearCreateAppearType: 1
+      RotAngle: 0.0
+      SharpWeaponJudgeType: 1
+      TerritoryArea: 0.0
+      WaitTime: 1.0
+    HashId: !u 0xffc94f53
+    Rotate: -4.4000001
+    SRTHash: 1687336004
+    Translate: [2412.8916, 207.202911, 2024.06311]
+    UnitConfigName: Enemy_Chuchu_Junior
+  - '!Parameters':
+      ArrowName: NormalArrow
+      DropTable: Normal
+      EquipItem1: Default
+      EquipItem2: Default
+      EquipItem3: Default
+      EquipItem4: Default
+      IsDrop: false
+      IsNearCreate: true
+      IsWatchKeeping: false
+      LevelSensorMode: 0
+      NearCreateAppearID: 0
+      NearCreateAppearType: 1
+      RotAngle: 0.0
+      SharpWeaponJudgeType: 1
+      TerritoryArea: 0.0
+      WaitTime: 1.0
+    HashId: !u 0xffc94f54
+    Rotate: -3.4000001
+    SRTHash: 1687336004
+    Translate: [2417.04858, 202.602905, 2026.66833]
+    UnitConfigName: Enemy_Chuchu_Junior
+  - '!Parameters': {AutoSave: false, CameraPriority: 1, CameraSet: '-', ForceCalcInEvent: false, Shape: Sphere}
+    HashId: !u 0xffc94fa7
+    LinksToObj:
+    - '!Parameters': {NoAutoDemoMember: false}
+      DefinitionName: BasicSigOnOnly
+      DestUnitHashId: !u 0xffc94fa8
+    Rotate: 0.0
+    SRTHash: -1691301925
+    Scale: 2.0
+    Translate: [2520.95483, 177.908081, 2064.61841]
+    UnitConfigName: Area
+  - '!Parameters': {IncrementSave: false, MakeSaveFlag: 0, NoChangeSignal: false, SaveFlagOnOffType: 0}
+    HashId: !u 0xffc94fa8
+    LinksToObj:
+    - '!Parameters': {AppearFade: true}
+      DefinitionName: Create
+      DestUnitHashId: !u 0xffc94fa9
+    SRTHash: 949794115
+    Translate: [2518.99829, 177.908081, 2062.99268]
+    UnitConfigName: LinkTagAnd
+  - '!Parameters':
+      ArrowName: NormalArrow
+      DropTable: Normal
+      EquipItem1: Default
+      EquipItem2: Default
+      EquipItem3: Default
+      EquipItem4: Default
+      IsDrop: false
+      IsNearCreate: true
+      IsWatchKeeping: false
+      LevelSensorMode: 0
+      NearCreateAppearID: 0
+      NearCreateAppearType: 1
+      RotAngle: 0.0
+      SharpWeaponJudgeType: 1
+      TerritoryArea: 0.0
+      WaitTime: 1.0
+    HashId: !u 0xffc94fa9
+    Rotate: 0.800000012
+    SRTHash: 1687336004
+    Translate: [2517.37085, 177.908081, 2062.07642]
+    UnitConfigName: Enemy_Chuchu_Middle
+  - '!Parameters':
+      AddParam: 0
+      AddSpecialFlag: 0
+      DropTable: Normal
+      EnemyOwnItem: false
+      IsCreateSharpWeapon: false
+      IsEmitLandNoise: false
+      IsFixedPlace: true
+      IsPlayerPut: false
+      IsWeaponCreateByRawLife: false
+      LevelSensorMode: 0
+      Life: -1
+      SharpWeaponJudgeType: 0
+    HashId: !u 0xffc94fb9
+    Rotate: [0.688910007, 0.0, -0.0307863243]
+    SRTHash: 0
+    Translate: [2259.20703, 121.605011, 2037.39111]
+    UnitConfigName: Weapon_Sword_003
+  - '!Parameters':
+      AddParam: 0
+      AddSpecialFlag: 0
+      DropTable: Normal
+      EnemyOwnItem: false
+      IsCreateSharpWeapon: false
+      IsEmitLandNoise: false
+      IsFixedPlace: true
+      IsPlayerPut: false
+      IsWeaponCreateByRawLife: false
+      LevelSensorMode: 0
+      Life: -1
+      SharpWeaponJudgeType: 0
+    HashId: !u 0xffc94fba
+    Rotate: [0.930590808, -1.79999995, -0.000857614621]
+    SRTHash: 0
+    Translate: [2367.04834, 223.570282, 2004.23474]
+    UnitConfigName: Weapon_Bow_035
+  - '!Parameters':
+      AddParam: 0
+      AddSpecialFlag: 0
+      DropTable: Normal
+      EnemyOwnItem: false
+      IsCreateSharpWeapon: false
+      IsEmitLandNoise: false
+      IsFixedPlace: true
+      IsPlayerPut: false
+      IsWeaponCreateByRawLife: false
+      LevelSensorMode: 0
+      Life: -1
+      SharpWeaponJudgeType: 0
+    HashId: !u 0xffc94fdc
+    Rotate: [-1.02959359, -2.4000001, 2.7941308]
+    SRTHash: 0
+    Translate: [2464.25635, 178.571548, 2050.2478]
+    UnitConfigName: Weapon_Sword_003
+  - '!Parameters':
+      AddParam: 0
+      AddSpecialFlag: 0
+      DropTable: Normal
+      EnemyOwnItem: false
+      IsCreateSharpWeapon: false
+      IsEmitLandNoise: false
+      IsFixedPlace: true
+      IsPlayerPut: false
+      IsWeaponCreateByRawLife: false
+      LevelSensorMode: 0
+      Life: -1
+      SharpWeaponJudgeType: 0
+    HashId: !u 0xffc94fdd
+    Rotate: [-1.67081583, 0.0, 0.212542966]
+    SRTHash: 0
+    Translate: [2398.19189, 173.756256, 2098.41992]
+    UnitConfigName: Weapon_Shield_003
+  - HashId: !u 0xffc94d65
+    Rotate: -2.05840707
+    SRTHash: 0
+    Translate: [2371.27808, 202.815384, 2004.81274]
+    UnitConfigName: TwnObj_HyruleCastleWallWatchTower_A_01C
+  - HashId: !u 0xffc94da3
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2394.86646, 202.815384, 1997.51721]
+    UnitConfigName: TwnObj_HyruleCastleWallWatchTower_B_01C
+  - HashId: !u 0xffc94d67
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2348.91162, 190.215378, 2043.86279]
+    UnitConfigName: TwnObj_HyruleCastleGround_BuildPartsStep_A_02C
+  - HashId: !u 0xffc94d49
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2434.06006, 161.215378, 2154.73486]
+    UnitConfigName: TwnObj_HyruleCastleGround_BuildPartsStep_A_02C
+  - HashId: !u 0xffc94d55
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2443.38818, 177.41539, 1994.5575]
+    UnitConfigName: TwnObj_HyruleCastleGround_BuildPartsStep_A_02C
+  - HashId: !u 0xffc94d57
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2454.82837, 177.41539, 2049.95215]
+    UnitConfigName: TwnObj_HyruleCastleGround_BuildPartsStep_A_02C
+  - HashId: !u 0xffc94d58
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2429.07471, 189.815384, 2020.9563]
+    UnitConfigName: TwnObj_HyruleCastleGround_BuildPartsStep_A_02C
+  - HashId: !u 0xffc94dfc
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2306.37646, 177.215378, 2033.56311]
+    UnitConfigName: TwnObj_HyruleCastleGround_BuildPartsStep_A_02C
+  - HashId: !u 0xffc94dfd
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2264.62817, 161.815384, 2035.68042]
+    UnitConfigName: TwnObj_HyruleCastleGround_BuildPartsStep_A_02C
+  - HashId: !u 0xffc94dfe
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2285.51196, 164.615387, 2022.44556]
+    UnitConfigName: TwnObj_HyruleCastleGround_BuildPartsStep_A_02C
+  - HashId: !u 0xffc94e02
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2270.47412, 148.815384, 2050.50024]
+    UnitConfigName: TwnObj_HyruleCastleGround_BuildPartsStep_A_02C
+  - HashId: !u 0xffc94e05
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2255.51904, 136.215378, 2054.14624]
+    UnitConfigName: TwnObj_HyruleCastleGround_BuildPartsStep_A_02C
+  - HashId: !u 0xffc94e08
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2221.86084, 123.815384, 2047.53979]
+    UnitConfigName: TwnObj_HyruleCastleGround_BuildPartsStep_A_02C
+  - HashId: !u 0xffc94e09
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2201.02637, 111.215385, 2036.54053]
+    UnitConfigName: TwnObj_HyruleCastleGround_BuildPartsStep_A_02C
+  - HashId: !u 0xffc94e65
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2470.53271, 161.615387, 2110.09814]
+    UnitConfigName: TwnObj_HyruleCastleGround_BuildPartsStep_A_02C
+  - HashId: !u 0xffc94edb
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2467.92529, 108.839661, 2084.95532]
+    UnitConfigName: TwnObj_HyruleCastleGround_BuildPartsStep_A_02C
+  - HashId: !u 0xffc94d50
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2520.2334, 177.215378, 2042.61816]
+    UnitConfigName: TwnObj_TempleOfTime_Bravery_A_01C
+  - HashId: !u 0xffc94d52
+    OnlyOne: true
+    Rotate: -0.487610936
+    SRTHash: 931916580
+    Translate: [2461.52979, 163.015381, 2106.96753]
+    UnitConfigName: TwnObj_TempleOfTime_Strength_A_01C
+  - HashId: !u 0xffc94d69
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2399.37891, 173.100006, 2110.57495]
+    UnitConfigName: FldObj_HyliaStoneRuinHouse_A_03C
+  - HashId: !u 0xffc94d53
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2398.34619, 173.015381, 2135.46973]
+    UnitConfigName: FldObj_HyliaStoneRuinHouse_A_01C
+  - HashId: !u 0xffc94d5a
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2452.96216, 177.215378, 2058.43945]
+    UnitConfigName: FldObj_HyliaStoneRuinLookout_A_02C
+  - HashId: !u 0xffc94d4b
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2465.15503, 177.015381, 2068.20972]
+    UnitConfigName: FldObj_HyliaStoneRuinHouse_A_02C
+  - HashId: !u 0xffc94d68
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2473.51953, 177.215378, 2044.20935]
+    UnitConfigName: FldObj_HyliaStoneRuinHouse_A_01C
+  - HashId: !u 0xffc94d51
+    Rotate: 1.08318543
+    SRTHash: 0
+    Translate: [2484.7832, 177.215378, 2029.50769]
+    UnitConfigName: FldObj_HyliaStoneRuinHouse_A_03C
+  - HashId: !u 0xffc94d4e
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2495.80737, 177.015381, 2081.10132]
+    UnitConfigName: FldObj_HyliaStoneRuinHouse_A_03C
+  - HashId: !u 0xffc94d4d
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2509.03418, 176.815384, 2085.7749]
+    UnitConfigName: FldObj_HyliaStoneRuinLookout_A_01C
+  - HashId: !u 0xffc94e01
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2412.1189, 202.015381, 2025.61816]
+    UnitConfigName: FldObj_HyliaStoneRuinHouse_A_02C
+  - HashId: !u 0xffc94d2a
+    OnlyOne: true
+    Rotate: -5.19999981
+    SRTHash: 1725902403
+    Translate: [2460.22607, 162.253983, 2111.04565]
+    UnitConfigName: TwnObj_TempleOfTime_Base_A_01C
+  - HashId: !u 0xffc94d5b
+    OnlyOne: false
+    Rotate: -4.5999999
+    SRTHash: 0
+    Translate: [2522.92212, 155.815384, 2090.53638]
+    UnitConfigName: TwnObj_Village_HatenoAnimalShed_A_01C
+  - HashId: !u 0xffc94d3b
+    OnlyOne: false
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2525.11646, 155.815384, 2078.77271]
+    UnitConfigName: TwnObj_Village_HatenoAnimalShed_A_01C
+  - HashId: !u 0xffc94f9e
+    Rotate: -1.19999981
+    SRTHash: 0
+    Translate: [2529.77808, 156.41539, 2097.53711]
+    UnitConfigName: FldObj_HyliaWoodRuinWell_A_01C
+  - HashId: !u 0xffc94fb7
+    Rotate: 0.200000003
+    SRTHash: 0
+    Translate: [2538.47192, 155.815384, 2093.49146]
+    UnitConfigName: FldObj_StableHostelWoodDeck_A_01C
+  - '!Parameters': {AngleY: 0.0, CutRate: 0.0, DropTable: Normal, SharpWeaponJudgeType: 0}
+    HashId: !u 0xffc94fc0
+    Rotate: -0.519999862
+    SRTHash: 1982053692
+    Translate: [2469.93945, 177.232956, 2059.51562]
+    UnitConfigName: TwnObj_Village_HatenoLamp_A_04C
+  - '!Parameters': {AngleY: 0.0, CutRate: 0.0, DropTable: Normal, SharpWeaponJudgeType: 0}
+    HashId: !u 0xffc94fc5
+    Rotate: -2.11999989
+    SRTHash: 1982053692
+    Translate: [2508.15527, 177.282806, 2062.38062]
+    UnitConfigName: TwnObj_Village_HatenoLamp_A_04C
+  - '!Parameters': {AngleY: 0.0, CutRate: 0.0, DropTable: Normal, SharpWeaponJudgeType: 0}
+    HashId: !u 0xffc94fc3
+    Rotate: -2.11999989
+    SRTHash: 1982053692
+    Translate: [2437.65381, 160.972778, 2145.02393]
+    UnitConfigName: TwnObj_Village_HatenoLamp_A_04C
+  - '!Parameters': {AngleY: 0.0, CutRate: 0.0, DropTable: Normal, SharpWeaponJudgeType: 0}
+    HashId: !u 0xffc94fce
+    Rotate: -3.31999993
+    SRTHash: 1982053692
+    Translate: [2417.82007, 173.1772, 2127.42554]
+    UnitConfigName: TwnObj_Village_HatenoLamp_A_04C
+  - HashId: !u 0xffc94ed3
+    OnlyOne: false
+    Rotate: 1.48000002
+    SRTHash: -439828421
+    Translate: [2473.66479, 132.415375, 2056.08496]
+    UnitConfigName: TwnObj_HyruleCastleInside_Corridor_A_13C
+  - '!Parameters': {AngleY: 0.0, CutRate: 0.0, DropTable: Normal, SharpWeaponJudgeType: 0}
+    HashId: !u 0xffc94fe4
+    Rotate: -3.51999998
+    SRTHash: 1982053692
+    Translate: [2469.06104, 115.432961, 2084.33911]
+    UnitConfigName: TwnObj_Village_HatenoLamp_A_04C
+  - HashId: !u 0xffc94eb6
+    Rotate: 0.297787249
+    SRTHash: 0
+    Translate: [2297.9707, 174.41539, 1994.74731]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_05C
+  - HashId: !u 0xffc94dc8
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2417.0293, 173.100006, 2109.60913]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_05C
+  - HashId: !u 0xffc94dcd
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2501.1438, 177.015381, 2054.64893]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_05C
+  - HashId: !u 0xffc94dd0
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2470.23169, 177.015381, 2091.41577]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_05C
+  - HashId: !u 0xffc94dd1
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2516.58643, 177.015381, 2084.58398]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_05C
+  - HashId: !u 0xffc94dd8
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2502.15845, 170.015381, 2103.25244]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_05C
+  - HashId: !u 0xffc94ddf
+    Rotate: 0.297787249
+    SRTHash: 0
+    Translate: [2423.01636, 189.015381, 2058.96143]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_05C
+  - HashId: !u 0xffc94de1
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2365.54834, 202.415375, 2032.63208]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_05C
+  - HashId: !u 0xffc94de2
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2418.09497, 189.015366, 2044.61462]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_05C
+  - HashId: !u 0xffc94e1b
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2490.53394, 170.015381, 2110.31787]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_05C
+  - HashId: !u 0xffc94e1c
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2443.16138, 170.015381, 2086.52246]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_05C
+  - HashId: !u 0xffc94e1d
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2444.11938, 170.015381, 2070.00562]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_05C
+  - HashId: !u 0xffc94e1e
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2437.41772, 170.015381, 2082.80762]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_05C
+  - HashId: !u 0xffc94e20
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2431.91504, 170.015381, 2093.08008]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_05C
+  - HashId: !u 0xffc94e40
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2453.33301, 170.015381, 2082.45654]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_05C
+  - HashId: !u 0xffc94e47
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2391.39233, 173.100006, 2109.57422]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_05C
+  - HashId: !u 0xffc94e63
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2477.40576, 163.015381, 2117.07739]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_05C
+  - HashId: !u 0xffc94e64
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2480.28174, 163.015381, 2111.80737]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_05C
+  - HashId: !u 0xffc94ea4
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2391.38843, 173.100006, 2128.10034]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_05C
+  - HashId: !u 0xffc94ea9
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2287.35693, 174.41539, 2003.65991]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_05C
+  - HashId: !u 0xffc94eb8
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2296.26294, 174.41539, 2046.9353]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_05C
+  - HashId: !u 0xffc94ebe
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2405.2085, 202.015381, 2037.95813]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_05C
+  - HashId: !u 0xffc94ebf
+    Rotate: 0.297787249
+    SRTHash: 0
+    Translate: [2403.84229, 202.015381, 2046.36401]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_05C
+  - HashId: !u 0xffc94ec1
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2461.16602, 163.215378, 2141.65723]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_05C
+  - HashId: !u 0xffc94ec4
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2400.02417, 202.015381, 2018.91846]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_05C
+  - HashId: !u 0xffc94ec5
+    Rotate: -0.487610936
+    SRTHash: 0
+    Translate: [2392.46606, 202.015381, 2031.15747]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_05C
+  - HashId: !u 0xffc94ec6
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2421.90186, 173.100006, 2137.02759]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_05C
+  - HashId: !u 0xffc94f1b
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2461.23706, 177.013199, 2075.34253]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_05C
+  - HashId: !u 0xffc94f81
+    Rotate: -5.19999981
+    SRTHash: 0
+    Translate: [2421.00464, 202.015381, 2026.33411]
+    UnitConfigName: FldObj_HyliaStoneRuinStraightWall_A_05C
+  - HashId: !u 0xffc94e8d
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2334.61646, 188.815384, 2020.22852]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94d63
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2450.47534, 117.215378, 2047.74841]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94d64
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2450.47534, 161.615387, 2047.74841]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94d79
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2491.47314, 159.983276, 2160.39746]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94de3
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2450.47534, 147.015381, 2047.74841]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94de4
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2450.47534, 132.215378, 2047.74841]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94e12
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2352.27393, 189.136337, 2116.70264]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94e16
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2342.88623, 203.93634, 2134.35986]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94e17
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2352.23828, 203.93634, 2116.68433]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94e18
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2342.92188, 189.136337, 2134.37817]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94e23
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2361.63354, 184.736343, 2099.06006]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94e24
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2371.02246, 184.736343, 2081.41577]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94e39
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2276.81128, 118.015388, 2042.25122]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94e3b
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2238.57349, 108.215385, 2056.61108]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94e4d
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2324.57495, 189.136337, 2124.49072]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94e4e
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2324.57495, 203.93634, 2124.49072]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94e4f
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2333.94214, 189.136337, 2106.82642]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94e50
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2333.94214, 203.93634, 2106.82642]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94e5d
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2264.88647, 120.415375, 2059.02002]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94e74
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2272.08765, 133.41539, 2051.27222]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94e76
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2274.20264, 146.615387, 2041.03589]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94e78
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2276.81128, 131.815384, 2042.25122]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94e8e
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2343.98633, 188.815384, 2002.55579]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94e91
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2333.5332, 188.815384, 2064.92456]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94ed5
+    Rotate: -2.05840731
+    SRTHash: 0
+    Translate: [2463.63989, 148.015381, 2029.82532]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94ee0
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2470.08276, 136.439667, 2069.80273]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94ee1
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2470.08276, 106.839661, 2069.80273]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94ee4
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2496.56958, 106.839661, 2083.85693]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94ee5
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2496.56958, 121.639664, 2083.85693]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94ee6
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2514.22363, 106.839661, 2093.20508]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94ee7
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2514.22363, 121.639664, 2093.20508]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  - HashId: !u 0xffc94ee8
+    Rotate: 2.65398169
+    SRTHash: 0
+    Translate: [2514.22363, 136.439667, 2093.20508]
+    UnitConfigName: TwnObj_HyruleCastleWallParts_A_03C
+  del: []
+  mod:
+    '2241419384':
+      '!Parameters': {AutoSave: false, CameraPriority: 1, CameraSet: '-', ForceCalcInEvent: false, Shape: Cylinder}
+      HashId: !u 0x85995878
+      LinksToObj:
+      - '!Parameters': {NoAutoDemoMember: false}
+        DefinitionName: BasicSigOnOnly
+        DestUnitHashId: !u 0xdb950664
+      Rotate: -0.440000206
+      SRTHash: 455243078
+      Scale: [3.0, 1.0, 3.0]
+      Translate: [2483.12866, 112.623695, 2106.98389]
+      UnitConfigName: Area
+    '2597454547':
+      HashId: !u 0x9ad202d3
+      Rotate: 1.0999999
+      SRTHash: 1440794226
+      Scale: 0.75
+      Translate: [2387.85278, 163.301682, 2078.26172]
+      UnitConfigName: FldObj_CliffWhiteWall_A_05_Far

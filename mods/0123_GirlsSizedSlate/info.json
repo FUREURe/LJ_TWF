@@ -1,0 +1,14 @@
+{
+  "name": "Girls Sized Slate",
+  "image": "thumbnail.jpg",
+  "url": "",
+  "desc": "Sheikah Slate 'Lite' (the one used in non rendered cutscenes), resized for Linkle mod and Zelda's Ballad.",
+  "version": "1.0.0",
+  "options": {},
+  "depends": [],
+  "showCompare": false,
+  "showConvert": false,
+  "platform": "wiiu",
+  "priority": 123,
+  "id": "TGlua2xlIFNpemVkIFNsYXRlPT0xLjAuMA=="
+}

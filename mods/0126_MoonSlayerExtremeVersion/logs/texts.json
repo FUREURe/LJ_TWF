@@ -1,0 +1,66 @@
+{
+  "EUfr": {
+    "ActorType/WeaponBow.msyt": {
+      "Weapon_Bow_Lylah_Desc": {
+        "contents": [
+          {
+            "text": "Cet arc aurait causé une éclipse pendant\nsept nuits. Appartenant à un ancien héros,\nil semblait guider les âmes perdues à travers le\nnoir, comme la lumière la plus brillante du ciel nocturne"
+          }
+        ]
+      },
+      "Weapon_Bow_Lylah_Name": {
+        "contents": [
+          {
+            "text": "Soleil de minuit"
+          }
+        ]
+      }
+    },
+    "ActorType/WeaponShield.msyt": {
+      "Weapon_Shield_Lylah_Desc": {
+        "contents": [
+          {
+            "text": "Honoré par l'esprit d'un aigle qui aurait\nautrefois guidé un héros à travers le\ndésert. Lorsqu'il est utilisé, vous sentez\ntous les chemins illuminés même dans les\nnuits les plus sombres."
+          }
+        ]
+      },
+      "Weapon_Shield_Lylah_Name": {
+        "contents": [
+          {
+            "text": "Étreinte d'Altaïr"
+          }
+        ]
+      },
+      "Weapon_Shield_Lylah_PictureBook": {
+        "contents": [
+          {
+            "text": "Un bouclier pour protéger celui qui es\ndigne de brandir le Tueur de Lune. Il a été\ncréé pour protéger un ancien héros de\ntoutes les calamités, par un esprit aigle\nqui a autrefois éclipsé le soleil pendant\nsept jours."
+          }
+        ]
+      }
+    },
+    "ActorType/WeaponSmallSword.msyt": {
+      "Weapon_Sword_Lylah_Desc": {
+        "contents": [
+          {
+            "text": "Forgée à partir de l'éther, cette lame a\nété laissée par un ancien héros exilé\ndans le désert. Baigné d'une lumière\néthérée, son bord n'a pas oublié le sang\ndoré qu'il revendiquait autrefois."
+          }
+        ]
+      },
+      "Weapon_Sword_Lylah_Name": {
+        "contents": [
+          {
+            "text": "Tueur de Lune"
+          }
+        ]
+      },
+      "Weapon_Sword_Lylah_PictureBook": {
+        "contents": [
+          {
+            "text": "En guise d'expiation pour s'être vu\nrefuser l'épée qui scelle les ténèbres,\ncette lame a été accordé à un héros paria.\nSon aigle guide tous ceux qui sont perdus\ndans le désert."
+          }
+        ]
+      }
+    }
+  }
+}

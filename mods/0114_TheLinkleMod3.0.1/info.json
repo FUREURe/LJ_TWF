@@ -1,0 +1,30 @@
+{
+  "name": "The Linkle Mod 3.0.1",
+  "image": "https://images.gamebanana.com/img/ss/mods/634a3fe80147c.jpg",
+  "url": "https://gamebanana.com/mods/406768",
+  "desc": "After years of hard work, love, and dedication a full rework of your favourite mod is finally here!\n\nA small team of modders have worked hard to bring our best content forward for this major overhaul. All of the support is greatly appreciated!\n\nThis mod replaces the Hero of the Wild with Linkle from Hyrule Warriors! All armours and sound effects have been changed to match Linkle!\n\nLinkle 3.0 has a new body, new face, new armours, new hairstyles, but the same charm!\n\nThe 3.0 update also includes all new custom animation made from scratch specifically for Linkle!\n\nOptional content is also added in the form of the all new Umbrella Glider, and Royal Guard's Armoury!",
+  "version": "3.0.1",
+  "options": {
+    "multi": [
+      {
+        "name": "Royal Guards Armoury",
+        "desc": "The Royal Guards Armoury replaces all of the weapons from the Royal Guard's set with a custom design suited to Linkle! Models and textures by Pluie019 aka Nulltendo!~",
+        "folder": "Royal Weapons",
+        "default": false
+      },
+      {
+        "name": "-WIP- Umbrella Glider -WIP-",
+        "desc": "The Umbrella Glider replaces the default Paraglider with a new custom parasol, and custom animations to match! (This content is a work in progress, certain scenes may not align with this enabled, but nothing game-breaking)",
+        "folder": "Umbrella Glider",
+        "default": false
+      }
+    ],
+    "single": []
+  },
+  "depends": [],
+  "showCompare": false,
+  "showConvert": false,
+  "id": "VGhlIExpbmtsZSBNb2QgMy4wLjE9PTMuMC4x",
+  "platform": "wiiu",
+  "priority": 114
+}

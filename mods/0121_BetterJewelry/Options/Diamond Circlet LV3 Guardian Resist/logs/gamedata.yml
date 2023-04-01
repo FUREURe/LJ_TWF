@@ -1,0 +1,61 @@
+bool_array_data:
+  add: {}
+  del: []
+bool_data:
+  add: {}
+  del: []
+f32_array_data:
+  add: {}
+  del: []
+f32_data:
+  add: {}
+  del: []
+s32_array_data:
+  add: {}
+  del: []
+s32_data:
+  add:
+    dummy:
+      DataName: dummy
+      DeleteRev: -1
+      HashValue: 1341452863
+      InitValue: 0
+      IsEventAssociated: false
+      IsOneTrigger: false
+      IsProgramReadable: false
+      IsProgramWritable: false
+      IsSave: false
+      MaxValue: 0
+      MinValue: 0
+      ResetType: 0
+  del: []
+string256_array_data:
+  add: {}
+  del: []
+string256_data:
+  add: {}
+  del: []
+string64_array_data:
+  add: {}
+  del: []
+string64_data:
+  add: {}
+  del: []
+string_data:
+  add: {}
+  del: []
+vector2f_array_data:
+  add: {}
+  del: []
+vector2f_data:
+  add: {}
+  del: []
+vector3f_array_data:
+  add: {}
+  del: []
+vector3f_data:
+  add: {}
+  del: []
+vector4f_data:
+  add: {}
+  del: []

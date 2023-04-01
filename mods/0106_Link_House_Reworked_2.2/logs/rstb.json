@@ -1,0 +1,23 @@
+{
+  "Actor/AS/FldObj_WindmillWheel_B_01_Rotate.bas": 2070,
+  "Actor/ASList/FldObj_WindmillWheel_B_01.baslist": 1630,
+  "Actor/ActorLink/AOC_customs_0013.bxml": 2380,
+  "Actor/ActorLink/FldObj_WindmillWheel_B_02.bxml": 2306,
+  "Actor/ActorLink/TwnObj_AncientOven_B_01.bxml": 2552,
+  "Actor/Pack/AOC_customs_0013.bactorpack": 471168,
+  "Actor/Pack/FldObj_WindmillWheel_B_02.bactorpack": 8064,
+  "Actor/Pack/TwnObj_AncientOven_B_01.bactorpack": 19520,
+  "Actor/Physics/AOC_customs_0013.bphysics": 5120880,
+  "Aoc/0010/Map/MainField/I-7/I-7_Dynamic.mubin": 175268,
+  "Aoc/0010/Map/MainField/I-7/I-7_Static.mubin": 256484,
+  "Model/AOC_customs_0013.Tex1.bfres": 20192393,
+  "Model/AOC_customs_0013.Tex2.bfres": 8835786,
+  "Model/AOC_customs_0013.bfres": 19899418,
+  "Model/FairyCanisterRots.Tex1.bfres": 1397320,
+  "Model/FairyCanisterRots.Tex2.bfres": 501676,
+  "Model/FairyCanisterRots.bfres": 897549,
+  "Model/TwnObj_AncientOven_B.Tex1.bfres": 982195,
+  "Model/TwnObj_AncientOven_B.Tex2.bfres": 359091,
+  "Model/TwnObj_AncientOven_B.bfres": 370599,
+  "Physics/RigidBody/FldObj_HyliaStoneRuin_A/AOC_customs_0013.hkrb": 429800
+}

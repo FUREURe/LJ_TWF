@@ -1,6 +1,0 @@
-[Definition]
-titleIds = 00050000101C9300,00050000101C9400,00050000101C9500
-name = Hyrule Rebalance v7 Modular - Flurry Rush
-path = The Legend of Zelda: Breath of the Wild/Mods/Hyrule Rebalance v7 Modular - Flurry Rush
-description = The Flurry Rush component of Hyrule Rebalance.
-version = 4

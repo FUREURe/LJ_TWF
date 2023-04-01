@@ -1,0 +1,1733 @@
+{
+  "EUfr": {
+    "EventFlowMsg/Npc_SmallOasis008.msyt": {
+      "0002": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Aide moi à... changer ?"
+          }
+        ]
+      },
+      "Com_Talk_02": {
+        "attributes": "",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound2",
+              "unknown": [
+                22,
+                205
+              ]
+            }
+          },
+          {
+            "text": "Nyahaha... J'espère que ça t'a aidé."
+          }
+        ]
+      },
+      "Com_Talk_04": {
+        "attributes": "",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound2",
+              "unknown": [
+                21,
+                205
+              ]
+            }
+          },
+          {
+            "text": "Nyaha, tu fais une tête très mignonne\nquand tu es plongé dans tes pensées."
+          }
+        ]
+      },
+      "Com_Talk_05d": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Déjà fini~ ?\nJe t'achèterais autant que choses que tu voudras."
+          }
+        ]
+      },
+      "Npc_SmallOasis008_001": {
+        "attributes": "Npc_SmallOasis008",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                4
+              ]
+            }
+          },
+          {
+            "text": "I thought I'd find some troubled\nmerchants around here and help them\nout...\nMais pour plusieurs raisons, je ne peux\ndétourner mes yeux de cela "
+          },
+          {
+            "control": {
+              "kind": "set_colour",
+              "colour": "blue"
+            }
+          },
+          {
+            "text": "Créature divine"
+          },
+          {
+            "control": {
+              "kind": "reset_colour"
+            }
+          },
+          {
+            "text": "."
+          }
+        ]
+      },
+      "talk05": {
+        "attributes": "Npc_SmallOasis008",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                24
+              ]
+            }
+          },
+          {
+            "text": "Nyaha~... attend une petite seconde."
+          }
+        ]
+      },
+      "talk06": {
+        "attributes": "Npc_SmallOasis008",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                11,
+                6
+              ]
+            }
+          },
+          {
+            "text": "Oh, nyon, espèce de grande méchante!\n\n\nEst-ce que tu étais en train de me faire\nune blague ? Ou est-ce que tu fais\nallusion à autre chose ~ ?"
+          }
+        ]
+      },
+      "talk08": {
+        "attributes": "Npc_SmallOasis008",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                11,
+                0
+              ]
+            }
+          },
+          {
+            "text": "Going shopping when you don't have any\nmoney... You're such a tease, toying with\nmy emotions like that..."
+          }
+        ]
+      },
+      "talk12": {
+        "attributes": "Npc_SmallOasis008",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                4
+              ]
+            }
+          },
+          {
+            "text": "Nyaha... Take good care of it."
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "short"
+            }
+          },
+          {
+            "text": "\nDo you want something else?"
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                4,
+                5,
+                6,
+                9
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 10
+            }
+          }
+        ]
+      },
+      "talk15": {
+        "attributes": "Npc_SmallOasis008",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                1,
+                4
+              ]
+            }
+          },
+          {
+            "text": "Nyaha... You look so cute when you're\nblushing like that...\n\nI'll be here if you ever want to... \nchange again~ Come by anytime!\n\nI'll even personally help you, if you\nneed it... Nyaha~!"
+          }
+        ]
+      },
+      "talk16": {
+        "attributes": "Npc_SmallOasis008",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                4
+              ]
+            }
+          },
+          {
+            "text": "Hm... It wont fit... your inventory, I mean!\nI know you're not carrying a purse and\nall, but still...\nI can help you with the situation by\nbuying some things, if you want."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                7,
+                8
+              ],
+              "selected_index": 0,
+              "cancel_index": 1,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "talk18": {
+        "attributes": "Npc_SmallOasis008",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                7,
+                8
+              ]
+            }
+          },
+          {
+            "text": "You're so adorable..."
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "longer"
+            }
+          },
+          {
+            "text": "\n\n\n"
+          },
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                0
+              ]
+            }
+          },
+          {
+            "text": "Nyahaa~. I'll always be here, so if you\nwant... help with changing! Don't\nhesitate to come speak with me, OK?"
+          }
+        ]
+      },
+      "talk19": {
+        "attributes": "Npc_SmallOasis008",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                8,
+                7
+              ]
+            }
+          },
+          {
+            "control": {
+              "kind": "text_size",
+              "percent": 125
+            }
+          },
+          {
+            "text": "You're gonna make me squeal, you jerk!"
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "longer"
+            }
+          },
+          {
+            "text": "\n\n\n"
+          },
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                0
+              ]
+            }
+          },
+          {
+            "control": {
+              "kind": "text_size",
+              "percent": 100
+            }
+          },
+          {
+            "text": "Teehee, just kidding.\nIf you're really in need of money, you\ncould sell me something..."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                7,
+                8
+              ],
+              "selected_index": 0,
+              "cancel_index": 1,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "talk21": {
+        "attributes": "Npc_SmallOasis008",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                7,
+                8
+              ]
+            }
+          },
+          {
+            "text": "...Just so adorable."
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "longer"
+            }
+          },
+          {
+            "text": "\n\n\n"
+          },
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                0
+              ]
+            }
+          },
+          {
+            "text": "Nyaha!~. Anyway, sav'orq!"
+          }
+        ]
+      },
+      "talk23": {
+        "attributes": "Npc_SmallOasis008",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                4
+              ]
+            }
+          },
+          {
+            "text": "Nyaha~...satisfied?\n\n\nIf you feel better now, then I hope you'll\ncome back again later."
+          }
+        ]
+      }
+    },
+    "LayoutMsg/MessageTipsRunTime_00.msyt": {
+      "0025": {
+        "contents": [
+          {
+            "text": "Remember to take breaks every\nonce in a while when using the\nVR Goggles."
+          }
+        ]
+      }
+    },
+    "LayoutMsg/OptionWindow_00.msyt": {
+      "0047": {
+        "contents": [
+          {
+            "text": "Toy-Con VR Goggles"
+          }
+        ]
+      },
+      "0048": {
+        "contents": [
+          {
+            "text": "Play using the VR Goggles."
+          }
+        ]
+      },
+      "0049": {
+        "contents": [
+          {
+            "text": "ON"
+          }
+        ]
+      },
+      "0050": {
+        "contents": [
+          {
+            "text": "OFF"
+          }
+        ]
+      }
+    },
+    "ActorType/NPC.msyt": {
+      "Npc_SmallOasis008_Name": {
+        "contents": [
+          {
+            "text": "Lynx"
+          }
+        ]
+      }
+    },
+    "LayoutMsg/SystemWindow_00.msyt": {
+      "0076": {
+        "contents": [
+          {
+            "text": "This game is compatible with the Toy-Con VR Goggles.\nDo you want to use them?"
+          }
+        ]
+      },
+      "0077": {
+        "contents": [
+          {
+            "text": "The game will start in standard mode.\nThe VR Goggles will not be used. Is that okay?"
+          }
+        ]
+      },
+      "0078": {
+        "contents": [
+          {
+            "text": "Use VR Goggles"
+          }
+        ]
+      },
+      "0079": {
+        "contents": [
+          {
+            "text": "Don't use VR Goggles"
+          }
+        ]
+      },
+      "0081": {
+        "contents": [
+          {
+            "text": "You can't use VR mode because of restrictions that have\nbeen set in Parental Controls. You can play in  standard\nmode or adjust Parental Controls in System Settings or\nthe Nintendo Switch Parental Controls app."
+          }
+        ]
+      },
+      "T_TextAdd_00": {
+        "contents": [
+          {
+            "text": "The following information should be checked by an adult:"
+          }
+        ]
+      },
+      "T_TextAdd_01": {
+        "contents": [
+          {
+            "text": "When using the Toy-Con VR Goggles..."
+          }
+        ]
+      },
+      "T_TextAdd_02": {
+        "contents": [
+          {
+            "text": "Only play while seated."
+          }
+        ]
+      },
+      "T_TextAdd_03": {
+        "contents": [
+          {
+            "text": "Be mindful of your surroundings and other people."
+          }
+        ]
+      },
+      "T_TextAdd_04": {
+        "contents": [
+          {
+            "text": "Make sure to take regular breaks."
+          }
+        ]
+      },
+      "T_TextAdd_05": {
+        "contents": [
+          {
+            "text": "Restrict the use of VR mode for children 6 and under."
+          }
+        ]
+      }
+    },
+    "EventFlowMsg/Drag_Hero.msyt": {
+      "0004": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "You're very adorable!"
+          }
+        ]
+      },
+      "0005": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Are those ears real?"
+          }
+        ]
+      },
+      "0010": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "A boy snuck in..."
+          }
+        ]
+      },
+      "0032": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "*a boy this cute...?*"
+          }
+        ]
+      },
+      "Npc_SmallOasis003_S1_004": {
+        "attributes": "Npc_SmallOasis003",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                11,
+                0
+              ]
+            }
+          },
+          {
+            "text": "A sneaky what? You mean a voe,\nsneaking around town? "
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "long"
+            }
+          },
+          {
+            "text": "I haven't seen\nanyone like that.\n"
+          },
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                0
+              ]
+            }
+          },
+          {
+            "text": "There's a "
+          },
+          {
+            "control": {
+              "kind": "set_colour",
+              "colour": "red"
+            }
+          },
+          {
+            "text": "little vai"
+          },
+          {
+            "control": {
+              "kind": "reset_colour"
+            }
+          },
+          {
+            "text": " who likes to relax\non the roof. Though in the afternoon, it's\nprobably too hot up there."
+          }
+        ]
+      },
+      "Npc_SmallOasis005_S1_002": {
+        "attributes": "Npc_SmallOasis005",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                10,
+                6
+              ]
+            }
+          },
+          {
+            "text": "Wha— There's a "
+          },
+          {
+            "control": {
+              "kind": "set_colour",
+              "colour": "red"
+            }
+          },
+          {
+            "text": "boy who got into\nGerudo Town"
+          },
+          {
+            "control": {
+              "kind": "reset_colour"
+            }
+          },
+          {
+            "text": "?"
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "longer"
+            }
+          },
+          {
+            "text": "\n\nAnd the boss says he comes here to the\n"
+          },
+          {
+            "control": {
+              "kind": "set_colour",
+              "colour": "blue"
+            }
+          },
+          {
+            "text": "Kara Kara Bazaar"
+          },
+          {
+            "control": {
+              "kind": "reset_colour"
+            }
+          },
+          {
+            "text": "?"
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "longer"
+            }
+          },
+          {
+            "text": "\n\n"
+          },
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                0
+              ]
+            }
+          },
+          {
+            "text": "I guess it must be true if the boss\nsaid so...\n\n"
+          },
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                11,
+                0
+              ]
+            }
+          },
+          {
+            "text": "But I've never seen anyone around here\nwho strikes me as a super sneaky guy...\n\nThere was that cute exotic gal at the\n"
+          },
+          {
+            "control": {
+              "kind": "set_colour",
+              "colour": "red"
+            }
+          },
+          {
+            "text": "general store"
+          },
+          {
+            "control": {
+              "kind": "reset_colour"
+            }
+          },
+          {
+            "text": "."
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "long"
+            }
+          },
+          {
+            "text": " Although she never said\nthat she was a girl...\nHer "
+          },
+          {
+            "control": {
+              "kind": "set_colour",
+              "colour": "blue"
+            }
+          },
+          {
+            "text": "cute clothes"
+          },
+          {
+            "control": {
+              "kind": "reset_colour"
+            }
+          },
+          {
+            "text": "—gave me that\nimpression though..."
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "long"
+            }
+          },
+          {
+            "text": " Maybe if I wore those\nclothes...\n"
+          },
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                0
+              ]
+            }
+          },
+          {
+            "text": "Ha, nah. I'm so out of my element with\nall this sneaky stuff."
+          }
+        ]
+      },
+      "Npc_SmallOasis005_S1_004": {
+        "attributes": "Npc_SmallOasis005",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                11,
+                0
+              ]
+            }
+          },
+          {
+            "text": "You hear that a boy somehow made\nhis way into Gerudo Town?\n\nI haven't seen any suspicious guys\naround here, though...\n\nAlthough I did see a pretty exotic gal\nwearing "
+          },
+          {
+            "control": {
+              "kind": "set_colour",
+              "colour": "blue"
+            }
+          },
+          {
+            "text": "Gerudo clothes "
+          },
+          {
+            "control": {
+              "kind": "reset_colour"
+            }
+          },
+          {
+            "text": "at the\n"
+          },
+          {
+            "control": {
+              "kind": "set_colour",
+              "colour": "red"
+            }
+          },
+          {
+            "text": "general store"
+          },
+          {
+            "control": {
+              "kind": "reset_colour"
+            }
+          },
+          {
+            "text": ", which was unusual...\nI wonder if just wearing different clothes\nwould allow someone..."
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "longer"
+            }
+          },
+          {
+            "text": "\n\n"
+          },
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                0
+              ]
+            }
+          },
+          {
+            "text": "Ha! Never mind. No one would ever\nbe that crazy!"
+          }
+        ]
+      },
+      "Npc_SmallOasis006_F_001": {
+        "attributes": "Npc_SmallOasis006",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                8,
+                0
+              ]
+            }
+          },
+          {
+            "text": "Grrr... "
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "long"
+            }
+          },
+          {
+            "text": "Who do you think the boy who\nsnuck into this town was, anyway?!\n\nWhy are you looking at me like that?"
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "long"
+            }
+          },
+          {
+            "text": "\nI'm just trying to gather more info!"
+          }
+        ]
+      },
+      "Npc_SmallOasis006_R_102": {
+        "attributes": "Npc_SmallOasis006",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                0
+              ]
+            }
+          },
+          {
+            "text": "I heard that boy is frequently traveling\nbetween "
+          },
+          {
+            "control": {
+              "kind": "set_colour",
+              "colour": "blue"
+            }
+          },
+          {
+            "text": "Kara Kara Bazaar"
+          },
+          {
+            "control": {
+              "kind": "reset_colour"
+            }
+          },
+          {
+            "text": " and\nGerudo Town.\nI've been waiting here, trying to spot\nhim as he travels!"
+          }
+        ]
+      },
+      "Npc_SmallOasis006_R_106": {
+        "attributes": "Npc_SmallOasis006",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                0
+              ]
+            }
+          },
+          {
+            "text": "It's been close to a week now..."
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "longer"
+            }
+          },
+          {
+            "text": "\nThe guards have kicked me out more\ntimes than I can count...\n"
+          },
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                3,
+                16
+              ]
+            }
+          },
+          {
+            "text": "I almost gave up hope..."
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "longer"
+            }
+          },
+          {
+            "control": {
+              "kind": "text_size",
+              "percent": 80
+            }
+          },
+          {
+            "text": "\n\n\n"
+          },
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                2,
+                0
+              ]
+            }
+          },
+          {
+            "control": {
+              "kind": "text_size",
+              "percent": 100
+            }
+          },
+          {
+            "control": {
+              "kind": "text_size",
+              "percent": 125
+            }
+          },
+          {
+            "text": "HOWEVER!!"
+          },
+          {
+            "control": {
+              "kind": "text_size",
+              "percent": 100
+            }
+          },
+          {
+            "text": "\n\n\nI have learned only recently of a "
+          },
+          {
+            "control": {
+              "kind": "set_colour",
+              "colour": "red"
+            }
+          },
+          {
+            "text": "boy \nthat"
+          },
+          {
+            "control": {
+              "kind": "reset_colour"
+            }
+          },
+          {
+            "text": " "
+          },
+          {
+            "control": {
+              "kind": "set_colour",
+              "colour": "red"
+            }
+          },
+          {
+            "text": "slipped into"
+          },
+          {
+            "control": {
+              "kind": "reset_colour"
+            }
+          },
+          {
+            "text": " this well-guarded town!"
+          }
+        ]
+      },
+      "Npc_SmallOasis006_S1_001": {
+        "attributes": "Npc_SmallOasis006",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                5,
+                0
+              ]
+            }
+          },
+          {
+            "text": "I hear the "
+          },
+          {
+            "control": {
+              "kind": "set_colour",
+              "colour": "red"
+            }
+          },
+          {
+            "text": "boy who infiltrated"
+          },
+          {
+            "control": {
+              "kind": "reset_colour"
+            }
+          },
+          {
+            "text": "\n"
+          },
+          {
+            "control": {
+              "kind": "set_colour",
+              "colour": "red"
+            }
+          },
+          {
+            "text": "Gerudo Town "
+          },
+          {
+            "control": {
+              "kind": "reset_colour"
+            }
+          },
+          {
+            "text": "is frequently traveling\nbetween "
+          },
+          {
+            "control": {
+              "kind": "set_colour",
+              "colour": "blue"
+            }
+          },
+          {
+            "text": "Kara Kara Bazaar"
+          },
+          {
+            "control": {
+              "kind": "reset_colour"
+            }
+          },
+          {
+            "text": " and here.\n"
+          },
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                0
+              ]
+            }
+          },
+          {
+            "text": "So I'm waiting for him. I plan on asking\nhim how he pulls off his amazing\ninfiltration. My plan is flawless!"
+          }
+        ]
+      },
+      "Npc_SmallOasis008_F_010": {
+        "attributes": "Npc_SmallOasis008",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                1,
+                23
+              ]
+            }
+          },
+          {
+            "text": "That being said... You look purrfect!\nWith those clothes on, anyone\nis sure to see "
+          },
+          {
+            "control": {
+              "kind": "set_colour",
+              "colour": "red"
+            }
+          },
+          {
+            "text": "how cute"
+          },
+          {
+            "control": {
+              "kind": "reset_colour"
+            }
+          },
+          {
+            "text": " you are!"
+          }
+        ]
+      },
+      "Npc_SmallOasis008_F_012": {
+        "attributes": "Npc_SmallOasis008",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                0
+              ]
+            }
+          },
+          {
+            "text": "Oh, my gosh... You really do want to get\ninside Gerudo Town, don't you?\n\nThey'll spot you in a heartbeat if you\ndon't dress yourself up.\n\nThose traditional clothes really do look\ngood on you. Don't be so shy about\nwearing them, OK?"
+          }
+        ]
+      },
+      "Npc_SmallOasis008_S1_001": {
+        "attributes": "Npc_SmallOasis008",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                0
+              ]
+            }
+          },
+          {
+            "text": "Oh, goodness. What a cutie you are, nyaha~\nDo you need something from me?"
+          }
+        ]
+      },
+      "Npc_SmallOasis008_S1_002": {
+        "attributes": "Npc_SmallOasis008",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                4
+              ]
+            }
+          },
+          {
+            "text": "Nyaha! Thank you~... And I'm\nsure you'd agree that these clothes only\nhelp my looks, right?\nMeow that I think about it, this style\nwould look quite fetching on you...\n\nI'd have to charge you, of course, but I\nbet people would see you completely\ndifferently if you wore them!\n"
+          },
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                0
+              ]
+            }
+          },
+          {
+            "text": "What do you think? Wanna purrchase\na set for..."
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "long"
+            }
+          },
+          {
+            "control": {
+              "kind": "set_colour",
+              "colour": "red"
+            }
+          },
+          {
+            "text": "600 rupees"
+          },
+          {
+            "control": {
+              "kind": "reset_colour"
+            }
+          },
+          {
+            "text": "?"
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                30,
+                31
+              ],
+              "selected_index": 0,
+              "cancel_index": 1,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Npc_SmallOasis008_S1_003": {
+        "attributes": "Npc_SmallOasis008",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                11,
+                0
+              ]
+            }
+          },
+          {
+            "text": "Well, well... You're back again... still on\nyour search for "
+          },
+          {
+            "control": {
+              "kind": "set_colour",
+              "colour": "red"
+            }
+          },
+          {
+            "text": "an outfit"
+          },
+          {
+            "control": {
+              "kind": "reset_colour"
+            }
+          },
+          {
+            "text": " to the accentuate\n"
+          },
+          {
+            "control": {
+              "kind": "set_colour",
+              "colour": "blue"
+            }
+          },
+          {
+            "text": "your cuteness"
+          },
+          {
+            "control": {
+              "kind": "reset_colour"
+            }
+          },
+          {
+            "text": "?\n"
+          },
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                0
+              ]
+            }
+          },
+          {
+            "text": "Well I already told you what I did.\nAre you just here to oggle at my ears again?"
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                32,
+                33
+              ],
+              "selected_index": 0,
+              "cancel_index": 2,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Npc_SmallOasis008_S1_004": {
+        "attributes": "Npc_SmallOasis008",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                6
+              ]
+            }
+          },
+          {
+            "text": "What's that? You've heard about "
+          },
+          {
+            "control": {
+              "kind": "set_colour",
+              "colour": "red"
+            }
+          },
+          {
+            "text": "a boy"
+          },
+          {
+            "control": {
+              "kind": "reset_colour"
+            }
+          },
+          {
+            "text": "\nwho snuck into "
+          },
+          {
+            "control": {
+              "kind": "set_colour",
+              "colour": "blue"
+            }
+          },
+          {
+            "text": "Gerudo Town"
+          },
+          {
+            "control": {
+              "kind": "reset_colour"
+            }
+          },
+          {
+            "text": "?\n\n"
+          },
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                9
+              ]
+            }
+          },
+          {
+            "text": "Oh, I wouldn't say I snuck...\nI just walked in and no one stopped me!"
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                32,
+                33
+              ],
+              "selected_index": 0,
+              "cancel_index": 2,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Npc_SmallOasis008_S1_007": {
+        "attributes": "Npc_SmallOasis008",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                11,
+                4
+              ]
+            }
+          },
+          {
+            "text": "Eehee... You're making me all blushy\nlooking at me like that~"
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                4,
+                5
+              ],
+              "selected_index": 0,
+              "cancel_index": 2,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Npc_SmallOasis008_S1_008": {
+        "attributes": "Npc_SmallOasis008",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                6
+              ]
+            }
+          },
+          {
+            "text": "Oh, my! "
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "longer"
+            }
+          },
+          {
+            "text": "What? The disrespect! Isn't it obvious?\nOf course they are!"
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "long"
+            }
+          },
+          {
+            "text": " Hmph! If you don't need\nanything, I'll see you around..."
+          }
+        ]
+      },
+      "Npc_SmallOasis008_S1_009": {
+        "attributes": "Npc_SmallOasis008",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                9
+              ]
+            }
+          },
+          {
+            "control": {
+              "kind": "text_size",
+              "percent": 125
+            }
+          },
+          {
+            "text": "♪Eehe~!♪"
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "longer"
+            }
+          },
+          {
+            "text": "\n\n\nYou look purrfect~!"
+          },
+          {
+            "control": {
+              "kind": "text_size",
+              "percent": 100
+            }
+          }
+        ]
+      },
+      "Npc_SmallOasis008_S1_011": {
+        "attributes": "Npc_SmallOasis008",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                24
+              ]
+            }
+          },
+          {
+            "text": "Ahhh nyahahaha... Just as I thought! This\nbrings out your "
+          },
+          {
+            "control": {
+              "kind": "set_colour",
+              "colour": "red"
+            }
+          },
+          {
+            "text": "adorable dos"
+          },
+          {
+            "control": {
+              "kind": "reset_colour"
+            }
+          },
+          {
+            "text": ". That's\na traditional Gerudo outfit.\nIt's such a trendy look around here, I'd\nsay you look almost as\ncute as me!\nOn top of that, it breathes so well that\nit's sure to help you deal with the\ndesert heat..."
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "longer"
+            }
+          },
+          {
+            "text": " At least a little, nyaha!"
+          }
+        ]
+      },
+      "Npc_SmallOasis008_S1_012": {
+        "attributes": "Npc_SmallOasis008",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                11,
+                9
+              ]
+            }
+          },
+          {
+            "control": {
+              "kind": "text_size",
+              "percent": 125
+            }
+          },
+          {
+            "text": "*ahem!*"
+          },
+          {
+            "control": {
+              "kind": "text_size",
+              "percent": 100
+            }
+          },
+          {
+            "text": "\n\n\nNyaha... Make sure you watch out for\nthe wind."
+          }
+        ]
+      },
+      "Npc_SmallOasis008_S1_015": {
+        "attributes": "Npc_SmallOasis008",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                24
+              ]
+            }
+          },
+          {
+            "text": "It's a deal, then! I'll take your\nrupees meow~"
+          }
+        ]
+      },
+      "Npc_SmallOasis008_S1_016": {
+        "attributes": "Npc_SmallOasis008",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                24
+              ]
+            }
+          },
+          {
+            "text": "Nyaha~... J'ai le vêtement parfait\npour toi!"
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "short"
+            }
+          },
+          {
+            "text": " Go ahead and try these on to\nsee how they fit. "
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "longer"
+            }
+          },
+          {
+            "text": "Let me look away, silly..."
+          }
+        ]
+      },
+      "Npc_SmallOasis008_S1_017": {
+        "attributes": "Npc_SmallOasis008",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                11,
+                0
+              ]
+            }
+          },
+          {
+            "text": "Oh, gosh... Guess you don't have\nenough rupees...\n\n"
+          },
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                0
+              ]
+            }
+          },
+          {
+            "text": "Money talks, as they say. You should\nreally make it a habit to have a nice little\nnest egg with you."
+          }
+        ]
+      },
+      "Npc_SmallOasis008_S1_018": {
+        "attributes": "Npc_SmallOasis008",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                11,
+                0
+              ]
+            }
+          },
+          {
+            "text": "Oh, jeez. That's too bad..."
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "short"
+            }
+          },
+          {
+            "text": " Let me nyo\nif you change your mind~"
+          }
+        ]
+      },
+      "Npc_SmallOasis008_S1_019": {
+        "attributes": "Npc_SmallOasis008",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                9
+              ]
+            }
+          },
+          {
+            "text": "If you ever see me around sometime\ndon't be shy~..."
+          }
+        ]
+      },
+      "Npc_SmallOasis008_S1_020": {
+        "attributes": "Npc_SmallOasis008",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                7,
+                8
+              ]
+            }
+          },
+          {
+            "control": {
+              "kind": "text_size",
+              "percent": 125
+            }
+          },
+          {
+            "text": "My skirt!"
+          },
+          {
+            "control": {
+              "kind": "text_size",
+              "percent": 100
+            }
+          }
+        ]
+      },
+      "Npc_SmallOasis008_S1_021": {
+        "attributes": "Npc_SmallOasis008",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                11,
+                4
+              ]
+            }
+          },
+          {
+            "text": "If you want to get more cute clothes,\ncome back anytime..."
+          }
+        ]
+      },
+      "Npc_SmallOasis008_S1_Near_001": {
+        "attributes": "Npc_SmallOasis008",
+        "contents": [
+          {
+            "text": "Nyahaha~..."
+          }
+        ]
+      }
+    }
+  }
+}

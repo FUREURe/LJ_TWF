@@ -1,0 +1,1248 @@
+'0':
+  GrassCut:
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_C, num: 3.0}
+  - {name: Animal_Insect_T, num: 1.0}
+  RainBonusMaterial: ''
+'1':
+  Fish:
+  - {name: Animal_Fish_A, num: 10.0}
+  - {name: Animal_Fish_B, num: 5.0}
+  - {name: Animal_Fish_M, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Item_Material_03, num: 50.0}
+  - {name: Animal_Insect_S, num: 30.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_G, num: 10.0}
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_E, num: 3.0}
+  - {name: Animal_Insect_S, num: 10.0}
+  RainBonusMaterial: ''
+'10':
+  Fish:
+  - {name: Animal_Fish_A, num: 10.0}
+  - {name: Animal_Fish_B, num: 5.0}
+  - {name: Animal_Fish_M, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Item_Material_03, num: 50.0}
+  - {name: Animal_Insect_S, num: 30.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_G, num: 10.0}
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_E, num: 3.0}
+  - {name: Animal_Insect_S, num: 10.0}
+  RainBonusMaterial: ''
+'11':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_E, num: 10.0}
+  - {name: Animal_Fish_H, num: 10.0}
+  - {name: Animal_Fish_M, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Item_Material_03, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_A, num: 30.0}
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_Z, num: 10.0}
+  RainBonusMaterial: ''
+'12':
+  Fish:
+  - {name: Animal_Fish_A, num: 10.0}
+  - {name: Animal_Fish_L, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_A, num: 50.0}
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  - {name: Item_Material_03, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_A, num: 30.0}
+  - {name: Animal_Insect_H, num: 10.0}
+  - {name: Animal_Insect_P, num: 10.0}
+  - {name: Animal_Insect_Q, num: 3.0}
+  RainBonusMaterial: ''
+'13':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_H, num: 10.0}
+  - {name: Animal_Fish_X, num: 5.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_S, num: 30.0}
+  - {name: Item_Material_03, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_G, num: 10.0}
+  - {name: Animal_Insect_H, num: 10.0}
+  - {name: Animal_Insect_K, num: 10.0}
+  - {name: Animal_Insect_S, num: 10.0}
+  RainBonusMaterial: ''
+'14':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_X, num: 5.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 20.0}
+  Insect:
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_E, num: 10.0}
+  RainBonusMaterial: ''
+'15':
+  Fish:
+  - {name: Animal_Fish_J, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_X, num: 30.0}
+  - {name: Item_Ore_F, num: 30.0}
+  Insect:
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_Q, num: 3.0}
+  - {name: Animal_Insect_X, num: 10.0}
+  - {name: Animal_Insect_AB, num: 3.0}
+  RainBonusMaterial: ''
+'16':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_X, num: 5.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 20.0}
+  Insect:
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_E, num: 10.0}
+  RainBonusMaterial: ''
+'17':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_E, num: 10.0}
+  - {name: Animal_Fish_H, num: 10.0}
+  - {name: Animal_Fish_M, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_A, num: 30.0}
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_Z, num: 10.0}
+  RainBonusMaterial: ''
+'18':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_C, num: 5.0}
+  - {name: Animal_Fish_I, num: 5.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Item_Material_07, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_C, num: 3.0}
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_N, num: 3.0}
+  - {name: Animal_Insect_T, num: 3.0}
+  RainBonusMaterial: ''
+'19':
+  Fish:
+  - {name: Animal_Fish_A, num: 10.0}
+  - {name: Animal_Fish_B, num: 5.0}
+  - {name: Animal_Fish_M, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Item_Material_03, num: 50.0}
+  - {name: Animal_Insect_S, num: 30.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_G, num: 10.0}
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_E, num: 3.0}
+  - {name: Animal_Insect_S, num: 10.0}
+  RainBonusMaterial: ''
+'2':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_B, num: 5.0}
+  - {name: Animal_Fish_E, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_O, num: 10.0}
+  - {name: Animal_Insect_T, num: 3.0}
+  - {name: Animal_Insect_AA, num: 10.0}
+  RainBonusMaterial: ''
+'20':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_B, num: 5.0}
+  - {name: Animal_Fish_E, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_O, num: 10.0}
+  - {name: Animal_Insect_T, num: 3.0}
+  - {name: Animal_Insect_AA, num: 10.0}
+  RainBonusMaterial: ''
+'21':
+  GrassCut:
+  - {name: Animal_Insect_M, num: 30.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_C, num: 1.0}
+  - {name: Animal_Insect_I, num: 10.0}
+  - {name: Animal_Insect_M, num: 10.0}
+  RainBonusMaterial: ''
+'22':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_B, num: 5.0}
+  - {name: Animal_Fish_E, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_O, num: 10.0}
+  - {name: Animal_Insect_T, num: 3.0}
+  - {name: Animal_Insect_AA, num: 10.0}
+  RainBonusMaterial: ''
+'23':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_C, num: 5.0}
+  - {name: Animal_Fish_I, num: 5.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Item_Material_07, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_C, num: 3.0}
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_N, num: 3.0}
+  - {name: Animal_Insect_T, num: 3.0}
+  RainBonusMaterial: ''
+'24':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_D, num: 5.0}
+  - {name: Animal_Fish_L, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_B, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  - {name: Animal_Insect_H, num: 50.0}
+  Insect:
+  - {name: Animal_Insect_B, num: 30.0}
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_I, num: 10.0}
+  - {name: Animal_Insect_P, num: 10.0}
+  - {name: Animal_Insect_R, num: 10.0}
+  - {name: Animal_Insect_AA, num: 10.0}
+  RainBonusMaterial: ''
+'25':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_D, num: 5.0}
+  - {name: Animal_Fish_L, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_B, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  - {name: Animal_Insect_H, num: 50.0}
+  Insect:
+  - {name: Animal_Insect_B, num: 30.0}
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_I, num: 10.0}
+  - {name: Animal_Insect_P, num: 10.0}
+  - {name: Animal_Insect_R, num: 10.0}
+  - {name: Animal_Insect_AA, num: 10.0}
+  RainBonusMaterial: ''
+'26':
+  Fish:
+  - {name: Animal_Fish_A, num: 10.0}
+  - {name: Animal_Fish_L, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_A, num: 50.0}
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  - {name: Item_Material_03, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_A, num: 30.0}
+  - {name: Animal_Insect_H, num: 10.0}
+  - {name: Animal_Insect_P, num: 10.0}
+  - {name: Animal_Insect_Q, num: 3.0}
+  RainBonusMaterial: ''
+'27':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_C, num: 5.0}
+  - {name: Animal_Fish_I, num: 5.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Item_Material_07, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_C, num: 3.0}
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_N, num: 3.0}
+  - {name: Animal_Insect_T, num: 3.0}
+  RainBonusMaterial: ''
+'28':
+  Fish:
+  - {name: Animal_Fish_F, num: 15.0}
+  - {name: Animal_Fish_G, num: 5.0}
+  - {name: Animal_Fish_K, num: 5.0}
+  - {name: Animal_Insect_O, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Item_Material_03, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_M, num: 10.0}
+  - {name: Animal_Insect_N, num: 1.0}
+  RainBonusMaterial: ''
+'29':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_D, num: 5.0}
+  - {name: Animal_Fish_L, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_B, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  - {name: Animal_Insect_H, num: 50.0}
+  Insect:
+  - {name: Animal_Insect_B, num: 30.0}
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_I, num: 10.0}
+  - {name: Animal_Insect_P, num: 10.0}
+  - {name: Animal_Insect_R, num: 10.0}
+  - {name: Animal_Insect_AA, num: 10.0}
+  RainBonusMaterial: ''
+'3':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_C, num: 10.0}
+  - {name: Animal_Fish_I, num: 10.0}
+  GrassCut:
+  - {name: Item_Material_07, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_N, num: 3.0}
+  - {name: Animal_Insect_Q, num: 1.0}
+  RainBonusMaterial: ''
+'30':
+  Fish:
+  - {name: Animal_Fish_K, num: 5.0}
+  - {name: Animal_Fish_F, num: 5.0}
+  - {name: Animal_Fish_G, num: 15.0}
+  - {name: Animal_Insect_K, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_H, num: 5.0}
+  RainBonusMaterial: ''
+'31':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_C, num: 5.0}
+  - {name: Animal_Fish_I, num: 5.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Item_Material_07, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_C, num: 3.0}
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_N, num: 3.0}
+  - {name: Animal_Insect_T, num: 3.0}
+  RainBonusMaterial: ''
+'32':
+  Fish:
+  - {name: Animal_Fish_A, num: 10.0}
+  - {name: Animal_Fish_L, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_A, num: 50.0}
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  - {name: Item_Material_03, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_A, num: 30.0}
+  - {name: Animal_Insect_H, num: 10.0}
+  - {name: Animal_Insect_P, num: 10.0}
+  - {name: Animal_Insect_Q, num: 3.0}
+  RainBonusMaterial: ''
+'33':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_B, num: 5.0}
+  - {name: Animal_Fish_E, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_O, num: 10.0}
+  - {name: Animal_Insect_T, num: 3.0}
+  - {name: Animal_Insect_AA, num: 10.0}
+  RainBonusMaterial: ''
+'34':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_E, num: 10.0}
+  - {name: Animal_Fish_H, num: 10.0}
+  - {name: Animal_Fish_M, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Item_Material_03, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_A, num: 30.0}
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_Z, num: 10.0}
+  RainBonusMaterial: ''
+'35':
+  Fish:
+  - {name: Animal_Fish_A, num: 10.0}
+  - {name: Animal_Fish_L, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_A, num: 50.0}
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  - {name: Item_Material_03, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_A, num: 30.0}
+  - {name: Animal_Insect_H, num: 10.0}
+  - {name: Animal_Insect_P, num: 10.0}
+  - {name: Animal_Insect_Q, num: 3.0}
+  RainBonusMaterial: ''
+'36':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_D, num: 5.0}
+  - {name: Animal_Fish_L, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_B, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  - {name: Animal_Insect_H, num: 50.0}
+  Insect:
+  - {name: Animal_Insect_B, num: 30.0}
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_I, num: 10.0}
+  - {name: Animal_Insect_P, num: 10.0}
+  - {name: Animal_Insect_R, num: 10.0}
+  - {name: Animal_Insect_AA, num: 10.0}
+  RainBonusMaterial: ''
+'37':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_C, num: 10.0}
+  - {name: Animal_Fish_I, num: 10.0}
+  GrassCut:
+  - {name: Item_Material_07, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_N, num: 3.0}
+  - {name: Animal_Insect_Q, num: 1.0}
+'38':
+  GrassCut:
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_N, num: 3.0}
+  - {name: Animal_Insect_Q, num: 1.0}
+  RainBonusMaterial: ''
+'39':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_C, num: 10.0}
+  - {name: Animal_Fish_I, num: 10.0}
+  GrassCut:
+  - {name: Item_Material_07, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_N, num: 3.0}
+  - {name: Animal_Insect_Q, num: 1.0}
+  RainBonusMaterial: ''
+'4':
+  GrassCut:
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_C, num: 3.0}
+  - {name: Animal_Insect_T, num: 1.0}
+  RainBonusMaterial: ''
+'40':
+  GrassCut:
+  - {name: Animal_Insect_M, num: 30.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_C, num: 1.0}
+  - {name: Animal_Insect_I, num: 10.0}
+  - {name: Animal_Insect_M, num: 10.0}
+  RainBonusMaterial: ''
+'41':
+  Fish:
+  - {name: Animal_Fish_A, num: 10.0}
+  - {name: Animal_Fish_L, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_A, num: 50.0}
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  - {name: Item_Material_03, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_A, num: 30.0}
+  - {name: Animal_Insect_H, num: 10.0}
+  - {name: Animal_Insect_P, num: 10.0}
+  - {name: Animal_Insect_Q, num: 3.0}
+  RainBonusMaterial: ''
+'42':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_C, num: 5.0}
+  - {name: Animal_Fish_I, num: 5.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Item_Material_07, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_C, num: 3.0}
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_N, num: 3.0}
+  - {name: Animal_Insect_T, num: 3.0}
+  RainBonusMaterial: ''
+'43':
+  Fish:
+  - {name: Animal_Fish_F, num: 15.0}
+  - {name: Animal_Fish_G, num: 5.0}
+  - {name: Animal_Fish_K, num: 5.0}
+  - {name: Animal_Insect_O, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Item_Material_03, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_M, num: 10.0}
+  - {name: Animal_Insect_N, num: 1.0}
+'44':
+  Fish:
+  - {name: Animal_Fish_J, num: 10.0}
+  GrassCut:
+  - {name: Item_Ore_F, num: 30.0}
+  - {name: Animal_Insect_X, num: 30.0}
+  Insect:
+  - {name: Animal_Insect_X, num: 10.0}
+  - {name: Animal_Insect_AB, num: 3.0}
+  RainBonusMaterial: ''
+'45':
+  GrassCut:
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_C, num: 3.0}
+  - {name: Animal_Insect_T, num: 1.0}
+  RainBonusMaterial: ''
+'46':
+  Fish:
+  - {name: Animal_Fish_A, num: 10.0}
+  - {name: Animal_Fish_L, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_A, num: 50.0}
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  - {name: Item_Material_03, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_A, num: 30.0}
+  - {name: Animal_Insect_H, num: 10.0}
+  - {name: Animal_Insect_P, num: 10.0}
+  - {name: Animal_Insect_Q, num: 3.0}
+  RainBonusMaterial: ''
+'47':
+  Fish:
+  - {name: Animal_Fish_A, num: 10.0}
+  - {name: Animal_Fish_L, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_A, num: 50.0}
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  - {name: Item_Material_03, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_A, num: 30.0}
+  - {name: Animal_Insect_H, num: 10.0}
+  - {name: Animal_Insect_P, num: 10.0}
+  - {name: Animal_Insect_Q, num: 3.0}
+  RainBonusMaterial: ''
+'48':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_C, num: 5.0}
+  - {name: Animal_Fish_I, num: 5.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Item_Material_07, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_C, num: 3.0}
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_N, num: 3.0}
+  - {name: Animal_Insect_T, num: 3.0}
+  RainBonusMaterial: ''
+'49':
+  Fish:
+  - {name: Animal_Fish_A, num: 10.0}
+  - {name: Animal_Fish_B, num: 5.0}
+  - {name: Animal_Fish_M, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Item_Material_03, num: 50.0}
+  - {name: Animal_Insect_S, num: 30.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_G, num: 10.0}
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_E, num: 3.0}
+  - {name: Animal_Insect_S, num: 10.0}
+  RainBonusMaterial: ''
+'5':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_C, num: 10.0}
+  - {name: Animal_Fish_I, num: 10.0}
+  GrassCut:
+  - {name: Item_Material_07, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_N, num: 3.0}
+  - {name: Animal_Insect_Q, num: 1.0}
+  RainBonusMaterial: ''
+'50':
+  Fish:
+  - {name: Animal_Fish_A, num: 10.0}
+  - {name: Animal_Fish_L, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_A, num: 50.0}
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  - {name: Item_Material_03, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_A, num: 30.0}
+  - {name: Animal_Insect_H, num: 10.0}
+  - {name: Animal_Insect_P, num: 10.0}
+  - {name: Animal_Insect_Q, num: 3.0}
+  RainBonusMaterial: ''
+'51':
+  Fish:
+  - {name: Animal_Fish_J, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_X, num: 30.0}
+  - {name: Item_Ore_F, num: 30.0}
+  Insect:
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_Q, num: 3.0}
+  - {name: Animal_Insect_X, num: 10.0}
+  - {name: Animal_Insect_AB, num: 3.0}
+  RainBonusMaterial: ''
+'52': {GrassCut: '', Insect: '', RainBonusMaterial: ''}
+'53': {GrassCut: ''}
+'54':
+  Fish:
+  - {name: Animal_Fish_K, num: 5.0}
+  - {name: Animal_Fish_F, num: 5.0}
+  - {name: Animal_Fish_G, num: 15.0}
+  - {name: Animal_Insect_K, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_H, num: 5.0}
+'55':
+  Fish:
+  - {name: Animal_Fish_F, num: 15.0}
+  - {name: Animal_Fish_G, num: 5.0}
+  - {name: Animal_Fish_K, num: 5.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_M, num: 10.0}
+  - {name: Animal_Insect_N, num: 1.0}
+  - {name: Animal_Insect_O, num: 10.0}
+'56':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_B, num: 5.0}
+  - {name: Animal_Fish_E, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_O, num: 10.0}
+  - {name: Animal_Insect_T, num: 3.0}
+  - {name: Animal_Insect_AA, num: 10.0}
+  RainBonusMaterial: ''
+'57':
+  Fish:
+  - {name: Animal_Fish_F, num: 10.0}
+  - {name: Animal_Fish_G, num: 10.0}
+  - {name: Animal_Fish_K, num: 10.0}
+  - {name: Animal_Insect_K, num: 10.0}
+  - {name: Animal_Insect_O, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_S, num: 30.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_H, num: 10.0}
+  - {name: Animal_Insect_A, num: 30.0}
+  - {name: Animal_Insect_B, num: 30.0}
+  - {name: Animal_Insect_I, num: 5.0}
+'58':
+  Fish:
+  - {name: Animal_Fish_F, num: 15.0}
+  - {name: Animal_Fish_G, num: 5.0}
+  - {name: Animal_Fish_K, num: 5.0}
+  - {name: Animal_Insect_O, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Item_Material_03, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_M, num: 10.0}
+  - {name: Animal_Insect_N, num: 1.0}
+'59':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_D, num: 5.0}
+  - {name: Animal_Fish_L, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_B, num: 30.0}
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  - {name: Item_Material_01, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_B, num: 30.0}
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_I, num: 10.0}
+  - {name: Animal_Insect_P, num: 10.0}
+  - {name: Animal_Insect_R, num: 10.0}
+  - {name: Animal_Insect_AA, num: 10.0}
+  RainBonusMaterial: ''
+'6':
+  Fish:
+  - {name: Animal_Fish_A, num: 10.0}
+  - {name: Animal_Fish_L, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_A, num: 50.0}
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  - {name: Item_Material_03, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_A, num: 30.0}
+  - {name: Animal_Insect_H, num: 10.0}
+  - {name: Animal_Insect_P, num: 10.0}
+  - {name: Animal_Insect_Q, num: 3.0}
+  RainBonusMaterial: ''
+'60':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_X, num: 5.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 20.0}
+  Insect:
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_E, num: 10.0}
+  RainBonusMaterial: ''
+'61':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_H, num: 10.0}
+  - {name: Animal_Fish_X, num: 5.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_S, num: 30.0}
+  - {name: Item_Material_03, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_G, num: 10.0}
+  - {name: Animal_Insect_H, num: 10.0}
+  - {name: Animal_Insect_K, num: 10.0}
+  - {name: Animal_Insect_S, num: 10.0}
+  RainBonusMaterial: ''
+'62':
+  Fish:
+  - {name: Animal_Fish_F, num: 15.0}
+  - {name: Animal_Fish_G, num: 5.0}
+  - {name: Animal_Fish_K, num: 5.0}
+  - {name: Animal_Insect_O, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Item_Material_03, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  - {name: Animal_Insect_M, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_M, num: 10.0}
+  - {name: Animal_Insect_N, num: 1.0}
+  RainBonusMaterial: ''
+'63':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_D, num: 5.0}
+  - {name: Animal_Insect_Z, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_B, num: 30.0}
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_R, num: 10.0}
+  RainBonusMaterial: ''
+'64':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_D, num: 5.0}
+  - {name: Animal_Insect_Z, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_B, num: 30.0}
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_R, num: 10.0}
+  RainBonusMaterial: ''
+'65':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_E, num: 10.0}
+  - {name: Animal_Fish_H, num: 10.0}
+  - {name: Animal_Fish_M, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_A, num: 30.0}
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_Z, num: 10.0}
+  RainBonusMaterial: ''
+'66':
+  Fish:
+  - {name: Animal_Fish_J, num: 10.0}
+  GrassCut:
+  - {name: Item_Ore_F, num: 30.0}
+  - {name: Animal_Insect_X, num: 30.0}
+  Insect:
+  - {name: Animal_Insect_X, num: 10.0}
+  - {name: Animal_Insect_AB, num: 3.0}
+  RainBonusMaterial: ''
+'67':
+  Fish:
+  - {name: Animal_Fish_J, num: 10.0}
+  GrassCut:
+  - {name: Item_Ore_F, num: 30.0}
+  - {name: Animal_Insect_X, num: 30.0}
+  Insect:
+  - {name: Animal_Insect_X, num: 10.0}
+  - {name: Animal_Insect_AB, num: 3.0}
+  RainBonusMaterial: ''
+'68':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_E, num: 10.0}
+  - {name: Animal_Fish_H, num: 10.0}
+  - {name: Animal_Fish_M, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Item_Material_03, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_A, num: 30.0}
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_Z, num: 10.0}
+  RainBonusMaterial: ''
+'69':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_E, num: 10.0}
+  - {name: Animal_Fish_H, num: 10.0}
+  - {name: Animal_Fish_M, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_A, num: 30.0}
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_Z, num: 10.0}
+  RainBonusMaterial: ''
+'7':
+  Fish:
+  - {name: Animal_Fish_J, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_X, num: 30.0}
+  - {name: Item_Ore_F, num: 30.0}
+  Insect:
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_Q, num: 3.0}
+  - {name: Animal_Insect_X, num: 10.0}
+  - {name: Animal_Insect_AB, num: 3.0}
+  RainBonusMaterial: ''
+'70':
+  Fish:
+  - {name: Animal_Fish_A, num: 10.0}
+  - {name: Animal_Fish_L, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_A, num: 50.0}
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  - {name: Item_Material_03, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_A, num: 30.0}
+  - {name: Animal_Insect_H, num: 10.0}
+  - {name: Animal_Insect_P, num: 10.0}
+  - {name: Animal_Insect_Q, num: 3.0}
+  RainBonusMaterial: ''
+'71':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_B, num: 5.0}
+  - {name: Animal_Fish_E, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_S, num: 30.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_O, num: 10.0}
+  - {name: Animal_Insect_T, num: 3.0}
+  - {name: Animal_Insect_AA, num: 10.0}
+  RainBonusMaterial: ''
+'72':
+  GrassCut:
+  - {name: Animal_Insect_M, num: 30.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_C, num: 1.0}
+  - {name: Animal_Insect_I, num: 10.0}
+  - {name: Animal_Insect_M, num: 10.0}
+  RainBonusMaterial: ''
+'73':
+  GrassCut:
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_C, num: 3.0}
+  - {name: Animal_Insect_T, num: 1.0}
+  RainBonusMaterial: ''
+'74':
+  Fish:
+  - {name: Animal_Fish_A, num: 10.0}
+  - {name: Animal_Fish_B, num: 5.0}
+  - {name: Animal_Fish_M, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Item_Material_03, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_N, num: 3.0}
+  - {name: Animal_Insect_T, num: 3.0}
+  - {name: Animal_Insect_E, num: 5.0}
+  - {name: Animal_Insect_A, num: 30.0}
+  - {name: Animal_Insect_H, num: 10.0}
+  RainBonusMaterial: ''
+'75':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_B, num: 5.0}
+  - {name: Animal_Fish_E, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_O, num: 10.0}
+  - {name: Animal_Insect_T, num: 3.0}
+  - {name: Animal_Insect_AA, num: 10.0}
+  RainBonusMaterial: ''
+'76':
+  Fish:
+  - {name: Animal_Fish_A, num: 10.0}
+  - {name: Animal_Fish_L, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_A, num: 50.0}
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  - {name: Item_Material_03, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_A, num: 30.0}
+  - {name: Animal_Insect_H, num: 10.0}
+  - {name: Animal_Insect_P, num: 10.0}
+  - {name: Animal_Insect_Q, num: 3.0}
+  RainBonusMaterial: ''
+'77':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_D, num: 5.0}
+  - {name: Animal_Insect_Z, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_B, num: 30.0}
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_R, num: 10.0}
+  RainBonusMaterial: ''
+'78':
+  Fish:
+  - {name: Animal_Fish_F, num: 15.0}
+  - {name: Animal_Fish_G, num: 5.0}
+  - {name: Animal_Fish_K, num: 5.0}
+  - {name: Animal_Insect_O, num: 10.0}
+  Fruit: ''
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Item_Material_03, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  - {name: Animal_Insect_M, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_M, num: 10.0}
+  - {name: Animal_Insect_N, num: 1.0}
+  RainBonusMaterial: ''
+'79':
+  Fish:
+  - {name: Animal_Fish_A, num: 10.0}
+  - {name: Animal_Fish_L, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_A, num: 50.0}
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  - {name: Item_Material_03, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_A, num: 30.0}
+  - {name: Animal_Insect_H, num: 10.0}
+  - {name: Animal_Insect_P, num: 10.0}
+  - {name: Animal_Insect_Q, num: 3.0}
+  RainBonusMaterial: ''
+'8':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_X, num: 5.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 20.0}
+  Insect:
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_E, num: 10.0}
+  RainBonusMaterial: ''
+'80':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_C, num: 5.0}
+  - {name: Animal_Fish_I, num: 5.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Item_Material_07, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_C, num: 3.0}
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_N, num: 3.0}
+  - {name: Animal_Insect_T, num: 3.0}
+  RainBonusMaterial: ''
+'81':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_D, num: 5.0}
+  - {name: Animal_Insect_Z, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_B, num: 30.0}
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_R, num: 10.0}
+  RainBonusMaterial: ''
+'82':
+  Fish:
+  - {name: Animal_Fish_A, num: 10.0}
+  - {name: Animal_Fish_L, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_A, num: 50.0}
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  - {name: Item_Material_03, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_A, num: 30.0}
+  - {name: Animal_Insect_H, num: 10.0}
+  - {name: Animal_Insect_P, num: 10.0}
+  - {name: Animal_Insect_Q, num: 3.0}
+  RainBonusMaterial: ''
+'83':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_C, num: 5.0}
+  - {name: Animal_Fish_I, num: 5.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Item_Material_07, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_C, num: 3.0}
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_N, num: 3.0}
+  - {name: Animal_Insect_T, num: 3.0}
+  RainBonusMaterial: ''
+'84':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_E, num: 10.0}
+  - {name: Animal_Fish_H, num: 10.0}
+  - {name: Animal_Fish_M, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Item_Material_03, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_A, num: 30.0}
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_Z, num: 10.0}
+  RainBonusMaterial: ''
+'85':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_E, num: 10.0}
+  - {name: Animal_Fish_H, num: 10.0}
+  - {name: Animal_Fish_M, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Item_Material_03, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_A, num: 30.0}
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_Z, num: 10.0}
+  RainBonusMaterial: ''
+'86':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_H, num: 10.0}
+  - {name: Animal_Fish_X, num: 5.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_S, num: 30.0}
+  - {name: Item_Material_03, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_G, num: 10.0}
+  - {name: Animal_Insect_H, num: 10.0}
+  - {name: Animal_Insect_K, num: 10.0}
+  - {name: Animal_Insect_S, num: 10.0}
+  RainBonusMaterial: ''
+'87':
+  GrassCut:
+  - {name: Animal_Insect_M, num: 30.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_C, num: 1.0}
+  - {name: Animal_Insect_I, num: 10.0}
+  - {name: Animal_Insect_M, num: 10.0}
+  RainBonusMaterial: ''
+'88':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_X, num: 5.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_F, num: 20.0}
+  Insect:
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_E, num: 10.0}
+  RainBonusMaterial: ''
+'89':
+  Fish:
+  - {name: Animal_Fish_J, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_X, num: 30.0}
+  - {name: Item_Ore_F, num: 30.0}
+  Insect:
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_Q, num: 3.0}
+  - {name: Animal_Insect_X, num: 10.0}
+  - {name: Animal_Insect_AB, num: 3.0}
+  RainBonusMaterial: ''
+'9':
+  Fish:
+  - {name: Animal_Fish_A, num: 5.0}
+  - {name: Animal_Fish_C, num: 10.0}
+  - {name: Animal_Fish_I, num: 10.0}
+  GrassCut:
+  - {name: Item_Material_07, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_N, num: 3.0}
+  - {name: Animal_Insect_Q, num: 1.0}
+  RainBonusMaterial: ''
+'90':
+  Fish:
+  - {name: Animal_Fish_F, num: 15.0}
+  - {name: Animal_Fish_G, num: 5.0}
+  - {name: Animal_Fish_K, num: 5.0}
+  - {name: Animal_Insect_O, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Item_Material_03, num: 50.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_M, num: 10.0}
+  - {name: Animal_Insect_N, num: 1.0}
+  RainBonusMaterial: ''
+'91':
+  Fish:
+  - {name: Animal_Fish_J, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_X, num: 30.0}
+  - {name: Item_Ore_F, num: 30.0}
+  Insect:
+  - {name: Animal_Insect_X, num: 10.0}
+  - {name: Animal_Insect_AB, num: 3.0}
+  RainBonusMaterial: ''
+'92':
+  Fish:
+  - {name: Animal_Fish_J, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Animal_Insect_X, num: 30.0}
+  - {name: Item_Ore_F, num: 30.0}
+  Insect:
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_Q, num: 3.0}
+  - {name: Animal_Insect_X, num: 10.0}
+  - {name: Animal_Insect_AB, num: 3.0}
+  RainBonusMaterial: ''
+'93':
+  Fish:
+  - {name: Animal_Fish_A, num: 10.0}
+  - {name: Animal_Fish_B, num: 5.0}
+  - {name: Animal_Fish_M, num: 10.0}
+  GrassCut:
+  - {name: Animal_Insect_H, num: 50.0}
+  - {name: Item_Material_03, num: 50.0}
+  - {name: Animal_Insect_S, num: 30.0}
+  - {name: Animal_Insect_F, num: 10.0}
+  Insect:
+  - {name: Animal_Insect_G, num: 10.0}
+  - {name: Animal_Insect_H, num: 5.0}
+  - {name: Animal_Insect_E, num: 3.0}
+  - {name: Animal_Insect_S, num: 10.0}
+  RainBonusMaterial: ''

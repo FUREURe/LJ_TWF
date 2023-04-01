@@ -1,0 +1,341 @@
+F-5_Dynamic:
+  Objs:
+    add:
+    - HashId: !u 0xfff9d1c4
+      OnlyOne: true
+      Rotate: 2.99612474
+      SRTHash: -465665274
+      Translate: [199.381668, 172.802292, 890.078003]
+      UnitConfigName: TwnObj_HatenoGateKeeperHouse_A_01C
+    - '!Parameters': {DropTable: Normal, SharpWeaponJudgeType: 0}
+      HashId: !u 0xfff9d1c5
+      OnlyOne: true
+      Rotate: 2.99612474
+      SRTHash: -855710200
+      Translate: [199.510544, 173.146072, 884.268127]
+      UnitConfigName: TwnObj_GateKeeperHouse_Door_A_01
+    - HashId: !u 0xfff9d1c8
+      Rotate: 3.0
+      SRTHash: -1171460670
+      Translate: [201.711456, 176.400177, 892.322876]
+      UnitConfigName: TwnObj_Village_SheikerOutLighting_A_01
+    - HashId: !u 0xfff9d1ca
+      Rotate: 3.0
+      SRTHash: 1705731838
+      Translate: [201.946457, 173.120911, 895.39978]
+      UnitConfigName: TwnObj_Village_SheikerChest_A_01C
+    - HashId: !u 0xfff9d1cb
+      Rotate: 6.13000011
+      SRTHash: 1577335619
+      Translate: [203.151398, 173.120911, 885.792358]
+      UnitConfigName: TwnObj_Village_SheikerChest_A_03C
+    - HashId: !u 0xfff9d1cc
+      Rotate: 2.0
+      SRTHash: -1304089277
+      Translate: [201.947861, 174.337509, 895.357544]
+      UnitConfigName: TwnObj_Village_SheikerFlowervase_A_02
+    - HashId: !u 0xfff9d1d0
+      Rotate: 3.0
+      SRTHash: -1171460670
+      Translate: [202.134338, 176.400177, 888.139587]
+      UnitConfigName: TwnObj_Village_SheikerOutLighting_A_01
+    - '!Parameters': {DropTable: Normal, InitBurnState: true, InitMotionStatus: 0, SharpWeaponJudgeType: 0}
+      HashId: !u 0xfff9d1d1
+      Rotate: 3.04159284
+      SRTHash: -2128235202
+      Translate: [198.824234, 173.204803, 894.16925]
+      UnitConfigName: Item_CookSet
+    - HashId: !u 0xfff9d1d3
+      Rotate: 3.0
+      SRTHash: -326450939
+      Translate: [202.634949, 174.337402, 895.476379]
+      UnitConfigName: TwnObj_Village_SheikerOutLighting_A_02
+    - HashId: !u 0xfff9d1d4
+      Rotate: 2.79999995
+      SRTHash: -1427591932
+      Translate: [201.451782, 173.617447, 895.221069]
+      UnitConfigName: TwnObj_Village_SheikerBox_A_01
+    - HashId: !u 0xfff9d1d5
+      Rotate: -1.76318479
+      SRTHash: 650624636
+      Scale: 0.590092778
+      Translate: [203.703217, 173.617264, 885.95636]
+      UnitConfigName: TwnObj_Village_SheikerBox_A_02
+    - HashId: !u 0xfff9d1d6
+      Rotate: 1.41999996
+      SRTHash: -1407865693
+      Scale: 0.713450134
+      Translate: [202.776047, 173.617264, 885.796204]
+      UnitConfigName: TwnObj_Village_SheikerBox_A_04
+    - HashId: !u 0xfff9d1d8
+      Rotate: 3.0
+      SRTHash: -326450939
+      Translate: [203.79184, 174.537399, 885.863098]
+      UnitConfigName: TwnObj_Village_SheikerOutLighting_A_02
+    - HashId: !u 0xfff9d1d9
+      Rotate: 3.0
+      SRTHash: 0
+      Translate: [195.104248, 175.349457, 895.239075]
+      UnitConfigName: TwnObj_Village_SheikerMemoryPicture_A_01
+    - HashId: !u 0xfff9d1da
+      LinksToObj:
+      - {DefinitionName: PlacementLOD, DestUnitHashId: !u 0x3d828bdd}
+      OnlyOne: true
+      Rotate: [0.0, 0.0, 0.0]
+      SRTHash: -612511318
+      Translate: [199.375504, 173.125443, 889.738281]
+      UnitConfigName: TwnObj_City_GerudoLag_A_01
+    - HashId: !u 0xfff9d1df
+      Rotate: 1.43499994
+      SRTHash: 1352824762
+      Translate: [203.335083, 173.137253, 890.635559]
+      UnitConfigName: TwnObj_Village_IchikaraTable_A_01C
+    - HashId: !u 0xfff9d1e0
+      SRTHash: 0
+      Translate: [0.0, 0.0, 0.0]
+      UnitConfigName: FldObj_HugeMazeTorchStand_A_01
+    - HashId: !u 0xfff9d1e1
+      OnlyOne: true
+      Rotate: 3.0
+      SRTHash: 611809654
+      Translate: [197.592148, 172.016464, 882.850037]
+      UnitConfigName: TwnObj_LavoRest_A_01C
+    - HashId: !u 0xfff9d1e2
+      Rotate: 1.43499994
+      SRTHash: -326450939
+      Translate: [203.806168, 174.115402, 889.974609]
+      UnitConfigName: TwnObj_Village_SheikerOutLighting_A_02
+    - HashId: !u 0xfff9d1e3
+      Rotate: 1.43499994
+      SRTHash: 889911381
+      Translate: [202.837128, 174.115402, 890.56189]
+      UnitConfigName: TwnObj_Village_SheikerPlate_A_01
+    - HashId: !u 0xfff9d1e5
+      Rotate: 1.43499994
+      SRTHash: -365520115
+      Translate: [189.944763, 172.539246, 887.640686]
+      UnitConfigName: FldObj_HyliaWoodRuinShelter_A_01C
+    - HashId: !u 0xfff9d1e6
+      Rotate: 1.39999998
+      SRTHash: -631818427
+      Translate: [192.905212, 172.290939, 888.749573]
+      UnitConfigName: TwnObj_StableHostelFeed_A_01C
+    - HashId: !u 0xfff9d1e7
+      Rotate: 3.0
+      SRTHash: -1171460670
+      Translate: [196.736511, 176.400177, 887.308044]
+      UnitConfigName: TwnObj_Village_SheikerOutLighting_A_01
+    - HashId: !u 0xfff9d1e8
+      Rotate: 3.0
+      SRTHash: -1171460670
+      Translate: [199.681564, 176.400177, 887.730225]
+      UnitConfigName: TwnObj_Village_SheikerOutLighting_A_01
+    - HashId: !u 0xfff9d1e9
+      Rotate: 3.0
+      SRTHash: -1171460670
+      Translate: [196.191025, 176.400177, 891.507385]
+      UnitConfigName: TwnObj_Village_SheikerOutLighting_A_01
+    - HashId: !u 0xfff9d1ea
+      Rotate: 3.0
+      SRTHash: -1171460670
+      Translate: [199.14827, 176.400177, 891.888306]
+      UnitConfigName: TwnObj_Village_SheikerOutLighting_A_01
+    - '!Parameters':
+        AddParam: 0
+        AddSpecialFlag: 0
+        AngleY: 0.0
+        CutRate: 0.0
+        DropTable: Normal
+        EnemyOwnItem: false
+        IsCreateSharpWeapon: false
+        IsEmitLandNoise: false
+        IsFixedPlace: false
+        IsPlayerPut: false
+        IsWeaponCreateByRawLife: false
+        LevelSensorMode: 0
+        Life: -1
+        SharpWeaponJudgeType: 0
+      HashId: !u 0xfff9d1ee
+      Rotate: [1.56534994, 3.0, -0.200000003]
+      SRTHash: 1956443588
+      Translate: [204.965714, 173.03093, 898.286804]
+      UnitConfigName: Obj_TreeConiferous_A_01_Trunk
+    - '!Parameters':
+        AddParam: 0
+        AddSpecialFlag: 0
+        AngleY: 0.0
+        CutRate: 0.0
+        DropTable: Normal
+        EnemyOwnItem: false
+        IsCreateSharpWeapon: false
+        IsEmitLandNoise: false
+        IsFixedPlace: false
+        IsPlayerPut: false
+        IsWeaponCreateByRawLife: false
+        LevelSensorMode: 0
+        Life: -1
+        SharpWeaponJudgeType: 0
+      HashId: !u 0xfff9d1ef
+      Rotate: [1.56534994, 3.0, -0.200000003]
+      SRTHash: 1956443588
+      Translate: [204.644897, 173.53093, 898.256836]
+      UnitConfigName: Obj_TreeConiferous_A_01_Trunk
+    - '!Parameters':
+        AddParam: 0
+        AddSpecialFlag: 0
+        AngleY: 0.0
+        CutRate: 0.0
+        DropTable: Normal
+        EnemyOwnItem: false
+        IsCreateSharpWeapon: false
+        IsEmitLandNoise: false
+        IsFixedPlace: false
+        IsPlayerPut: false
+        IsWeaponCreateByRawLife: false
+        LevelSensorMode: 0
+        Life: -1
+        SharpWeaponJudgeType: 0
+      HashId: !u 0xfff9d1f0
+      Rotate: [1.56534994, 3.0, -0.200000003]
+      SRTHash: 1956443588
+      Translate: [204.344803, 173.03093, 898.237122]
+      UnitConfigName: Obj_TreeConiferous_A_01_Trunk
+    - '!Parameters': {DropTable: Normal, IsEnemyLiftable: true, SharpWeaponJudgeType: 0}
+      HashId: !u 0xfff9d1f1
+      Rotate: [-0.0193268731, -0.000778021058, -0.00524609769]
+      SRTHash: 1047481972
+      Translate: [206.342026, 172.300003, 885.4198]
+      UnitConfigName: Barrel
+    - '!Parameters': {DropTable: Normal, IsEnemyLiftable: true, SharpWeaponJudgeType: 0}
+      HashId: !u 0xfff9d1f2
+      Rotate: [-0.0193268731, -0.000778021058, -0.00524609769]
+      SRTHash: 1047481972
+      Translate: [206.200592, 172.300003, 886.481567]
+      UnitConfigName: Barrel
+    - HashId: !u 0xfff9d1f7
+      Rotate: [1.33999979, 1.43499994, 0.0]
+      SRTHash: 745418257
+      Translate: [191.362198, 172.767136, 893.518921]
+      UnitConfigName: TwnObj_StableHostelStraw_A_01C
+    - HashId: !u 0xfff9d1ff
+      SRTHash: 0
+      Scale: 0.5
+      Translate: [191.007996, 172.985443, 886.624268]
+      UnitConfigName: GrassCutTag
+    - HashId: !u 0xfff9d200
+      Rotate: -2.94159532
+      SRTHash: 1982330192
+      Translate: [192.579193, 172.479996, 895.335205]
+      UnitConfigName: TwnObj_Village_HatenoFence_A_04C
+    - HashId: !u 0xfff9d205
+      Rotate: [0.0, -0.150000006, 0.150000006]
+      SRTHash: -1908203681
+      Translate: [192.69809, 172.5, 895.361877]
+      UnitConfigName: TwnObj_Village_HatenoFence_A_05C
+    - HashId: !u 0xfff9d206
+      Rotate: [0.0, -0.150000006, 0.100000001]
+      SRTHash: -1908203681
+      Translate: [189.49614, 172.0, 894.874634]
+      UnitConfigName: TwnObj_Village_HatenoFence_A_05C
+    - HashId: !u 0xfff9d207
+      Rotate: [0.0, -1.0, 0.0]
+      SRTHash: -1908203681
+      Translate: [186.21698, 171.699997, 894.392944]
+      UnitConfigName: TwnObj_Village_HatenoFence_A_05C
+    - HashId: !u 0xfff9d208
+      Rotate: [1.20000005, -1.5, -1.20000005]
+      SRTHash: -1908203681
+      Translate: [184.473907, 171.699997, 891.6828]
+      UnitConfigName: TwnObj_Village_HatenoFence_A_05C
+    - HashId: !u 0xfff9d209
+      Rotate: [-0.600000024, -1.70000005, 0.600000024]
+      SRTHash: -1908203681
+      Translate: [184.392624, 171.929993, 888.498779]
+      UnitConfigName: TwnObj_Village_HatenoFence_A_05C
+    - HashId: !u 0xfff9d20a
+      Rotate: [0.0, -1.75, 0.0]
+      SRTHash: -1908203681
+      Translate: [184.729156, 172.149994, 885.369141]
+      UnitConfigName: TwnObj_Village_HatenoFence_A_05C
+    - '!Parameters': {DropTable: Normal, InitMotionStatus: 0, IsEnemyLiftable: true, IsPlayerPut: false, SharpWeaponJudgeType: 0}
+      HashId: !u 0xfff9d20b
+      Rotate: [3.14147925, -0.561767519, 3.14147925]
+      SRTHash: 194606544
+      Translate: [210.131973, 172.0, 888.869324]
+      UnitConfigName: Item_Mushroom_E
+    - HashId: !u 0xfff9d20c
+      SRTHash: 0
+      Scale: 0.5
+      Translate: [199.890594, 172.985443, 887.38269]
+      UnitConfigName: GrassCutTag
+    - HashId: !u 0xfff9d20d
+      Rotate: 1.43499994
+      SRTHash: 253321276
+      Translate: [187.741974, 176.03392, 884.495972]
+      UnitConfigName: TwnObj_Village_HatenoLamp_A_05
+    - HashId: !u 0xfff9d20e
+      Rotate: 1.43499994
+      SRTHash: 253321276
+      Translate: [186.985306, 176.03392, 890.157043]
+      UnitConfigName: TwnObj_Village_HatenoLamp_A_05
+    del: []
+    mod: {}
+  Rails: {}
+F-5_Static:
+  Objs:
+    add:
+    - '!Parameters': {DropTable: Normal, SharpWeaponJudgeType: 0}
+      HashId: !u 0xfff9d1c6
+      OnlyOne: true
+      Rotate: 2.99612474
+      SRTHash: 269352417
+      Translate: [195.406937, 173.121002, 893.059875]
+      UnitConfigName: TwnObj_GateKeeperBed_A_01C
+    - '!Parameters': {DropTable: Normal, EquipStandSlot: 5, SharpWeaponJudgeType: 0}
+      HashId: !u 0xfff9d1cd
+      OnlyOne: true
+      Rotate: 6.13000011
+      SRTHash: -2090088189
+      Translate: [197.561874, 173.055893, 884.34552]
+      UnitConfigName: TwnObj_WeaponBase_A_02
+    - '!Parameters': {DropTable: Normal, EquipStandSlot: 4, SharpWeaponJudgeType: 0}
+      HashId: !u 0xfff9d1d2
+      OnlyOne: true
+      Rotate: 6.13000011
+      SRTHash: -2090088189
+      Translate: [196.209564, 173.055893, 884.149658]
+      UnitConfigName: TwnObj_WeaponBase_A_02
+    - '!Parameters': {DropTable: Normal, EquipStandSlot: 104, SharpWeaponJudgeType: 0}
+      HashId: !u 0xfff9d1db
+      OnlyOne: true
+      Rotate: 1.43499994
+      SRTHash: 1531529372
+      Translate: [194.427002, 173.555893, 887.94342]
+      UnitConfigName: TwnObj_BowBase_A_03
+    - '!Parameters': {DropTable: Normal, EquipStandSlot: 204, SharpWeaponJudgeType: 0}
+      HashId: !u 0xfff9d1dd
+      OnlyOne: true
+      Rotate: 4.56500006
+      SRTHash: -1272100583
+      Translate: [204.800217, 173.855896, 887.330872]
+      UnitConfigName: TwnObj_ShieldBase_A_01
+    - '!Parameters': {DropTable: Normal, EquipStandSlot: 203, SharpWeaponJudgeType: 0}
+      HashId: !u 0xfff9d1eb
+      OnlyOne: true
+      Rotate: 4.56500006
+      SRTHash: -1272100583
+      Translate: [203.795898, 173.855896, 894.147156]
+      UnitConfigName: TwnObj_ShieldBase_A_01
+    - '!Parameters': {DropTable: Normal, EquipStandSlot: 103, SharpWeaponJudgeType: 0}
+      HashId: !u 0xfff9d1ec
+      OnlyOne: true
+      Rotate: 1.43499994
+      SRTHash: 1531529372
+      Translate: [194.795334, 173.555893, 885.518372]
+      UnitConfigName: TwnObj_BowBase_A_03
+    del: []
+    mod: {}
+  Rails:
+    add: []
+    del: []
+    mod: {}

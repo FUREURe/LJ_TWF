@@ -1,0 +1,207 @@
+'1775161938':
+  aabbMax: {X: 4.53771019, Y: 4.4408102, Z: 4.51629019}
+  aabbMin: {X: -4.5934, Y: -1.0, Z: -3.98167992}
+  bfres: FldObj_HyliaWoodRuin_A
+  boundingForTraverse: 5.4408102
+  bugMask: 0
+  cursorOffsetY: 0.5
+  instSize: 62848
+  isHasFar: false
+  mainModel: FldObj_HyliaWoodRuinShelter_A_01
+  name: FldObj_HyliaWoodRuinShelter_A_01C
+  profile: MapDynamicActive
+  rigidBodyCenterY: 2.31854105
+  sortKey: 0
+  yLimitAlgorithm: NoLimit
+'1794638248':
+  aabbMax: {X: 1.08712995, Y: 1.36467004, Z: 2.09015012}
+  aabbMin: {X: -1.07036996, Y: 0.00648499979, Z: -1.85012996}
+  attackPower: 0
+  bfres: TwnObj_HatenoGateKeeperHouse_A
+  boundingForTraverse: 1.35818505
+  bugMask: 1
+  cursorOffsetY: 0.5
+  generalLife: 100
+  instSize: 25516
+  isHasFar: false
+  mainModel: TwnObj_GateKeeperBed_A_01
+  name: TwnObj_GateKeeperBed_A_01C
+  profile: MapDynamicActive
+  rigidBodyCenterY: 0.470306993
+  sortKey: 3
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: ''
+  tags: {tag28a3a540: 681813312}
+  yLimitAlgorithm: NoLimit
+'2189388578':
+  aabbMax: {X: 1.26786995, Y: 1.26436996, Z: 0.489387989}
+  aabbMin: {X: -1.26786995, Y: 0.0, Z: -0.489387989}
+  bfres: TwnObj_Village_SheikerFurniture_A
+  boundingForTraverse: 1.26436996
+  bugMask: 0
+  cursorOffsetY: 0.5
+  instSize: 19860
+  isHasFar: false
+  mainModel: TwnObj_Village_SheikerChest_A_01
+  name: TwnObj_Village_SheikerChest_A_01C
+  profile: MapDynamicActive
+  rigidBodyCenterY: 0.603706002
+  sortKey: 7
+  tags: {tag0d23ee8c: 220458636, tag8fda6cdd: !u 0x8fda6cdd}
+  yLimitAlgorithm: NoLimit
+'2262088362':
+  aabbMax: {X: 6.02671003, Y: 9.73056984, Z: 8.86448002}
+  aabbMin: {X: -6.14581013, Y: -0.724407971, Z: -6.8737998}
+  bfres: TwnObj_HatenoGateKeeperHouse_A
+  boundingForTraverse: 10.454978
+  bugMask: 0
+  cursorOffsetY: 0.5
+  instSize: 148348
+  isHasFar: false
+  mainModel: TwnObj_HatenoGateKeeperHouse_A_01
+  name: TwnObj_HatenoGateKeeperHouse_A_01C
+  profile: MapDynamicActive
+  rigidBodyCenterY: 4.10948181
+  sortKey: 0
+  terrainTextures: [!u 0xffffff52]
+  traverseDist: 5000.0
+  yLimitAlgorithm: NoLimit
+'2383678643':
+  aabbMax: {X: 1.29262996, Y: 1.86829996, Z: 1.09569001}
+  aabbMin: {X: -1.35308003, Y: -0.193555996, Z: -1.06387997}
+  bfres: TwnObj_StableHostel_A
+  boundingForTraverse: 2.06185603
+  bugMask: 0
+  cursorOffsetY: 0.5
+  instSize: 32088
+  isHasFar: false
+  mainModel: TwnObj_StableHostelStraw_A_01
+  name: TwnObj_StableHostelStraw_A_01C
+  profile: MapDynamicActive
+  rigidBodyCenterY: 0.800014973
+  sortKey: 0
+  yLimitAlgorithm: NoLimit
+'2608927403':
+  aabbMax: {X: 1.98714006, Y: 0.955196023, Z: 0.702558994}
+  aabbMin: {X: -2.00830007, Y: -0.0834219977, Z: -0.734049022}
+  bfres: TwnObj_StableHostel_A
+  boundingForTraverse: 1.03861797
+  bugMask: 0
+  cursorOffsetY: 0.5
+  instSize: 63204
+  isHasFar: false
+  mainModel: TwnObj_StableHostelFeed_A_01
+  name: TwnObj_StableHostelFeed_A_01C
+  profile: MapDynamicActive
+  rigidBodyCenterY: 0.520286024
+  sortKey: 0
+  yLimitAlgorithm: NoLimit
+'2957576608':
+  aabbMax: {X: 1.21177995, Y: 2.45695996, Z: 0.449999988}
+  aabbMin: {X: -1.21177995, Y: 0.0, Z: -0.449999988}
+  bfres: TwnObj_Village_SheikerFurniture_A
+  boundingForTraverse: 2.45695996
+  bugMask: 0
+  cursorOffsetY: 0.5
+  instSize: 20660
+  isHasFar: false
+  mainModel: TwnObj_Village_SheikerChest_A_03
+  name: TwnObj_Village_SheikerChest_A_03C
+  profile: MapDynamicActive
+  rigidBodyCenterY: 1.15399301
+  sortKey: 7
+  tags: {tag0d23ee8c: 220458636, tag8fda6cdd: !u 0x8fda6cdd}
+  yLimitAlgorithm: NoLimit
+'3225025478':
+  aabbMax: {X: 1.56090999, Y: 2.45445991, Z: 1.21650004}
+  aabbMin: {X: -1.56090999, Y: 0.0, Z: -2.37829995}
+  bfres: TwnObj_City_GerudoFurniture_A
+  boundingForTraverse: 2.45445991
+  bugMask: 0
+  cursorOffsetY: 0.5
+  instSize: 30132
+  isHasFar: false
+  mainModel: TwnObj_GerudoDollBlue_A_01
+  name: TwnObj_GerudoDollBlue_A_01C
+  profile: MapDynamicActive
+  rigidBodyCenterY: 0.833514988
+  sortKey: 3
+  yLimitAlgorithm: NoLimit
+'3458242672':
+  aabbMax: {X: 0.194004998, Y: 1.67275, Z: 0.268231004}
+  aabbMin: {X: -3.41593003, Y: -0.40389201, Z: -0.25523299}
+  bfres: TwnObj_Village_Hateno_A
+  boundingForTraverse: 2.07664204
+  bugMask: 0
+  cursorOffsetY: 0.5
+  instSize: 21492
+  isHasFar: false
+  mainModel: TwnObj_Village_HatenoFence_A_05
+  name: TwnObj_Village_HatenoFence_A_05C
+  profile: MapDynamicActive
+  rigidBodyCenterY: 0.543798983
+  sortKey: -22
+  traverseDist: 200.0
+  yLimitAlgorithm: NoLimit
+'3611011377':
+  aabbMax: {X: 0.144158006, Y: 1.67394996, Z: 0.144609004}
+  aabbMin: {X: -0.13752, Y: -0.396869004, Z: -0.141663998}
+  bfres: TwnObj_Village_Hateno_A
+  boundingForTraverse: 2.0708189
+  bugMask: 0
+  cursorOffsetY: 0.5
+  instSize: 21236
+  isHasFar: false
+  mainModel: TwnObj_Village_HatenoFence_A_04
+  name: TwnObj_Village_HatenoFence_A_04C
+  profile: MapDynamicActive
+  rigidBodyCenterY: 0.649468005
+  sortKey: -23
+  traverseDist: 200.0
+  yLimitAlgorithm: NoLimit
+'3860732406':
+  aabbMax: {X: 0.444660008, Y: 1.0, Z: 0.44915399}
+  aabbMin: {X: -0.433596998, Y: 0.0, Z: -0.425592989}
+  bfres: TwnObj_AncientCivilLavo_B
+  boundingForTraverse: 1.0
+  bugMask: 0
+  cursorOffsetY: 0.5
+  instSize: 31704
+  isHasFar: false
+  mainModel: TwnObj_LavoRest_A_01
+  name: TwnObj_LavoRest_A_01C
+  profile: MapDynamicActive
+  rigidBodyCenterY: 0.528764009
+  sortKey: 0
+  traverseDist: 150.0
+  yLimitAlgorithm: NoLimit
+'4187304356':
+  aabbMax: {X: 2.91232991, Y: 1.11983001, Z: 1.02086997}
+  aabbMin: {X: -2.89984012, Y: -0.01229, Z: -1.03869998}
+  bfres: TwnObj_Village_IchikaraFurniture_A
+  boundingForTraverse: 1.13212001
+  bugMask: 0
+  cursorOffsetY: 0.5
+  instSize: 46364
+  isHasFar: false
+  mainModel: TwnObj_Village_IchikaraShopTable_A_01
+  name: TwnObj_Village_IchikaraShopTable_A_01C
+  profile: MapDynamicActive
+  rigidBodyCenterY: 0.763804018
+  sortKey: 4
+  yLimitAlgorithm: NoLimit
+'776132697':
+  aabbMax: {X: 1.22995996, Y: 0.986082971, Z: 0.876497984}
+  aabbMin: {X: -1.17812002, Y: -0.0067449999, Z: -1.36233997}
+  bfres: TwnObj_Village_IchikaraFurniture_A
+  boundingForTraverse: 0.992828012
+  bugMask: 0
+  cursorOffsetY: 0.5
+  instSize: 52480
+  isHasFar: false
+  mainModel: TwnObj_Village_IchikaraTable_A_01
+  name: TwnObj_Village_IchikaraTable_A_01C
+  profile: MapDynamicActive
+  rigidBodyCenterY: 0.434379995
+  sortKey: 6
+  yLimitAlgorithm: NoLimit

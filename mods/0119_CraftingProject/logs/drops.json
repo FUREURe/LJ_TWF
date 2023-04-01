@@ -1,0 +1,2618 @@
+{
+  "content/Actor/Pack/Animal_LittleBird_B.sbactorpack//Actor/DropTable/Animal_LittleBird.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Fruit_L": "UNDERRIDE_CONST"
+      }
+    },
+    "Burnout": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Roast_52": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Feather": 100.0
+      }
+    }
+  },
+  "content/Actor/Pack/Animal_LittleBird_C.sbactorpack//Actor/DropTable/Animal_LittleBird.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Fruit_L": "UNDERRIDE_CONST"
+      }
+    },
+    "Burnout": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Roast_52": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Feather": 100.0
+      }
+    }
+  },
+  "content/Actor/Pack/Enemy_Moriblin_Dark.sbactorpack//Actor/DropTable/Enemy_Moriblin_Dark.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_D": 18.0,
+        "Item_Ore_B": 18.0,
+        "Item_Ore_C": 18.0,
+        "Item_Ore_A": 7.5,
+        "Item_Ore_Silver": 21.0,
+        "Item_Ore_Gold": 10.0,
+        "Item_Ore_Eldin": 7.5
+      }
+    },
+    "Normal2": {
+      "repeat_num_min": 3,
+      "repeat_num_max": 4,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_F": 5.0,
+        "Item_Ore_E": 3.0,
+        "Item_Ore_D": 0.5,
+        "Item_Ore_B": 0.5,
+        "Item_Ore_C": 0.5,
+        "Item_Ore_A": 0.5,
+        "Item_Ore_Coal": 3.0,
+        "Item_Ore_Iron": 3.0,
+        "Item_Ore_Silver": 2.0,
+        "Item_Ore_Gold": 1.5,
+        "Item_Ore_Eldin": 0.5
+      }
+    },
+    "Normal3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_08": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal4": {
+      "repeat_num_min": 3,
+      "repeat_num_max": 4,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_07": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal5": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_06": "UNDERRIDE_CONST"
+      }
+    },
+    "FireArrow": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_FireArrow_A_02": "UNDERRIDE_CONST",
+        "Item_Enemy_07": "UNDERRIDE_CONST"
+      }
+    },
+    "IceArrow": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_IceArrow_A_02": "UNDERRIDE_CONST",
+        "Item_Enemy_07": "UNDERRIDE_CONST"
+      }
+    },
+    "ElectricArrow": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_ElectricArrow_A_02": "UNDERRIDE_CONST",
+        "Item_Enemy_07": "UNDERRIDE_CONST"
+      }
+    },
+    "BombArrow_A": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_BombArrow_A_03": "UNDERRIDE_CONST",
+        "Item_Enemy_07": "UNDERRIDE_CONST"
+      }
+    },
+    "FireArrow2": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_F": 19.5,
+        "Item_Ore_E": 15.0,
+        "Item_Ore_D": 5.0,
+        "Item_Ore_C": 5.0,
+        "Item_Ore_B": 5.0,
+        "Item_Ore_A": 0.5,
+        "Item_Ore_Coal": 19.0,
+        "Item_Ore_Iron": 19.0,
+        "Item_Ore_Silver": 8.0,
+        "Item_Ore_Gold": 3.5,
+        "Item_Ore_Eldin": 0.5
+      }
+    },
+    "IceArrow2": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_F": 19.5,
+        "Item_Ore_E": 15.0,
+        "Item_Ore_D": 5.0,
+        "Item_Ore_C": 5.0,
+        "Item_Ore_B": 5.0,
+        "Item_Ore_A": 0.5,
+        "Item_Ore_Coal": 19.0,
+        "Item_Ore_Iron": 19.0,
+        "Item_Ore_Silver": 8.0,
+        "Item_Ore_Gold": 3.5,
+        "Item_Ore_Eldin": 0.5
+      }
+    },
+    "ElectricArrow2": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_F": 19.5,
+        "Item_Ore_E": 15.0,
+        "Item_Ore_D": 5.0,
+        "Item_Ore_C": 5.0,
+        "Item_Ore_B": 5.0,
+        "Item_Ore_A": 0.5,
+        "Item_Ore_Coal": 19.0,
+        "Item_Ore_Iron": 19.0,
+        "Item_Ore_Silver": 8.0,
+        "Item_Ore_Gold": 3.5,
+        "Item_Ore_Eldin": 0.5
+      }
+    },
+    "BombArrow_A2": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_F": 19.5,
+        "Item_Ore_E": 15.0,
+        "Item_Ore_D": 5.0,
+        "Item_Ore_C": 5.0,
+        "Item_Ore_B": 5.0,
+        "Item_Ore_A": 0.5,
+        "Item_Ore_Coal": 19.0,
+        "Item_Ore_Iron": 19.0,
+        "Item_Ore_Silver": 8.0,
+        "Item_Ore_Gold": 3.5,
+        "Item_Ore_Eldin": 0.5
+      }
+    },
+    "FireArrow3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_08": "UNDERRIDE_CONST"
+      }
+    },
+    "IceArrow3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_08": "UNDERRIDE_CONST"
+      }
+    },
+    "ElectricArrow3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_08": "UNDERRIDE_CONST"
+      }
+    },
+    "BombArrow_A3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_08": "UNDERRIDE_CONST"
+      }
+    }
+  },
+  "content/Actor/Pack/Enemy_Golem_Senior.sbactorpack//Actor/DropTable/Enemy_Golem_Senior.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 2,
+      "items": {
+        "Item_Ore_A": 48.79999923706055,
+        "Item_Ore_B": 13.800000190734863,
+        "Item_Ore_C": 13.800000190734863,
+        "Item_Ore_D": 18.799999237060547,
+        "Item_Ore_Eldin": 4.800000190734863
+      }
+    },
+    "Normal2": {
+      "repeat_num_min": 6,
+      "repeat_num_max": 10,
+      "approach_type": 0,
+      "occurrence_speed_type": 2,
+      "items": {
+        "Item_Ore_I": "UNDERRIDE_CONST",
+        "Item_Ore_F": 30.0,
+        "Item_Ore_E": 19.0,
+        "Item_Ore_D": "UNDERRIDE_CONST",
+        "Item_Ore_B": "UNDERRIDE_CONST",
+        "Item_Ore_C": "UNDERRIDE_CONST",
+        "Item_Ore_A": "UNDERRIDE_CONST",
+        "Item_Ore_Iron": 10.0,
+        "Item_Ore_Coal": 10.0,
+        "Item_Ore_Gold": 1.5,
+        "Item_Ore_Silver": 3.5
+      }
+    },
+    "Milestone": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 2,
+      "items": {
+        "Item_Ore_I": "UNDERRIDE_CONST",
+        "Item_Ore_F": 30.0,
+        "Item_Ore_E": 19.0,
+        "Item_Ore_D": "UNDERRIDE_CONST",
+        "Item_Ore_B": "UNDERRIDE_CONST",
+        "Item_Ore_C": "UNDERRIDE_CONST",
+        "Item_Ore_A": "UNDERRIDE_CONST",
+        "Item_Ore_Iron": 10.0,
+        "Item_Ore_Coal": 10.0,
+        "Item_Ore_Gold": 1.5,
+        "Item_Ore_Silver": 3.5
+      }
+    }
+  },
+  "content/Actor/Pack/Obj_Mineral_B_01.sbactorpack//Actor/DropTable/Mineral_Jewel2.bdrop": {
+    "Normal": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 5,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_B": 8.0,
+        "Item_Ore_C": 8.0,
+        "Item_Ore_A": "UNDERRIDE_CONST",
+        "Item_Ore_F": 22.0,
+        "Item_Ore_D": 13.0,
+        "Item_Ore_I": 8.0,
+        "Item_Ore_Iron": 12.5,
+        "Item_Ore_Coal": 12.5,
+        "Item_Ore_Gold": 5.0,
+        "Item_Ore_Silver": 8.0
+      }
+    },
+    "Happy": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_A": 79.0,
+        "Item_Ore_Eldin": 1.0
+      }
+    }
+  },
+  "content/Actor/Pack/Animal_Hawk_A.sbactorpack//Actor/DropTable/Animal_Bird_Sky.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Meat_07": "UNDERRIDE_CONST"
+      }
+    },
+    "Burnout": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Roast_41": "UNDERRIDE_CONST"
+      }
+    },
+    "Iced": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Chilled_05": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Feather": 100.0
+      }
+    }
+  },
+  "content/Actor/Pack/Enemy_Golem_Little.sbactorpack//Actor/DropTable/Enemy_Golem_Little.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 1,
+      "items": {
+        "Item_Ore_I": 20.0,
+        "Item_Ore_F": 35.0,
+        "Item_Ore_E": "UNDERRIDE_CONST",
+        "Item_Ore_Coal": 15.0,
+        "Item_Ore_Iron": 15.0,
+        "Item_Ore_Silver": 4.0,
+        "Item_Ore_Gold": 1.0
+      }
+    }
+  },
+  "content/Actor/Pack/Enemy_Golem_Little_Ice.sbactorpack//Actor/DropTable/Enemy_Golem_Little_Ice.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 1,
+      "items": {
+        "Item_Ore_I": 20.0,
+        "Item_Ore_F": 35.0,
+        "Item_Ore_C": "UNDERRIDE_CONST",
+        "Item_Ore_Coal": 15.0,
+        "Item_Ore_Iron": 15.0,
+        "Item_Ore_Silver": 5.0
+      }
+    }
+  },
+  "content/Actor/Pack/Enemy_Lynel_Gold.sbactorpack//Actor/DropTable/Enemy_Lynel_Gold.bdrop": {
+    "Normal": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_D": 18.0,
+        "Item_Ore_B": 18.0,
+        "Item_Ore_C": 18.0,
+        "Item_Ore_A": 6.0,
+        "Item_Ore_J": 6.0,
+        "Item_Ore_Silver": 16.0,
+        "Item_Ore_Gold": 12.0,
+        "Item_Ore_Eldin": 6.0
+      }
+    },
+    "Normal2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_14": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal3": {
+      "repeat_num_min": 3,
+      "repeat_num_max": 4,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_13": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal4": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_12": "UNDERRIDE_CONST"
+      }
+    },
+    "FireArrow": {
+      "repeat_num_min": 4,
+      "repeat_num_max": 4,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_FireArrow_A_02": "UNDERRIDE_CONST",
+        "Item_Enemy_13": "UNDERRIDE_CONST"
+      }
+    },
+    "FireArrow2": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_D": 18.0,
+        "Item_Ore_B": 18.0,
+        "Item_Ore_C": 18.0,
+        "Item_Ore_A": 6.0,
+        "Item_Ore_J": 6.0,
+        "Item_Ore_Silver": 16.0,
+        "Item_Ore_Gold": 12.0,
+        "Item_Ore_Eldin": 6.0
+      }
+    },
+    "FireArrow3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_14": "UNDERRIDE_CONST"
+      }
+    },
+    "FireArrow4": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_12": "UNDERRIDE_CONST"
+      }
+    },
+    "IceArrow": {
+      "repeat_num_min": 4,
+      "repeat_num_max": 4,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_IceArrow_A_02": "UNDERRIDE_CONST",
+        "Item_Enemy_13": "UNDERRIDE_CONST"
+      }
+    },
+    "IceArrow2": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_D": 18.0,
+        "Item_Ore_B": 18.0,
+        "Item_Ore_C": 18.0,
+        "Item_Ore_A": 6.0,
+        "Item_Ore_J": 6.0,
+        "Item_Ore_Silver": 16.0,
+        "Item_Ore_Gold": 12.0,
+        "Item_Ore_Eldin": 6.0
+      }
+    },
+    "IceArrow3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_14": "UNDERRIDE_CONST"
+      }
+    },
+    "IceArrow4": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_12": "UNDERRIDE_CONST"
+      }
+    },
+    "ElectricArrow": {
+      "repeat_num_min": 4,
+      "repeat_num_max": 4,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_ElectricArrow_A_02": "UNDERRIDE_CONST",
+        "Item_Enemy_13": "UNDERRIDE_CONST"
+      }
+    },
+    "ElectricArrow2": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_D": 18.0,
+        "Item_Ore_B": 18.0,
+        "Item_Ore_C": 18.0,
+        "Item_Ore_A": 6.0,
+        "Item_Ore_J": 6.0,
+        "Item_Ore_Silver": 16.0,
+        "Item_Ore_Gold": 12.0,
+        "Item_Ore_Eldin": 6.0
+      }
+    },
+    "ElectricArrow3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_14": "UNDERRIDE_CONST"
+      }
+    },
+    "ElectricArrow4": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_12": "UNDERRIDE_CONST"
+      }
+    },
+    "BombArrow_A": {
+      "repeat_num_min": 4,
+      "repeat_num_max": 4,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_BombArrow_A_03": "UNDERRIDE_CONST",
+        "Item_Enemy_13": "UNDERRIDE_CONST"
+      }
+    },
+    "BombArrow_A2": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_D": 18.0,
+        "Item_Ore_B": 18.0,
+        "Item_Ore_C": 18.0,
+        "Item_Ore_A": 6.0,
+        "Item_Ore_J": 6.0,
+        "Item_Ore_Silver": 16.0,
+        "Item_Ore_Gold": 12.0,
+        "Item_Ore_Eldin": 6.0
+      }
+    },
+    "BombArrow_A3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_14": "UNDERRIDE_CONST"
+      }
+    },
+    "BombArrow_A4": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_12": "UNDERRIDE_CONST"
+      }
+    }
+  },
+  "content/Actor/Pack/Weapon_Spear_050.sbactorpack//Actor/DropTable/Weapon_Spear_050.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 1,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Spear_050_Broken": 100.0
+      }
+    }
+  },
+  "content/Actor/Pack/Enemy_Golem_Little_Fire.sbactorpack//Actor/DropTable/Enemy_Golem_Little_Fire.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 1,
+      "items": {
+        "Item_Ore_I": 20.0,
+        "Item_Ore_F": 35.0,
+        "Item_Ore_B": "UNDERRIDE_CONST",
+        "Item_Ore_Coal": 15.0,
+        "Item_Ore_Iron": 15.0,
+        "Item_Ore_Gold": 5.0
+      }
+    }
+  },
+  "content/Actor/Pack/Animal_Heron_A.sbactorpack//Actor/DropTable/Animal_Bird.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Meat_06": "UNDERRIDE_CONST"
+      }
+    },
+    "Burnout": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Roast_02": "UNDERRIDE_CONST"
+      }
+    },
+    "Iced": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Chilled_04": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Feather": 100.0
+      }
+    }
+  },
+  "content/Actor/Pack/Enemy_Lizalfos_Dark.sbactorpack//Actor/DropTable/Enemy_Lizalfos_Dark.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_D": 27.0,
+        "Item_Ore_B": 27.0,
+        "Item_Ore_C": 27.0,
+        "Item_Ore_A": "UNDERRIDE_CONST",
+        "Item_Ore_Silver": 12.0,
+        "Item_Ore_Gold": 5.0,
+        "Item_Ore_Eldin": 1.0
+      }
+    },
+    "Normal2": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_F": 7.0,
+        "Item_Ore_E": 4.0,
+        "Item_Ore_D": 1.0,
+        "Item_Ore_B": 1.0,
+        "Item_Ore_C": 1.0,
+        "Item_Ore_A": 0.5,
+        "Item_Ore_Coal": 6.5,
+        "Item_Ore_Iron": 6.5,
+        "Item_Ore_Silver": 1.0,
+        "Item_Ore_Gold": 1.0,
+        "Item_Ore_Eldin": 0.5
+      }
+    },
+    "Normal3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_05": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal4": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_04": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal5": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_03": "UNDERRIDE_CONST"
+      }
+    },
+    "FireArrow": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_FireArrow_A_02": "UNDERRIDE_CONST",
+        "Item_Enemy_04": "UNDERRIDE_CONST"
+      }
+    },
+    "IceArrow": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_IceArrow_A_02": "UNDERRIDE_CONST",
+        "Item_Enemy_04": "UNDERRIDE_CONST"
+      }
+    },
+    "ElectricArrow": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_ElectricArrow_A_02": "UNDERRIDE_CONST",
+        "Item_Enemy_04": "UNDERRIDE_CONST"
+      }
+    },
+    "BombArrow_A": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_BombArrow_A_03": "UNDERRIDE_CONST",
+        "Item_Enemy_04": "UNDERRIDE_CONST"
+      }
+    },
+    "ZoraSpecial": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_ArrowBundle_A_01": "UNDERRIDE_CONST",
+        "Item_Enemy_04": "UNDERRIDE_CONST"
+      }
+    },
+    "FireArrow2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_F": 20.0,
+        "Item_Ore_E": 15.0,
+        "Item_Ore_D": 9.0,
+        "Item_Ore_C": 9.0,
+        "Item_Ore_B": 9.0,
+        "Item_Ore_A": "UNDERRIDE_CONST",
+        "Item_Ore_Coal": 10.0,
+        "Item_Ore_Iron": 10.0,
+        "Item_Ore_Silver": 7.0,
+        "Item_Ore_Gold": 5.0,
+        "Item_Ore_Eldin": 3.0
+      }
+    },
+    "IceArrow2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_F": 20.0,
+        "Item_Ore_E": 15.0,
+        "Item_Ore_D": 9.0,
+        "Item_Ore_C": 9.0,
+        "Item_Ore_B": 9.0,
+        "Item_Ore_A": "UNDERRIDE_CONST",
+        "Item_Ore_Coal": 10.0,
+        "Item_Ore_Iron": 10.0,
+        "Item_Ore_Silver": 7.0,
+        "Item_Ore_Gold": 5.0,
+        "Item_Ore_Eldin": 3.0
+      }
+    },
+    "ElectricArrow2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_F": 20.0,
+        "Item_Ore_E": 15.0,
+        "Item_Ore_D": 9.0,
+        "Item_Ore_C": 9.0,
+        "Item_Ore_B": 9.0,
+        "Item_Ore_A": "UNDERRIDE_CONST",
+        "Item_Ore_Coal": 10.0,
+        "Item_Ore_Iron": 10.0,
+        "Item_Ore_Silver": 7.0,
+        "Item_Ore_Gold": 5.0,
+        "Item_Ore_Eldin": 3.0
+      }
+    },
+    "BombArrow_A2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_F": 20.0,
+        "Item_Ore_E": 15.0,
+        "Item_Ore_D": 9.0,
+        "Item_Ore_C": 9.0,
+        "Item_Ore_B": 9.0,
+        "Item_Ore_A": "UNDERRIDE_CONST",
+        "Item_Ore_Coal": 10.0,
+        "Item_Ore_Iron": 10.0,
+        "Item_Ore_Silver": 7.0,
+        "Item_Ore_Gold": 5.0,
+        "Item_Ore_Eldin": 3.0
+      }
+    },
+    "FireArrow3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_05": "UNDERRIDE_CONST"
+      }
+    },
+    "IceArrow3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_05": "UNDERRIDE_CONST"
+      }
+    },
+    "ElectricArrow3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_05": "UNDERRIDE_CONST"
+      }
+    },
+    "BombArrow_A3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_05": "UNDERRIDE_CONST"
+      }
+    }
+  },
+  "content/Actor/Pack/Animal_LittleBird_F.sbactorpack//Actor/DropTable/Animal_LittleBird.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Fruit_L": "UNDERRIDE_CONST"
+      }
+    },
+    "Burnout": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Roast_52": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Feather": 100.0
+      }
+    }
+  },
+  "content/Actor/Pack/Weapon_Shield_037.sbactorpack//Actor/DropTable/Weapon_Shield_037.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 1,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Shield_037_Broken": 100.0
+      }
+    }
+  },
+  "content/Actor/Pack/Obj_Mineral_B_01_DeathMountain.sbactorpack//Actor/DropTable/Mineral_RareDeathMountain.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_B": 6.0,
+        "Item_Ore_C": 6.0,
+        "Item_Ore_A": 3.0,
+        "Item_Ore_F": 10.0,
+        "Item_Ore_D": 9.0,
+        "Item_Ore_I": 6.0,
+        "Item_Ore_Iron": 16.5,
+        "Item_Ore_Coal": 16.5,
+        "Item_Ore_Gold": 8.0,
+        "Item_Ore_Eldin": 12.0
+      }
+    },
+    "Happy": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_Eldin": 80.0
+      }
+    }
+  },
+  "content/Actor/Pack/Animal_Gull_A.sbactorpack//Actor/DropTable/Animal_Bird.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Meat_06": "UNDERRIDE_CONST"
+      }
+    },
+    "Burnout": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Roast_02": "UNDERRIDE_CONST"
+      }
+    },
+    "Iced": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Chilled_04": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Feather": 100.0
+      }
+    }
+  },
+  "content/Actor/Pack/Weapon_Sword_052.sbactorpack//Actor/DropTable/Weapon_Sword_052.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 1,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Sword_052_Broken": 100.0
+      }
+    }
+  },
+  "content/Actor/Pack/Enemy_Bokoblin_Dark.sbactorpack//Actor/DropTable/Enemy_Bokoblin_Dark.bdrop": {
+    "FireArrow": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_FireArrow_A_02": "UNDERRIDE_CONST",
+        "Item_Enemy_01": "UNDERRIDE_CONST"
+      }
+    },
+    "IceArrow": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_IceArrow_A_02": "UNDERRIDE_CONST",
+        "Item_Enemy_01": "UNDERRIDE_CONST"
+      }
+    },
+    "ElectricArrow": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_ElectricArrow_A_02": "UNDERRIDE_CONST",
+        "Item_Enemy_01": "UNDERRIDE_CONST"
+      }
+    },
+    "BombArrow_A": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_BombArrow_A_03": "UNDERRIDE_CONST",
+        "Item_Enemy_01": "UNDERRIDE_CONST"
+      }
+    },
+    "FireArrow2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_F": 24.0,
+        "Item_Ore_E": 20.0,
+        "Item_Ore_D": "UNDERRIDE_CONST",
+        "Item_Ore_C": 8.0,
+        "Item_Ore_B": 8.0,
+        "Item_Ore_A": "UNDERRIDE_CONST",
+        "Item_Ore_Iron": 10.0,
+        "Item_Ore_Coal": 10.0,
+        "Item_Ore_Silver": 5.0,
+        "Item_Ore_Gold": 3.0,
+        "Item_Ore_Eldin": 1.0
+      }
+    },
+    "IceArrow2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_F": 24.0,
+        "Item_Ore_E": 20.0,
+        "Item_Ore_D": "UNDERRIDE_CONST",
+        "Item_Ore_C": 8.0,
+        "Item_Ore_B": 8.0,
+        "Item_Ore_A": "UNDERRIDE_CONST",
+        "Item_Ore_Iron": 10.0,
+        "Item_Ore_Coal": 10.0,
+        "Item_Ore_Silver": 5.0,
+        "Item_Ore_Gold": 3.0,
+        "Item_Ore_Eldin": 1.0
+      }
+    },
+    "ElectricArrow2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_F": 24.0,
+        "Item_Ore_E": 20.0,
+        "Item_Ore_D": "UNDERRIDE_CONST",
+        "Item_Ore_C": 8.0,
+        "Item_Ore_B": 8.0,
+        "Item_Ore_A": "UNDERRIDE_CONST",
+        "Item_Ore_Iron": 10.0,
+        "Item_Ore_Coal": 10.0,
+        "Item_Ore_Silver": 5.0,
+        "Item_Ore_Gold": 3.0,
+        "Item_Ore_Eldin": 1.0
+      }
+    },
+    "BombArrow_A2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_F": 24.0,
+        "Item_Ore_E": 20.0,
+        "Item_Ore_D": "UNDERRIDE_CONST",
+        "Item_Ore_C": 8.0,
+        "Item_Ore_B": 8.0,
+        "Item_Ore_A": "UNDERRIDE_CONST",
+        "Item_Ore_Iron": 10.0,
+        "Item_Ore_Coal": 10.0,
+        "Item_Ore_Silver": 5.0,
+        "Item_Ore_Gold": 3.0,
+        "Item_Ore_Eldin": 1.0
+      }
+    },
+    "FireArrow3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_02": "UNDERRIDE_CONST"
+      }
+    },
+    "IceArrow3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_02": "UNDERRIDE_CONST"
+      }
+    },
+    "ElectricArrow3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_02": "UNDERRIDE_CONST"
+      }
+    },
+    "BombArrow_A3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_02": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_D": 30.0,
+        "Item_Ore_B": 30.0,
+        "Item_Ore_C": 30.0,
+        "Item_Ore_A": "UNDERRIDE_CONST",
+        "Item_Ore_Silver": 5.0,
+        "Item_Ore_Gold": 3.0,
+        "Item_Ore_Eldin": 1.0
+      }
+    },
+    "Normal2": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_D": 30.0,
+        "Item_Ore_B": 30.0,
+        "Item_Ore_C": 30.0,
+        "Item_Ore_A": "UNDERRIDE_CONST",
+        "Item_Ore_Silver": 5.0,
+        "Item_Ore_Gold": 3.0,
+        "Item_Ore_Eldin": 1.0
+      }
+    },
+    "Normal3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_02": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal4": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_01": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal5": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 2,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_00": "UNDERRIDE_CONST"
+      }
+    }
+  },
+  "content/Actor/Pack/Enemy_Golem_Ice.sbactorpack//Actor/DropTable/Enemy_Golem_Ice.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 2,
+      "items": {
+        "Item_Ore_I": "UNDERRIDE_CONST",
+        "Item_Ore_C": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal2": {
+      "repeat_num_min": 8,
+      "repeat_num_max": 10,
+      "approach_type": 0,
+      "occurrence_speed_type": 2,
+      "items": {
+        "Item_Ore_I": 10.0,
+        "Item_Ore_E": 54.0,
+        "Item_Ore_C": "UNDERRIDE_CONST",
+        "Item_Ore_A": "UNDERRIDE_CONST",
+        "Item_Ore_Iron": 10.0,
+        "Item_Ore_Coal": 10.0,
+        "Item_Ore_Gold": 3.5,
+        "Item_Ore_Silver": 6.5
+      }
+    },
+    "Milestone": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 2,
+      "items": {
+        "Item_Ore_I": 10.0,
+        "Item_Ore_E": 54.0,
+        "Item_Ore_C": "UNDERRIDE_CONST",
+        "Item_Ore_A": "UNDERRIDE_CONST",
+        "Item_Ore_Iron": 10.0,
+        "Item_Ore_Coal": 10.0,
+        "Item_Ore_Gold": 3.5,
+        "Item_Ore_Silver": 6.5
+      }
+    }
+  },
+  "content/Actor/Pack/Weapon_Lsword_054.sbactorpack//Actor/DropTable/Weapon_Lsword_054.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 1,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Lsword_054_Broken": 100.0
+      }
+    }
+  },
+  "content/Actor/Pack/Enemy_Lynel_Dark.sbactorpack//Actor/DropTable/Enemy_Lynel_Dark.bdrop": {
+    "Normal": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_D": 20.0,
+        "Item_Ore_B": 20.0,
+        "Item_Ore_C": 20.0,
+        "Item_Ore_A": 4.0,
+        "Item_Ore_J": 4.0,
+        "Item_Ore_Silver": 18.0,
+        "Item_Ore_Gold": 10.0,
+        "Item_Ore_Eldin": 4.0
+      }
+    },
+    "Normal2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_14": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal3": {
+      "repeat_num_min": 3,
+      "repeat_num_max": 4,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_13": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal4": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_12": "UNDERRIDE_CONST"
+      }
+    },
+    "FireArrow": {
+      "repeat_num_min": 4,
+      "repeat_num_max": 4,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_FireArrow_A_02": "UNDERRIDE_CONST",
+        "Item_Enemy_13": "UNDERRIDE_CONST"
+      }
+    },
+    "FireArrow2": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_D": 20.0,
+        "Item_Ore_B": 20.0,
+        "Item_Ore_C": 20.0,
+        "Item_Ore_A": 4.0,
+        "Item_Ore_J": 4.0,
+        "Item_Ore_Silver": 18.0,
+        "Item_Ore_Gold": 10.0,
+        "Item_Ore_Eldin": 4.0
+      }
+    },
+    "FireArrow3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_14": "UNDERRIDE_CONST"
+      }
+    },
+    "FireArrow4": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_12": "UNDERRIDE_CONST"
+      }
+    },
+    "IceArrow": {
+      "repeat_num_min": 4,
+      "repeat_num_max": 4,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_IceArrow_A_02": "UNDERRIDE_CONST",
+        "Item_Enemy_13": "UNDERRIDE_CONST"
+      }
+    },
+    "IceArrow2": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_D": 20.0,
+        "Item_Ore_B": 20.0,
+        "Item_Ore_C": 20.0,
+        "Item_Ore_A": 4.0,
+        "Item_Ore_J": 4.0,
+        "Item_Ore_Silver": 18.0,
+        "Item_Ore_Gold": 10.0,
+        "Item_Ore_Eldin": 4.0
+      }
+    },
+    "IceArrow3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_14": "UNDERRIDE_CONST"
+      }
+    },
+    "IceArrow4": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_12": "UNDERRIDE_CONST"
+      }
+    },
+    "ElectricArrow": {
+      "repeat_num_min": 4,
+      "repeat_num_max": 4,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_ElectricArrow_A_02": "UNDERRIDE_CONST",
+        "Item_Enemy_13": "UNDERRIDE_CONST"
+      }
+    },
+    "ElectricArrow2": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_D": 20.0,
+        "Item_Ore_B": 20.0,
+        "Item_Ore_C": 20.0,
+        "Item_Ore_A": 4.0,
+        "Item_Ore_J": 4.0,
+        "Item_Ore_Silver": 18.0,
+        "Item_Ore_Gold": 10.0,
+        "Item_Ore_Eldin": 4.0
+      }
+    },
+    "ElectricArrow3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_14": "UNDERRIDE_CONST"
+      }
+    },
+    "ElectricArrow4": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_12": "UNDERRIDE_CONST"
+      }
+    },
+    "BombArrow_A": {
+      "repeat_num_min": 4,
+      "repeat_num_max": 4,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_BombArrow_A_03": "UNDERRIDE_CONST",
+        "Item_Enemy_13": "UNDERRIDE_CONST"
+      }
+    },
+    "BombArrow_A2": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_D": 20.0,
+        "Item_Ore_B": 20.0,
+        "Item_Ore_C": 20.0,
+        "Item_Ore_A": 4.0,
+        "Item_Ore_J": 4.0,
+        "Item_Ore_Silver": 18.0,
+        "Item_Ore_Gold": 10.0,
+        "Item_Ore_Eldin": 4.0
+      }
+    },
+    "BombArrow_A3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_14": "UNDERRIDE_CONST"
+      }
+    },
+    "BombArrow_A4": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_12": "UNDERRIDE_CONST"
+      }
+    }
+  },
+  "content/Actor/Pack/Enemy_Golem_Fire.sbactorpack//Actor/DropTable/Enemy_Golem_Fire.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 2,
+      "items": {
+        "Item_Ore_I": 10.0,
+        "Item_Ore_B": 60.0,
+        "Item_Ore_Eldin": 30.0
+      }
+    },
+    "Normal2": {
+      "repeat_num_min": 8,
+      "repeat_num_max": 10,
+      "approach_type": 0,
+      "occurrence_speed_type": 2,
+      "items": {
+        "Item_Ore_I": 20.0,
+        "Item_Ore_E": 40.0,
+        "Item_Ore_B": "UNDERRIDE_CONST",
+        "Item_Ore_A": "UNDERRIDE_CONST",
+        "Item_Ore_Iron": 10.0,
+        "Item_Ore_Coal": 10.0,
+        "Item_Ore_Gold": 3.0,
+        "Item_Ore_Eldin": 6.0
+      }
+    },
+    "Milestone": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 2,
+      "items": {
+        "Item_Ore_I": 20.0,
+        "Item_Ore_E": 40.0,
+        "Item_Ore_B": "UNDERRIDE_CONST",
+        "Item_Ore_A": "UNDERRIDE_CONST",
+        "Item_Ore_Iron": 10.0,
+        "Item_Ore_Coal": 10.0,
+        "Item_Ore_Gold": 3.0,
+        "Item_Ore_Eldin": 6.0
+      }
+    }
+  },
+  "content/Actor/Pack/Enemy_Bokoblin_Gold.sbactorpack//Actor/DropTable/Enemy_Bokoblin_Gold.bdrop": {
+    "FireArrow": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_FireArrow_A_02": "UNDERRIDE_CONST",
+        "Item_Enemy_01": "UNDERRIDE_CONST"
+      }
+    },
+    "IceArrow": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_IceArrow_A_02": "UNDERRIDE_CONST",
+        "Item_Enemy_01": "UNDERRIDE_CONST"
+      }
+    },
+    "ElectricArrow": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_ElectricArrow_A_02": "UNDERRIDE_CONST",
+        "Item_Enemy_01": "UNDERRIDE_CONST"
+      }
+    },
+    "BombArrow_A": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_BombArrow_A_03": "UNDERRIDE_CONST",
+        "Item_Enemy_01": "UNDERRIDE_CONST"
+      }
+    },
+    "FireArrow2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_F": 15.0,
+        "Item_Ore_E": 10.0,
+        "Item_Ore_D": 10.0,
+        "Item_Ore_C": 10.0,
+        "Item_Ore_B": "UNDERRIDE_CONST",
+        "Item_Ore_A": "UNDERRIDE_CONST",
+        "Item_Ore_Coal": 7.5,
+        "Item_Ore_Iron": 7.5,
+        "Item_Ore_Silver": 13.0,
+        "Item_Ore_Gold": 7.0,
+        "Item_Ore_Eldin": 5.0
+      }
+    },
+    "IceArrow2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_F": 15.0,
+        "Item_Ore_E": 10.0,
+        "Item_Ore_D": 10.0,
+        "Item_Ore_C": 10.0,
+        "Item_Ore_B": "UNDERRIDE_CONST",
+        "Item_Ore_A": "UNDERRIDE_CONST",
+        "Item_Ore_Coal": 7.5,
+        "Item_Ore_Iron": 7.5,
+        "Item_Ore_Silver": 13.0,
+        "Item_Ore_Gold": 7.0,
+        "Item_Ore_Eldin": 5.0
+      }
+    },
+    "ElectricArrow2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_F": 15.0,
+        "Item_Ore_E": 10.0,
+        "Item_Ore_D": 10.0,
+        "Item_Ore_C": 10.0,
+        "Item_Ore_B": "UNDERRIDE_CONST",
+        "Item_Ore_A": "UNDERRIDE_CONST",
+        "Item_Ore_Coal": 7.5,
+        "Item_Ore_Iron": 7.5,
+        "Item_Ore_Silver": 13.0,
+        "Item_Ore_Gold": 7.0,
+        "Item_Ore_Eldin": 5.0
+      }
+    },
+    "BombArrow_A2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_F": 15.0,
+        "Item_Ore_E": 10.0,
+        "Item_Ore_D": 10.0,
+        "Item_Ore_C": 10.0,
+        "Item_Ore_B": "UNDERRIDE_CONST",
+        "Item_Ore_A": "UNDERRIDE_CONST",
+        "Item_Ore_Coal": 7.5,
+        "Item_Ore_Iron": 7.5,
+        "Item_Ore_Silver": 13.0,
+        "Item_Ore_Gold": 7.0,
+        "Item_Ore_Eldin": 5.0
+      }
+    },
+    "FireArrow3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_02": "UNDERRIDE_CONST"
+      }
+    },
+    "IceArrow3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_02": "UNDERRIDE_CONST"
+      }
+    },
+    "ElectricArrow3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_02": "UNDERRIDE_CONST"
+      }
+    },
+    "BombArrow_A3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_02": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_D": 25.0,
+        "Item_Ore_B": 25.0,
+        "Item_Ore_C": 25.0,
+        "Item_Ore_A": "UNDERRIDE_CONST",
+        "Item_Ore_Silver": 10.0,
+        "Item_Ore_Gold": 7.0,
+        "Item_Ore_Eldin": 4.0
+      }
+    },
+    "Normal2": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_D": 25.0,
+        "Item_Ore_B": 25.0,
+        "Item_Ore_C": 25.0,
+        "Item_Ore_A": 4.0,
+        "Item_Ore_Silver": 10.0,
+        "Item_Ore_Gold": 7.0,
+        "Item_Ore_Eldin": 4.0
+      }
+    },
+    "Normal3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_02": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal4": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_01": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal5": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 2,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_00": "UNDERRIDE_CONST"
+      }
+    }
+  },
+  "content/Actor/Pack/Weapon_Bow_028.sbactorpack//Actor/DropTable/Weapon_Bow_028.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 1,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Bow_028_Broken": 100.0
+      }
+    }
+  },
+  "content/Actor/Pack/Animal_Pigeon_B.sbactorpack//Actor/DropTable/Animal_Bird_Rare.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Meat_07": "UNDERRIDE_CONST"
+      }
+    },
+    "Burnout": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Roast_41": "UNDERRIDE_CONST"
+      }
+    },
+    "Iced": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Chilled_05": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Feather": 100.0
+      }
+    }
+  },
+  "content/Actor/Pack/Animal_Pigeon_A.sbactorpack//Actor/DropTable/Animal_Bird.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Meat_06": "UNDERRIDE_CONST"
+      }
+    },
+    "Burnout": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Roast_02": "UNDERRIDE_CONST"
+      }
+    },
+    "Iced": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Chilled_04": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Feather": 100.0
+      }
+    }
+  },
+  "content/Actor/Pack/Animal_LittleBird_A.sbactorpack//Actor/DropTable/Animal_LittleBird.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Fruit_L": "UNDERRIDE_CONST"
+      }
+    },
+    "Burnout": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Roast_52": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Feather": 100.0
+      }
+    }
+  },
+  "content/Actor/Pack/Animal_LittleBird_D.sbactorpack//Actor/DropTable/Animal_LittleBird.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Fruit_L": "UNDERRIDE_CONST"
+      }
+    },
+    "Burnout": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Roast_52": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Feather": 100.0
+      }
+    }
+  },
+  "content/Actor/Pack/Animal_Crow_A.sbactorpack//Actor/DropTable/Animal_Bird.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Meat_06": "UNDERRIDE_CONST"
+      }
+    },
+    "Burnout": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Roast_02": "UNDERRIDE_CONST"
+      }
+    },
+    "Iced": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Chilled_04": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Feather": 100.0
+      }
+    }
+  },
+  "content/Actor/Pack/Enemy_Lizalfos_Gold.sbactorpack//Actor/DropTable/Enemy_Lizalfos_Gold.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_D": 20.0,
+        "Item_Ore_B": 20.0,
+        "Item_Ore_C": 20.0,
+        "Item_Ore_A": "UNDERRIDE_CONST",
+        "Item_Ore_Silver": 20.0,
+        "Item_Ore_Gold": 10.0,
+        "Item_Ore_Eldin": 4.0
+      }
+    },
+    "Normal2": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_F": 7.0,
+        "Item_Ore_E": 4.0,
+        "Item_Ore_D": 1.0,
+        "Item_Ore_B": 1.0,
+        "Item_Ore_C": 1.0,
+        "Item_Ore_A": 0.5,
+        "Item_Ore_Coal": 6.0,
+        "Item_Ore_Iron": 6.0,
+        "Item_Ore_Silver": 2.0,
+        "Item_Ore_Gold": 1.0,
+        "Item_Ore_Eldin": 0.5
+      }
+    },
+    "Normal3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_05": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal4": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_04": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal5": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_03": "UNDERRIDE_CONST"
+      }
+    },
+    "FireArrow": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_FireArrow_A_02": "UNDERRIDE_CONST",
+        "Item_Enemy_04": "UNDERRIDE_CONST"
+      }
+    },
+    "IceArrow": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_IceArrow_A_02": "UNDERRIDE_CONST",
+        "Item_Enemy_04": "UNDERRIDE_CONST"
+      }
+    },
+    "ElectricArrow": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_ElectricArrow_A_02": "UNDERRIDE_CONST",
+        "Item_Enemy_04": "UNDERRIDE_CONST"
+      }
+    },
+    "BombArrow_A": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_BombArrow_A_03": "UNDERRIDE_CONST",
+        "Item_Enemy_04": "UNDERRIDE_CONST"
+      }
+    },
+    "ZoraSpecial": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_ArrowBundle_A_01": "UNDERRIDE_CONST",
+        "Item_Enemy_04": "UNDERRIDE_CONST"
+      }
+    },
+    "FireArrow2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_F": 12.5,
+        "Item_Ore_E": 12.0,
+        "Item_Ore_D": 10.0,
+        "Item_Ore_C": 7.5,
+        "Item_Ore_B": 5.0,
+        "Item_Ore_A": 5.0,
+        "Item_Ore_Coal": 12.5,
+        "Item_Ore_Iron": 12.5,
+        "Item_Ore_Silver": 11.0,
+        "Item_Ore_Gold": 7.0,
+        "Item_Ore_Eldin": 5.0
+      }
+    },
+    "IceArrow2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_F": 12.5,
+        "Item_Ore_E": 12.0,
+        "Item_Ore_D": 10.0,
+        "Item_Ore_C": 7.5,
+        "Item_Ore_B": 5.0,
+        "Item_Ore_A": 5.0,
+        "Item_Ore_Coal": 12.5,
+        "Item_Ore_Iron": 12.5,
+        "Item_Ore_Silver": 11.0,
+        "Item_Ore_Gold": 7.0,
+        "Item_Ore_Eldin": 5.0
+      }
+    },
+    "ElectricArrow2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_F": 12.5,
+        "Item_Ore_E": 12.0,
+        "Item_Ore_D": 10.0,
+        "Item_Ore_C": 7.5,
+        "Item_Ore_B": 5.0,
+        "Item_Ore_A": 5.0,
+        "Item_Ore_Coal": 12.5,
+        "Item_Ore_Iron": 12.5,
+        "Item_Ore_Silver": 11.0,
+        "Item_Ore_Gold": 7.0,
+        "Item_Ore_Eldin": 5.0
+      }
+    },
+    "BombArrow_A2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_F": 12.5,
+        "Item_Ore_E": 12.0,
+        "Item_Ore_D": 10.0,
+        "Item_Ore_C": 7.5,
+        "Item_Ore_B": 5.0,
+        "Item_Ore_A": 5.0,
+        "Item_Ore_Coal": 12.5,
+        "Item_Ore_Iron": 12.5,
+        "Item_Ore_Silver": 11.0,
+        "Item_Ore_Gold": 7.0,
+        "Item_Ore_Eldin": 5.0
+      }
+    },
+    "FireArrow3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_05": "UNDERRIDE_CONST"
+      }
+    },
+    "IceArrow3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_05": "UNDERRIDE_CONST"
+      }
+    },
+    "ElectricArrow3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_05": "UNDERRIDE_CONST"
+      }
+    },
+    "BombArrow_A3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_05": "UNDERRIDE_CONST"
+      }
+    }
+  },
+  "content/Actor/Pack/Enemy_Golem_Junior.sbactorpack//Actor/DropTable/Enemy_Golem_Junior.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 2,
+      "items": {
+        "Item_Ore_B": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal2": {
+      "repeat_num_min": 5,
+      "repeat_num_max": 8,
+      "approach_type": 0,
+      "occurrence_speed_type": 2,
+      "items": {
+        "Item_Ore_I": 8.0,
+        "Item_Ore_F": 65.0,
+        "Item_Ore_E": 8.0,
+        "Item_Ore_Iron": 6.0,
+        "Item_Ore_Coal": 6.0,
+        "Item_Ore_Silver": 4.0,
+        "Item_Ore_Gold": 3.0
+      }
+    },
+    "Milestone": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 2,
+      "items": {
+        "Item_Ore_I": 8.0,
+        "Item_Ore_F": 65.0,
+        "Item_Ore_E": 8.0,
+        "Item_Ore_Iron": 6.0,
+        "Item_Ore_Coal": 6.0,
+        "Item_Ore_Silver": 4.0,
+        "Item_Ore_Gold": 3.0
+      }
+    }
+  },
+  "content/Actor/Pack/Animal_Cassowary_A.sbactorpack//Actor/DropTable/Animal_BirdFire.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Meat_07": "UNDERRIDE_CONST",
+        "Item_Meat_12": "UNDERRIDE_CONST"
+      }
+    },
+    "Burnout": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Roast_41": "UNDERRIDE_CONST",
+        "Item_Roast_46": "UNDERRIDE_CONST"
+      }
+    },
+    "Iced": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Chilled_05": "UNDERRIDE_CONST",
+        "Item_Chilled_06": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Feather": 100.0
+      }
+    }
+  },
+  "content/Actor/Pack/Obj_Mineral_A_01.sbactorpack//Actor/DropTable/Mineral_Iron.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_B": "UNDERRIDE_CONST",
+        "Item_Ore_A": "UNDERRIDE_CONST",
+        "Item_Ore_F": 26.0,
+        "Item_Ore_C": "UNDERRIDE_CONST",
+        "Item_Ore_D": "UNDERRIDE_CONST",
+        "Item_Ore_E": "UNDERRIDE_CONST",
+        "Item_Ore_H": 22.0,
+        "Item_Ore_I": 18.700000762939453,
+        "Item_Ore_Iron": 9.0,
+        "Item_Ore_Coal": 9.0,
+        "Item_Ore_Gold": 1.0,
+        "Item_Ore_Silver": 3.0
+      }
+    }
+  },
+  "content/Actor/Pack/Obj_Mineral_A_01_DeathMountain.sbactorpack//Actor/DropTable/Mineral_DeathMountain.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_B": 1.0,
+        "Item_Ore_A": 0.30000001192092896,
+        "Item_Ore_F": 17.5,
+        "Item_Ore_C": 1.0,
+        "Item_Ore_D": 1.0,
+        "Item_Ore_E": 7.0,
+        "Item_Ore_H": 10.0,
+        "Item_Ore_I": 11.199999809265137,
+        "Item_Ore_Iron": 16.0,
+        "Item_Ore_Coal": 16.0,
+        "Item_Ore_Gold": 6.0,
+        "Item_Ore_Silver": 8.0,
+        "Item_Ore_Eldin": 5.0
+      }
+    }
+  },
+  "content/Actor/Pack/Animal_Heron_B.sbactorpack//Actor/DropTable/Animal_Bird_Normal2.bdrop": {
+    "Normal": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Meat_06": "UNDERRIDE_CONST"
+      }
+    },
+    "Burnout": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Roast_02": "UNDERRIDE_CONST"
+      }
+    },
+    "Iced": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Chilled_04": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Feather": 100.0
+      }
+    }
+  },
+  "content/Actor/Pack/Animal_LittleBird_E.sbactorpack//Actor/DropTable/Animal_LittleBird.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Fruit_L": "UNDERRIDE_CONST"
+      }
+    },
+    "Burnout": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Roast_52": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal2": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Feather": 100.0
+      }
+    }
+  },
+  "content/Actor/Pack/Enemy_Moriblin_Gold.sbactorpack//Actor/DropTable/Enemy_Moriblin_Gold.bdrop": {
+    "Normal": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_D": 17.0,
+        "Item_Ore_B": 17.0,
+        "Item_Ore_C": 17.0,
+        "Item_Ore_A": 8.0,
+        "Item_Ore_Silver": 21.0,
+        "Item_Ore_Gold": 12.0,
+        "Item_Ore_Eldin": 8.0
+      }
+    },
+    "Normal2": {
+      "repeat_num_min": 3,
+      "repeat_num_max": 4,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_F": 5.0,
+        "Item_Ore_E": 3.0,
+        "Item_Ore_D": 0.5,
+        "Item_Ore_B": 0.5,
+        "Item_Ore_C": 0.5,
+        "Item_Ore_A": 0.5,
+        "Item_Ore_Coal": 3.0,
+        "Item_Ore_Iron": 3.0,
+        "Item_Ore_Silver": 2.0,
+        "Item_Ore_Gold": 1.5,
+        "Item_Ore_Eldin": 0.5
+      }
+    },
+    "Normal3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_08": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal4": {
+      "repeat_num_min": 3,
+      "repeat_num_max": 4,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_07": "UNDERRIDE_CONST"
+      }
+    },
+    "Normal5": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_06": "UNDERRIDE_CONST"
+      }
+    },
+    "FireArrow": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_FireArrow_A_02": "UNDERRIDE_CONST",
+        "Item_Enemy_07": "UNDERRIDE_CONST"
+      }
+    },
+    "IceArrow": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_IceArrow_A_02": "UNDERRIDE_CONST",
+        "Item_Enemy_07": "UNDERRIDE_CONST"
+      }
+    },
+    "ElectricArrow": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_ElectricArrow_A_02": "UNDERRIDE_CONST",
+        "Item_Enemy_07": "UNDERRIDE_CONST"
+      }
+    },
+    "BombArrow_A": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 3,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Obj_BombArrow_A_03": "UNDERRIDE_CONST",
+        "Item_Enemy_07": "UNDERRIDE_CONST"
+      }
+    },
+    "FireArrow2": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_F": 18.0,
+        "Item_Ore_E": 13.0,
+        "Item_Ore_D": 10.0,
+        "Item_Ore_C": 7.5,
+        "Item_Ore_B": 5.0,
+        "Item_Ore_A": 2.5,
+        "Item_Ore_Coal": 15.0,
+        "Item_Ore_Iron": 15.0,
+        "Item_Ore_Silver": 8.0,
+        "Item_Ore_Gold": 3.5,
+        "Item_Ore_Eldin": 2.5
+      }
+    },
+    "IceArrow2": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_F": 18.0,
+        "Item_Ore_E": 13.0,
+        "Item_Ore_D": 10.0,
+        "Item_Ore_C": 7.5,
+        "Item_Ore_B": 5.0,
+        "Item_Ore_A": 2.5,
+        "Item_Ore_Coal": 15.0,
+        "Item_Ore_Iron": 15.0,
+        "Item_Ore_Silver": 8.0,
+        "Item_Ore_Gold": 3.5,
+        "Item_Ore_Eldin": 2.5
+      }
+    },
+    "ElectricArrow2": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_F": 18.0,
+        "Item_Ore_E": 13.0,
+        "Item_Ore_D": 10.0,
+        "Item_Ore_C": 7.5,
+        "Item_Ore_B": 5.0,
+        "Item_Ore_A": 2.5,
+        "Item_Ore_Coal": 15.0,
+        "Item_Ore_Iron": 15.0,
+        "Item_Ore_Silver": 8.0,
+        "Item_Ore_Gold": 3.5,
+        "Item_Ore_Eldin": 2.5
+      }
+    },
+    "BombArrow_A2": {
+      "repeat_num_min": 2,
+      "repeat_num_max": 2,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Ore_F": 18.0,
+        "Item_Ore_E": 13.0,
+        "Item_Ore_D": 10.0,
+        "Item_Ore_C": 7.5,
+        "Item_Ore_B": 5.0,
+        "Item_Ore_A": 2.5,
+        "Item_Ore_Coal": 15.0,
+        "Item_Ore_Iron": 15.0,
+        "Item_Ore_Silver": 8.0,
+        "Item_Ore_Gold": 3.5,
+        "Item_Ore_Eldin": 2.5
+      }
+    },
+    "FireArrow3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_08": "UNDERRIDE_CONST"
+      }
+    },
+    "IceArrow3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_08": "UNDERRIDE_CONST"
+      }
+    },
+    "ElectricArrow3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_08": "UNDERRIDE_CONST"
+      }
+    },
+    "BombArrow_A3": {
+      "repeat_num_min": 1,
+      "repeat_num_max": 1,
+      "approach_type": 0,
+      "occurrence_speed_type": 0,
+      "items": {
+        "Item_Enemy_08": "UNDERRIDE_CONST"
+      }
+    }
+  }
+}
