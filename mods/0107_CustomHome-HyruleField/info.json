@@ -1,0 +1,14 @@
+{
+  "name": "Custom Home - Hyrule Field",
+  "image": "",
+  "url": "",
+  "desc": "A custom home located in Hyrule Field near Riverside Stable.",
+  "version": "1.2.0",
+  "options": {},
+  "depends": [],
+  "showCompare": false,
+  "showConvert": false,
+  "platform": "wiiu",
+  "priority": 107,
+  "id": "Q3VzdG9tIEhvbWUgLSBIeXJ1bGUgRmllbGQ9PTEuMi4w"
+}

@@ -1,8 +1,8 @@
 [Definition]
 titleIds = 00050000101C9300,00050000101C9400,00050000101C9500
-name = Linkle's Journey : The Wild Flow
-path = The Legend of Zelda: Breath of the Wild/Mods/Linkle's Journey : The Wild Flow
-description = Linkle's Journey : The Wild Flow
+name = Linkmle journey
+path = The Legend of Zelda: Breath of the Wild/Linkle's journey
+description =
 version = 7
-default = false
-fsPriority = 9999
+default = true
+fsPriority = 9990
