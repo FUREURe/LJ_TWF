@@ -1,8 +1,0 @@
-[Definition]
-titleIds = 00050000101C9300,00050000101C9400,00050000101C9500
-name = BCML
-path = The Legend of Zelda: Breath of the Wild/Mods/BCML
-description = Complete pack of mods merged using BCML
-version = 7
-default = true
-fsPriority = 9999
