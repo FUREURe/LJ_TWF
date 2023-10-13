@@ -1,0 +1,14 @@
+{
+  "name": "No Typhlo Ruins darkness",
+  "image": "",
+  "url": "",
+  "desc": "Clears Typhlo Ruins darkness after finishing its quest.",
+  "version": "1.0.0",
+  "options": {},
+  "depends": [],
+  "showCompare": false,
+  "showConvert": false,
+  "platform": "wiiu",
+  "priority": 109,
+  "id": "Tm8gVHlwaGxvIFJ1aW5zIGRhcmtuZXNzPT0xLjAuMA=="
+}

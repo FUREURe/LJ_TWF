@@ -1,0 +1,14 @@
+{
+  "name": "Alternative Lynels [Maned]",
+  "image": "https://i.imgur.com/chJ22OV.png",
+  "url": "https://gamebanana.com/mods/375779",
+  "desc": "Adds 5 new Lynels to your game, one for each type of Lynel. Each Lynel is redesigned with a different style of horns but still with their manes. Red maned Lynel, Blue maned Lynel, white maned Lynel, Silver maned Lynel and Gold maned Lynel all got changed in a unique way and different from one another while still being recognizable from their own base type.",
+  "version": "1.0.0",
+  "options": {},
+  "depends": [],
+  "showCompare": false,
+  "showConvert": false,
+  "platform": "wiiu",
+  "priority": 111,
+  "id": "QWx0ZXJuYXRpdmUgTHluZWxzIFtNYW5lZF09PTEuMC4w"
+}

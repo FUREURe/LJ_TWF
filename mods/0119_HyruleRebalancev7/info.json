@@ -1,0 +1,54 @@
+{
+  "name": "Hyrule Rebalance v7",
+  "image": "https://images.gamebanana.com/img/ss/mods/5e434b8c56f88.jpg",
+  "url": "https://gamebanana.com/mods/49532",
+  "desc": "A more-or-less thorough rebalance of the game's components and features, making features less abusable and promoting previously undependable options.",
+  "version": "7.9",
+  "options": {
+    "multi": [
+      {
+        "name": "MAIN",
+        "desc": "Contains everything not listed in other modules - armour, enemies, materials, weapons, upgrades, mobility, drops, ecosystems, wildlife...",
+        "folder": "1Hyrule Rebalance v7 Modular - MAIN",
+        "default": true
+      },
+      {
+        "name": "Beedle",
+        "desc": "Turns Beedle into a weapon vendor. His inventory changes depending on the location.",
+        "folder": "2Hyrule Rebalance v7 Modular - Beedle",
+        "default": true
+      },
+      {
+        "name": "Dyes",
+        "desc": "Enables dyeing for every armour (except jewelry). Will not work with player model mods.",
+        "folder": "3Hyrule Rebalance v7 Modular - Dyes",
+        "default": true
+      },
+      {
+        "name": "Flurry Rush",
+        "desc": "Shorter duration, tighter window, no slowdown – all to reduce dependability.",
+        "folder": "4Hyrule Rebalance v7 Modular - Flurry Rush",
+        "default": true
+      },
+      {
+        "name": "Stamina",
+        "desc": "Adds a delay to stamina recovery to prevent abuse, adjusts stamina cost on most actions.",
+        "folder": "5Hyrule Rebalance v7 Modular - Stamina",
+        "default": true
+      },
+      {
+        "name": "Climate",
+        "desc": "Replaces cold/heat damage with a stamina penalty. Adjusted area and time-of-day temperatures.",
+        "folder": "6Hyrule Rebalance v7 Modular - Climate",
+        "default": true
+      }
+    ],
+    "single": []
+  },
+  "depends": [],
+  "showCompare": false,
+  "showConvert": false,
+  "id": "SHlydWxlIFJlYmFsYW5jZSB2Nz09Ny45",
+  "platform": "wiiu",
+  "priority": 119
+}

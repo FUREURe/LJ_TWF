@@ -1,0 +1,137 @@
+{
+  "name": "LARC - Fierce Deity Set v1.3.1",
+  "image": "thumbnail.jpg",
+  "url": "https://gamebanana.com/mods/452885",
+  "desc": "This mod revamps the texture (and model) of the Fierce Deity set for Linkle 3.0, featuring a modified design that exposes more of the character's body.\n\nIt offers a range of options divided into two categories: models and textures. Choose one from each to customize it to your preference.",
+  "version": "1.3.1",
+  "options": {
+    "multi": [],
+    "single": [
+      {
+        "name": "Model option:",
+        "desc": "Check option descriptions for the texture compatibility guide.",
+        "required": true,
+        "options": [
+          {
+            "name": "[Default] Default Loincloth",
+            "desc": "Compatible textures: Default, Low Neck, Skimpy.",
+            "folder": "Model - Default - Default Loincloth"
+          },
+          {
+            "name": "[Default] Loincloth Shortened",
+            "desc": "Compatible textures: Default, Low Neck, Skimpy.",
+            "folder": "Model - Default - Loincloth Shortened"
+          },
+          {
+            "name": "[Default] Loincloth Removal - Pointy Belt",
+            "desc": "Compatible textures: Default, Low Neck, Skimpy.",
+            "folder": "Model - Default - Loincloth Removal - Pointy Belt"
+          },
+          {
+            "name": "[Default] Loincloth Removal - Round Belt",
+            "desc": "Compatible textures: Default, Low Neck, Skimpy.",
+            "folder": "Model - Default - Loincloth Removal - Round Belt"
+          },
+          {
+            "name": "[Revealing] Default Loincloth",
+            "desc": "Compatible textures: All except Bikini.",
+            "folder": "Model - Revealing - Default Loincloth"
+          },
+          {
+            "name": "[Revealing] Loincloth Shortened",
+            "desc": "Compatible textures: All except Bikini.",
+            "folder": "Model - Revealing - Loincloth Shortened"
+          },
+          {
+            "name": "[Revealing] Loincloth Removal - Pointy Belt",
+            "desc": "Compatible textures: All except Bikini.",
+            "folder": "Model - Revealing - Loincloth Removal - Pointy Belt"
+          },
+          {
+            "name": "[Revealing] Loincloth Removal - Round Belt",
+            "desc": "Compatible textures: All except Bikini.",
+            "folder": "Model - Revealing - Loincloth Removal - Round Belt"
+          },
+          {
+            "name": "[Bikini] Default Loincloth",
+            "desc": "Compatible textures: Bikini.",
+            "folder": "Model - Bikini - Default Loincloth"
+          },
+          {
+            "name": "[Bikini] Loincloth Shortened",
+            "desc": "Compatible textures: Bikini.",
+            "folder": "Model - Bikini - Loincloth Shortened"
+          },
+          {
+            "name": "[Bikini] Loincloth Removal",
+            "desc": "Compatible textures: Bikini.",
+            "folder": "Model - Bikini - Loincloth Removal"
+          }
+        ]
+      },
+      {
+        "name": "Texture option:",
+        "desc": "",
+        "required": true,
+        "options": [
+          {
+            "name": "Default Leggings - Default Top",
+            "desc": "",
+            "folder": "Texture - Default Leggings - Default Top"
+          },
+          {
+            "name": "Default Leggings - Low Neck Top",
+            "desc": "",
+            "folder": "Texture - Default Leggings - Low Neck Top"
+          },
+          {
+            "name": "Default Leggings - Skimpy Top",
+            "desc": "",
+            "folder": "Texture - Default Leggings - Skimpy Top"
+          },
+          {
+            "name": "Default Leggings - Revealing Top",
+            "desc": "",
+            "folder": "Texture - Default Leggings - Revealing Top"
+          },
+          {
+            "name": "Default Leggings - Bikini Top",
+            "desc": "",
+            "folder": "Texture - Default Leggings - Bikini Top"
+          },
+          {
+            "name": "No Leggings - Default Top",
+            "desc": "",
+            "folder": "Texture - No Leggings - Default Top"
+          },
+          {
+            "name": "No Leggings - Low Neck Top",
+            "desc": "",
+            "folder": "Texture - No Leggings - Low Neck Top"
+          },
+          {
+            "name": "No Leggings - Skimpy Top",
+            "desc": "",
+            "folder": "Texture - No Leggings - Skimpy Top"
+          },
+          {
+            "name": "No Leggings - Revealing Top",
+            "desc": "",
+            "folder": "Texture - No Leggings - Revealing Top"
+          },
+          {
+            "name": "No Leggings - Bikini Top",
+            "desc": "",
+            "folder": "Texture - No Leggings - Bikini Top"
+          }
+        ]
+      }
+    ]
+  },
+  "depends": [],
+  "showCompare": false,
+  "showConvert": false,
+  "id": "TEFSQyAtIEZpZXJjZSBEZWl0eSBTZXQgdjEuMy4xPT0xLjMuMQ==",
+  "platform": "wiiu",
+  "priority": 138
+}

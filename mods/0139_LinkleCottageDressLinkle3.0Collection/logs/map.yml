@@ -1,0 +1,164 @@
+I-7_Static:
+  Objs:
+    add:
+    - HashId: !u 0x0ae22e6e
+      SRTHash: 0
+      Translate: [3308.0, 241.5, 2289.0]
+      UnitConfigName: LinkTagNone
+    - '!Parameters': {TerritoryArea: 0.0}
+      HashId: !u 0x2fa6777f
+      LinksToObj:
+      - {DefinitionName: SyncLink, DestUnitHashId: !u 0x0ae22e6e}
+      OnlyOne: true
+      Rotate: 1.27388084
+      SRTHash: -616226152
+      Translate: [3308.24609, 240.742188, 2287.05664]
+      UnitConfigName: DLC_TwnObj_HatenoLinkHouse_Check_Photo
+    - '!Parameters': {IncrementSave: false, MakeSaveFlag: 0, NoChangeSignal: false, SaveFlagOnOffType: 0}
+      HashId: !u 0x30996c43
+      LinksToObj:
+      - '!Parameters': {NoAutoDemoMember: false}
+        DefinitionName: BasicSig
+        DestUnitHashId: !u 0xc2889ef4
+      SRTHash: -829252259
+      Translate: [3314.5, 241.0, 2286.0]
+      UnitConfigName: LinkTagAnd
+    - HashId: !u 0x37a35860
+      OnlyOne: true
+      Rotate: 1.27388084
+      SRTHash: 489812493
+      Translate: [3308.24609, 240.742188, 2287.05664]
+      UnitConfigName: TwnObj_DLC_MemorialPicture_A_01
+    - '!Parameters': {IncrementSave: false, MakeSaveFlag: 0, NoChangeSignal: false, SaveFlag: BalladOfHeroes_DisplayPicture,
+        SaveFlagOnOffType: 0}
+      HashId: !u 0x389d06d9
+      LinksToObj:
+      - '!Parameters': {NoAutoDemoMember: false}
+        DefinitionName: BasicSig
+        DestUnitHashId: !u 0xea15b6e5
+      - {DefinitionName: SyncLink, DestUnitHashId: !u 0x0ae22e6e}
+      SRTHash: 594318396
+      Translate: [3308.0, 241.5, 2290.0]
+      UnitConfigName: LinkTagOr
+    - '!Parameters': {IncrementSave: false, MakeSaveFlag: 0, NoChangeSignal: false, SaveFlag: HatenoMini_MyHome_Finish, SaveFlagOnOffType: 0}
+      HashId: !u 0x3a9f45f6
+      LinksToObj:
+      - '!Parameters': {NoAutoDemoMember: false}
+        DefinitionName: BasicSig
+        DestUnitHashId: !u 0x93900604
+      - {DefinitionName: SyncLink, DestUnitHashId: !u 0x0ae22e6e}
+      SRTHash: -1330562741
+      Translate: [3312.0, 240.5, 2288.5]
+      UnitConfigName: LinkTagOr
+    - '!Parameters': {AutoSave: false, CameraPriority: 1, CameraSet: '-', ForceCalcInEvent: false, Shape: Box}
+      HashId: !u 0x4973330d
+      LinksToObj:
+      - '!Parameters': {NoAutoDemoMember: false}
+        DefinitionName: BasicSig
+        DestUnitHashId: !u 0x30996c43
+      - {DefinitionName: SyncLink, DestUnitHashId: !u 0x0ae22e6e}
+      Rotate: -0.296705961
+      SRTHash: -927792910
+      Scale: [2.5, 1.5, 4.5]
+      Translate: [3310.12549, 240.374115, 2289.19922]
+      UnitConfigName: Area
+    - '!Parameters': {IncrementSave: false, MakeSaveFlag: 0, NoChangeSignal: false, SaveFlagOnOffType: 0}
+      HashId: !u 0x93900604
+      LinksToObj:
+      - '!Parameters': {AppearFade: false}
+        DefinitionName: Create
+        DestUnitHashId: !u 0x2fa6777f
+      - '!Parameters': {AppearFade: false}
+        DefinitionName: Create
+        DestUnitHashId: !u 0x4973330d
+      - '!Parameters': {AppearFade: false}
+        DefinitionName: Create
+        DestUnitHashId: !u 0xc2889ef4
+      - {DefinitionName: SyncLink, DestUnitHashId: !u 0x0ae22e6e}
+      SRTHash: -788465735
+      Translate: [3310.5, 240.5, 2289.0]
+      UnitConfigName: LinkTagAnd
+    - '!Parameters': {IncrementSave: false, MakeSaveFlag: 0, NoChangeSignal: false, SaveFlag: BalladOfHeroes_DispPict_1stEvent,
+        SaveFlagOnOffType: 0}
+      HashId: !u 0x95abfdcf
+      LinksToObj:
+      - {DefinitionName: Delete, DestUnitHashId: !u 0x4973330d}
+      - {DefinitionName: Delete, DestUnitHashId: !u 0xc2889ef4}
+      - {DefinitionName: SyncLink, DestUnitHashId: !u 0x0ae22e6e}
+      SRTHash: 606692791
+      Translate: [3310.0, 242.0, 2283.5]
+      UnitConfigName: LinkTagAnd
+    - '!Parameters': {IncrementSave: false, MakeSaveFlag: 0, NoChangeSignal: false, SaveFlag: BalladOfHeroes_Finish, SaveFlagOnOffType: 0}
+      HashId: !u 0xa7f206a9
+      LinksToObj:
+      - '!Parameters': {NoAutoDemoMember: false}
+        DefinitionName: BasicSig
+        DestUnitHashId: !u 0x93900604
+      - {DefinitionName: SyncLink, DestUnitHashId: !u 0x0ae22e6e}
+      SRTHash: -1136807239
+      Translate: [3312.0, 240.5, 2289.5]
+      UnitConfigName: LinkTagOr
+    - '!Parameters':
+        EventFlowEntryName: 1st_Event
+        EventFlowName: DLC_TwnObj_HatenoLinkHouse_Check_Photo
+        IsEndlessEvent: false
+        LaunchEventByOffSignal: false
+        LaunchEventByOnSignal: true
+        TraversePos: {X: 3309.99097, Y: 238.882004, Z: 2286.31494}
+        TraverseRadiusXZ: 1.31472504
+      HashId: !u 0xc2889ef4
+      Rotate: 1.27388084
+      SRTHash: -396821364
+      Scale: 2.0
+      Translate: [3308.24609, 240.742203, 2287.05664]
+      UnitConfigName: EventTag
+    - '!Parameters': {IncrementSave: false, MakeSaveFlag: 0, NoChangeSignal: false, SaveFlag: BalladOfHeroes_DisplayPicture,
+        SaveFlagOnOffType: 0}
+      HashId: !u 0xe824d96c
+      LinksToObj:
+      - '!Parameters': {NoAutoDemoMember: false}
+        DefinitionName: BasicSig
+        DestUnitHashId: !u 0x93900604
+      - {DefinitionName: SyncLink, DestUnitHashId: !u 0x0ae22e6e}
+      SRTHash: 1374286235
+      Translate: [3311.5, 240.5, 2290.5]
+      UnitConfigName: LinkTagNOr
+    - '!Parameters': {IncrementSave: false, MakeSaveFlag: 0, NoChangeSignal: false, SaveFlagOnOffType: 0}
+      HashId: !u 0xea15b6e5
+      LinksToObj:
+      - '!Parameters': {AppearFade: false}
+        DefinitionName: Create
+        DestUnitHashId: !u 0x37a35860
+      - {DefinitionName: SyncLink, DestUnitHashId: !u 0x0ae22e6e}
+      SRTHash: 1071509415
+      Translate: [3308.0, 241.5, 2289.0]
+      UnitConfigName: LinkTagAnd
+    - HashId: !u 0xffd2bc26
+      Rotate: -1.19999981
+      SRTHash: 0
+      Translate: [3473.84277, 232.89711, 2100.98608]
+      UnitConfigName: AnchorAction1
+    - '!Parameters':
+        TerritoryArea: 0.0
+        TraversePos: {X: 3465.04541, Y: 232.89711, Z: 2103.73315}
+        TraverseRadiusXZ: 0.0
+      HashId: !u 0xffd2bc27
+      LinksToObj:
+      - {DefinitionName: Reference, DestUnitHashId: !u 0xffd2bc26}
+      OnlyOne: true
+      Rotate: -1.19999981
+      SRTHash: 0
+      Translate: [3473.84277, 232.89711, 2100.98608]
+      UnitConfigName: Npc_LynxVLG1
+    del: []
+    mod:
+      '2140556832':
+        '!Parameters': {GetUpDirection: None}
+        HashId: !u 0x7f964e20
+        SRTHash: 103036047
+        Translate: [3324.82642, 235.077637, 2304.34692]
+        UnitConfigName: AnchorAction9
+  Rails:
+    add: []
+    del: []
+    mod: {}

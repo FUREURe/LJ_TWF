@@ -1,0 +1,994 @@
+{
+  "USen": {
+    "ActorType/NPC.msyt": {
+      "Npc_LynxVLG1_Name": {
+        "contents": [
+          {
+            "text": "Lynx"
+          }
+        ]
+      }
+    },
+    "ActorType/ArmorHead.msyt": {
+      "Armor_VLG_Head_Desc": {
+        "contents": [
+          {
+            "text": "A simple and practical handkerchief.\nYou can use it to blend in with the \nnice people around town. It even\ncomes with a cute little bow!"
+          }
+        ]
+      },
+      "Armor_VLG_Head_Name": {
+        "contents": [
+          {
+            "text": "Villager's Handkerchief"
+          }
+        ]
+      }
+    },
+    "EventFlowMsg/Npc_LynxVLG1.msyt": {
+      "0000": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Show me the goods."
+          }
+        ]
+      },
+      "0001": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Yes."
+          }
+        ]
+      },
+      "0002": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Something like that."
+          }
+        ]
+      },
+      "0003": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Not really."
+          }
+        ]
+      },
+      "0006": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "I'm looking to sell..."
+          }
+        ]
+      },
+      "0007": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Good-bye."
+          }
+        ]
+      },
+      "5500": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "I'll sell."
+          }
+        ]
+      },
+      "5501": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "No."
+          }
+        ]
+      },
+      "5502": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "I'll buy."
+          }
+        ]
+      },
+      "5503": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Never mind."
+          }
+        ]
+      },
+      "5508": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "I'll sell them all."
+          }
+        ]
+      },
+      "Com_Talk_00": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "OK! "
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "longer"
+            }
+          },
+          {
+            "text": "Let me see!"
+          }
+        ]
+      },
+      "Com_Talk_01": {
+        "attributes": "",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                19
+              ]
+            }
+          },
+          {
+            "text": "Hrm...how many "
+          },
+          {
+            "control": {
+              "kind": "set_colour",
+              "colour": "red"
+            }
+          },
+          {
+            "text": "rupees"
+          },
+          {
+            "control": {
+              "kind": "reset_colour"
+            }
+          },
+          {
+            "text": " can I offer?\nI think..."
+          },
+          {
+            "control": {
+              "kind": "set_colour",
+              "colour": "red"
+            }
+          },
+          {
+            "control": {
+              "kind": "variable",
+              "variable_kind": 18,
+              "name": "ShopTradePrice"
+            }
+          },
+          {
+            "control": {
+              "kind": "reset_colour"
+            }
+          },
+          {
+            "text": "! Deal?"
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                5500,
+                5501
+              ],
+              "selected_index": 0,
+              "cancel_index": 1,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Com_Talk_02": {
+        "attributes": "",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound2",
+              "unknown": [
+                9,
+                205
+              ]
+            }
+          },
+          {
+            "text": "Thank you!"
+          }
+        ]
+      },
+      "Com_Talk_02b": {
+        "attributes": "",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound2",
+              "unknown": [
+                9,
+                205
+              ]
+            }
+          },
+          {
+            "text": "Yeah!"
+          }
+        ]
+      },
+      "Com_Talk_02c": {
+        "attributes": "",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound2",
+              "unknown": [
+                7,
+                205
+              ]
+            }
+          },
+          {
+            "text": "Good!"
+          }
+        ]
+      },
+      "Com_Talk_02d": {
+        "attributes": "",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound2",
+              "unknown": [
+                7,
+                205
+              ]
+            }
+          },
+          {
+            "text": "Great!"
+          }
+        ]
+      },
+      "Com_Talk_04": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Understood!"
+          }
+        ]
+      },
+      "Com_Talk_05": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "I'll buy anything!"
+          }
+        ]
+      },
+      "Com_Talk_05b": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Please show me!"
+          }
+        ]
+      },
+      "Com_Talk_05c": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "How about in your pouch?"
+          }
+        ]
+      },
+      "Com_Talk_05d": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Don't make a mistake when choosing!"
+          }
+        ]
+      },
+      "Com_Talk_06": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "So what'll it be?"
+          }
+        ]
+      },
+      "Com_Talk_07": {
+        "attributes": "",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound2",
+              "unknown": [
+                10,
+                205
+              ]
+            }
+          },
+          {
+            "text": "Sorry... "
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "short"
+            }
+          },
+          {
+            "text": "I'm all sold out of that at the\nmoment..."
+          }
+        ]
+      },
+      "Com_Talk_08": {
+        "attributes": "",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                16
+              ]
+            }
+          },
+          {
+            "text": "Oh..."
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "short"
+            }
+          },
+          {
+            "text": "\nLooks like you're out of rupees."
+          }
+        ]
+      },
+      "Com_Talk_09": {
+        "attributes": "",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                16
+              ]
+            }
+          },
+          {
+            "text": "Hrm. Your inventory is full..."
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "longer"
+            }
+          },
+          {
+            "text": "\nMake some room in your inventory, and\nthen come back and see me!"
+          }
+        ]
+      },
+      "Com_Talk_10": {
+        "attributes": "",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound2",
+              "unknown": [
+                2,
+                205
+              ]
+            }
+          },
+          {
+            "text": "You're interested in that, then?"
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                5502,
+                5503
+              ],
+              "selected_index": 0,
+              "cancel_index": 1,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Com_Talk_11": {
+        "attributes": "",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound2",
+              "unknown": [
+                9,
+                205
+              ]
+            }
+          },
+          {
+            "text": "Mewsic to my ears!"
+          }
+        ]
+      },
+      "Com_Talk_11b": {
+        "attributes": "",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound2",
+              "unknown": [
+                9,
+                205
+              ]
+            }
+          },
+          {
+            "text": "I'm sure it will serve you well~"
+          }
+        ]
+      },
+      "Com_Talk_11c": {
+        "attributes": "",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound2",
+              "unknown": [
+                9,
+                205
+              ]
+            }
+          },
+          {
+            "text": "I'll be so happy if you like it!"
+          }
+        ]
+      },
+      "Com_Talk_11d": {
+        "attributes": "",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound2",
+              "unknown": [
+                9,
+                205
+              ]
+            }
+          },
+          {
+            "text": "Thank you! "
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "short"
+            }
+          },
+          {
+            "text": "You're a nyatural at this!"
+          }
+        ]
+      },
+      "Com_Talk_12": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Here ya go!"
+          }
+        ]
+      },
+      "Com_Talk_13": {
+        "attributes": "Npc_Kakariko010",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound2",
+              "unknown": [
+                2,
+                205
+              ]
+            }
+          },
+          {
+            "text": "How many will you sell me?"
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                5500,
+                5508,
+                5501
+              ],
+              "selected_index": 0,
+              "cancel_index": 2,
+              "unknown": 8
+            }
+          }
+        ]
+      },
+      "Com_Talk_14": {
+        "attributes": "Npc_Kakariko010",
+        "contents": [
+          {
+            "text": "That's worth a "
+          },
+          {
+            "control": {
+              "kind": "set_colour",
+              "colour": "red"
+            }
+          },
+          {
+            "text": "rupee"
+          },
+          {
+            "control": {
+              "kind": "reset_colour"
+            }
+          },
+          {
+            "text": " or two.\nLet's say..."
+          },
+          {
+            "control": {
+              "kind": "set_colour",
+              "colour": "red"
+            }
+          },
+          {
+            "control": {
+              "kind": "variable",
+              "variable_kind": 18,
+              "name": "ShopTradePrice"
+            }
+          },
+          {
+            "control": {
+              "kind": "reset_colour"
+            }
+          },
+          {
+            "text": "?"
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                5500,
+                5501
+              ],
+              "selected_index": 0,
+              "cancel_index": 1,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Com_Talk_15": {
+        "attributes": "Npc_Kakariko010",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                12
+              ]
+            }
+          },
+          {
+            "text": "I'm sorry. "
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "short"
+            }
+          },
+          {
+            "text": "I can't buy that from you."
+          }
+        ]
+      },
+      "Com_Talk_16": {
+        "attributes": "Npc_Kakariko010",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                20
+              ]
+            }
+          },
+          {
+            "text": "Nooo! "
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "longer"
+            }
+          },
+          {
+            "text": "Take off the clothing that \nyou are wearing!"
+          }
+        ]
+      },
+      "Com_Talk_33": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Just one, then?"
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "short"
+            }
+          },
+          {
+            "text": " In that case,\nI think "
+          },
+          {
+            "control": {
+              "kind": "set_colour",
+              "colour": "red"
+            }
+          },
+          {
+            "control": {
+              "kind": "variable",
+              "variable_kind": 18,
+              "name": "ShopTradePrice"
+            }
+          },
+          {
+            "text": " rupees "
+          },
+          {
+            "control": {
+              "kind": "reset_colour"
+            }
+          },
+          {
+            "text": "is a fair price!"
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                5500,
+                5501
+              ],
+              "selected_index": 0,
+              "cancel_index": 1,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Com_Talk_35": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "I'll buy all of that for "
+          },
+          {
+            "control": {
+              "kind": "set_colour",
+              "colour": "red"
+            }
+          },
+          {
+            "control": {
+              "kind": "variable",
+              "variable_kind": 18,
+              "name": "ShopTradePrice"
+            }
+          },
+          {
+            "text": " rupees"
+          },
+          {
+            "control": {
+              "kind": "reset_colour"
+            }
+          },
+          {
+            "text": "!"
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                5500,
+                5501
+              ],
+              "selected_index": 0,
+              "cancel_index": 1,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Com_Talk_36": {
+        "attributes": "Npc_Kakariko010",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                6,
+                10
+              ]
+            }
+          },
+          {
+            "text": "Yeah! "
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "longer"
+            }
+          },
+          {
+            "text": "All sold out!"
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "longer"
+            }
+          },
+          {
+            "text": " I'm always so happy\nwhen I sell everything!"
+          }
+        ]
+      },
+      "Com_Talk_37": {
+        "attributes": "Npc_Kakariko010",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                6,
+                12
+              ]
+            }
+          },
+          {
+            "text": "Sorry... "
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "short"
+            }
+          },
+          {
+            "text": "I've got nothing left to sell today."
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "longer"
+            }
+          },
+          {
+            "text": "\nI can show you what I'll have soon, if\nyou like..."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                0,
+                7
+              ],
+              "selected_index": 0,
+              "cancel_index": 1,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Talk00": {
+        "attributes": "Npc_LynxVLG1",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                0
+              ]
+            }
+          },
+          {
+            "text": "Nyaha~ Greetings! "
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "short"
+            }
+          },
+          {
+            "text": "\n\n\nHave you ever felt like you\ndon't quite blend in around\nthis place?\nWell, I have a mew- I mean... new collection\nto fix that! I call it...\n\nVillager's Attire!"
+          }
+        ]
+      },
+      "Talk01": {
+        "attributes": "Npc_LynxVLG1",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                0
+              ]
+            }
+          },
+          {
+            "text": "Do you want to see my wares?"
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                1,
+                5501
+              ],
+              "selected_index": 0,
+              "cancel_index": 1,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Talk02": {
+        "attributes": "Npc_LynxVLG1",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                0
+              ]
+            }
+          },
+          {
+            "text": "Hey! "
+          },
+          {
+            "control": {
+              "kind": "pause",
+              "length": "short"
+            }
+          },
+          {
+            "text": "Welcome back~!"
+          }
+        ]
+      },
+      "Talk03": {
+        "attributes": "Npc_LynxVLG1",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                0
+              ]
+            }
+          },
+          {
+            "text": "Nyaha~"
+          }
+        ]
+      },
+      "Talk04": {
+        "attributes": "Npc_LynxVLG1",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                0,
+                0
+              ]
+            }
+          },
+          {
+            "text": "Aww too bad"
+          }
+        ]
+      },
+      "Talk05": {
+        "attributes": "Npc_LynxVLG1",
+        "contents": [
+          {
+            "control": {
+              "kind": "sound",
+              "unknown": [
+                11,
+                0
+              ]
+            }
+          },
+          {
+            "text": "Cya laterr"
+          }
+        ]
+      }
+    },
+    "ActorType/ArmorLower.msyt": {
+      "Armor_VLG_Lower_Desc": {
+        "contents": [
+          {
+            "text": "Practical trousers with durable boots.\nYou can use them to blend in with the \nnice people around town. Perfect \nfor working the fields or hiking!"
+          }
+        ]
+      },
+      "Armor_VLG_Lower_Name": {
+        "contents": [
+          {
+            "text": "Villager's Boots"
+          }
+        ]
+      }
+    },
+    "ActorType/ArmorUpper.msyt": {
+      "Armor_VLG_Upper_Desc": {
+        "contents": [
+          {
+            "text": "A nicely tailored dress and apron.\nYou can use it to blend in with the \nnice people around town. These\nruffles must have taken forever!"
+          }
+        ]
+      },
+      "Armor_VLG_Upper_Name": {
+        "contents": [
+          {
+            "text": "Villager's Dress"
+          }
+        ]
+      }
+    }
+  }
+}

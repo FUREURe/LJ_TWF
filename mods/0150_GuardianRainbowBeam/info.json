@@ -1,0 +1,14 @@
+{
+  "name": "Guardian Rainbow Beam",
+  "image": "https://images.gamebanana.com/img/ss/mods/530-90_5e866eaae3b38.jpg",
+  "url": "https://gamebanana.com/mods/14775",
+  "desc": "This mod changes the Guardian's laser attacks to a rainbow color scheme and deals more damage ",
+  "version": "1.0.0",
+  "options": {},
+  "depends": [],
+  "showCompare": false,
+  "showConvert": false,
+  "id": "R3VhcmRpYW4gUmFpbmJvdyBCZWFtPT0xLjAuMA==",
+  "platform": "wiiu",
+  "priority": 150
+}

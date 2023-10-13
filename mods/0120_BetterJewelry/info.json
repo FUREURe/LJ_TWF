@@ -1,0 +1,130 @@
+{
+  "name": "Better Jewelry",
+  "image": "https://files.gamebanana.com/img/ss/mods/641b9d8ba7c66.jpg",
+  "url": "",
+  "desc": "Gives Jewelry more interesting effects",
+  "version": "1.0.0",
+  "options": {
+    "multi": [],
+    "single": [
+      {
+        "name": "Amber Earrings",
+        "desc": "choose one or none",
+        "required": false,
+        "options": [
+          {
+            "name": "Flame Guard LV1",
+            "desc": "Flame Guard LV1",
+            "folder": "Amber Earrings Flame Guard LV1"
+          },
+          {
+            "name": "Flame Guard LV2",
+            "desc": "Flame Guard LV2",
+            "folder": "Amber Earrings Flame Guard LV2"
+          }
+        ]
+      },
+      {
+        "name": "Diamond Circlet",
+        "desc": "choose one or none",
+        "required": false,
+        "options": [
+          {
+            "name": "Guardian Resist LV3",
+            "desc": "Guardian Resist LV3",
+            "folder": "Diamond Circlet LV3 Guardian Resist"
+          }
+        ]
+      },
+      {
+        "name": "Opal Earrings",
+        "desc": "choose one or none",
+        "required": false,
+        "options": [
+          {
+            "name": "Swim Speed LV3",
+            "desc": "Swim Speed LV3",
+            "folder": "Opal Earrings LV3 Swim"
+          },
+          {
+            "name": "Swim Speed LV3 + Spin attack",
+            "desc": "Swim Speed LV3 + Spin attack",
+            "folder": "Opal Earrings Spin Attack"
+          },
+          {
+            "name": "Swim Speed LV3 + Waterfall Climbing",
+            "desc": "Swim Speed LV3 + Waterfall Climbing",
+            "folder": "Opal Earrings Waterfall Climbing"
+          },
+          {
+            "name": "Swim Speed LV3 + Spin Attack + Waterfall Climbing",
+            "desc": "Swim Speed LV3 + Spin Attack + Waterfall Climbing",
+            "folder": "Opal Earrings Spin Attack Waterfall Climbing"
+          }
+        ]
+      },
+      {
+        "name": "Ruby Circlet",
+        "desc": "choose one or none",
+        "required": false,
+        "options": [
+          {
+            "name": "Unfreezable",
+            "desc": "Unfreezable",
+            "folder": "Ruby Circlet Unfreezable"
+          },
+          {
+            "name": "Cold Resist LV2",
+            "desc": "Cold Resist LV2",
+            "folder": "Ruby Circlet LV2 Protection"
+          }
+        ]
+      },
+      {
+        "name": "Sapphire Circlet",
+        "desc": "choose one or none",
+        "required": false,
+        "options": [
+          {
+            "name": "Flame Guard LV1",
+            "desc": "Flame Guard LV1",
+            "folder": "Sapphire Circlet Flame Guard LV1"
+          },
+          {
+            "name": "Flame Guard LV2",
+            "desc": "Flame Guard LV2",
+            "folder": "Sapphire Circlet Flame Guard LV2"
+          },
+          {
+            "name": "Heat Resist LV2",
+            "desc": "Heat Resist LV2",
+            "folder": "Sapphire Circlet LV2 Protection"
+          }
+        ]
+      },
+      {
+        "name": "Topaz Earrings",
+        "desc": "choose one or none",
+        "required": false,
+        "options": [
+          {
+            "name": "Lightning Proof",
+            "desc": "Lightning Proof",
+            "folder": "Topaz Earrings Lightning Proof"
+          },
+          {
+            "name": "Resist Shock LV3",
+            "desc": "Resist Shock LV3",
+            "folder": "Topaz Earrings LV3 Resist Shock"
+          }
+        ]
+      }
+    ]
+  },
+  "depends": [],
+  "showCompare": false,
+  "showConvert": false,
+  "platform": "wiiu",
+  "priority": 120,
+  "id": "QmV0dGVyIEpld2Vscnk9PTEuMC4w"
+}

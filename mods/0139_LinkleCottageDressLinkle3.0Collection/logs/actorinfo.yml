@@ -1,0 +1,116 @@
+'1308670970':
+  aabbMax: {X: 0.420884,Y: 2.15949,Z: 0.309972}
+  aabbMin: {X: -0.401397,Y: -0.004055,Z: -0.372625}
+  bfres: Npc_LynxVLG1
+  boundingForTraverse: 2.163545
+  bugMask: 2
+  cursorOffsetY: 0.3
+  elink: Npc_LynxVLG1
+  instSize: 315164
+  mainModel: Npc_LynxVLG1
+  name: Npc_LynxVLG1
+  profile: NPC
+  rigidBodyCenterY: 0.0
+  slink: Npc_SmallOasis008
+  sortKey: 6
+  systemIsGetItemSelf: false
+  systemSameGroupActorName: 
+  tags: {tag46dea404: 1188996100}
+  xlink: Npc
+  yLimitAlgorithm: NoLimit
+'1491932805':
+  aabbMax: {X: 0.213257,Y: 0.942871,Z: 0.217006}
+  aabbMin: {X: -0.213257,Y: 0.000586,Z: -0.117361}
+  armorDefenceAddLevel: 5
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 0
+  armorEffectEffectType: None
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: 
+  armorStarNum: 1
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_VLG
+  boundingForTraverse: 0.942285
+  bugMask: 1
+  instSize: 25200
+  itemBuyingPrice: 100
+  itemCreatingPrice: -1
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 15
+  itemStainColor: -1
+  itemUseIconActorName: 
+  mainModel: Armor_VLG_Lower
+  name: Armor_VLG_Lower
+  profile: ArmorLower
+  seriesArmorEnableCompBonus: false
+  seriesArmorSeriesType: 
+  sortKey: 4523721
+  tags: {tag1c0c8d23: 470584611,tag289f28b5: 681519285,tag84f40ec6: !u 0x84F40EC6,taga21d5dbb: !u 0xA21D5DBB,tagd1e9663c: !u 0xD1E9663C,tage0194f30: !u 0xE0194F30}
+  yLimitAlgorithm: NoLimit
+'1666872233':
+  aabbMax: {X: 0.152831,Y: 1.79688,Z: 0.183694}
+  aabbMin: {X: -0.149532,Y: 1.45313,Z: -0.463867}
+  armorDefenceAddLevel: 5
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 0
+  armorEffectEffectType: None
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: 
+  armorStarNum: 1
+  armorUpperDisableSelfMantle: false
+  armorUpperUseMantleType: 0
+  bfres: Armor_VLG
+  boundingForTraverse: 0.34375
+  bugMask: 1
+  instSize: 55836
+  itemBuyingPrice: 100
+  itemCreatingPrice: -1
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 15
+  itemStainColor: -1
+  itemUseIconActorName: 
+  mainModel: Armor_VLG_Head
+  name: Armor_VLG_Head
+  profile: ArmorHead
+  seriesArmorEnableCompBonus: false
+  seriesArmorSeriesType: 
+  sortKey: 4521721
+  tags: {tag1c0c8d23: 470584611,tag289f28b5: 681519285,tag84f40ec6: !u 0x84F40EC6,taga21d5dbb: !u 0xA21D5DBB,tagd1e9663c: !u 0xD1E9663C,tage0194f30: !u 0xE0194F30}
+  yLimitAlgorithm: NoLimit
+'942191162':
+  aabbMax: {X: 0.917969,Y: 1.49316,Z: 0.174435}
+  aabbMin: {X: -0.917969,Y: 0.641135,Z: -0.147091}
+  armorDefenceAddLevel: 5
+  armorEffectAncientPowUp: false
+  armorEffectEffectLevel: 0
+  armorEffectEffectType: None
+  armorEffectEnableClimbWaterfall: false
+  armorEffectEnableSpinAttack: false
+  armorHeadMantleType: 0
+  armorNextRankName: 
+  armorStarNum: 1
+  armorUpperDisableSelfMantle: true
+  armorUpperUseMantleType: 1
+  bfres: Armor_VLG
+  boundingForTraverse: 0.852025
+  bugMask: 1
+  instSize: 153484
+  itemBuyingPrice: 100
+  itemCreatingPrice: -1
+  itemSaleRevivalCount: -1
+  itemSellingPrice: 15
+  itemStainColor: -1
+  itemUseIconActorName: 
+  mainModel: Armor_VLG_Upper
+  name: Armor_VLG_Upper
+  profile: ArmorUpper
+  seriesArmorEnableCompBonus: false
+  seriesArmorSeriesType: 
+  sortKey: 4522721
+  tags: {tag1c0c8d23: 470584611,tag289f28b5: 681519285,tag84f40ec6: !u 0x84F40EC6,taga21d5dbb: !u 0xA21D5DBB,tagd1e9663c: !u 0xD1E9663C,tage0194f30: !u 0xE0194F30}
+  yLimitAlgorithm: NoLimit
