@@ -1,0 +1,14 @@
+{
+  "EUfr": {
+    "EventFlowMsg/FindDungeon.msyt": {
+      "Zelda_WakeUp": {
+        "attributes": "EventSystemActor",
+        "contents": [
+          {
+            "text": "Réveille-toi\n\n\nRéveille-toi"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+StartPos:
+  29441133438WakeUp:
+    Map: H-8
+    PlayerState: Wait
+    PosName: WakeUp
+    Rotate: {X: 0.0, Y: 145.0, Z: 0.0}
+    Translate: {X: 2943.0459, Y: 112.3162, Z: 3437.13794}
