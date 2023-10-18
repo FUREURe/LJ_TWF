@@ -47,7 +47,7 @@
         "attributes": "",
         "contents": [
           {
-            "text": "Déjà fini~ ? Je t'achèterais autant que\nchoses que tu voudras."
+            "text": "Déjà fini~ ? Je t'achèterais autant de\nchoses que tu voudras."
           }
         ]
       },
@@ -356,7 +356,7 @@
             }
           },
           {
-            "text": "Nyaha~ ! En tout cas, sav'orq!"
+            "text": "Nyaha~ ! En tout cas, sav'orq !"
           }
         ]
       },
@@ -430,7 +430,7 @@
       "0076": {
         "contents": [
           {
-            "text": "Ce jeu est compatible avec les Toy-Con\n VR Goggles. Voulez-vous les utilisez ?"
+            "text": "Ce jeu est compatible avec le VR Goggles.\nVoulez-vous les utilisez ?"
           }
         ]
       },
@@ -486,7 +486,7 @@
       "T_TextAdd_03": {
         "contents": [
           {
-            "text": "Être concient du bruit environnant."
+            "text": "Être conscient du bruit environnant."
           }
         ]
       },
@@ -518,7 +518,7 @@
         "attributes": "",
         "contents": [
           {
-            "text": "Ces oreilles sont réels ?"
+            "text": "Ses oreilles sont réels ?"
           }
         ]
       },
@@ -641,7 +641,7 @@
             }
           },
           {
-            "text": "bazar Assek"
+            "text": "Bazar Assek"
           },
           {
             "control": {
@@ -682,7 +682,7 @@
             }
           },
           {
-            "text": "Mais test test t I've never seen anyone around here\nwho strikes me as a super sneaky guy...\n\nThere was that cute exotic gal at the\n"
+            "text": "Mais I've never seen anyone around here\nwho strikes me as a super sneaky guy...\n\nThere was that cute exotic gal at the\n"
           },
           {
             "control": {
