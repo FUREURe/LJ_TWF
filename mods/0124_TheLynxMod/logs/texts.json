@@ -682,7 +682,7 @@
             }
           },
           {
-            "text": "Mais I've never seen anyone around here\nwho strikes me as a super sneaky guy...\n\nThere was that cute exotic gal at the\n"
+            "text": "Mais je n'ai jamais vu quelqu'un d'aussi\nsournois par ici. Il y avait juste cette jolie\nfille aux habits exotiques...\n"
           },
           {
             "control": {
@@ -708,7 +708,7 @@
             }
           },
           {
-            "text": " Although she never said\nthat she was a girl...\nHer "
+            "text": "Bien qu'elle n'ait jamais dit qu'elle était\nune fille...\nElle "
           },
           {
             "control": {
@@ -725,7 +725,7 @@
             }
           },
           {
-            "text": "—gave me that\nimpression though..."
+            "text": "—mais ça m'a donné cette impression..."
           },
           {
             "control": {
@@ -734,7 +734,7 @@
             }
           },
           {
-            "text": " Maybe if I wore those\nclothes...\n"
+            "text": "Peut-être que si je portais\nses vêtements...\n"
           },
           {
             "control": {
@@ -746,7 +746,7 @@
             }
           },
           {
-            "text": "Ha, nah. I'm so out of my element with\nall this sneaky stuff."
+            "text": "Ah, non. Je suis tellement pas dans mon élément\navec tous ces trucs sournois."
           }
         ]
       },
@@ -763,7 +763,7 @@
             }
           },
           {
-            "text": "You hear that a boy somehow made\nhis way into Gerudo Town?\n\nI haven't seen any suspicious guys\naround here, though...\n\nAlthough I did see a pretty exotic gal\nwearing "
+            "text": "Vous avez entendu l'histoire\nde ce garçon qui est entré\ndans la Cité Geurdo ?\n\nJe n'ai jamais vu quelqu'un de suspicieux\npar ici. Cependant...\n\nj'ai vu une fille porter des habits assez exotiques."
           },
           {
             "control": {
@@ -772,7 +772,7 @@
             }
           },
           {
-            "text": "Gerudo clothes "
+            "text": "Vêtements Gerudo"
           },
           {
             "control": {
@@ -789,7 +789,7 @@
             }
           },
           {
-            "text": "general store"
+            "text": "Magasin général"
           },
           {
             "control": {
@@ -797,7 +797,7 @@
             }
           },
           {
-            "text": ", which was unusual...\nI wonder if just wearing different clothes\nwould allow someone..."
+            "text": ", ce qui est quelque chose de très inhabituel.\n\nJe me demande si le simple fait de\nporter des vêtements différents\npourrait permettre à quelqu'un..."
           },
           {
             "control": {
@@ -818,7 +818,7 @@
             }
           },
           {
-            "text": "Ha! Never mind. No one would ever\nbe that crazy!"
+            "text": "Ah ! Pas grave.\nPersonne ne serait aussi fou !"
           }
         ]
       },
@@ -844,7 +844,7 @@
             }
           },
           {
-            "text": "Who do you think the boy who\nsnuck into this town was, anyway?!\n\nWhy are you looking at me like that?"
+            "text": "A votre avis, qui était le garçon qui s'est\nfaufilé dans cette ville ?!\n\nEt pourquoi me regardes-tu comme ça ?"
           },
           {
             "control": {
@@ -853,7 +853,7 @@
             }
           },
           {
-            "text": "\nI'm just trying to gather more info!"
+            "text": "\nJ'essaye juste de rassembler plus d'infos !"
           }
         ]
       },
@@ -870,7 +870,7 @@
             }
           },
           {
-            "text": "I heard that boy is frequently traveling\nbetween "
+            "text": "J'ai entendu que ce garçon voyageait fréquemment entre le."
           },
           {
             "control": {
@@ -879,7 +879,7 @@
             }
           },
           {
-            "text": "Kara Kara Bazaar"
+            "text": "Bazar Assek"
           },
           {
             "control": {
@@ -887,7 +887,7 @@
             }
           },
           {
-            "text": " and\nGerudo Town.\nI've been waiting here, trying to spot\nhim as he travels!"
+            "text": "et la cité Gerudo.\n\nJ'attendrais ici. Je vais essayer le repérer\nen voyage !"
           }
         ]
       },
@@ -904,7 +904,7 @@
             }
           },
           {
-            "text": "It's been close to a week now..."
+            "text": "Cela fait presque une semaine maintenant..."
           },
           {
             "control": {
