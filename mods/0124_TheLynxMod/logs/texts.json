@@ -22,7 +22,7 @@
             }
           },
           {
-            "text": "Nyahaha... J'espère que ça t'a aidé."
+            "text": "Nyaha... J'espère que ça t'a aidée."
           }
         ]
       },
@@ -39,7 +39,7 @@
             }
           },
           {
-            "text": "Nyaha, tu fais une tête très mignonne\nquand tu es plongé dans tes pensées."
+            "text": "Nyaha, tu fais une tête très mignonne\nquand tu es plongée dans tes pensées."
           }
         ]
       },
@@ -47,7 +47,7 @@
         "attributes": "",
         "contents": [
           {
-            "text": "Déjà fini~ ?\nJe t'achèterais autant que choses que tu voudras."
+            "text": "Déjà fini~ ? Je t'achèterais autant que\nchoses que tu voudras."
           }
         ]
       },
@@ -64,7 +64,7 @@
             }
           },
           {
-            "text": "Je pensais trouver des\nmarchants en difficuler et les\naider...\nMais pour plusieurs raisons, je ne peux\ndétourner mes yeux de cela."
+            "text": "Je pensais trouver des marchants en\ndifficulté et les aider...\nMais pour plusieurs raisons, je ne peux\ndétourner mes yeux de cela."
           },
           {
             "control": {
@@ -115,7 +115,7 @@
             }
           },
           {
-            "text": "Oh nion ! Espèce de grande méchante !\n\n\nEst-ce que tu étais en train de me faire\nune blague ? Ou est-ce que tu fais\nallusion à autre chose ~ ?"
+            "text": "Oh nion ! Espèce de grande méchante !\n\n\nEst-ce que tu étais en train de me faire\nune blague ? Ou est-ce que tu fais\nallusion à autre chose~ ?"
           }
         ]
       },
@@ -132,7 +132,7 @@
             }
           },
           {
-            "text": "Faire les boutiques sans aucun\nargent... Tu es bien taquine pour jouer avec\nmes émotions comme ça..."
+            "text": "Faire les boutiques sans aucun argent...\nTu es bien taquine pour jouer avec mes émotions comme ça..."
           }
         ]
       },
@@ -149,7 +149,7 @@
             }
           },
           {
-            "text": "Nyahaha... Prends-en bien soin."
+            "text": "Nyaha... Prends-en bien soin."
           },
           {
             "control": {
@@ -158,7 +158,7 @@
             }
           },
           {
-            "text": "\nTu as besoin d'autre chose ?"
+            "text": "\nTu as besoin d'autre chose~ ?"
           },
           {
             "control": {
@@ -189,7 +189,7 @@
             }
           },
           {
-            "text": "Nyaha... Tu es si mignonne quand tu\nrougis comme ça...\n\nJe serais toujours là si tu veux... \nencore changer~ Vient quand tu veux !\n\nJe t'aiderais personnellement si tu\nen as besoin... Nyahaha~!"
+            "text": "Nyaha... Tu es si mignonne quand tu rougis comme ça...\n\nJe serais toujours là si tu veux encore\nchanger~ Viens quand tu veux !\n\nJe t'aiderais même personnellement si tu\nen as besoin... Nyaha~!"
           }
         ]
       },
@@ -206,7 +206,7 @@
             }
           },
           {
-            "text": "Hm... It coucou test fit... your inventory, I mean!\nI know you're not carrying a purse and\nall, but still...\nI can help you with the situation by\nbuying some things, if you want."
+            "text": "Hmm... ça ne rentre pas dans ton\ninventaire... je veux dire, je sais que tu\nne portes pas de sac à main mais...\n\nJe peux t'aider en t'achetant des choses, si tu veux~ !"
           },
           {
             "control": {
@@ -235,7 +235,7 @@
             }
           },
           {
-            "text": "You're so adorable..."
+            "text": "Tu es tellement adorable..."
           },
           {
             "control": {
@@ -256,7 +256,7 @@
             }
           },
           {
-            "text": "Nyahaa~. I'll always be here, so if you\nwant... help with changing! Don't\nhesitate to come speak with me, OK?"
+            "text": "Nyaha~ Je serais toujours là, donc si\ntu veux de l'aider pour te changer,\nn'hésite pas !\n\nViens me demander, ok~ ?"
           }
         ]
       },
@@ -279,7 +279,7 @@
             }
           },
           {
-            "text": "You're gonna make me squeal, you jerk!"
+            "text": "Tu vas me faire crier, abrutie !"
           },
           {
             "control": {
@@ -306,7 +306,7 @@
             }
           },
           {
-            "text": "Teehee, just kidding.\nIf you're really in need of money, you\ncould sell me something..."
+            "text": "Héhé, je rigole. Si tu as tant besoin\nd'argent, tu peux me vendre quelque\nchose..."
           },
           {
             "control": {
@@ -335,7 +335,7 @@
             }
           },
           {
-            "text": "...Just so adorable."
+            "text": "... Juste tellement mignonne."
           },
           {
             "control": {
@@ -356,7 +356,7 @@
             }
           },
           {
-            "text": "Nyaha!~. Anyway, sav'orq!"
+            "text": "Nyaha~ ! En tout cas, sav'orq!"
           }
         ]
       },
@@ -373,7 +373,7 @@
             }
           },
           {
-            "text": "Nyaha~...satisfied?\n\n\nIf you feel better now, then I hope you'll\ncome back again later."
+            "text": "Nyaha~... satisfaite ?\n\n\nSi tu te sens mieux maintenant, j'espère\nque tu viendras me revoir plus tard~."
           }
         ]
       }
@@ -382,7 +382,7 @@
       "0025": {
         "contents": [
           {
-            "text": "Remember to take breaks every\nonce in a while when using the\nVR Goggles."
+            "text": "N'oubliez pas de prendre des pauses\nquand vous utilisez votre\ncasque de réalité virtuelle."
           }
         ]
       }
@@ -398,21 +398,21 @@
       "0048": {
         "contents": [
           {
-            "text": "Play using the VR Goggles."
+            "text": "Joue avec les VR Goggles."
           }
         ]
       },
       "0049": {
         "contents": [
           {
-            "text": "ON"
+            "text": "Allumé"
           }
         ]
       },
       "0050": {
         "contents": [
           {
-            "text": "OFF"
+            "text": "Eteint"
           }
         ]
       }
@@ -430,77 +430,77 @@
       "0076": {
         "contents": [
           {
-            "text": "This game is compatible with the Toy-Con VR Goggles.\nDo you want to use them?"
+            "text": "Ce jeu est compatible avec les Toy-Con\n VR Goggles. Voulez-vous les utilisez ?"
           }
         ]
       },
       "0077": {
         "contents": [
           {
-            "text": "The game will start in standard mode.\nThe VR Goggles will not be used. Is that okay?"
+            "text": "Le jeu va démarrer en mode standard\n.Le Goggles VR ne va pas être utilisé,\nc'est cela ?"
           }
         ]
       },
       "0078": {
         "contents": [
           {
-            "text": "Use VR Goggles"
+            "text": "Utiliser VR Goggles"
           }
         ]
       },
       "0079": {
         "contents": [
           {
-            "text": "Don't use VR Goggles"
+            "text": "Ne pas utiliser VR Goggles"
           }
         ]
       },
       "0081": {
         "contents": [
           {
-            "text": "You can't use VR mode because of restrictions that have\nbeen set in Parental Controls. You can play in  standard\nmode or adjust Parental Controls in System Settings or\nthe Nintendo Switch Parental Controls app."
+            "text": "Vous ne pouvez pas utiliser le VR\nGoggles à cause d'une restriction\nparentale.\n\nVous pouvez jouer en mode standard ou\n ajuster les paramètres de restriction parentale."
           }
         ]
       },
       "T_TextAdd_00": {
         "contents": [
           {
-            "text": "The following information should be checked by an adult:"
+            "text": "Les informations suivantes doivent être\nvérifiées par un adulte."
           }
         ]
       },
       "T_TextAdd_01": {
         "contents": [
           {
-            "text": "When using the Toy-Con VR Goggles..."
+            "text": "Quand vous utilisez le casque VR Goggles..."
           }
         ]
       },
       "T_TextAdd_02": {
         "contents": [
           {
-            "text": "Only play while seated."
+            "text": "Jouer uniquement quand vous serez assis."
           }
         ]
       },
       "T_TextAdd_03": {
         "contents": [
           {
-            "text": "Be mindful of your surroundings and other people."
+            "text": "Être concient du bruit environnant."
           }
         ]
       },
       "T_TextAdd_04": {
         "contents": [
           {
-            "text": "Make sure to take regular breaks."
+            "text": "Faites des pauses régulières."
           }
         ]
       },
       "T_TextAdd_05": {
         "contents": [
           {
-            "text": "Restrict the use of VR mode for children 6 and under."
+            "text": "Limiter le mode VR pour les enfants de moins de 6 ans."
           }
         ]
       }
@@ -510,7 +510,7 @@
         "attributes": "",
         "contents": [
           {
-            "text": "You're very adorable!"
+            "text": "Tu es tellement adorable !"
           }
         ]
       },
@@ -518,7 +518,7 @@
         "attributes": "",
         "contents": [
           {
-            "text": "Are those ears real?"
+            "text": "Ces oreilles sont réels ?"
           }
         ]
       },
@@ -526,7 +526,7 @@
         "attributes": "",
         "contents": [
           {
-            "text": "A boy snuck in..."
+            "text": "Un garçon qui c'est faufilé dans..."
           }
         ]
       },
@@ -534,7 +534,7 @@
         "attributes": "",
         "contents": [
           {
-            "text": "*a boy this cute...?*"
+            "text": "*Un garçon aussi mignon... ?*"
           }
         ]
       },
@@ -551,7 +551,7 @@
             }
           },
           {
-            "text": "A sneaky what? You mean a voe,\nsneaking around town? "
+            "text": "Un quoi ? Tu veux plutôt dire un Voy qui\nse cache dans une ville de femme, non ?"
           },
           {
             "control": {
@@ -560,7 +560,7 @@
             }
           },
           {
-            "text": "I haven't seen\nanyone like that.\n"
+            "text": "Je n'ai jamais vu quelqu'un comme ça."
           },
           {
             "control": {
@@ -572,7 +572,7 @@
             }
           },
           {
-            "text": "There's a "
+            "text": "Il y a une..."
           },
           {
             "control": {
@@ -581,7 +581,7 @@
             }
           },
           {
-            "text": "little vai"
+            "text": "petite Vai"
           },
           {
             "control": {
@@ -589,7 +589,7 @@
             }
           },
           {
-            "text": " who likes to relax\non the roof. Though in the afternoon, it's\nprobably too hot up there."
+            "text": "qui aime ce relaxer sur la toiture. Mais\nl'après-midi, il y fait sûrement trop chaud\npour qu'elle y soit."
           }
         ]
       },
@@ -606,7 +606,7 @@
             }
           },
           {
-            "text": "Wha— There's a "
+            "text": "Qu- il y a un"
           },
           {
             "control": {
@@ -615,7 +615,7 @@
             }
           },
           {
-            "text": "boy who got into\nGerudo Town"
+            "text": "garçon qui est rentré dans\nla cité Gerudo..."
           },
           {
             "control": {
@@ -632,7 +632,7 @@
             }
           },
           {
-            "text": "\n\nAnd the boss says he comes here to the\n"
+            "text": "\n\nEt le boss dit qu'il vient ici pour...\n"
           },
           {
             "control": {
@@ -641,7 +641,7 @@
             }
           },
           {
-            "text": "Kara Kara Bazaar"
+            "text": "bazar Assek"
           },
           {
             "control": {
@@ -670,7 +670,7 @@
             }
           },
           {
-            "text": "I guess it must be true if the boss\nsaid so...\n\n"
+            "text": "Je suppose que c'est vrai si le boss le dit.\n\n"
           },
           {
             "control": {
@@ -682,7 +682,7 @@
             }
           },
           {
-            "text": "But I've never seen anyone around here\nwho strikes me as a super sneaky guy...\n\nThere was that cute exotic gal at the\n"
+            "text": "Mais test test t I've never seen anyone around here\nwho strikes me as a super sneaky guy...\n\nThere was that cute exotic gal at the\n"
           },
           {
             "control": {
