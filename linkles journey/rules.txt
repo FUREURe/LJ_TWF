@@ -3,6 +3,5 @@ titleIds = 00050000101C9300,00050000101C9400,00050000101C9500
 name = Linkle's Journey
 path = The Legend of Zelda: Breath of the Wild/Mods/Linkle's Journey
 description = modpack by fulux team
-version = 6
-default = false
+version = 7
 fsPriority = 9999
